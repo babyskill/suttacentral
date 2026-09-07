@@ -1,0 +1,210 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SuttaCentral Curriculum Schema",
+  "description": "Schema definition for Buddhist Practice Curriculums in the SuttaCentral Open Data repository.",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "description",
+    "category",
+    "stages"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$",
+      "description": "Unique slug identifier matching the curriculum directory name."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3,
+      "description": "Primary title in Vietnamese."
+    },
+    "titleEn": {
+      "type": "string",
+      "description": "English translation of the title."
+    },
+    "paliTitle": {
+      "type": "string",
+      "description": "Original Pāḷi canonical title with standard diacritics."
+    },
+    "subtitle": {
+      "type": "string",
+      "description": "Subtitle explaining the objective or focus."
+    },
+    "subtitleEn": {
+      "type": "string",
+      "description": "English subtitle."
+    },
+    "description": {
+      "type": "string",
+      "minLength": 10,
+      "description": "In-depth overview and doctrinal context."
+    },
+    "descriptionEn": {
+      "type": "string",
+      "description": "English translation of description."
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "sotapatti",
+        "sila",
+        "deva",
+        "layman",
+        "samatha",
+        "vipassana",
+        "vinaya",
+        "general"
+      ],
+      "description": "Curriculum thematic category."
+    },
+    "iconEmoji": {
+      "type": "string",
+      "description": "Display emoji representing the course theme."
+    },
+    "estimatedDuration": {
+      "type": "string",
+      "description": "Human-readable duration or lesson count."
+    },
+    "estimatedDurationEn": {
+      "type": "string",
+      "description": "English estimated duration."
+    },
+    "canonicalSource": {
+      "type": "string",
+      "description": "Tipiṭaka references and nikāya book citations."
+    },
+    "canonicalSourceEn": {
+      "type": "string",
+      "description": "English canonical source references."
+    },
+    "traditionLineage": {
+      "type": "string",
+      "description": "Theravāda lineage or practice methodology."
+    },
+    "traditionLineageEn": {
+      "type": "string",
+      "description": "English tradition lineage."
+    },
+    "targetAudience": {
+      "type": "string",
+      "description": "Target practitioner level."
+    },
+    "targetAudienceEn": {
+      "type": "string",
+      "description": "English target audience description."
+    },
+    "stages": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Learning stages/phases in sequential progression.",
+      "items": {
+        "type": "object",
+        "required": [
+          "stageIndex",
+          "title",
+          "lessons"
+        ],
+        "properties": {
+          "stageIndex": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "title": {
+            "type": "string",
+            "minLength": 2
+          },
+          "titleEn": {
+            "type": "string"
+          },
+          "paliTitle": {
+            "type": "string"
+          },
+          "objective": {
+            "type": "string"
+          },
+          "objectiveEn": {
+            "type": "string"
+          },
+          "lessons": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": [
+                "id",
+                "lessonNumber",
+                "title",
+                "summary"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9_]+$",
+                  "description": "Unique lesson identifier within the curriculum."
+                },
+                "lessonNumber": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "title": {
+                  "type": "string",
+                  "minLength": 2
+                },
+                "titleEn": {
+                  "type": "string"
+                },
+                "paliTitle": {
+                  "type": "string"
+                },
+                "summary": {
+                  "type": "string",
+                  "minLength": 5
+                },
+                "summaryEn": {
+                  "type": "string"
+                },
+                "suttaUid": {
+                  "type": "string",
+                  "description": "SuttaCentral UID pointer (e.g. sn55.1, mn41, dn22, an3.65). Dynamic link to canonical database."
+                },
+                "suttaTitle": {
+                  "type": "string"
+                },
+                "suttaTitleEn": {
+                  "type": "string"
+                },
+                "recommendedRoutineId": {
+                  "type": "string",
+                  "description": "Identifier for corresponding meditation or contemplation routine."
+                },
+                "practiceGuide": {
+                  "type": "string",
+                  "description": "Practical meditation / daily behavioral practice instruction."
+                },
+                "practiceGuideEn": {
+                  "type": "string"
+                },
+                "reflectionPrompt": {
+                  "type": "string",
+                  "description": "Contemplation question for evening Dhamma journaling."
+                },
+                "reflectionPromptEn": {
+                  "type": "string"
+                },
+                "suggestedVirtue": {
+                  "type": "string"
+                },
+                "suggestedVirtueEn": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

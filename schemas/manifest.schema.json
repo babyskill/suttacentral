@@ -1,0 +1,109 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SuttaCentral Manifest Schema",
+  "description": "Catalog manifest schema for distributing Buddhist Practice Curriculums to mobile apps and CDN mirrors.",
+  "type": "object",
+  "required": [
+    "version",
+    "versionCode",
+    "generatedAt",
+    "curriculums"
+  ],
+  "properties": {
+    "version": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "versionCode": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "curriculums": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "category",
+          "totalLessons",
+          "sha256"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "curriculumId": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "titleEn": {
+            "type": "string"
+          },
+          "paliTitle": {
+            "type": "string"
+          },
+          "subtitle": {
+            "type": "string"
+          },
+          "subtitleEn": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "descriptionEn": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "iconEmoji": {
+            "type": "string"
+          },
+          "estimatedDuration": {
+            "type": "string"
+          },
+          "estimatedDurationEn": {
+            "type": "string"
+          },
+          "totalLessons": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "canonicalSource": {
+            "type": "string"
+          },
+          "canonicalSourceEn": {
+            "type": "string"
+          },
+          "traditionLineage": {
+            "type": "string"
+          },
+          "traditionLineageEn": {
+            "type": "string"
+          },
+          "targetAudience": {
+            "type": "string"
+          },
+          "targetAudienceEn": {
+            "type": "string"
+          },
+          "curriculumPath": {
+            "type": "string"
+          },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          }
+        }
+      }
+    }
+  }
+}
