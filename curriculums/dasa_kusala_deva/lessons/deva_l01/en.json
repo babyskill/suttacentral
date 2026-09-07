@@ -1,0 +1,64 @@
+{
+  "lessonId": "deva_l01",
+  "curriculumId": "dasa_kusala_deva",
+  "lessonNumber": 1,
+  "stageIndex": 1,
+  "title": "Lesson 1: The Brahmins of Sālā — Three Pure Bodily Deeds",
+  "paliTitle": "Sāleyyaka Sutta (MN 41)",
+  "suttaRef": {
+    "uid": "mn41",
+    "title": "The Brahmins of Sālā (Majjhima Nikāya 41)",
+    "excerptPali": "Dhammacariyāsamacariyāhetu kho, gahapatayo, evam’idhekacce sattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjanti...",
+    "excerptTranslation": "It is by reason of conduct in accordance with the Dhamma, by reason of righteous conduct, that some beings here, on the dissolution of the body, after death, reappear in a happy destination, in the heavenly world..."
+  },
+  "pariyatti": {
+    "shortSummary": "Investigate the natural law of Karma governing the destiny of living beings through the historic dialogue at Sālā village. Purifying three bodily actions constitutes the essential bedrock for celestial rebirth.",
+    "coreConcepts": [
+      {
+        "term": "Righteous Conduct",
+        "pali": "Dhammacariyā",
+        "definition": "Living in natural harmony with truth and wholesome principles, producing profound peace for oneself and society."
+      },
+      {
+        "term": "Bodily Restraint",
+        "pali": "Kāyasaññama",
+        "definition": "Conscious self-mastery over all physical actions, decisively preventing the body from enacting harmful karma."
+      },
+      {
+        "term": "Heavenly World",
+        "pali": "Sagga Loka",
+        "definition": "Joyful realms of existence in the sensual or form sphere, where beings experience exalted fruits of wholesome deeds."
+      },
+      {
+        "term": "Abandoning Bodily Misconduct",
+        "pali": "Kāyaduccarita Pahāna",
+        "definition": "Thoroughly renouncing: 1. Taking life; 2. Stealing or defrauding property; 3. Indulging in sexual misconduct."
+      }
+    ],
+    "expositionMarkdown": "### 1. Historical Context: The Inquiry of the Sālā Householders\n\nIn the township of Sālā in Kosala, Brahmin householders approached the Blessed One with humanity's timeless inquiry:\n\n> *'Venerable Sir, what is the cause, what is the reason why some beings here, on the dissolution of the body, after death, reappear in states of deprivation, in an unhappy destination, in perdition, in hell? And what is the reason why some beings reappear in a happy destination, in the heavenly world?'*\n\nThe Buddha did not point to divine creators, fate, or ritual sacrifices. He answered with the objective law of cause and effect:\n\n> *'Householders, it is by reason of conduct not in accordance with the Dhamma, by unrighteous conduct (Adhammacariyāvisamacariyā) that some beings pass into lower realms. It is by conduct in accordance with the Dhamma, by righteous conduct (Dhammacariyāsamacariyā) that some reappear in heavens.'*\n\n---\n\n### 2. Three Pillars of Pure Bodily Action (*Kāyakamma Kusala*)\n\nAmong the ten wholesome courses of action, **three bodily deeds** are placed foremost because their consequences manifest most tangibly in the world:\n\n1. **Abandoning the destruction of life (*Pāṇātipātā Veramaṇī*):**\n   - Laying aside the stick and the weapon.\n   - Possessing moral conscience and shame, rich in kindness, dwelling compassionate towards all living beings.\n   - Neither killing directly, inciting others to kill, nor delighting in harm.\n\n2. **Abandoning taking what is not given (*Adinnādānā Veramaṇī*):**\n   - Refraining from taking others' belongings in village or wilderness without permission.\n   - Hands remain clean, living honestly on the fruits of one's own honest labor.\n\n3. **Abandoning sexual misconduct (*Kāmesumicchācārā Veramaṇī*):**\n   - Respecting the sanctity of commitments and relationships, abstaining from relations with those under guardianship or married.\n   - Upholding personal nobility and guarding domestic peace.\n\n---\n\n### 3. The Natural Physics of Karma — The Simile of the Stone and the Oil Pot\n\nIn the **Asibandhakaputta Sutta (SN 42.6)**, the Buddha shattered ritualistic prayers once and for all:\n\n- If someone lives immersed in violence, theft, and misconduct, even if a thousand priests pray for them to ascend to heaven, that person inevitably sinks like a **heavy stone dropped into deep water**. No prayer can make the stone float.\n- Conversely, for someone living with purified bodily deeds, generous and moral, their fate resembles a **pot of oil broken in the lake: the oil naturally rises to the surface** due to its lightness. Heavenly rebirth is the natural buoyant destination of a pure mind.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing that heavenly rebirth is granted through lavish ceremonies, prayers, or astrology without ethical purification.",
+        "correction": "Karma operates as natural law, not divine favor. Praying while continuing evil acts is like chanting by a pond hoping a submerged stone floats. Rebirth in blissful realms demands righteous conduct from our own hands."
+      },
+      {
+        "mistake": "Thinking that avoiding human murder suffices, while harming smaller creatures carries no consequence.",
+        "correction": "All living creatures cherish their lives and tremble at suffering. The benevolence of those destined for higher realms encompasses all living beings without distinction."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Practice the 'Morning Bodily Awareness': Resolve that today your hands will only heal and help, feet only tread wholesome paths, and body dwell in chastity and respect. Review actions calmly each evening.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Rescue an imperiled creature or render selfless assistance to someone vulnerable"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did your bodily presence and physical actions today bring genuine reassurance, safety, and comfort to those around you?",
+    "selfAuditChecklist": [
+      "I completely refrained from killing, harming, or threatening any sentient life today.",
+      "My hands remained honest, taking nothing without rightful permission.",
+      "I preserved bodily integrity, loyalty, and harbored no unwholesome sensual pursuits.",
+      "I maintain firm conviction in Karma: pure physical conduct is the indispensable seed of peace."
+    ]
+  }
+}

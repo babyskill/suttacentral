@@ -1,0 +1,73 @@
+{
+  "lessonId": "sotapatti_l11",
+  "curriculumId": "sotapatti_magga",
+  "lessonNumber": 11,
+  "stageIndex": 3,
+  "title": "Right Action — Blameless Conduct & Bodily Integrity",
+  "paliTitle": "Sammā-kammanta (AN 10.176 & MN 141)",
+  "suttaRef": {
+    "uid": "an10.176",
+    "title": "With Cunda on Tenfold Deeds & Exposition of the Truths (AN 10.176 / MN 141)",
+    "excerptPali": "Katamā ca, bhikkhave, sammākammanto? Pāṇātipātā veramaṇī, adinnādānā veramaṇī, kāmesumicchācārā veramaṇī — ayaṁ vuccati, bhikkhave, sammākammanto... Idha, cunda, ekacco pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati.",
+    "excerptTranslation": "And what, monks, is Right Action? Refraining from taking life, refraining from stealing, refraining from sexual misconduct — this, monks, is called Right Action... Here, Cunda, a certain person, having abandoned the taking of life, refrains from taking life; with rod and weapon laid aside, conscientious, merciful, he dwells compassionate toward the welfare of all living beings."
+  },
+  "pariyatti": {
+    "shortSummary": "Right Action is the fourth factor of the Noble Eightfold Path, purifying the three physical bodily deeds: Abstaining from taking life (protecting living beings with active compassion), Abstaining from taking what is not given (respecting legitimate ownership without theft or fraud), and Abstaining from sexual misconduct (safeguarding relational trust, dignity, and marital fidelity). This physical integrity forms the ethical bastion guarding the mind from remorse and shielding the practitioner from downfall into lower destinies.",
+    "coreConcepts": [
+      {
+        "term": "Abstinence from Taking Life",
+        "pali": "Pāṇātipātā veramaṇī",
+        "definition": "Refraining from intentionally destroying the life of any sentient creature, from humans to insects; laying down weapons, dwelling with a heart of loving-kindness toward all breathing things."
+      },
+      {
+        "term": "Abstinence from Taking What is Not Given",
+        "pali": "Adinnādānā veramaṇī",
+        "definition": "Refraining from taking possessions belonging to others by theft, robbery, fraud, extortion, tax evasion, or misuse of authority; acquiring only what is lawfully and freely bestowed."
+      },
+      {
+        "term": "Abstinence from Sexual Misconduct",
+        "pali": "Kāmesumicchācārā veramaṇī",
+        "definition": "Refraining from illicit sexual relations with those protected by parents, guardians, or law, those who are married or pledged, or those under vows of celibacy; preserving steadfast loyalty, integrity, and mutual consent."
+      },
+      {
+        "term": "Volition is Karma",
+        "pali": "Cetanāhaṁ Bhikkhave Kammaṁ Vadāmi",
+        "definition": "The Buddha's declaration in AN 6.63: It is intention (cetanā) that defines karma. A bodily movement constitutes full karmic action only when informed by conscious volition and intent."
+      },
+      {
+        "term": "Moral Shame & Moral Dread — Guardians of the World",
+        "pali": "Hiri & Ottappa",
+        "definition": "Hiri is inner moral conscience that recoils from unwholesome deeds; Ottappa is prudent dread of the painful karmic consequences of evil. Together they maintain the moral order of humanity."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Three Gateways of Bodily Action\n\nThe physical body is the mind's concrete instrument for exerting force upon the external universe. While a fleeting thought of anger remains internal, the moment it crosses into **Bodily Action (*Kāyakamma*)**, its real-world fallout is immediate, profound, and often irreversible.\n\nIn the **Discourse to Cunda (AN 10.176)**, the smith Cunda approached the Blessed One inquiring into the ritual bathing in sacred rivers advocated by Vedic priests. The Buddha clarified: *'Not by bathing in the Gaṅgā or sprinkling cold water is one purified; rather, it is through the complete washing away of the three unwholesome deeds of the body that an individual becomes genuinely stainless and noble'*.\n\n---\n\n### 2. The Three Pillars of Right Action\n\n#### A. Abstaining from Taking Life (*Pāṇātipātā Veramaṇī*)\n- A complete breach of this precept entails 5 factors: (1) A living being, (2) Awareness that it is a living being, (3) The intention to kill, (4) The exertion of effort, (5) The death of the being caused thereby.\n- Right Action is not mere passive abstinence; it is **active benevolence**: putting aside the club and sword, scrupulous, merciful, dwelling with compassion (*Dayāpanna*) for the welfare of all breathing things.\n\n#### B. Abstaining from Stealing (*Adinnādānā Veramaṇī*)\n- Complete breach entails: (1) Property belonging to another, (2) Knowledge that it belongs to another, (3) Intention to steal, (4) Act of taking, (5) Displacement of the property.\n- In our interconnected digital era, this extends to intellectual property: pirating software, plagiarizing content, corporate fraud, embezzlement, insider trading, and squandering company time for personal amusement while on the clock.\n\n#### C. Abstaining from Sexual Misconduct (*Kāmesumicchācārā Veramaṇī*)\n- Honoring monogamous commitments; refraining from betrayal, sexual assault, harassment, or seducing persons under parental guardianship or marital vows.\n- In the digital age: Shunning exploitative pornography that warps perceptions of intimacy, and avoiding deceptive online relationships that destabilize families.\n\n---\n\n### 3. Intention (Cetanā) as the Core of Action\n\nThe Buddha declared: *'Cetanāhaṁ bhikkhave kammaṁ vadāmi' (Monks, intention is what I call karma)*.\n- If you are walking down a trail and accidentally step on an ant without seeing it, with zero intention to harm ➔ **No unwholesome karma of killing is generated**, as it was a purely mechanical event devoid of violent will.\n- Conversely, if you observe a mosquito resting on your arm, feel a flash of irritated malice, and deliberately swat it to destroy it ➔ **That is full intentional killing**, rooted in aversion (*Dosa*).\n\n---\n\n### 4. Moral Conscience and Moral Dread (Hiri & Ottappa)\n\nThe Buddha identified Moral Shame (*Hiri* — internal self-respect that recoils from dirtiness) and Moral Dread (*Ottappa* — rational apprehension of karmic retribution and blameworthiness) as the **Twin Guardians of the World (*Lokapāla Dhamma*)**. Right Action is cemented when these two virtues actively steer daily conduct.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing that inadvertently stepping on insects while walking or sweeping causes grave karmic sin resulting in hellish torment.",
+        "correction": "Karma is defined by Intention (Cetanā). Accidental harm lacking intention does not constitute karmic destruction of life. Nonetheless, mindful walking (Yoniso gamana) is encouraged to minimize unintentional harm to tiny creatures."
+      },
+      {
+        "mistake": "Assuming that downloading pirated software, e-books, or cheating slightly on taxes is not stealing because 'everyone does it' and 'corporations are rich'.",
+        "correction": "Taking what is not given (Adinnādānā) applies to any unauthorized appropriation of another's work, asset, or rightful due. The nobility of Right Action demands impeccable integrity even when unseen."
+      },
+      {
+        "mistake": "Thinking that buying captive birds or fish to release them in mass commercial ceremonies can erase past karmic violations of killing or misconduct.",
+        "correction": "Commercial release often fuels the capture industry, causing more animal suffering. No ritual neutralizes unwholesome karma; the authentic Buddhist response is moral restraint, sincere repentance, and cultivating persistent ethical conduct of body, speech, and mind."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Mindful Bodily Awareness:** Before picking up an item in a shared workspace or public place, mentally verify: 'Has permission been granted to use this?'.\n2. **Active Non-Harm in Action:** When encountering unwanted insects inside your home, avoid reaching for chemical sprays; gently catch them using a glass and cardboard slide, releasing them safely outdoors.\n3. **Preserving Relational Boundaries:** Uphold complete transparency in all interpersonal relationships, honoring boundaries and protecting your commitments.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Ethical bodily conduct, revering life, financial honesty, and steadfast relational fidelity."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did your physical actions inflict injury or terror upon any living being today? Did you appropriate anything that was not freely given, or violate ethical boundaries in your interactions?",
+    "selfAuditChecklist": [
+      "I did not intentionally kill, injure, or cause distress to any living creature today.",
+      "I was scrupulously honest with money and company property, taking nothing ungranted.",
+      "I maintained wholesome, respectful physical boundaries, guarding fidelity and integrity.",
+      "I felt genuine sympathy and goodwill whenever observing vulnerable creatures in my environment."
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "lessonId": "layman_l04",
+  "curriculumId": "ghihattha_layman",
+  "lessonNumber": 4,
+  "stageIndex": 4,
+  "title": "Bài 4: Lễ Bái Sáu Phương — Hiện Diện Trọn Vẹn & Đạo Đức Xã Hội",
+  "paliTitle": "Sigālovāda Sutta (DN 31)",
+  "suttaRef": {
+    "uid": "dn31",
+    "title": "Kinh Giáo Thọ Thi-ca-la-việt (Dīgha Nikāya 31)",
+    "excerptPali": "Mātāpitaro pubbā disā, ācariyā dakkhiṇā disā; Puttadārā pacchimā disā, mittāmaccā ca uttarā; Dāsakammakarā heṭṭhā, uddhaṃ samaṇabrāhmaṇā; Etā disā namasseyya, alanto kule gihī.",
+    "excerptTranslation": "Phương Đông là cha mẹ, phương Nam là thầy dạy, phương Tây là vợ con, phương Bắc là bạn bè, phương Dưới là người làm công, phương Trên là bậc Sa-môn tu hành; Người cư sĩ gìn giữ phẩm hạnh, hãy đảnh lễ sáu phương như vậy."
+  },
+  "pariyatti": {
+    "shortSummary": "Tinh hoa xã hội học Phật giáo Nguyên thủy: Chuyển hóa hủ tục bái lạy hư không thành 6 cặp bổn phận đạo đức tương hỗ. Đoạn trừ căn bệnh 'Phubbing' (cắm mặt vào điện thoại bỏ rơi người thân) để hiện diện trọn vẹn trong từng cuộc gặp gỡ.",
+    "coreConcepts": [
+      {
+        "term": "Lễ Bái Sáu Phương",
+        "pali": "Chabbisā Namakkāra",
+        "definition": "Sáu mối quan hệ trụ cột của đời sống nhân sinh: Đông (Cha mẹ), Nam (Thầy dạy), Tây (Vợ chồng), Bắc (Bạn bè), Dưới (Cấp dưới/Người giúp việc), Trên (Sa-môn/Bậc dẫn đường tâm linh)."
+      },
+      {
+        "term": "Bổn Phận Tương Hỗ",
+        "pali": "Kataveditā & Kattabbakamma",
+        "definition": "Trách nhiệm đạo đức hai chiều đối xứng; không ai chỉ đòi hỏi quyền lợi mà phải làm tròn bổn phận che chở, phụng dưỡng và tôn trọng đối phương."
+      },
+      {
+        "term": "Hiện Diện Trọn Vẹn",
+        "pali": "Satisampajañña",
+        "definition": "Tâm có mặt trọn vẹn trong giây phút hiện tại khi ở bên người thân, không để màn hình điện thoại chen ngang làm rạn nứt sự gắn kết."
+      },
+      {
+        "term": "Bốn Nhiếp Pháp",
+        "pali": "Cattāri Saṅgahavatthūni",
+        "definition": "Bố thí (Dāna), Ái ngữ (Piyavācā), Lợi hành (Atthacariyā), Đồng sự (Samānattatā) — chất keo gắn kết và xây dựng các mối quan hệ xã hội hài hòa."
+      }
+    ],
+    "expositionMarkdown": "### 1. Cuộc Gặp Gỡ Bên Bờ Sông Giữa Đức Phật & Thanh Niên Sigāla\n\nVào một buổi sáng tinh sương tại thành Rājagaha (Vương Xá), Đức Phật bắt gặp chàng thanh niên Sigāla đầu tóc còn ướt sũng, áo quần ướt đẫm, đang chắp tay thành kính vái lạy sáu phương trời: Đông, Nam, Tây, Bắc, Dưới, Trên.\n\nĐức Phật hỏi: *'Này gia chủ trẻ tuổi, vì sao con lại vái lạy sáu phương như vậy?'*. Sigāla đáp rằng đó là lời trăng trối của người cha trước khi qua đời để mong được các vị thần bảo hộ khỏi tai ương.\n\nĐức Thế Tôn từ ái dạy:\n> *'Này thanh niên, trong giới luật của bậc Thánh, không có việc vái lạy hư không như vậy. Sáu phương trời thực chất chính là sáu mối quan hệ xã hội thiêng liêng mà người cư sĩ phải dùng cả cuộc đời và lòng thành kính để chăm sóc và bảo hộ!'*\n\n---\n\n### 2. Sáu Cặp Bổn Phận Đạo Đức Tương Hỗ\n\nKhông có mối quan hệ nào trong Phật giáo là áp đặt một chiều, mà luôn là sự tôn trọng và trách nhiệm lẫn nhau:\n\n1. **Phương Đông (Cha mẹ ↔ Con cái):**\n   - Con cái: Nuôi dưỡng cha mẹ, gánh vác việc gia đình, giữ gìn danh dự dòng họ, giữ gìn tài sản thừa kế, làm phước hồi hướng khi cha mẹ quá vãng.\n   - Cha mẹ: Ngăn con làm điều ác, khuyến khích con làm điều thiện, dạy dỗ nghề nghiệp, dựng vợ gả chồng xứng đáng, trao tài sản hợp thời.\n\n2. **Phương Nam (Thầy dạy ↔ Học trò):**\n   - Trò: Đứng dậy chào kính, hầu hạ chu đáo, chăm chỉ lắng nghe, phục vụ việc học.\n   - Thầy: Dạy dỗ tận tình, truyền trao trọn vẹn tri thức, bảo bọc học trò trước bạn bè, chỉ dẫn nơi học tập an toàn.\n\n3. **Phương Tây (Vợ ↔ Chồng):**\n   - Chồng: Tôn trọng vợ, không bất kính, chung thủy một lòng, giao quyền quản lý gia tài, tặng đồ trang sức y phục hợp thời.\n   - Vợ: Chu đáo việc nhà, đối xử hòa ái với hai bên nội ngoại, chung thủy tuyệt đối, khéo giữ gìn tài sản của chồng làm ra, siêng năng tháo vát.\n\n4. **Phương Bắc (Bạn bè ↔ Bạn bè):**\n   - Chia sẻ quà tặng, nói lời dịu ngọt, giúp đỡ khi bạn khó khăn, không bỏ rơi nhau trong hoạn nạn, che chở gia đình bạn khi bạn vắng nhà.\n\n5. **Phương Dưới (Chủ ↔ Người làm/Nhân viên):**\n   - Chủ: Giao việc theo năng lực, trả lương xứng đáng đúng hạn, chăm lo thuốc men khi ốm đau, chia sẻ phần thưởng, cho nghỉ ngơi hợp lý.\n   - Người làm: Thức dậy trước chủ, ngủ sau chủ, thật thà không trộm cắp, làm việc chu đáo, giữ gìn danh thơm tiếng tốt cho chủ.\n\n6. **Phương Trên (Cư sĩ ↔ Bậc Sa-môn tu hành):**\n   - Cư sĩ: Cúng dường thân khẩu ý từ ái, mở rộng cửa đón tiếp, hộ trì vật phẩm tứ sự.\n   - Sa-môn: Khuyên răn ngăn điều ác, khuyến khích làm điều thiện, khởi tâm từ mẫn, chỉ dạy điều chưa nghe, dẫn dắt con đường giải thoát.\n\n---\n\n### 3. Thoát Khỏi Căn Bệnh \"Phubbing\" Thời Hiện Đại\n\nMột trong những hiểm họa lớn nhất phá hủy 6 mối quan hệ hiện nay là căn bệnh **\"Phubbing\" (Phone + Snubbing: cắm mặt vào điện thoại bỏ rơi người đối diện)**.\n- Khi ngồi bên cha mẹ già mà mắt dán vào mạng xã hội, đó là hành vi bất hiếu vô thức.\n- Khi ngồi ăn tối với vợ chồng con cái mà tay liên tục gõ phím trả lời tin nhắn vô bổ, đó là sự lạnh nhạt tàn nhẫn làm rạn nứt hôn nhân.\n\nNgười cư sĩ tỉnh thức phải học nghệ thuật **Hiện Diện Trọn Vẹn (*Full Presence*)**: Khi ở bên ai, hãy có mặt 100% bằng ánh mắt, đôi tai và trái tim yêu thương.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng người tu hành thì không cần bận tâm đến việc làm tròn bổn phận gia đình, vợ con, có thể bỏ mặc tất cả để đi tìm sự thanh tịnh riêng.",
+        "correction": "Kinh Sigālovāda là minh chứng đanh thép: Người cư sĩ muốn giải thoát phải bắt đầu từ việc làm tròn đạo làm con, làm vợ/chồng, làm cha mẹ và người công dân mẫu mực. Gia đình chính là đạo tràng thử thách giới hạnh thực tế nhất."
+      },
+      {
+        "mistake": "Cho rằng người làm chủ hay lãnh đạo có toàn quyền bóc lột sức lao động của nhân viên miễn là có trả tiền lương.",
+        "correction": "Đức Phật đặt mối quan hệ Chủ - Thợ trên nền tảng nhân ái và bảo hộ nhân phẩm: Giao việc vừa sức, chăm lo y tế, chia sẻ lợi nhuận và tôn trọng giờ giấc nghỉ ngơi. Đạo đức doanh nghiệp đã được Đức Phật đặt nền móng từ 2600 năm trước."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Thực hành quy tắc 'Bữa Cơm Không Thiết Bị': Cất điện thoại ra xa trong tất cả các bữa ăn gia đình. Dành trọn vẹn ánh mắt và sự chú ý lắng nghe tâm tư của cha mẹ, con cái hoặc người bạn đời.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Chủ động làm một việc chăm sóc chu đáo, ân cần dành cho người thân trong gia đình mà không chờ họ yêu cầu"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hôm nay khi ở bên người thân hay bạn bè, bạn có thật sự 'có mặt' cho họ hay tâm trí bạn đang lưu lạc trong thế giới ảo của chiếc smartphone?",
+    "selfAuditChecklist": [
+      "Tôi luôn có mặt trọn vẹn, không để điện thoại xen vào làm gián đoạn các cuộc trò chuyện với người thân.",
+      "Tôi giữ trọn lòng thủy chung, tôn trọng và sẻ chia gánh nặng cuộc sống với người bạn đời.",
+      "Tôi đối xử tử tế, công bằng và tôn trọng nhân phẩm đối với nhân viên hoặc người giúp việc.",
+      "Tôi thành kính cúng dường và hộ trì các bậc Sa-môn chân chính đang hoằng truyền Chánh Pháp."
+    ]
+  }
+}

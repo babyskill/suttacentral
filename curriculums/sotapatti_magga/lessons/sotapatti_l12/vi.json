@@ -1,0 +1,73 @@
+{
+  "lessonId": "sotapatti_l12",
+  "curriculumId": "sotapatti_magga",
+  "lessonNumber": 12,
+  "stageIndex": 3,
+  "title": "Chánh Mạng — Nuôi Sống Lương Thiện & Đoạn Trừ Tà Mạng",
+  "paliTitle": "Sammā-ājīva (AN 5.177 & MN 117)",
+  "suttaRef": {
+    "uid": "an5.177",
+    "title": "Kinh Buôn Bán & Kinh Đại Bốn Mươi (AN 5.177 / MN 117)",
+    "excerptPali": "Pañcimā, bhikkhave, vaṇijjā upāsakena akaraṇīyā. Katamā pañca? Satthavaṇijjā, sattavaṇijjā, maṁsavaṇijjā, majjavaṇijjā, visavaṇijjā — imā kho, bhikkhave, pañca vaṇijjā upāsakena akaraṇīyā... Katamo ca, bhikkhave, micchāājīvo? Kuhanā lapanā nemittikatā nippesikatā lābhena lābhaṁ nijigīsanatā — ayaṁ, bhikkhave, micchāājīvo.",
+    "excerptTranslation": "Có năm nghề buôn bán này, này các Tỳ-kheo, người cư sĩ không nên làm. Thế nào là năm? Buôn bán vũ khí, buôn bán người (nô lệ, mại dâm), buôn bán thịt (nuôi súc vật để mổ thịt), buôn bán chất say (rượu bia, ma túy), buôn bán chất độc — này các Tỳ-kheo, đây là năm nghề buôn bán người cư sĩ không nên làm... Và thế nào là tà mạng? Lừa gạt, nịnh bợ, gợi ý bói toán trục lợi, tống tiền ép bức, lấy lợi cầu lợi — này các Tỳ-kheo, đây là tà mạng."
+  },
+  "pariyatti": {
+    "shortSummary": "Chánh Mạng là chi phần thứ năm của Bát Chánh Đạo, hoàn tất cụm Giới học (Sīlakkhandha). Chi phần này chỉ dạy phương cách kiếm sống lương thiện, không phương hại đến tha nhân và xã hội, dứt khoát đoạn trừ 5 nghề tà mạng bị Đức Phật nghiêm cấm (vũ khí, con người, thú mổ thịt, chất say, chất độc) cùng các thủ đoạn gian lận trong kinh doanh. Chánh Mạng bảo đảm chén cơm nuôi thân là nguồn dinh dưỡng thanh tịnh, nâng đỡ tâm thiền định không bị ray rứt hối hận.",
+    "coreConcepts": [
+      {
+        "term": "Chánh Mạng",
+        "pali": "Sammā-ājīva",
+        "definition": "Cách thức mưu sinh, nuôi sống bản thân và gia đình bằng những phương tiện trong sạch, hợp đạo đức, không gây đau khổ, tai ương cho sinh linh khác."
+      },
+      {
+        "term": "Năm Nghề Buôn Bán Cư Sĩ Không Nên Làm",
+        "pali": "Pañca Vaṇijjā Akaraṇīyā",
+        "definition": "Năm ngành kinh doanh tổn hại trực tiếp cấm tuyệt đối: 1. Satthavaṇijjā (vũ khí sát thương); 2. Sattavaṇijjā (buôn bán người); 3. Maṁsavaṇijjā (chăn nuôi mổ thịt thú); 4. Majjavaṇijjā (rượu bia, chất gây say/nghiện); 5. Visavaṇijjā (chất độc hại, thuốc trừ sâu nguy hại)."
+      },
+      {
+        "term": "Các Dạng Tà Mạng Vi Tế Trong Nghề Nghiệp",
+        "pali": "Micchā-ājīva Vidhā",
+        "definition": "Các hành vi gian dối mưu cầu lợi dưỡng: Kuhanā (lừa dối, quảng cáo giả), Lapanā (nịnh hót trục lợi), Nemittikatā (bói toán, tiên tri dọa nạt để vòi tiền), Nippesikatā (chèn ép, tống tiền), Lābhena lābhaṁ nijigīsanatā (dùng mồi nhử tài chính, đa cấp lừa đảo)."
+      },
+      {
+        "term": "Giới Thanh Tịnh Về Nuôi Mạng",
+        "pali": "Ājīva-pārisuddhi-sīla",
+        "definition": "Phẩm chất giới hạnh cao quý khi toàn bộ tài sản, lương bổng và tiện nghi của người tu học đều phát sinh từ nỗ lực chân chính, liêm khiết và trong sạch tuyệt đối."
+      },
+      {
+        "term": "Bốn Niềm An Lạc Của Người Cư Sĩ",
+        "pali": "Ghi-sukha Cattāri (AN 4.62)",
+        "definition": "1. Atthi-sukha (lạc có tài sản hợp pháp); 2. Bhoga-sukha (lạc thọ dụng tài sản và làm phước); 3. Anaṇa-sukha (lạc không nợ nần); 4. Anavajja-sukha (lạc không lỗi lầm — hạnh phúc cao nhất của nghề nghiệp trong sạch)."
+      }
+    ],
+    "expositionMarkdown": "### 1. Vì Sao Chánh Mạng Là Chi Phần Riêng Biệt?\n\nNgười ta có thể tự hỏi: Nếu đã có Chánh Nghiệp (không giết, không trộm) và Chánh Ngữ (không nói dối), tại sao Đức Phật vẫn thiết lập **Chánh Mạng (*Sammā-ājīva*)** thành một chi phần độc lập?\n\nBởi vì một người bình thường dành phần lớn thời gian tỉnh thức (8-10 tiếng mỗi ngày) để mưu sinh. Một người có thể rất hiền từ khi ở nhà với vợ con, nhưng khi đến sở làm lại ký duyệt các dự án hủy hoại môi trường, bán thực phẩm bẩn tẩm hóa chất, hoặc buôn bán vũ khí giết người. **Nếu nguồn thu nhập nuôi sống thân thể hằng ngày bị nhuốm máu, nước mắt hay sự lừa dối, tâm thức người đó không bao giờ có thể đạt tới sự an tịnh của thiền định**; sự cắn rứt, bất an và sợ hãi quả báo sẽ luôn âm thầm thiêu đốt.\n\n---\n\n### 2. Năm Ngành Nghề Tà Mạng (Pañca Vaṇijjā) Trong Thời Hiện Đại\n\nTrong **Kinh Buôn Bán (AN 5.177)**, Đức Phật liệt kê 5 ngành kinh doanh người cư sĩ tuyệt đối không được tham gia:\n\n1. **Buôn bán vũ khí (*Satthavaṇijjā*):** Chế tạo, cung cấp súng đạn, bom mìn, vũ khí sát thương, cũng như các công cụ bạo lực, mã độc phá hoại trong không gian mạng.\n2. **Buôn bán người (*Sattavaṇijjā*):** Mua bán nô lệ, môi giới mại dâm, bóc lột sức lao động, lừa đảo đưa người vượt biên, bẫy việc làm nô lệ công nghệ.\n3. **Buôn bán thịt súc vật (*Maṁsavaṇijjā*):** Nuôi nhốt công nghiệp hàng loạt các loài thú để cung cấp thẳng cho lò mổ, săn bắn và buôn bán động vật hoang dã.\n4. **Buôn bán chất say (*Majjavaṇijjā*):** Kinh doanh rượu bia, thuốc lá điếu, thuốc lá điện tử, các chất ma túy kích thích; các trò chơi cờ bạc đỏ đen trực tuyến gây nghiện phá nát gia đình.\n5. **Buôn bán chất độc (*Visavaṇijjā*):** Sản xuất kinh doanh hóa chất độc hại, thuốc bảo vệ thực vật độc quyền hủy hoại đất mẹ, các chất tẩm ướp thực phẩm độc hại làm ung thư người tiêu dùng.\n\n---\n\n### 3. Tà Mạng Vi Tế Trong Văn Phòng & Kinh Doanh\n\nKhông chỉ 5 nghề thô thiển trên, trong **Kinh Đại Bốn Mươi (MN 117)**, Đức Phật còn chỉ ra các hình thức tà mạng vi tế xuất hiện trong mọi ngành nghề:\n- **Kuhanā (Lừa dối, ngụy trang):** Quảng cáo thổi phồng công dụng sản phẩm, che giấu lỗi kỹ thuật hòng lừa gạt người tiêu dùng.\n- **Lapanā (Nịnh hót):** Khéo léo xu nịnh cấp trên để nhận bổng lộc, chèn ép đồng nghiệp chân chính.\n- **Nemittikatā (Bói toán, gợi ý xui xẻo):** Lợi dụng niềm tin tâm linh, xem ngày giờ, phán phong thủy hung cát nhằm bán vật phẩm đắt đỏ trục lợi.\n- **Lābhena lābhaṁ nijigīsanatā (Lấy lợi cầu lợi):** Các mô hình lừa đảo ponzi, đa cấp bất chính, thao túng giá thị trường tài chính để chiếm đoạt tiền của người nhẹ dạ.\n\n---\n\n### 4. Niềm Vui Không Lỗi Lầm (Anavajja-sukha)\n\nTrong Kinh Anana Sutta (*AN 4.62*), Đức Phật dạy về 4 niềm an lạc của người tại gia. Trong đó, niềm an lạc tối thượng không phải là giàu có tột đỉnh hay tiêu xài xa hoa, mà là **Anavajja-sukha — Niềm vui biết rõ rằng mọi đồng tiền mình làm ra đều trong sạch, không làm hoen ố lương tâm, không gieo rắc tai ương cho nhân loại**.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng 'thương trường là chiến trường', kinh doanh thì bắt buộc phải mưu mô, lươn lẹo, dối trá thì mới tồn tại và làm giàu được.",
+        "correction": "Đức Phật không hề chống lại việc làm giàu. Ngài tán thán sự giàu có phát sinh từ sự chăm chỉ, sáng tạo, chân thật và giữ chữ tín (như gương Trưởng giả Cấp Cô Độc Anāthapiṇḍika). Sự giàu có do tà mạng tạo nên giống như lâu đài cát, khi quả ác trổ sẽ sụp đổ hoàn toàn."
+      },
+      {
+        "mistake": "Nghĩ rằng mình chỉ làm nghề buôn bán rượu bia, mở quán nhậu hay bán vé số, 'tôi không ép ai uống hay đánh bạc nên tôi vô can'.",
+        "correction": "Cung cấp phương tiện gây say nghiện và phá hoại sức khỏe trí tuệ của tha nhân là đồng lõa trực tiếp tạo điều kiện cho ác nghiệp phát triển. Quả báo của nghề buôn chất say là tâm trí hôn mê, si ám và gia đình bất hòa."
+      },
+      {
+        "mistake": "Dùng tiền kiếm được từ việc buôn lậu, bán hàng cấm, lừa đảo để cúng dường xây chùa, đúc chuông nhằm 'chuộc tội' hoặc cầu mua phước đức.",
+        "correction": "Tam Tạng Pāḷi khẳng định: Nghiệp ác đã gieo không thể dùng tiền bạc để rửa sạch. Tiền bạc kiếm từ tà mạng là tài vật bất tịnh; không thể đem sự ô uế nuôi dưỡng Chánh Pháp hay mua chuộc luật Nhân Quả."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Kiểm Toán Lương Tâm Trong Công Việc:** Dành 10 phút soi chiếu toàn bộ chuỗi giá trị trong công việc của bạn: Sản phẩm/dịch vụ này mang lại điều thiện lành hay gián tiếp kích hoạt lòng tham, sự mê muội hay bệnh tật cho người khác?\n2. **Cam Kết Trung Thực Trong Bán Hàng & Tiếp Thị:** Nói đúng sự thật về phẩm chất hàng hóa; không lừa dối người tiêu dùng về giá cả, hạn sử dụng hay công dụng.\n3. **Thực Hành Tiêu Dùng Tỉnh Thức:** Không tiếp tay cho các sản phẩm từ 5 nghề tà mạng (hạn chế tối đa rượu bia, thực phẩm độc hại, nói không với hàng hóa bóc lột).",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Mưu sinh lương thiện, liêm chính ngay thẳng, sống với niềm an lạc không lỗi lầm."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Khoản thu nhập nuôi sống bạn và gia đình hôm nay có hoàn toàn trong sạch, không dựa trên sự đau đớn, mê mờ hay thua lỗ oan ức của ai khác không?",
+    "selfAuditChecklist": [
+      "Nghề nghiệp hiện tại của tôi không nằm trong 5 nghề buôn bán bị cấm đoán (vũ khí, người, thịt, chất say, chất độc).",
+      "Tôi không dùng các thủ thuật lừa dối, thổi phồng sai sự thật trong công việc hàng ngày.",
+      "Tôi cảm thấy thanh thản, không lo sợ pháp luật hay cắn rứt lương tâm khi nhận đồng lương của mình.",
+      "Tôi sẵn sàng từ bỏ những khoản lợi nhuận phi pháp để bảo vệ phẩm giá và sự giải thoát tâm linh."
+    ]
+  }
+}

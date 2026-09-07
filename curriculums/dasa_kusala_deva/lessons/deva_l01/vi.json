@@ -1,0 +1,64 @@
+{
+  "lessonId": "deva_l01",
+  "curriculumId": "dasa_kusala_deva",
+  "lessonNumber": 1,
+  "stageIndex": 1,
+  "title": "Bài 1: Kinh Người Đất Sāla — Ba Nghiệp Thân Trong Sạch",
+  "paliTitle": "Sāleyyaka Sutta (MN 41)",
+  "suttaRef": {
+    "uid": "mn41",
+    "title": "Kinh Người Đất Sāla (Majjhima Nikāya 41)",
+    "excerptPali": "Dhammacariyāsamacariyāhetu kho, gahapatayo, evam’idhekacce sattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjanti...",
+    "excerptTranslation": "Do hành trì đúng Chánh pháp, sống đời chân chính, này các gia chủ, ở đây có một số chúng sinh sau khi thân hoại mạng chung được tái sinh vào cõi lành, cõi Trời an vui..."
+  },
+  "pariyatti": {
+    "shortSummary": "Khảo nghiệm quy luật Nghiệp Báo chi phối đường đi của chúng sinh qua cuộc đối thoại tại làng Sāla. Tịnh hóa 3 hành vi của Thân là nền móng đầu tiên để tái sinh vào cõi lành thiên giới.",
+    "coreConcepts": [
+      {
+        "term": "Hành Trì Đúng Chánh Pháp",
+        "pali": "Dhammacariyā",
+        "definition": "Đời sống thuận hợp với quy luật tự nhiên và các thiện pháp căn bản, đem lại an lạc cho tự thân và tha nhân."
+      },
+      {
+        "term": "Phòng Hộ Thân Nghiệp",
+        "pali": "Kāyasaññama",
+        "definition": "Sự tự giác kiểm soát và làm chủ mọi cử chỉ, hành vi của thân thể, dứt khoát không để thân tạo tác điều ác."
+      },
+      {
+        "term": "Cõi Trời / Thiên Giới",
+        "pali": "Sagga Loka",
+        "definition": "Các cảnh giới tái sinh an lạc thuộc Dục giới hoặc Sắc giới, nơi chúng sinh hưởng thọ quả báo thù thắng do thiện nghiệp kiến tạo."
+      },
+      {
+        "term": "Đoạn Trừ Ba Ác Nghiệp Thân",
+        "pali": "Kāyaduccarita Pahāna",
+        "definition": "Dứt trừ dứt điểm: 1. Sát sinh hại mạng; 2. Trộm cắp gian lận tài sản; 3. Tà hạnh buông thả trong các dục vọng."
+      }
+    ],
+    "expositionMarkdown": "### 1. Bối Cảnh Lịch Sử: Câu Hỏi Của Các Gia Chủ Làng Sāla\n\nTại thị trấn Sāla của xứ Kosala, các gia chủ Bà-la-môn đến đảnh lễ Thế Tôn và đặt câu hỏi trăn trở muôn thuở của nhân loại:\n\n> *'Bạch Thế Tôn, do nguyên nhân gì, do duyên gì ở đây có một số chúng sinh sau khi thân hoại mạng chung bị tái sinh vào cõi dữ, đọa xứ, địa ngục? Và do nguyên nhân gì, một số chúng sinh được tái sinh vào cõi lành, cõi Trời an vui?'*\n\nĐức Phật không viện dẫn thần linh sáng tạo, không bảo do định mệnh hay do cúng tế bái lạy. Ngài trả lời bằng quy luật duyên khởi khách quan:\n\n> *'Do phi pháp hành, phi bình đẳng hành (Adhammacariyāvisamacariyā) mà đọa ác xứ. Do hành trì Chánh pháp, sống đời bình đẳng chân chính (Dhammacariyāsamacariyā) mà sinh thiên giới.'*\n\n---\n\n### 2. Ba Trụ Cột Thân Nghiệp Lương Thiện (*Kāyakamma Kusala*)\n\nTrong 10 thiện nghiệp đạo, **3 nghiệp thuộc về Thân** được đặt lên hàng đầu vì chúng biểu hiện cụ thể nhất ra thế giới bên ngoài:\n\n1. **Từ bỏ sát sinh (*Pāṇātipātā Veramaṇī*):**\n   - Đặt trượng, đặt kiếm xuống.\n   - Có tâm tàm quý, giàu lòng từ mẫn, sống thương xót đến hạnh phúc của mọi sinh linh hữu tình.\n   - Không trực tiếp giết, không xúi giục giết, không hoan hỷ tán thán sự giết hại.\n\n2. **Từ bỏ trộm cắp (*Adinnādānā Veramaṇī*):**\n   - Không lấy đồ vật của người khác tại thôn quê hay chốn rừng rú khi chưa được người ấy cho phép.\n   - Đôi bàn tay trong sạch, sống bằng mồ hôi và trí tuệ chân chính của chính mình.\n\n3. **Từ bỏ tà hạnh dục vọng (*Kāmesumicchācārā Veramaṇī*):**\n   - Không quan hệ tình cảm phi pháp với những người được cha mẹ, anh em, gia đình bảo hộ, người đã có gia đình hoặc người đang giữ giới hạnh.\n   - Tôn trọng nhân phẩm và bảo vệ sự bền vững của hạnh phúc lứa đôi.\n\n---\n\n### 3. Vận Hành Tự Nhiên Của Nghiệp — Ẩn Dụ Vò Dầu & Tảng Đá\n\nTrong **Kinh Asibandhakaputta (SN 42.6)**, Đức Phật đã phá tan hoàn toàn tư tưởng cầu cúng:\n\n- Một kẻ sống đầy sát sinh, trộm cướp, tà dâm, thì dẫu cho cả nghìn giáo sĩ cầu kinh, xin cho kẻ ấy lên cõi trời, kẻ ấy vẫn phải chìm đắm vào cảnh khổ, giống như một **tảng đá nặng chìm sâu xuống đáy hồ**. Lời cầu nguyện không thể làm tảng đá nổi lên.\n- Ngược lại, người thành tựu 3 nghiệp thân trong sạch, bố thí trì giới, thì như **vò dầu đổ xuống nước, dầu tự nhiên nổi lên mặt nước** vì bản tính nhẹ nhàng thanh tịnh của nó. Cõi Trời chính là bến đỗ tất yếu của dòng tâm thức trong sạch ấy.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng muốn sinh lên cõi Trời chỉ cần thành tâm cầu nguyện, dâng mâm cao cỗ đầy hoặc nhờ cúng sao giải hạn mà không cần tịnh hóa hành vi.",
+        "correction": "Nghiệp báo là quy luật tự nhiên, không phải ân huệ của bất kỳ vị thần nào. Cầu nguyện mà thân vẫn làm ác thì như đứng bên bờ hồ khấn xin tảng đá nổi lên. Muốn sinh nhàn cảnh, bắt buộc phải hành trì thiện nghiệp từ đôi bàn tay và lối sống của chính mình."
+      },
+      {
+        "mistake": "Cho rằng miễn không giết người là được, còn việc sát hại các loài sinh vật nhỏ bé hay phá hủy môi trường thì không ảnh hưởng đến nghiệp sinh thiên.",
+        "correction": "Mọi sinh linh đều tham sống sợ chết và quý trọng thân mạng. Tâm từ bi của người hướng thượng cõi Trời bao trùm khắp muôn loài, không phân biệt loài lớn hay loài nhỏ."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Thực tập 'Quán chiếu ba cánh cửa Thân' mỗi buổi sáng: Phát nguyện đôi bàn tay chỉ mang lại an lành, đôi chân chỉ bước đi trên nẻo thiện, thân thể sống đoan chánh tiết hạnh. Tối về ngồi lắng đọng rà soát lại mọi hành vi cử chỉ trong ngày.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Cứu một con vật nhỏ đang gặp nạn hoặc giúp đỡ người neo đơn vô điều kiện"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hành vi và sự hiện diện của thân bạn hôm nay có làm cho những người xung quanh cảm thấy an tâm, che chở và tin cậy hoàn toàn hay không?",
+    "selfAuditChecklist": [
+      "Tôi đã hoàn toàn kiêng cữ hành vi giết hại, làm tổn thương hay đe dọa sinh mạng của bất kỳ chúng sinh nào hôm nay.",
+      "Đôi tay tôi trong sạch, không tự tiện lấy hay xâm phạm bất kỳ tài sản, vật dụng nào khi chưa được người chủ cho phép.",
+      "Tôi giữ gìn thân thể đoan chính, thủy chung, không dung dưỡng bất kỳ hành vi tà dục nào làm tổn hại nhân cách hay gia đình người khác.",
+      "Tôi có niềm tin kiên định vào quy luật Nhân Quả: Thân nghiệp thanh tịnh chính là nhân tố cốt lõi đưa đến cảnh giới an lành."
+    ]
+  }
+}

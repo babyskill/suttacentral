@@ -1,0 +1,64 @@
+{
+  "lessonId": "pancasila_l04",
+  "curriculumId": "pancasila_human",
+  "lessonNumber": 4,
+  "stageIndex": 3,
+  "title": "Lesson 4: 3rd Precept — Wisdom in Sensuality & Family Harmony",
+  "paliTitle": "Cundakammaraputtasutta (AN 10.176)",
+  "suttaRef": {
+    "uid": "an10.176",
+    "title": "With Cunda the Silversmith (AN 10.176 - Aṅguttara Nikāya)",
+    "excerptPali": "Kāmesumicchācārā veramaṇīsikkhāpadaṃ samādiyāmi... Na mātārakkhitāsu na pitārakkhitāsu na mātāpitārakkhitāsu... na sasāmikāsu na saparidaṇḍāsu... tathārūpāsu cārittaṃ āpajjitā hoti. Kāmesumicchācārā paṭivirato hoti.",
+    "excerptTranslation": "I undertake the training rule to abstain from sexual misconduct... One does not have sexual relations with those protected by mother, father, or both... those who have a spouse, or those under legal protection... One abstains from sexual misconduct."
+  },
+  "pariyatti": {
+    "shortSummary": "The third precept draws a sacred boundary protecting family sanctity and human dignity: abandoning infidelity, predatory relationships, and deceit. Transforming obsessive lust into contentment (Santosa), marital fidelity, and genuine love.",
+    "coreConcepts": [
+      {
+        "term": "Abstaining from Sexual Misconduct",
+        "pali": "Kāmesumicchācārā Veramaṇī",
+        "definition": "Refraining from unrighteous sexual pursuits that violate commitments, exploit vulnerability, or inflict heartbreak upon others."
+      },
+      {
+        "term": "Contentment in Partnership",
+        "pali": "Sadārasantoṣa",
+        "definition": "Complete emotional and physical fidelity with one's chosen spouse; maintaining restraint without chasing novelty."
+      },
+      {
+        "term": "Moral Shame & Moral Dread",
+        "pali": "Hiri & Ottappa",
+        "definition": "The twin guardians of civilization: Hiri is internal conscience recoiling from unworthiness; Ottappa is prudent fear of karmic disaster."
+      },
+      {
+        "term": "Perils of Sensuality",
+        "pali": "Kāmādīnava",
+        "definition": "Recognizing that sensual lust offers minute gratification while demanding colossal suffering (like holding a blazing torch against the wind)."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Perils of Sensuality in the Digital Age\n\nNever in human history has the third precept been assaulted with such technological intensity:\n- **Pervasive Pornography:** Unlimited online pornography distorts intimate perception, degrades neurochemical dopamine balance, and impairs relational empathy.\n- **Secret Messaging & Emotional Infidelity:** Casual hook-up apps and deceitful flirtations lure individuals into betrayal under the illusion of privacy.\n- **Dehumanization:** Treating human beings as mere disposable objects for sensual gratification.\n\n---\n\n### 2. Karmic Repercussions of Misconduct\n\nThe Buddha likened unbridled lust to drinking salt water—the more one drinks, the thirstier one becomes.\n- **Visible Repercussions:** Devastated families, traumatized children, career ruin, bitter court battles, blackmail, and violent jealousy.\n- **Future Repercussions:** Perpetrators descend upon death to purgatory or animal births. When regaining human state, they endure betrayal by their partners, perpetual marital discord, and social ostracism.\n\n---\n\n### 3. True Contentment: The Foundation of Family Harmony\n\n- Enduring family peace is built not upon feverish lust, but upon **mutual respect, spiritual friendship, and transparent loyalty**.\n- Knowing that sensual infatuations are impermanent, a practitioner does not sacrifice lifelong trust for momentary excitement.\n- Treasure the companion who walks through life's turbulence with you, cultivating shared morality and peace.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Thinking that discreet affairs do no harm if 'nobody finds out'.",
+        "correction": "Betrayal pollutes the inner mind immediately. Even if concealed from society, one cannot deceive Kamma or conscience. The toxic anxiety of deceit destroys meditation."
+      },
+      {
+        "mistake": "Assuming solo consumption of pornographic media carries no karmic weight.",
+        "correction": "While not violating another person directly, it intensely feeds sensual lust (Kāmarāga), erodes moral shame (Hiri), and steadily undermines psychological resilience."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Digital Boundaries:** Install content filters, unfollow provocative channels, and guard the doors of perception.\n2. **Nurture Spousal Appreciation:** Dedicate time daily for meaningful conversation, expressing sincere appreciation for your partner's dedication.\n3. **Internal Conscience:** In times of separation, invoke Hiri and Ottappa as your vigilant, incorruptible guardians.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Guard unshakeable fidelity, treat your partner with honor, and keep the heart free from lustful delusion."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Is your heart fully transparent, faithful, and pure toward your partner, or are you harboring ambiguous interactions that jeopardize family harmony?",
+    "selfAuditChecklist": [
+      "I maintain absolute fidelity in thought, word, and deed to my commitment.",
+      "I avoid consuming exploitative pornography or feeding unwholesome lust.",
+      "I treat my partner with deep respect, tenderness, and gratitude.",
+      "My mind remains peaceful and unswayed by external sensual temptations."
+    ]
+  }
+}

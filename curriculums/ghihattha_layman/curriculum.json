@@ -1,0 +1,139 @@
+{
+  "id": "ghihattha_layman",
+  "curriculumId": "ghihattha_layman",
+  "title": "Cư Sĩ Tinh Tấn — Hạnh Phúc Hiện Đời & Vị Lai",
+  "titleEn": "Diligent Lay Practitioner — Present & Future Happiness",
+  "paliTitle": "Ghihaṭṭha Dhamma",
+  "subtitle": "Cân Bằng Sự Nghiệp, Gia Đình & Con Đường Hướng Thượng Tâm Linh",
+  "subtitleEn": "Balancing career, family, and spiritual elevation in daily life",
+  "description": "Đức Phật dạy cư sĩ tại gia cách quản lý tài chính, phòng hộ các căn trước bẫy công nghệ số, giao tiếp xã hội và bổn phận gia đình mà vẫn tiến bước vững chắc trên con đường Giới - Định - Tuệ.",
+  "descriptionEn": "The Buddha instructs lay disciples how to master finances, guard the senses against digital traps, fulfill social ethics, and balance family life while steadily advancing on Morality, Concentration, Wisdom.",
+  "category": "layman",
+  "iconEmoji": "🏡",
+  "estimatedDuration": "4 bài / 4 Chặng",
+  "estimatedDurationEn": "4 Lessons / 4 Phases",
+  "canonicalSource": "Tam Tạng Pāḷi: Khp 5 / Snp 2.4 (Mahāmaṅgala Sutta), SN 35.240 (Kummopama Sutta), SN 35.28 (Ādittapariyāya Sutta), AN 8.54 (Vyagghapajja Sutta), AN 4.61 (Pattakamma Sutta), DN 31 (Sigālovāda Sutta)",
+  "canonicalSourceEn": "Pāḷi Canon: Khp 5 / Snp 2.4 (Mahāmaṅgala Sutta), SN 35.240 (Kummopama Sutta), SN 35.28 (Ādittapariyāya Sutta), AN 8.54 (Vyagghapajja Sutta), AN 4.61 (Pattakamma Sutta), DN 31 (Sigālovāda Sutta)",
+  "traditionLineage": "Cư Sĩ Giới Pháp Theravāda & Đạo Đức Xã Hội Học Phật Giáo",
+  "traditionLineageEn": "Theravāda Lay Discipleship & Buddhist Social Ethics",
+  "targetAudience": "Người cư sĩ sống giữa đời bận rộn muốn làm chủ công nghệ, làm giàu Chánh mạng và kiến tạo hạnh phúc vững chắc cho gia đình.",
+  "targetAudienceEn": "Lay practitioners navigating modern life, seeking digital mindfulness, righteous prosperity, and harmonious relationships.",
+  "stages": [
+    {
+      "stageIndex": 1,
+      "title": "Chặng 1: 38 Điềm Lành Tối Thượng — Môi Trường & Nền Tảng Sống",
+      "titleEn": "Phase 1: 38 Highest Blessings — Environment & Life Foundation",
+      "paliTitle": "Mahāmaṅgala Sutta",
+      "objective": "Thanh lọc môi trường sống, chọn bạn lành, hiếu dưỡng mẹ cha và làm nghề nghiệp không hỗn loạn.",
+      "objectiveEn": "Purifying life environment, associating with the wise, honoring parents, and blameless livelihood.",
+      "lessons": [
+        {
+          "id": "layman_l01",
+          "lessonNumber": 1,
+          "title": "Bài 1: Ba Mươi Tám Điềm Lành — Cẩm Nang Tỉnh Thức Giữa Đời Thường",
+          "titleEn": "Lesson 1: 38 Highest Blessings — Guide to Mindful Living",
+          "paliTitle": "Mahāmaṅgala Sutta (Khp 5 / Snp 2.4)",
+          "summary": "Đức Phật định nghĩa lại điềm lành chân chính: Không phải xem bói ngày giờ tốt xấu, mà là 38 chuẩn mực đạo đức kiến tạo phúc khí vững bền.",
+          "summaryEn": "The Buddha redefines true blessing: Not astrology or divination, but 38 practical virtues constructing enduring peace and auspiciousness.",
+          "suttaUid": "kp5",
+          "suttaTitle": "Kinh Điềm Lành (Khuddakapāṭha 5 / Snp 2.4)",
+          "suttaTitleEn": "Discourse on Blessings (Khp 5 / Snp 2.4)",
+          "recommendedRoutineId": "r_morning",
+          "practiceGuide": "Rà soát lại môi trường sống và vòng tròn bạn bè; thực hiện một hành động báo hiếu thiết thực với cha mẹ hôm nay.",
+          "practiceGuideEn": "Review your social circle and home environment; perform a concrete filial act for parents today.",
+          "reflectionPrompt": "Bạn đang dựa vào bói toán, phong thủy hay dựa vào sự trong sạch của Thân - Khẩu - Ý để tìm kiếm sự an ổn trong cuộc sống?",
+          "reflectionPromptEn": "Are you relying on divination and astrology or on the purity of Body, Speech, Mind to seek safety in life?",
+          "suggestedVirtue": "Hỏi thăm ân cần hoặc nấu một bữa cơm ấm cúng cho cha mẹ",
+          "suggestedVirtueEn": "Express warm affection or prepare a nourishing meal for parents"
+        }
+      ]
+    },
+    {
+      "stageIndex": 2,
+      "title": "Chặng 2: Tu Tập Thời Đại Số — Phòng Hộ Các Căn & Thoát Bẫy Dopamine",
+      "titleEn": "Phase 2: Digital Mindfulness — Guarding Senses & Escaping Cheap Dopamine",
+      "paliTitle": "Indriyasaṃvara & Digital Sīla",
+      "objective": "Làm chủ smartphone, nhận diện thuật toán độc hại, phòng hộ 6 căn như rùa rụt mai và cai nghiện dopamine ngắn.",
+      "objectiveEn": "Mastering smartphones, recognizing addictive algorithms, guarding 6 senses like a tortoise, and detoxing cheap dopamine.",
+      "lessons": [
+        {
+          "id": "layman_l02",
+          "lessonNumber": 2,
+          "title": "Bài 2: Tu Tập Thời Đại Số — Phòng Hộ Sáu Căn & Thoát Bẫy Dopamine Ngắn",
+          "titleEn": "Lesson 2: Digital Mindfulness — Guarding Senses & Escaping Cheap Dopamine",
+          "paliTitle": "Kummopama Sutta (SN 35.240) & Ādittapariyāya Sutta (SN 35.28)",
+          "summary": "Khám phá ẩn dụ con rùa rụt 6 chi trước con dã can để bảo vệ tâm trí trước cơn bão thông tin và thuật toán gây nghiện của thời đại 4.0.",
+          "summaryEn": "Explore the simile of the tortoise withdrawing its limbs before the jackal to safeguard the mind against addictive algorithms and digital storms.",
+          "suttaUid": "sn35.240",
+          "suttaTitle": "Kinh Con Rùa Rụt Mai (SN 35.240)",
+          "suttaTitleEn": "The Simile of the Tortoise (SN 35.240)",
+          "recommendedRoutineId": "r_evening",
+          "practiceGuide": "Thực hành 'Digital Fasting': Tắt thông báo không cần thiết, ngưng dùng điện thoại 90 phút trước khi ngủ để ngồi thiền đọc kinh.",
+          "practiceGuideEn": "Practice Digital Fasting: Disable non-essential notifications, put phone away 90 mins before sleep for meditation and sutta reading.",
+          "reflectionPrompt": "Bạn có thể ngồi tĩnh lặng 10 phút mà không có cảm giác bồn chồn muốn với tay lấy điện thoại quẹt màn hình không?",
+          "reflectionPromptEn": "Can you sit quietly for 10 minutes without feeling the restless itch to grab your phone and swipe?",
+          "suggestedVirtue": "Hủy theo dõi (unfollow) 5 trang mạng drama tiêu cực và thiết lập giờ giới nghiêm cho điện thoại",
+          "suggestedVirtueEn": "Unfollow 5 negative drama pages and establish an evening digital curfew"
+        }
+      ]
+    },
+    {
+      "stageIndex": 3,
+      "title": "Chặng 3: Kinh Tế Chánh Mạng — Quản Lý Tài Chính & Bốn Gia Tài",
+      "titleEn": "Phase 3: Right Livelihood Economics — Wealth Mastery & 4 Treasures",
+      "paliTitle": "Vyagghapajja & Pattakamma",
+      "objective": "4 nguyên tắc làm giàu chân chính, tránh 4 cống rãnh tiêu tán tài sản và tích lũy 4 gia tài tâm linh cho đời sau.",
+      "objectiveEn": "4 principles of righteous wealth, avoiding 4 drains of ruin, and accumulating 4 spiritual treasures for the hereafter.",
+      "lessons": [
+        {
+          "id": "layman_l03",
+          "lessonNumber": 3,
+          "title": "Bài 3: Quản Lý Tài Chính & Bốn Gia Tài Tối Thượng Của Cư Sĩ",
+          "titleEn": "Lesson 3: Financial Wisdom & Four Supreme Treasures of Lay Life",
+          "paliTitle": "Vyagghapajja Sutta (AN 8.54) & Pattakamma Sutta (AN 4.61)",
+          "summary": "Lời Phật dạy người thanh niên Dīghajāṇu về bí quyết làm giàu chân chính: Siêng năng, Phòng hộ, Bạn lành, Chi tiêu điều độ và 4 gia tài đời sau.",
+          "summaryEn": "The Buddha's guidance to Dīghajāṇu on noble prosperity: Initiative, Protection, Good Friends, Balanced Spending, and 4 future treasures.",
+          "suttaUid": "an8.54",
+          "suttaTitle": "Kinh Dīghajāṇu (AN 8.54)",
+          "suttaTitleEn": "To Dīghajāṇu (AN 8.54)",
+          "recommendedRoutineId": "r_evening",
+          "practiceGuide": "Lập ngân sách phân bổ thu chi 4 phần theo lời Phật dạy, kiên quyết dứt trừ thói quen cờ bạc cá cược mạng hoặc chi tiêu hoang phí.",
+          "practiceGuideEn": "Allocate your income into 4 portions according to Dhamma, resolutely abandoning online gambling and reckless spending.",
+          "reflectionPrompt": "Nguồn thu nhập và lối sống tài chính của bạn có mang lại sự thanh thản, tự hào không tỳ vết (Anavajja-sukha) khi nhắm mắt suy ngẫm không?",
+          "reflectionPromptEn": "Does your income and financial lifestyle bring pure blameless peace (Anavajja-sukha) upon self-reflection?",
+          "suggestedVirtue": "Trích một phần tài sản để bố thí, cúng dường hoặc sẻ chia với người gặp cảnh ngặt nghèo",
+          "suggestedVirtueEn": "Allocate a portion of funds for Dhamma generosity or helping someone in distress"
+        }
+      ]
+    },
+    {
+      "stageIndex": 4,
+      "title": "Chặng 4: Đạo Tràng Đời Sống — Lễ Bái Sáu Phương & Hiện Diện Trọn Vẹn",
+      "titleEn": "Phase 4: The Sanctuary of Life — Six Directions & Full Presence",
+      "paliTitle": "Sigālovāda Sutta",
+      "objective": "Chuyển hóa tục bái lạy thành 6 cặp bổn phận đạo đức tương hỗ; hiện diện trọn vẹn bên người thân, xóa bỏ bệnh dán mắt vào màn hình.",
+      "objectiveEn": "Transforming ritual worship into 6 reciprocal ethical duties; dwelling in full presence with loved ones, eliminating screen-snubbing.",
+      "lessons": [
+        {
+          "id": "layman_l04",
+          "lessonNumber": 4,
+          "title": "Bài 4: Lễ Bái Sáu Phương — Hiện Diện Trọn Vẹn & Đạo Đức Xã Hội",
+          "titleEn": "Lesson 4: Worshipping Six Directions — Full Presence & Social Ethics",
+          "paliTitle": "Sigālovāda Sutta (DN 31)",
+          "summary": "Đức Phật khai thị cho chàng thanh niên Sigāla: Sáu phương chính là Cha mẹ, Thầy cô, Vợ con, Bạn bè, Người giúp việc và Bậc Sa-môn tu hành.",
+          "summaryEn": "The Buddha illuminates young Sigāla: The six directions represent Parents, Teachers, Family, Friends, Workers, and Spiritual Guides.",
+          "suttaUid": "dn31",
+          "suttaTitle": "Kinh Giáo Thọ Thi-ca-la-việt (DN 31)",
+          "suttaTitleEn": "Advice to Sigāla (DN 31)",
+          "recommendedRoutineId": "r_morning",
+          "practiceGuide": "Cất điện thoại vào hộp hoặc úp màn hình xuống khi ngồi ăn cơm hoặc chuyện trò cùng người thân; lắng nghe trọn vẹn bằng tâm từ ái.",
+          "practiceGuideEn": "Put your phone away or screen down during family meals; listen deeply and fully with loving attention.",
+          "reflectionPrompt": "Khi ở bên cha mẹ, con cái hay bạn bè hôm nay, bạn có thật sự 'ở đó' với họ hay thân ở bên cạnh nhưng tâm trí đang dán chặt vào chiếc màn hình ảo?",
+          "reflectionPromptEn": "When with parents, spouse, or friends, are you genuinely present, or is your mind captive to a glowing screen?",
+          "suggestedVirtue": "Dành trọn vẹn 30 phút trò chuyện ấm áp với người thân mà không chạm vào điện thoại",
+          "suggestedVirtueEn": "Dedicate 30 minutes of warm conversation with family without touching any screen"
+        }
+      ]
+    }
+  ]
+}

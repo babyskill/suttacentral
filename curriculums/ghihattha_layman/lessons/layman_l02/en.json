@@ -1,0 +1,64 @@
+{
+  "lessonId": "layman_l02",
+  "curriculumId": "ghihattha_layman",
+  "lessonNumber": 2,
+  "stageIndex": 2,
+  "title": "Lesson 2: Digital Mindfulness — Guarding Senses & Escaping Cheap Dopamine",
+  "paliTitle": "Kummopama Sutta (SN 35.240) & Ādittapariyāya Sutta (SN 35.28)",
+  "suttaRef": {
+    "uid": "sn35.240",
+    "title": "The Simile of the Tortoise & The Fire Sermon (SN 35.240 / SN 35.28)",
+    "excerptPali": "Kummova aṅgāni sake kapāle, samodahaṃ bhikkhu manovitakke; Anissito aññamaheṭhayāno, parinibbuto nūpavadeyya kañci.",
+    "excerptTranslation": "Like a tortoise withdrawing its limbs into its shell, a practitioner collects the thoughts of the mind; Independent, harming none, fully extinguished, speaking ill of no one."
+  },
+  "pariyatti": {
+    "shortSummary": "Diagnosing modern afflictions: Social media algorithms as invisible corrupting companions, and cheap dopamine loops generating restless distraction (Uddhacca). Master sense restraint (Indriyasaṃvara) and a healthy digital diet.",
+    "coreConcepts": [
+      {
+        "term": "Sense Restraint",
+        "pali": "Indriyasaṃvara",
+        "definition": "Mindful vigilance guarding eyes, ears, nose, tongue, body, and mind; not grasping at general signs (nimitta) or secondary details (anubyañjana)."
+      },
+      {
+        "term": "Sensory Contact as Food",
+        "pali": "Phassāhāra",
+        "definition": "Nutriment of consciousness ingested through the senses; consuming sensory toxicity poisons emotional clarity and spiritual energy."
+      },
+      {
+        "term": "Restlessness & Remorse",
+        "pali": "Uddhacca-kukkucca",
+        "definition": "The fourth mental hindrance—an agitated, scattered, anxious state triggered by constant short-form dopamine stimulation."
+      },
+      {
+        "term": "Heedful Mindfulness",
+        "pali": "Appamāda",
+        "definition": "Vigilant self-sovereignty in technology usage, remaining the master of devices rather than a servant to algorithms."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Simile of the Tortoise and the Jackal (SN 35.240)\n\nIn the **Kummopama Sutta (SN 35.240)**, the Buddha shared an insightful parable:\nA tortoise was foraging along a riverbank when a jackal approached, seeking to devour it. The tortoise immediately drew its four limbs, head, and tail inside its shell, resting silent and motionless. The jackal circled about, waiting for any limb to emerge to bite it off. But the tortoise never exposed an opening. Eventually, frustrated and hungry, the jackal departed.\n\nThe Buddha declared:\n> *'Even so, mendicants, Māra the Evil One constantly lurks at your six senses: 'Perhaps I can seize this person through the eye, through the ear, through the nose, through the tongue, through the body, through the intellect!'. Therefore, like the tortoise withdrawing into its shell, guard your senses carefully. When the senses are protected, Māra finds no opening!'*\n\n---\n\n### 2. Social Media Algorithms — The Supreme Enemy of Deep Focus\n\nIn our era, the predatory jackal is held in the palm of our hand:\n- **The Attention Economy:** You do not pay for social networks because **your attention and life-time are the product** sold to advertisers. Algorithms are mathematically optimized to trigger Greed (*Lobha*), Outrage (*Dosa*), and mindless curiosity (*Moha*).\n- **Cheap Dopamine Traps:** 15–30 second short-form videos bombard the brain with artificial micro-rewards, inflicting:\n  1. *Erosion of Samādhi:* Incapacity to sit quietly or read scripture for more than five minutes.\n  2. *Explosion of Uddhacca:* Chronic restlessness, nervous finger-swiping, mental fatigue, and brain fog.\n  3. *Sensual Comparison:* Constant exposure to curated glamour fueling subtle envy and inadequacy.\n\n---\n\n### 3. The Fire Sermon (SN 35.28) & Mindful Digital Diet\n\nIn the **Fire Sermon (SN 35.28)**, the Buddha warned: *The eye is burning, forms are burning... burning with the fire of greed, hate, and delusion*.\nIn **SN 12.63**, He likened **sensory contact (*Phassāhāra*)** to a flayed cow devoured by insects wherever it stands. Every byte of sensational news and video you consume is psychological food.\n\n**Three Pillars of Digital Mindfulness:**\n1. **Physical Boundaries:** Designate 'Phone-Free Sanctuaries' (bedroom, dining table, meditation corner). Turn off all non-essential push notifications.\n2. **The Three-Second Pause:** Before unlocking your screen, pause and ask: *'What is my mind seeking right now? Genuine utility, or mindless distraction to numb loneliness?'*.\n3. **Radical Digital Purge:** Unfollow toxic channels, gossip pages, and divisive commentary relentlessly.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing that binge-watching hundreds of short Buddhist reels and quotes online counts as vigorous spiritual practice.",
+        "correction": "Dhammapada 100 states: 'Better than a thousand useless words is one beneficial word upon hearing which one attains peace'. Passive spiritual consumption merely fattens intellectual ego; real practice demands setting the screen down and cultivating inner stillness."
+      },
+      {
+        "mistake": "Thinking that guarding the senses requires renouncing modern society and abandoning smart devices entirely.",
+        "correction": "In MN 152, the Buddha clarified that sense restraint is not blinding one's eyes or deafening one's ears. The wise use technology as an effective instrument for good without becoming enslaved by its dopamine traps."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Practice an evening Digital Fast: 90 minutes before bedtime, turn off Wi-Fi, leave phone outside the bedroom, and dedicate that sacred space to 15 minutes of meditation and Sutta study.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Unfollow 5 negative, sensational channels and silence all social media notification sounds"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Can you sit quietly for 10 minutes without feeling the restless, twitching urge to grab your phone and swipe?",
+    "selfAuditChecklist": [
+      "I use my digital devices with clear conscious purpose, not out of unconscious dopamine cravings.",
+      "I have established a phone-free boundary in my bedroom to protect mental peace and restorative sleep.",
+      "When viewing screens, I do not fixate on provoking images that ignite greed, anger, or comparison.",
+      "I cherish deep attention and quiet focus, refusing to squander my life in sensational online dramas."
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "dasa_kusala_deva",
+  "curriculumId": "dasa_kusala_deva",
+  "title": "Thập Thiện Nghiệp Đạo — Thanh Tịnh Thân Khẩu Ý",
+  "titleEn": "Ten Wholesome Deeds — Purifying Body, Speech, Mind",
+  "paliTitle": "Dasa Kusala Kammapatha & Sagga",
+  "subtitle": "Nuôi Dưỡng 10 Nghiệp Lành Đưa Đến Nhàn Cảnh An Vui (MN 41)",
+  "subtitleEn": "Cultivating 10 wholesome actions leading to peaceful realms (MN 41)",
+  "description": "Kinh Sāleyyaka (MN 41) chỉ rõ: Do hành trì 10 thiện nghiệp mà sau khi thân hoại mạng chung, chúng sinh được tái sinh vào cõi trời chư Thiên an vui. Giáo trình rèn luyện sự thanh tịnh trọn vẹn của 3 cửa Thân - Khẩu - Ý kết hợp Tứ Vô Lượng Tâm.",
+  "descriptionEn": "In the Sāleyyaka Sutta (MN 41), the Buddha reveals that by cultivating the ten courses of wholesome action, beings are reborn in blissful heavenly realms upon the dissolution of the body. A comprehensive discipline purifying Body, Speech, and Mind integrated with the Four Divine Abidings.",
+  "category": "deva",
+  "iconEmoji": "🪷",
+  "estimatedDuration": "3 bài / 3 Chặng",
+  "estimatedDurationEn": "3 Lessons / 3 Phases",
+  "canonicalSource": "Tam Tạng Pāḷi: AN 10.176 (Kinh Cunda), MN 41 (Kinh Sāleyyaka), DN 13 (Kinh Tevijja), Snp 3.3 (Subhāsitasutta), Khp 5 / Snp 2.4 (Maṅgala Sutta)",
+  "canonicalSourceEn": "Pāḷi Canon: AN 10.176 (Cunda Sutta), MN 41 (Sāleyyaka Sutta), DN 13 (Tevijja Sutta), Snp 3.3 (Subhāsitasutta), Khp 5 / Snp 2.4 (Maṅgala Sutta)",
+  "traditionLineage": "Thứ Đệ Thuyết Pháp (Anupubbikathā) & Tứ Vô Lượng Tâm (Brahmavihāra)",
+  "traditionLineageEn": "Gradual Discourse (Anupubbikathā) & Four Divine Abidings (Brahmavihāra)",
+  "targetAudience": "Hành giả mong muốn tịnh hóa hoàn toàn 3 nghiệp và tích lũy thiện nghiệp thù thắng cho cõi an lạc.",
+  "targetAudienceEn": "Seekers cultivating ethical purity and meritorious karma for peaceful celestial realms.",
+  "stages": [
+    {
+      "stageIndex": 1,
+      "title": "Chặng 1: Thân Thanh Tịnh — Ba Nghiệp Thân Lương Thiện",
+      "titleEn": "Phase 1: Pure Body — Three Wholesome Bodily Deeds",
+      "paliTitle": "Kāyakamma Kusala",
+      "objective": "Không sát hại sinh linh, không trộm cắp chiếm đoạt, không tà hạnh dục vọng.",
+      "objectiveEn": "Refraining from killing, stealing, and sexual misconduct.",
+      "lessons": [
+        {
+          "id": "deva_l01",
+          "lessonNumber": 1,
+          "title": "Bài 1: Kinh Người Đất Sāla — Ba Nghiệp Thân Trong Sạch",
+          "titleEn": "Lesson 1: The Brahmins of Sālā — Three Pure Bodily Deeds",
+          "paliTitle": "Sāleyyaka Sutta (MN 41)",
+          "summary": "Đức Phật giải thích vì sao cùng là kiếp người nhưng có kẻ đọa địa ngục, người sinh thiên giới. Nền tảng đầu tiên nằm ở 3 hành vi thân lương thiện.",
+          "summaryEn": "The Buddha illuminates why some beings plunge into wretched realms while others ascend to heavens: the first foundation is three pure bodily actions.",
+          "suttaUid": "mn41",
+          "suttaTitle": "Kinh Người Đất Sāla (MN 41)",
+          "suttaTitleEn": "The People of Sālā (MN 41)",
+          "recommendedRoutineId": "r_morning",
+          "practiceGuide": "Mỗi sớm mai phát nguyện đôi bàn tay chỉ làm việc lành, che chở sự sống và giữ gìn liêm chính.",
+          "practiceGuideEn": "Resolve each morning that hands only perform good deeds, protect life, and preserve integrity.",
+          "reflectionPrompt": "Bạn có tin tưởng sâu sắc rằng từng cử chỉ thân thiện lương thiện hôm nay đang gieo mầm phúc lạc cho mai sau?",
+          "reflectionPromptEn": "Do you firmly trust that every wholesome gesture of body today plants blissful seeds for the future?",
+          "suggestedVirtue": "Cứu giúp một sinh mệnh bé nhỏ hoặc giúp đỡ người neo đơn vô vụ lợi",
+          "suggestedVirtueEn": "Rescue a small creature or assist someone in need selflessly"
+        }
+      ]
+    },
+    {
+      "stageIndex": 2,
+      "title": "Chặng 2: Khẩu Thanh Tịnh — Bốn Lời Nói Hiền Thiện",
+      "titleEn": "Phase 2: Pure Speech — Four Wholesome Verbal Deeds",
+      "paliTitle": "Vacīkamma Kusala",
+      "objective": "Từ bỏ nói dối, nói đâm thọc, nói thô ác, nói phù phiếm; tỏa hương thơm Chánh Ngữ.",
+      "objectiveEn": "Abandoning false speech, malicious slander, harsh words, and idle chatter; radiating fragrant Right Speech.",
+      "lessons": [
+        {
+          "id": "deva_l02",
+          "lessonNumber": 2,
+          "title": "Bài 2: Khẩu Nghiệp Như Hương Hoa — Bốn Lời Nói Hiền Thiện",
+          "titleEn": "Lesson 2: Purifying Speech — Words Like Fragrant Flowers",
+          "paliTitle": "Subhāsitasutta (Snp 3.3) & Maṅgala Sutta (Khp 5)",
+          "summary": "Lời nói là tấm gương của tâm hồn. Rèn luyện 4 chuẩn mực ngữ nghiệp: Chân thật, Hòa hợp, Ái ngữ, Hữu ích.",
+          "summaryEn": "Speech reflects the heart. Cultivating four standards of verbal karma: Truthful, Harmonious, Gentle, and Beneficial.",
+          "suttaUid": "kp5",
+          "suttaTitle": "Kinh Điềm Lành (Khp 5 / Snp 2.4)",
+          "suttaTitleEn": "Discourse on Blessings (Khp 5 / Snp 2.4)",
+          "recommendedRoutineId": "r_evening",
+          "practiceGuide": "Thực hành dừng lại 3 giây trước khi nói: Có thật không? Có ích không? Có từ bi không?",
+          "practiceGuideEn": "Practice a three-second pause before speaking: Is it true? Is it beneficial? Is it kind?",
+          "reflectionPrompt": "Lời nói của bạn hôm nay mang lại sự an ổn, hòa hợp hay làm tổn thương và tạo thêm phiền muộn?",
+          "reflectionPromptEn": "Did your words today bring comfort and reconciliation, or inflict wounds and irritation?",
+          "suggestedVirtue": "Nói lời chân thành khen ngợi phẩm hạnh hoặc hòa giải một khúc mắc",
+          "suggestedVirtueEn": "Speak sincere praise of another's virtue or reconcile a misunderstanding"
+        }
+      ]
+    },
+    {
+      "stageIndex": 3,
+      "title": "Chặng 3: Ý Thanh Tịnh — Tứ Vô Lượng Tâm & Chánh Kiến",
+      "titleEn": "Phase 3: Pure Mind — Four Immeasurables & Right View",
+      "paliTitle": "Manokamma Kusala",
+      "objective": "Đoạn trừ tham lam, dập tắt sân hận oán thù, an trú Chánh kiến và mở rộng Tứ Vô Lượng Tâm.",
+      "objectiveEn": "Severing greed, extinguishing anger and resentment, abiding in Right View and radiating the Four Brahmavihāras.",
+      "lessons": [
+        {
+          "id": "deva_l03",
+          "lessonNumber": 3,
+          "title": "Bài 3: Ý Nghiệp Tối Thắng — Tứ Vô Lượng Tâm & Chánh Kiến",
+          "titleEn": "Lesson 3: Supreme Mental Karma — Four Immeasurables & Right View",
+          "paliTitle": "Tevijja Sutta (DN 13) & Cunda Sutta (AN 10.176)",
+          "summary": "Ý dẫn đầu mọi pháp. Ba thiện nghiệp của Ý kết hợp tâm Từ Bi Hỷ Xả mở toang cánh cửa cộng trú cùng chư Thiên và Phạm Thiên.",
+          "summaryEn": "Mind is the forerunner of all states. Three wholesome mental deeds joined with the Four Immeasurables unlock rebirth in celestial and Brahmā realms.",
+          "suttaUid": "dn13",
+          "suttaTitle": "Kinh Tam Minh (DN 13)",
+          "suttaTitleEn": "The Threefold Knowledge (DN 13)",
+          "recommendedRoutineId": "r_metta",
+          "practiceGuide": "Tọa thiền rải tâm Từ (Mettā) khắp mười phương và khởi tâm vui mừng (Muditā) khi thấy người khác gặt hái phước báu.",
+          "practiceGuideEn": "Meditate radiating loving-kindness in all directions and cultivate sympathetic joy when witnessing others flourish.",
+          "reflectionPrompt": "Khi chứng kiến người khác thành công hơn mình, tâm bạn đang gợn sóng đố kỵ hay tràn ngập niềm hoan hỷ chân thật?",
+          "reflectionPromptEn": "When witnessing others succeed beyond you, does envy ripple in your heart or genuine sympathetic joy rejoice?",
+          "suggestedVirtue": "Mừng vui chân thành trước niềm vui hay thành tựu của một người xung quanh",
+          "suggestedVirtueEn": "Rejoice sincerely in the good fortune and success of someone around you"
+        }
+      ]
+    }
+  ]
+}

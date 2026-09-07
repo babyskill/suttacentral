@@ -1,0 +1,64 @@
+{
+  "lessonId": "pancasila_l06",
+  "curriculumId": "pancasila_human",
+  "lessonNumber": 6,
+  "stageIndex": 5,
+  "title": "Bài 6: Giới 5 — Bảo Vệ Ngọn Đèn Tỉnh Giác & Trí Tuệ",
+  "paliTitle": "Sigālovādasutta (DN 31)",
+  "suttaRef": {
+    "uid": "dn31",
+    "title": "Kinh Giáo Thọ Thi-ca-la-việt (DN 31 - Sáu Hiểm Họa Của Rượu)",
+    "excerptPali": "Surāmerayamajjapamādaṭṭhānā veramaṇīsikkhāpadaṃ samādiyāmi... Cha khome, gahapatiputta, ādīnavā majjapamādaṭṭhānānuyoge: sandiṭṭhikā dhanajānī, kalahappavaḍḍhanī, rogānaṃ āyatanaṃ, akittisañjananī, kopīnanidaṃsanī, paññāya dubbalikaraṇītvatta.",
+    "excerptTranslation": "Con xin vâng giữ điều học là kiêng tránh uống rượu, bia và các chất say gây buông lung... Này gia chủ tử, có sáu điều hiểm họa của việc đam mê rượu chè: tổn thất tài sản hiện tiền, tăng trưởng tranh chấp cãi cọ, là mầm mống sinh ra bệnh tật, mang tiếng xấu xa đồn khắp, làm trơ trẽn lộ bày thân thể lõa lồ, và làm suy yếu trí tuệ."
+  },
+  "pariyatti": {
+    "shortSummary": "Chất say là cửa ngõ phá hỏng toàn bộ 4 giới đầu tiên. Giới thứ năm không chỉ cấm rượu bia mà là sự bảo vệ tối thượng cho ngọn đèn Tỉnh Giác (Sampajañña) và Trí Tuệ (Paññā). Giữ gìn một bộ não trong sáng, minh mẫn để làm chủ vận mệnh của chính mình.",
+    "coreConcepts": [
+      {
+        "term": "Không Say Sưa Buông Lung",
+        "pali": "Surāmerayamajjapamādaṭṭhānā Veramaṇī",
+        "definition": "Sự kiêng tránh rượu nấu (Surā), rượu men (Meraya) và tất cả các chất gây say nghiện dẫn đến trạng thái phóng dật, mất kiểm soát hành vi."
+      },
+      {
+        "term": "Phóng Dật (Mất Tự Chủ)",
+        "pali": "Pamāda",
+        "definition": "Sự mê muội, thất niệm, buông lỏng phòng hộ tâm; cội nguồn của mọi tội lỗi và thoái đọa trong sinh tử luân hồi."
+      },
+      {
+        "term": "Chánh Niệm & Tỉnh Giác",
+        "pali": "Sati & Sampajañña",
+        "definition": "Khả năng ghi nhận thực tại rõ ràng và sự sáng suốt thấu triệt hành động đang diễn ra; ngọn hải đăng soi sáng tâm thức con người."
+      },
+      {
+        "term": "Sáu Hiểm Nguy Của Rượu",
+        "pali": "Cha Ādīnavā",
+        "definition": "Sáu hiểm họa Đức Phật chỉ rõ: 1. Hao tổn tiền của; 2. Tăng tranh cãi ẩu đả; 3. Sinh nhiều bệnh tật; 4. Mất uy tín danh dự; 5. Mất hổ thẹn làm trò cười; 6. Làm liệt não và suy thoái trí tuệ."
+      }
+    ],
+    "expositionMarkdown": "### 1. Tại Sao Giới Thứ Năm Lại Là 'Chiếc Khóa Chốt'?\n\nBốn giới đầu (không sát, không trộm, không tà hạnh, không nói dối) là những chuẩn mực đạo đức nền tảng. Nhưng một người dù bình thường hiền lành đến đâu, một khi đã uống rượu say mèm hoặc dùng chất kích thích thì **tất cả 4 giới kia đều có thể bị phá vỡ chỉ trong một đêm**:\n- Say rượu dễ nổi cơn điên cuồng đâm chém giết người (Phạm Giới 1).\n- Say rượu sinh liều lĩnh trộm cắp, cướp giật (Phạm Giới 2).\n- Say rượu mất kiểm soát dục vọng, cưỡng hiếp, tà dâm (Phạm Giới 3).\n- Say rượu nói năng lảm nhảm, chửi bới, dối trá không biết ngượng (Phạm Giới 4).\n\nChính vì vậy, Giới thứ năm là chiếc **chốt an toàn** bảo vệ toàn bộ ngôi nhà đạo đức của con người.\n\n---\n\n### 2. Sáu Mũi Tên Độc Của Rượu Bia Theo Lời Phật Dạy\n\nTrong **Kinh Sigālovāda (DN 31)**, Đức Phật phân tích rành mạch 6 tác hại tàn khốc:\n1. **Sandiṭṭhikā dhanajānī (Hao tài tốn của):** Tiền bạc nhọc nhằn kiếm được bị nướng vào những chầu nhậu vô bổ, thuốc men chữa bệnh gan thận.\n2. **Kalahappavaḍḍhanī (Tăng trưởng tranh chấp):** Bao nhiêu vụ ẩu đả, án mạng, bạo lực gia đình đều bắt nguồn từ chén rượu bàn nhậu.\n3. **Rogānaṃ āyatanaṃ (Mầm mống bệnh tật):** Xơ gan, ung thư, tai biến mạch máu não, tàn phá hệ thần kinh.\n4. **Akittisañjananī (Mất uy tín, mang tiếng xấu):** Người say sưa không còn được ai tín nhiệm giao phó trọng trách.\n5. **Kopīnanidaṃsanī (Mất thể diện, trơ trẽn):** Nói năng bậy bạ, nôn mửa dơ dáy, hành xử như kẻ điên dại giữa chốn đông người.\n6. **Paññāya dubbalikaraṇī (Làm suy đồi trí tuệ):** Đây là điều đáng sợ nhất. Rượu bia hủy diệt hàng triệu tế bào thần kinh, làm thui chột trí nhớ và dập tắt hoàn toàn ánh sáng trí tuệ.\n\n---\n\n### 3. Chất Say Thời Hiện Đại & Bản Lĩnh Từ Chối\n\nThời nay, chất gây mê muội không chỉ có rượu cồn:\n- Ma túy, bóng cười, thuốc lắc, thuốc lá điện tử... đang tàn phá thế hệ trẻ.\n- Sự nghiện ngập game, cờ bạc trực tuyến, mạng xã hội độc hại khiến tâm trí luôn trong trạng thái đờ đẫn, thất niệm (*Pamāda*).\n\nĐức Phật dạy: **Người có trí tuệ là người biết trân quý sự sáng suốt của chính mình**.\nTừ chối chén rượu trên bàn nhậu không phải là 'kém giao tiếp', mà là biểu hiện của một nhân cách tự chủ, dũng cảm và có trách nhiệm với sinh mạng của bản thân, gia đình và cộng đồng.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng 'uống một chút cho vui, để dễ làm ăn tiếp khách thì không phạm giới'.",
+        "correction": "Đức Phật không phân biệt uống nhiều hay ít. Một giọt rượu độc cũng là chất độc. Việc nới lỏng giới luật để thỏa hiệp với thói quen xấu chính là kẽ hở để tâm buông lung ngày càng lấn tới."
+      },
+      {
+        "mistake": "Nghĩ rằng uống rượu một mình ở nhà, không quậy phá ai thì không có tội gì.",
+        "correction": "Tội lớn nhất của Giới thứ năm là tự làm tổn thương chính bộ não và hạt giống trí tuệ của mình. Một người tự đầu độc sự tỉnh thức của mình thì đời sau sẽ phải chịu quả báo sinh ra bị đần độn, câm ngọng, điên loạn hoặc sinh vào loài súc sinh ngu tối."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Kiên Quyết Nói 'Không':** Rèn luyện dũng khí từ chối rượu bia trong các buổi tiệc tùng, dứt khoát không để người khác ép uống. Thay thế bằng nước lọc hoặc trà thảo mộc.\n2. **Thanh Lọc Thói Quen Nghiện Ngập:** Nhận diện và cai nghiện các thói quen làm mê muội đầu óc (chơi game thâu đêm, thuốc lá, mạng xã hội vô độ).\n3. **Tìm Kiếm Niềm Vui Thanh Tịnh:** Thay vì giải tỏa stress bằng bia rượu, hãy tìm đến sự thư giãn đích thực trong bước chân thiền hành, hít thở chánh niệm và đọc sách Chánh Pháp.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Giữ tâm trí hoàn toàn tỉnh táo, sáng suốt, kiên quyết từ bỏ chất gây say và bảo hộ Chánh niệm."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn có đang tìm kiếm sự giải khuây từ rượu bia hay các chất gây say nghiện để trốn tránh thực tại không? Bạn có sẵn sàng giữ trọn vẹn sự tỉnh thức để đối diện với mọi thăng trầm của cuộc đời?",
+    "selfAuditChecklist": [
+      "Tôi hoàn toàn kiêng tránh rượu bia và các chất gây say làm mất kiểm soát tâm trí.",
+      "Tôi có đủ bản lĩnh từ chối những lời rủ rê, ép buộc nhậu nhẹt ngoài xã hội.",
+      "Tôi bảo vệ bộ não và sự sáng suốt của mình như bảo vệ ngọn đèn trí tuệ quý giá.",
+      "Tôi cảm nhận được niềm an lạc, tự do đích thực của một tâm hồn tỉnh thức, không nghiện ngập."
+    ]
+  }
+}

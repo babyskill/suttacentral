@@ -1,0 +1,64 @@
+{
+  "lessonId": "sotapatti_l04",
+  "curriculumId": "sotapatti_magga",
+  "lessonNumber": 4,
+  "stageIndex": 2,
+  "title": "Khổ Thánh Đế — Nhìn Thẳng Bản Chất Bất Toàn",
+  "paliTitle": "Dukkha Sacca (SN 56.11 & MN 141)",
+  "suttaRef": {
+    "uid": "sn56.11",
+    "title": "Kinh Chuyển Pháp Luân & Kinh Phân Biệt Sự Thật (SN 56.11 / MN 141)",
+    "excerptPali": "Idaṁ kho pana, bhikkhave, dukkhaṁ ariyasaccaṁ: jātipi dukkhā, jarāpi dukkhā, maraṇampi dukkhaṁ, sokaparidevadukkhadomanassupāyāsāpi dukkhā, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṁ na labhati tampi dukkhaṁ; saṅkhittena pañcupādānakkhandhā dukkhā.",
+    "excerptTranslation": "Đây là Thánh Đế về Khổ, này các Tỳ-kheo: Sinh là khổ, già là khổ, chết là khổ; sầu, bi, khổ, ưu, não là khổ; oán táng hội (phải gần gũi điều mình ghét) là khổ; ái biệt ly (phải xa lìa điều mình yêu) là khổ; cầu bất đắc (mong muốn mà không được) là khổ; tóm lại, năm thủ uẩn là khổ."
+  },
+  "pariyatti": {
+    "shortSummary": "Chân lý đầu tiên trong Tứ Diệu Đế vạch trần bản chất bất toàn, không trọn vẹn và không thể làm chỗ dựa an toàn vĩnh cửu của mọi hiện tượng hữu vi. Phận sự của người học Phật đối với Khổ Thánh Đế là Liễu Tri (Pariññeyya) chứ không phải trốn chạy hay sợ hãi.",
+    "coreConcepts": [
+      {
+        "term": "Bản chất Khổ",
+        "pali": "Dukkha",
+        "definition": "Không chỉ đơn thuần là nỗi đau đớn thể chất hay phiền muộn tâm lý; Dukkha chỉ tính chất bất toại nguyện, bất an, chịu áp lực biến hoại liên tục của vạn pháp do duyên sinh."
+      },
+      {
+        "term": "Ba cấp độ Khổ",
+        "pali": "Dukkhatā Tīṇi",
+        "definition": "1. Dukkha-dukkhatā (Khổ khổ: đau đớn thể xác, bệnh tật); 2. Vipariṇāma-dukkhatā (Hoại khổ: nỗi đau khi niềm vui và đối tượng yêu thích biến mất); 3. Saṅkhāra-dukkhatā (Hành khổ: sự bất an nội tại của các pháp duyên hợp luôn sinh diệt)."
+      },
+      {
+        "term": "Khổ cần phải Liễu tri",
+        "pali": "Dukkhaṁ Pariññeyyaṁ",
+        "definition": "Nhiệm vụ nhận thức trí tuệ: Đối với Khổ Thánh Đế, hành giả phải nhìn thấu suốt, phân tích tường tận bản chất của nó, không trốn tránh bằng ảo tưởng hưởng thụ hay các nghi lễ huyền bí."
+      },
+      {
+        "term": "Ẩn dụ Hai Mũi Tên",
+        "pali": "Sallasutta Upamā",
+        "definition": "Mũi tên thứ nhất là cảm giác khó chịu vật lý tất yếu; mũi tên thứ hai là sự bực bội, than vãn, chống cự hay dính mắc tâm lý do bản ngã tạo tác. Người có trí chỉ nhận mũi tên thứ nhất, không trúng mũi tên thứ hai."
+      }
+    ],
+    "expositionMarkdown": "### 1. Tại Sao Đức Phật Dạy Khổ Đầu Tiên?\n\nTrong bài kinh đầu tiên chuyển Pháp luân (*Dhammacakkappavattana Sutta*), Đức Phật đã mở đầu bằng Thánh Đế về Khổ (*Dukkha Ariyasacca*). Tại sao Ngài không dạy ngay về an lạc Niết-bàn hay thiên giới?\n\nMột vị lương y tài ba khi chẩn bệnh cho bệnh nhân không thể huyễn hoặc họ rằng 'bạn hoàn toàn khỏe mạnh'. Muốn chữa dứt căn bệnh tử sinh, việc đầu tiên phải là **nhìn thẳng vào bệnh trạng, xác định đúng triệu chứng mà không lừa dối bản thân**.\n\nNhìn thấy Khổ không phải để chán nản hay bi lụy, mà là bước khai thị tối quan trọng để dập tắt ảo tưởng, giải phóng tâm thức khỏi sự bám víu mù quáng vào những thứ vốn dĩ vô thường.\n\n---\n\n### 2. Ba Tầng Chiều Sâu Của Dukkha\n\nNhiều người lầm tưởng 'Khổ' chỉ là khi bị ốm đau, nghèo đói hay tang tóc. Đức Phật phân tích Dukkha thành ba cấp độ vi tế:\n\n1. **Khổ khổ (*Dukkha-dukkhatā*):** Cơn đau đớn thô tháo trên thân thể và tâm lý (nhức răng, bệnh tật, vết thương, sự giận dữ). Cấp độ này ai cũng nhận thấy và sợ hãi.\n2. **Hoại khổ (*Vipariṇāma-dukkhatā*):** Cơn đau xuất phát từ chính niềm vui bị tan vỡ. Khi ta mua được chiếc xe mới, tìm được người yêu lý tưởng hay đạt chức vụ cao, ta thấy hạnh phúc. Nhưng vì vạn pháp vô thường (*Anicca*), khi chiếc xe hư hỏng, tình cảm phai nhạt, địa vị mất đi, nỗi khổ ập đến tương đương với mức độ ta đã từng dính mắc.\n3. **Hành khổ (*Saṅkhāra-dukkhatā*):** Đây là cấp độ sâu sắc nhất chỉ có bậc Thánh và người có tuệ quán mới thấu tỏ. Tất cả các trạng thái tồn tại hữu vi, ngay cả trạng thái thiền định thanh tịnh, đều do các nhân duyên kết hợp mà thành. Đã do duyên hợp thì luôn bị cưỡng bách bởi sự sinh - trụ - dị - diệt, không bao giờ đem lại sự an toàn vĩnh cửu.\n\n---\n\n### 3. Mũi Tên Thứ Nhất và Mũi Tên Thứ Hai\n\nTrong **Kinh Mũi Tên (Sallasutta — SN 36.6)**, Đức Phật dạy:\n- Người phàm phu khi bị một cảm giác đau đớn trên thân xúc chạm (mũi tên thứ nhất), liền than khóc, tức giận, lo âu, tự hỏi 'sao tôi lại khổ thế này?'. Đó là họ tự bắn tiếp **mũi tên thứ hai** vào chính mình.\n- Bậc Thánh đệ tử khi thân thể bị đau ốm, chỉ ghi nhận rõ ràng cảm giác đau đớn ấy như nó đang là trên thân. Tâm Ngài không chống cự, không sợ hãi, không oán trách. Ngài chịu mũi tên thể xác, nhưng không bao giờ chịu mũi tên thứ hai của tâm lý.\n\n*Trong đời sống hiện đại:* Khi dự án thất bại, sức khỏe suy giảm, hay bị đồng nghiệp chỉ trích, hoàn cảnh khách quan chỉ là mũi tên thứ nhất. Sự giận dữ, dằn vặt, tự ái và mất ngủ chính là mũi tên thứ hai do bản ngã tự găm vào ngực mình.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng đạo Phật là bi quan, yếm thế, lúc nào cũng thấy cuộc đời là bể khổ đen tối.",
+        "correction": "Đạo Phật không bi quan (pessimism) cũng không lạc quan hão huyền (optimism). Đạo Phật là 'Như Thật Tri Kiến' (Realism) — nhìn cuộc đời đúng như bản chất thực của nó. Đức Phật chỉ ra Khổ nhưng đồng thời chỉ ra Diệt Khổ (Niết-bàn) và Con Đường Diệt Khổ (Bát Chánh Đạo). Đó là con đường sáng suốt và giải thoát nhất."
+      },
+      {
+        "mistake": "Nghĩ rằng muốn hết khổ thì phải cầu xin tha lực, thần linh, hay mong Đức Phật 'gánh tội' ban phước trừ khổ cho mình.",
+        "correction": "Phận sự đối với Khổ Thánh Đế là Liễu Tri (Pariññeyya) bằng chính trí tuệ của mình. Không một đấng thần linh hay tha lực nào có thể liễu tri giùm ta, cũng như không ai có thể ăn giùm để ta no bụng. Sự an lạc thực sự chỉ đến khi ta tự mình nhìn thấu bản chất của Khổ và buông xả nguồn gốc của nó là Tham ái."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Tĩnh Tọa Quán Thọ Khổ (15 phút):** Ngồi tĩnh lặng theo dõi hơi thở. Khi thân xuất hiện cảm giác mỏi lưng, tê chân hay ngứa ngáy, không vội cựa quậy. Hãy quan sát cảm giác đó như một tiến trình vật lý khách quan, không thêm thắt tâm lý bực tức (từ chối mũi tên thứ hai).\n2. **Nhận Diện Khổ Tâm Trong Công Việc:** Khi gặp áp lực deadline hoặc lời phê bình, hít thở sâu và tự hỏi: 'Cái gì đang khó chịu ở đây? Có phải cái Tôi đang bị va chạm?'.\n3. **Thực Hành Xả Ly:** Không bám víu vào những điều như ý, vì biết chắc chắn rằng hạnh phúc trần thế luôn gắn liền với hoại khổ.",
+    "recommendedRoutineId": "r_breath",
+    "suggestedVirtue": "Nhìn thẳng vào sự thật bất toàn, đón nhận thử thách với tâm không than vãn oán hờn."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hôm nay bạn đã nhận lãnh bao nhiêu 'mũi tên thứ hai'? Khi gặp một cảm giác khó chịu trên thân hoặc việc bất như ý ngoài ý muốn, tâm bạn phản ứng bằng sự chống cự oán trách hay bằng sự liễu tri tỉnh giác?",
+    "selfAuditChecklist": [
+      "Tôi đã nhận diện được sự khác nhau giữa cơn đau thể xác và sự đau khổ tâm lý.",
+      "Tôi không còn xem Khổ là điều xui xẻo cá nhân, mà thấy đó là tính chất tự nhiên của các pháp duyên sinh.",
+      "Tôi đã kiên nhẫn quan sát một cảm giác khó chịu mà không khởi tâm sân hận.",
+      "Tâm tôi có thêm sự bình thản và bao dung khi đối diện với các biến cố đời thường."
+    ]
+  }
+}

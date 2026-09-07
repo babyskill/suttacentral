@@ -1,0 +1,64 @@
+{
+  "lessonId": "sotapatti_l01",
+  "curriculumId": "sotapatti_magga",
+  "lessonNumber": 1,
+  "stageIndex": 1,
+  "title": "Four Factors for Stream-Entry — The Initial Seeds",
+  "paliTitle": "Sotāpattiyaṅga Sutta (SN 55.5)",
+  "suttaRef": {
+    "uid": "sn55.5",
+    "title": "Factors for Stream-Entry (Sāriputtasutta — SN 55.5)",
+    "excerptPali": "Cattārome, āvuso, sotāpattiyaṅgā. Katame cattāro? Sappurisasaṁsevo, saddhammassavanaṁ, yonisomanasikāro, dhammānudhammapaṭipatti — ime kho, āvuso, cattāro sotāpattiyaṅgā\"ti.",
+    "excerptTranslation": "Friend, these four are factors for stream-entry. Which four? Associating with true persons, hearing the true Dhamma, wise reflection, and practicing in accordance with the Dhamma — these four, friend, are factors for stream-entry."
+  },
+  "pariyatti": {
+    "shortSummary": "The four indispensable prerequisites for an ordinary person to enter the stream of the Noble Ones (Stream-Entry): Associating with virtuous persons, Hearing the authentic Dhamma, Wise reflection (Yonisomanasikāra), and Practicing in complete alignment with the Dhamma.",
+    "coreConcepts": [
+      {
+        "term": "Associating with True Persons",
+        "pali": "Sappurisasaṃseva",
+        "definition": "Actively seeking companionship, guidance, and inspiration from spiritually mature persons anchored in moral integrity, wisdom, and the Pāḷi Canon."
+      },
+      {
+        "term": "Hearing the True Dhamma",
+        "pali": "Saddhammassavana",
+        "definition": "Listening to and studying the unadulterated, pristine teachings of the Buddha (Tipiṭaka) with an open and receptive mind free from superstition."
+      },
+      {
+        "term": "Wise Reflection",
+        "pali": "Yonisomanasikāra",
+        "definition": "Reflective attention directed to the source (yoni); examining phenomena through the universal characteristics of Impermanence (Anicca), Suffering (Dukkha), Non-Self (Anattā), and Conditionality."
+      },
+      {
+        "term": "Practicing in Accordance with Dhamma",
+        "pali": "Dhammānudhammapaṭipatti",
+        "definition": "Putting the Dhamma into actual experiential practice gradually and consistently, cultivating virtue, mindfulness, and insight leading directly to liberation."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Meaning of Stream-Entry (*Sotāpatti*)\n\nIn Early Theravāda Buddhism, the **Sotāpanna** (Stream-Enterer) is the first of the four grades of Noble Disciples (*Ariya-puggala*). The word *Sota* means 'stream', and *Āpatti* means 'entering upon'. Stream-Entry signifies entering the irreversible current of the Noble Eightfold Path that flows straight into the ocean of *Nibbāna*.\n\nThe Buddha declared that a Stream-Enterer is forever delivered from rebirth in the four lower realms of woe (*Apāya*: hell, hungry ghost realm, animal realm, asura realm), is incapable of falling away from the path, and is destined for full awakening in at most seven lifetimes among humans or devas.\n\nYet, how does one sow the seeds of Stream-Entry amidst the distractions and delusions of worldly life?\n\nIn the **Sāriputtasutta (SN 55.5)**, the Venerable Sāriputta expounded the four essential limbs to the Blessed One:\n\n---\n\n### 2. The Four Pillars of Awakening\n\n#### I. Associating with True Persons (*Sappurisasaṃseva*)\nHuman consciousness is profoundly conditioned by its social and mental atmosphere. If we associate with heedless, unprincipled people, our minds passively internalize greed, envy, and delusion. Conversely, keeping company with noble friends (*Kalyāṇamitta*) — those whose lives exemplify virtue, content, and deep Dhamma insight — creates an inspiring, tranquil refuge for our practice.\n\n*In the Digital Age:* True persons are not only monastics we encounter physically, but also the pristine voice of the Buddha preserved in the Pāḷi Nikāyas and reputable, orthodox teachers. Consciously prune your social feeds. Turn away from voices cultivating spiritual fear, commercial rituals, or astrology.\n\n#### II. Hearing the True Dhamma (*Saddhammassavana*)\nThe True Dhamma (*Saddhamma*) is good in the beginning, good in the middle, and good in the end. Hearing the True Dhamma means steeping the mind in the Four Noble Truths, Dependent Origination, and the Three Characteristics as taught in the Early Suttas, rather than entertaining esoteric speculations or miracle claims.\n\nListen with a mind like an empty vessel, dropping subjective dogmas to let the timeless truth resonate.\n\n#### III. Wise Reflection (*Yonisomanasikāra*)\nThis is the pivotal hinge converting external learning into internal wisdom. *Yoni* signifies root or origin; *Yonisomanasikāra* literally means bringing attention to the root cause.\n- When facing misfortune, the unwise mind (*Ayonisomanasikāra*) reacts with: 'Why is this happening to me? Who harmed me? Which planet or entity cursed me?'.\n- In contrast, the wise mind investigates: 'Due to what condition has this unpleasant feeling arisen? Is it permanent or changing? What craving or identification is causing pain here?'.\n\nThrough wise reflection, the lamp of Right View is ignited, dispelling the darkness of confusion and superstitious anxiety.\n\n#### IV. Practicing in Accordance with Dhamma (*Dhammānudhammapaṭipatti*)\nKnowledge without practice is like a cowherd counting another's cattle. Practicing in accordance with Dhamma means embodying the teachings: maintaining pure ethical precepts (*Sīla*), guarding the sense faculties, establishing mindfulness (*Sati*), and cultivating tranquility and insight (*Samatha-Vipassanā*). Every action, breath, and choice aligns seamlessly with the Noble Eightfold Path.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing that one can attain Stream-Entry merely through sitting meditation or praying to the Buddha, without ever studying or understanding doctrinal Dhamma.",
+        "correction": "The Buddha explicitly designated Hearing the True Dhamma and Wise Reflection as mandatory prerequisites. Without an accurate doctrinal foundation (Pariyatti), one inevitably falls into wrong concentration, mystical illusions, or premature spiritual conceit."
+      },
+      {
+        "mistake": "Thinking that a 'True Person' (Sappurisa) must exhibit miraculous powers or predict the future.",
+        "correction": "In Theravāda Buddhism, a True Person is recognized strictly by ethical purity (Sīla), absence of greed, hatred, and delusion, and steadfast grounding in the Four Noble Truths, never by psychic tricks or divination."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Morning Information Purification:** Spend your first 10 waking minutes reading a brief passage from the Saṃyutta or Majjhima Nikāya instead of opening social media notifications.\n2. **Wise Reflection Throughout the Day:** Whenever irritation, anxiety, or craving arises, pause for 3 conscious breaths and ask: 'Under what conditions has this arisen? Is it permanent? Is it wise to identify with this?'.\n3. **Routine Integration:** Anchor this practice in your morning meditation routine with 10 minutes of silent contemplation on conditionality.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Today, exercise Wise Reflection (Yonisomanasikāra) in all communications and workplace responsibilities."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did your mind today respond to challenges out of habitual ego reaction, or did it discern conditions and impermanence through wise reflection? How much time did you dedicate to authentic Dhamma contemplation?",
+    "selfAuditChecklist": [
+      "I engaged directly with authentic Buddhist suttas or noble teachings today.",
+      "I caught at least one unwise mental reaction and consciously reframed it with wise reflection.",
+      "I abstained from gossip, cynical social media feeds, and superstitious media.",
+      "I felt an inner tranquility resting upon the Dhamma rather than external validation."
+    ]
+  }
+}

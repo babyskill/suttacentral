@@ -1,0 +1,64 @@
+{
+  "lessonId": "layman_l04",
+  "curriculumId": "ghihattha_layman",
+  "lessonNumber": 4,
+  "stageIndex": 4,
+  "title": "Lesson 4: Worshipping Six Directions — Full Presence & Social Ethics",
+  "paliTitle": "Sigālovāda Sutta (DN 31)",
+  "suttaRef": {
+    "uid": "dn31",
+    "title": "Advice to Sigāla (Dīgha Nikāya 31)",
+    "excerptPali": "Mātāpitaro pubbā disā, ācariyā dakkhiṇā disā; Puttadārā pacchimā disā, mittāmaccā ca uttarā; Dāsakammakarā heṭṭhā, uddhaṃ samaṇabrāhmaṇā; Etā disā namasseyya, alanto kule gihī.",
+    "excerptTranslation": "Mother and father are the East, teachers are the South, wife and children are the West, friends and companions are the North, servants and workers are Below, spiritual seekers and brahmins are Above; A wise householder should honor these six directions."
+  },
+  "pariyatti": {
+    "shortSummary": "The crown jewel of Buddhist sociology: Transforming empty ritual worship into six reciprocal ethical duties. Overcoming 'Phubbing' (phone-snubbing loved ones) to dwell in authentic presence during every human encounter.",
+    "coreConcepts": [
+      {
+        "term": "Worshipping Six Directions",
+        "pali": "Chabbisā Namakkāra",
+        "definition": "The six cornerstone relationships of human life: East (Parents), South (Teachers), West (Family), North (Friends), Below (Workers), Above (Spiritual guides)."
+      },
+      {
+        "term": "Reciprocal Duties",
+        "pali": "Kataveditā & Kattabbakamma",
+        "definition": "Two-way ethical responsibilities; never demanding one-sided rights without fulfilling duties of protection, care, and respect."
+      },
+      {
+        "term": "Full Presence",
+        "pali": "Satisampajañña",
+        "definition": "Being 100% mentally present with loved ones in the here-and-now, not allowing digital screens to fracture emotional connection."
+      },
+      {
+        "term": "Four Grounds of Sociability",
+        "pali": "Cattāri Saṅgahavatthūni",
+        "definition": "Generosity (Dāna), Gentle speech (Piyavācā), Beneficial action (Atthacariyā), and Equality (Samānattatā)—the adhesive of harmonious society."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Riverbank Encounter: The Buddha and Young Sigāla\n\nAt dawn near Rājagaha, the Buddha encountered young Sigāla with soaking hair and dripping garments, reverently bowing to the six quarters of space: East, South, West, North, Below, and Above.\n\nThe Buddha asked: *'Why do you worship these six directions?'*. Sigāla explained that his dying father had instructed him to do so to ward off evil.\n\nThe Blessed One kindly instructed:\n> *'Young man, in the discipline of the noble ones, one does not simply bow to empty space. The six directions represent the six sacred relationships of human life, which a householder must honor and protect with full devotion!'*\n\n---\n\n### 2. Six Sets of Reciprocal Duties\n\nBuddhist sociology is never a one-way authoritarian street, but mutual respect and loving duty:\n\n1. **The East (Parents ↔ Children):**\n   - Children: Support parents, manage household burdens, preserve family lineage, protect inheritance, make offerings on their behalf after death.\n   - Parents: Restrain children from evil, encourage them in good, train them in a profession, arrange suitable marriage, hand over inheritance in due time.\n\n2. **The South (Teachers ↔ Students):**\n   - Students: Stand up respectfully, attend to them, listen attentively, serve diligently.\n   - Teachers: Instruct thoroughly, ensure mastery, introduce them to mentors, provide safety and guidance.\n\n3. **The West (Husband ↔ Wife):**\n   - Husband: Treat wife with courtesy, never despise her, remain faithful, hand over domestic authority, provide adornments.\n   - Wife: Manage household chores, treat both families hospitably, remain faithful, protect family wealth, be energetic and diligent.\n\n4. **The North (Friends ↔ Friends):**\n   - Share gifts, speak kindly, assist in need, remain loyal in misfortune, protect family when away.\n\n5. **Below (Employers ↔ Workers):**\n   - Employers: Assign work according to capacity, provide adequate wages, care for health, share bonuses, grant timely rest.\n   - Workers: Arise before the master, rest after, take only what is given, work meticulously, preserve employer's reputation.\n\n6. **Above (Householders ↔ Monastics):**\n   - Householders: Maintain loving bodily, verbal, and mental deeds, keep doors open, provide material requisites.\n   - Monastics: Dissuade from evil, guide toward good, radiate loving-kindness, reveal new Dhamma teachings, show the path to liberation.\n\n---\n\n### 3. Healing the Modern Plague of 'Phubbing'\n\nA contemporary crisis fracturing these six directions is **'Phubbing' (Phone + Snubbing: ignoring present companions to stare at a smartphone)**:\n- Sitting with elderly parents while scrolling feeds is an unconscious act of disrespect.\n- Staring at notifications during dinner with family slowly erodes intimacy and trust.\n\nA practitioner must cultivate **Full Presence (*Satisampajañña*)**: When with family or colleagues, be fully there with eyes, ears, and an attentive heart.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Thinking that spiritual seekers should detach from family duties and neglect domestic obligations.",
+        "correction": "DN 31 proves that domestic responsibility is the primary training ground for a lay disciple. True liberation begins with fulfilling one's duties as an exemplary child, spouse, parent, and citizen."
+      },
+      {
+        "mistake": "Believing that employers have the right to exploit employees endlessly as long as wages are paid.",
+        "correction": "The Buddha founded workplace ethics 2600 years ago: Assigning reasonable workloads, providing healthcare support, sharing profits, and respecting human dignity."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Institute a 'Device-Free Family Dinner' policy: Put all smartphones out of sight during meals. Give 100% loving attention to listening and speaking with family members.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Perform an act of thoughtful service or express deep appreciation to your spouse or parents without being asked"
+  },
+  "pativedha": {
+    "reflectionPrompt": "When in the company of loved ones today, were you authentically present with them, or was your mind held hostage by a glowing screen?",
+    "selfAuditChecklist": [
+      "I remain fully present, never letting my smartphone interrupt intimate conversations with loved ones.",
+      "I honor marital fidelity, respect, and equitably share life's burdens with my spouse.",
+      "I treat colleagues, staff, and service workers with genuine fairness, generosity, and respect.",
+      "I reverently support and listen to awakened monastics who preserve the true Dhamma."
+    ]
+  }
+}

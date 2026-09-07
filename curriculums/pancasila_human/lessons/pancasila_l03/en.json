@@ -1,0 +1,64 @@
+{
+  "lessonId": "pancasila_l03",
+  "curriculumId": "pancasila_human",
+  "lessonNumber": 3,
+  "stageIndex": 2,
+  "title": "Lesson 3: 2nd Precept — Financial Integrity & Right Livelihood",
+  "paliTitle": "Sigālovādasutta (DN 31)",
+  "suttaRef": {
+    "uid": "dn31",
+    "title": "Advice to Sigāla (DN 31 - Dīgha Nikāya)",
+    "excerptPali": "Adinnādānā veramaṇīsikkhāpadaṃ samādiyāmi... Yañca bhoge adhammena, na ca sādhūti maññati; Dhammena samataṃ patto, kalyāṇe niviṭṭho sadā... Anavajjasukhaṃ vindati.",
+    "excerptTranslation": "I undertake the training rule to abstain from taking what is not given... One does not consider unrighteous wealth as beneficial; achieving balance through the Dhamma, ever established in virtue... one enjoys the bliss of blamelessness."
+  },
+  "pariyatti": {
+    "shortSummary": "The second precept requires flawless integrity in money, time, and responsibility: never taking what is not freely given. Grounding your career in Right Livelihood (Sammā Ājīva) and cultivating generosity (Cāga) to eradicate covetousness.",
+    "coreConcepts": [
+      {
+        "term": "Abstaining from Taking What is Not Given",
+        "pali": "Adinnādānā Veramaṇī",
+        "definition": "Restraint from stealing, fraud, embezzlement, extortion, or appropriating any property belonging to individuals or the public without explicit consent."
+      },
+      {
+        "term": "Right Livelihood",
+        "pali": "Sammā Ājīva",
+        "definition": "Earning wealth through honest trades, avoiding harmful businesses (trading weapons, living beings, meat, intoxicants, and poisons)."
+      },
+      {
+        "term": "Generosity and Relinquishment",
+        "pali": "Cāga & Dāna",
+        "definition": "Open-handed generosity, willingly sharing resources and time to dismantle stinginess (Macchariya)."
+      },
+      {
+        "term": "Bliss of Blamelessness",
+        "pali": "Anavajjasukha",
+        "definition": "The profound peace of knowing that every penny earned is clean, untainted by deceit, exploitation, or theft."
+      }
+    ],
+    "expositionMarkdown": "### 1. Subtle Theft in the Modern World\n\nTheft today operates in sophisticated forms far beyond picking pockets:\n- **Intellectual Property Theft:** Pirating software, books, courses, and media without paying rightful dues.\n- **Theft of Corporate Time:** Collecting wages while idling, scrolling social media, or running personal side-hustles during work hours.\n- **Tax Fraud & Deceptive Commerce:** Hiding revenue, false invoicing, selling defective goods under misleading claims.\n- **Misuse of Public Property:** Diverting company assets, equipment, or supplies for personal private benefit.\n\nIn the law of Kamma, any unauthorized appropriation fueled by greed constitutes **Adinnādānā**.\n\n---\n\n### 2. Karmic Consequences & the Joy of Honesty\n\n- Habitual thieves and fraudsters descend into the **Hungry Ghost Realm (*Peta*)**, perpetually starved and destitute. If born as humans, they suffer chronic poverty, and whatever assets they amass are destroyed by fire, flood, fraud, or corrupt officials.\n- Conversely, unshakeable integrity produces stable prosperity, unassailable repute, and immunity from extortion.\n\nIn the **Aṇana Sutta (AN 4.62)**, the Buddha describes the 4 blisses of a layperson:\n1. *Atthisukha:* Joy of possessing wealth earned by honest sweat.\n2. *Bhogasukha:* Joy of utilizing wealth for family, hospitality, and merit.\n3. *Anaṇasukha:* Joy of debt-free independence.\n4. **Anavajjasukha (The Supreme Joy):** Joy of blamelessness—sleeping peacefully at night, free from guilt, fear of the law, or public disgrace.\n\n---\n\n### 3. The Antidote to Greed: Generosity (Dāna)\n\nThe most resilient shield for the second precept is cultivating generosity:\n- A mind accustomed to giving freely will never crave another's possessions.\n- Generosity expands the heart, dissolving the toxic clench of possessiveness.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing that taking small supplies from large corporations does no harm because 'they can afford it'.",
+        "correction": "Kamma is forged by volition in the mind. Coveting and taking public goods incurs severe karmic demerit because it violates collective trust."
+      },
+      {
+        "mistake": "Thinking one can earn wealth dishonestly and then 'launder bad kamma' through donations to temples.",
+        "correction": "Karmic fruit cannot be bribed. Ill-gotten wealth offered to monasteries produces polluted merit. Only righteous livelihood bears noble fruits."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Evening Integrity Audit:** Review your day: Did I misuse working hours? Did I accidentally retain anything not mine? Was my income fully blameless today?\n2. **Cultivate Generosity (Dāna):** Allocate a regular contribution to support authentic monastics, alleviate poverty, or assist transparent charities.\n3. **Digital License Cleansing:** Uninstall pirated cracked software and honor creators' copyrights.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Live with transparent financial integrity and practice open-hearted generosity."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Is there any asset or income in your possession that would cause you anxiety or shame if examined under the clear light of the Dhamma?",
+    "selfAuditChecklist": [
+      "I did not take or misuse any public or personal property without permission.",
+      "I fulfilled my work hours conscientiously, avoiding the theft of company time.",
+      "I respect copyright and intellectual property, refusing to support digital piracy.",
+      "I enjoy the profound peace of blameless, honest livelihood (Anavajjasukha)."
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "lessonId": "layman_l01",
+  "curriculumId": "ghihattha_layman",
+  "lessonNumber": 1,
+  "stageIndex": 1,
+  "title": "Lesson 1: 38 Highest Blessings — Guide to Mindful Living",
+  "paliTitle": "Mahāmaṅgala Sutta (Khp 5 / Snp 2.4)",
+  "suttaRef": {
+    "uid": "kp5",
+    "title": "The Great Discourse on Blessings (Khuddakapāṭha 5 / Sutta Nipāta 2.4)",
+    "excerptPali": "Asevanā ca bālānaṃ, paṇḍitānañca sevanā; Pūjā ca pūjanīyānaṃ, etaṃ maṅgalamuttamaṃ... Mātāpitu-upaṭṭhānaṃ, puttadārassa saṅgaho; Anākulā ca kammantā, etaṃ maṅgalamuttamaṃ.",
+    "excerptTranslation": "Not to associate with fools, to associate with the wise, to honor those worthy of honor: this is the supreme blessing... Supporting one's father and mother, cherishing wife and children, engaging in peaceful work: this is the supreme blessing."
+  },
+  "pariyatti": {
+    "shortSummary": "Dispelling superstitious omens, astrology, and rituals. The Buddha redefines 38 highest blessings as practical ethical living: choosing wise companions, honoring parents, nurturing family, and maintaining blameless livelihood.",
+    "coreConcepts": [
+      {
+        "term": "Supreme Blessing",
+        "pali": "Maṅgala",
+        "definition": "Wholesome ethical actions and mental qualities generating enduring auspiciousness, protection, and peace, free from mystic superstitions."
+      },
+      {
+        "term": "Avoiding Fools",
+        "pali": "Bālasaṅgama Pahāna",
+        "definition": "Decisively refraining from associating with, emulating, or indulging the habits of reckless, immoral, deceptive individuals."
+      },
+      {
+        "term": "Honoring Parents",
+        "pali": "Mātāpitu-upaṭṭhāna",
+        "definition": "The sacred duty of filial gratitude and care for aging parents, representing the greatest field of domestic merit."
+      },
+      {
+        "term": "Blameless Livelihood",
+        "pali": "Anākulā Kammantā",
+        "definition": "Work that is well-ordered, honest, diligent, lawful, and free from deceit or harm to society."
+      }
+    ],
+    "expositionMarkdown": "### 1. Historical Context: Twelve Years of Debate on \"Blessings\"\n\nIn ancient India, humanity yearned for divine protection and good fortune. For twelve years, deities and humans engaged in furious debate: *'What is the supreme blessing (Maṅgala)?'*:\n- Some believed it was seeing pleasant sights in the morning (birds, blooming lotuses).\n- Others argued it was hearing melodious sounds (flutes, praise).\n- A third group claimed it was touching auspicious objects or smelling sweet perfumes.\n\nAll these fell into superstitious bondage. Finally, a radiant celestial being descended to Jetavana Monastery to request the Blessed One to reveal the truth.\n\n---\n\n### 2. Redefining Blessing: Self-Forged Destiny\n\nThe Buddha responded with **thirty-eight concrete ethical virtues and practices**, ascending progressively like an evolutionary ladder of consciousness:\n\n1. **Foundational Social & Living Environment:**\n   - *Asevanā ca bālānaṃ*: Not associating with fools. You absorb the qualities of your companions; evil friends inevitably drag life into ruin.\n   - *Paṇḍitānañca sevanā*: Associating with the wise. Keeping company with the virtuous and clear-minded to be guided by wisdom.\n   - *Pūjā ca pūjanīyānaṃ*: Honoring those worthy of reverence (parents, noble mentors, awakened masters).\n\n2. **Domestic Stability & Righteous Work:**\n   - *Bāhusaccañca sippañca*: Vast learning and refined professional skill.\n   - *Vinayo ca susikkhito*: Cultivated self-discipline and orderly conduct.\n   - *Mātāpitu-upaṭṭhānaṃ*: Caring dutifully for father and mother in their twilight years.\n   - *Puttadārassa saṅgaho*: Cherishing, protecting, and honoring spouse and children.\n   - *Anākulā ca kammantā*: Engaging in work that is peaceful, organized, untainted by deceit or procrastination.\n\n3. **Spiritual Awakening:**\n   - Contentment, gratitude, patience, gentle speech, and listening to the Dhamma.\n   - The crowning blessing: Remaining unshaken, sorrowless, and serene when touched by the eight worldly winds (gain and loss, praise and blame, fame and disrepute, pleasure and pain).\n\n---\n\n### 3. The Suppabhāta Sutta (AN 3.155) — Shattering Astrological Superstition\n\nIn the **Suppabhāta Sutta (AN 3.155)**, the Buddha declared:\n> *'When beings conduct themselves well in body, speech, and mind in the morning, that morning is truly auspicious, lucky, and a good dawn for them.'*\n\nNo celestial constellation dictates human fate, and no astrologer or talisman can overturn karma. Purity of thought, word, and deed is the ultimate protective shield.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing that good fortune or misfortune is dictated by astrological charts, auspicious dates, or rituals.",
+        "correction": "The Buddha completely rejected fortune-telling. Wholesome deeds in body, speech, and mind constitute an auspicious day. Corrupt actions will reap disaster regardless of astrological timing."
+      },
+      {
+        "mistake": "Thinking that 'avoiding fools' means showing arrogance or contempt toward imperfect people.",
+        "correction": "A 'fool' (Bāla) in Dhamma is one who acts immorally, deceitfully, and promotes harmful views. Avoiding them protects our integrity while maintaining compassion, not self-righteous pride."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Resolve every morning: 'Today I shall do good with my body, speak kindness with my words, and harbor wholesome thoughts for all'. Clean your home space mindfully and offer a tangible act of love to parents.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Show heartfelt gratitude and assistance to your parents or an elderly benefactor"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Are you seeking peace and fortune from horoscopes and lucky charms, or from the moral integrity of your daily conduct?",
+    "selfAuditChecklist": [
+      "I have discarded reliance on fortune-telling, astrological predictions, and superstitious rituals.",
+      "I consciously protect my circle, avoiding companionship that encourages moral degradation.",
+      "I faithfully honor, care for, and listen to my parents with genuine warmth and respect.",
+      "My livelihood and daily work are blameless, honest, and inflict no harm on others."
+    ]
+  }
+}

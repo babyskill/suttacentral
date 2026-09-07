@@ -1,0 +1,64 @@
+{
+  "lessonId": "pancasila_l05",
+  "curriculumId": "pancasila_human",
+  "lessonNumber": 5,
+  "stageIndex": 4,
+  "title": "Bài 5: Giới 4 — Bốn Tiêu Chuẩn Của Lời Nói Chân Chính",
+  "paliTitle": "Ambalaṭṭhikārāhulovādasutta (MN 61)",
+  "suttaRef": {
+    "uid": "mn61",
+    "title": "Kinh Giáo Giới La-hầu-la Tại Rừng Ambalaṭṭhikā (MN 61 - Trung Bộ)",
+    "excerptPali": "Seyyathāpi, rāhula, yopi koci puriso sampajānamusāvāde na lajji, nāhaṃ tassa kiñci pāpaṃ kammaṃ akaraṇīyanti vadāmi. Tasmātiha te, rāhula, 'hasitabbāpāhaṃ na musā bhaṇissāmī'ti — evañhi te, rāhula, sikkhitabbaṃ.",
+    "excerptTranslation": "Này Rāhula, với người cố ý nói dối mà không có lòng hổ thẹn, Ta nói rằng không có điều ác nào mà người ấy không thể làm. Do vậy, này Rāhula: 'Dầu nói chơi, ta cũng không nói dối' — này Rāhula, người phải học tập như vậy!"
+  },
+  "pariyatti": {
+    "shortSummary": "Lời nói có sức mạnh kiến tạo hòa bình nhưng cũng có thể hủy diệt mọi niềm tin và sinh mạng. Giới thứ tư chỉ dạy dứt trừ 4 lỗi khẩu nghiệp (nói dối, đâm thọc, thô ác, phù phiếm) và thực hành 4 tiêu chuẩn của Chánh Ngữ: Chân thật, Hòa hợp, Dịu dàng và Hữu ích.",
+    "coreConcepts": [
+      {
+        "term": "Không Nói Dối",
+        "pali": "Musāvādā Veramaṇī",
+        "definition": "Sự kiêng tránh việc cố ý bóp méo sự thật, nói thấy thành không thấy, nói không thành có, nhằm mục đích đánh lừa người khác."
+      },
+      {
+        "term": "Bốn Lỗi Của Lời Nói",
+        "pali": "Cattāro Vacīduccaritā",
+        "definition": "Bốn hành vi bất thiện của miệng: 1. Nói dối (Musāvādā); 2. Nói đâm thọc chia rẽ (Pisuṇāvācā); 3. Nói cay độc thô bỉ (Pharusāvācā); 4. Nói phù phiếm vô ích (Samphappalāpā)."
+      },
+      {
+        "term": "Chánh Ngữ",
+        "pali": "Sammā Vācā",
+        "definition": "Lời nói chân thật, kết đoàn, nhã nhặn, xuất phát từ lòng từ bi và được nói ra đúng thời điểm đem lại lợi ích cho người nghe."
+      },
+      {
+        "term": "Chiếc Chậu Nước Rỗng Của Rāhula",
+        "pali": "Rāhula Udakamaṇika",
+        "definition": "Bài học kinh điển Đức Phật dạy con trai La-hầu-la: Kẻ cố ý nói dối thì phẩm giá đạo đức hoàn toàn bị đổ sạch và rỗng tuếch như chậu nước hắt đi và úp ngược."
+      }
+    ],
+    "expositionMarkdown": "### 1. Chiếc Chậu Nước Úp Ngược — Tầm Quan Trọng Tuyệt Đối Của Sự Thật\n\nTrong **Kinh MN 61**, Đức Thế Tôn rửa chân xong, chừa lại một chút nước dưới đáy chậu và hỏi Sa-di La-hầu-la:\n- *'Này Rāhula, con có thấy chút nước còn lại này ít ỏi, dơ bẩn và vô dụng không?'*\n- *'Bạch Thế Tôn, dạ có.'*\n- *'Cũng vậy, này Rāhula, đạo hạnh của người cố ý nói dối cũng ít ỏi và vô dụng như vậy!'*\n\nRồi Thế Tôn đổ hết nước đi, úp ngược chiếc chậu xuống và nói tiếp:\n> **'Này Rāhula, với kẻ biết mình nói dối mà không biết hổ thẹn, nhân cách của kẻ ấy bị đổ sạch và trống rỗng như chiếc chậu úp ngược này. Ta nói rằng không có bất kỳ tội ác tày trời nào mà kẻ ấy không dám làm!'**\n\nLời nói dối phá hủy nền tảng của mọi mối quan hệ con người. Một khi niềm tin đã mất, vạn lời thề thốt cũng trở nên vô nghĩa.\n\n---\n\n### 2. Bốn Con Dao Độc Của Khẩu Nghiệp\n\nĐức Phật phân tích Khẩu nghiệp gồm 4 lỗi lầm nghiêm trọng:\n1. **Nói Dối (*Musāvādā*):** Xuyên tạc sự thật vì lòng tham, vì sợ hãi hoặc để hại người.\n2. **Nói Lời Đâm Thọc (*Pisuṇāvācā*):** Đến người này nói xấu người kia để họ ghét nhau, châm dầu vào lửa phá hoại sự hòa hợp của đoàn thể, gia đình.\n3. **Nói Lời Thô Ác (*Pharusāvācā*):** Chửi bới, nguyền rủa, dùng lời lẽ cay độc xé nát tâm can người khác. Lời nói cay độc như mũi tên tẩm thuốc độc cắm vào tim.\n4. **Nói Lời Phù Phiếm (*Samphappalāpā*):** Buôn chuyện bao đồng, lan truyền tin đồn nhảm nhí trên mạng xã hội, nói những điều vô thưởng vô phạt làm lãng phí thời gian quý báu của đời người.\n\n---\n\n### 3. Thực Tập Chánh Ngữ Trong Đời Sống Hiện Đại\n\nĐể giữ trọn vẹn Giới thứ tư, hãy thực hành **Bộ lọc 4 câu hỏi (Khoảng lặng 3 giây)** trước khi mở lời hoặc bấm phím gửi tin nhắn:\n1. *Lời này có ĐÚNG SỰ THẬT không?* (Chân)\n2. *Lời này có đem lại SỰ HÒA HỢP không hay gây chia rẽ?* (Hòa)\n3. *Lời này có được nói với TÂM TỪ ÁI dịu dàng không?* (Từ)\n4. *Lời này có MANG LẠI LỢI ÍCH thiết thực cho người nghe không?* (Ích)\n\nNếu thiếu một trong bốn điều trên, tốt nhất là giữ **Sự Im Lặng Bậc Thánh (*Ariya Tuṇhībhāva*)**.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng 'nói dối đùa cho vui' hoặc 'nói dối vô hại' thì không sao.",
+        "correction": "Đức Phật căn dặn La-hầu-la: 'Dầu là nói đùa, cũng quyết không nói dối'. Thói quen nói đùa xuyên tạc sự thật sẽ dần làm mòn sự nhạy cảm của lương tâm, biến ta thành người giảo hoạt lúc nào không hay."
+      },
+      {
+        "mistake": "Tự nhận mình là người 'thẳng tính, ruột để ngoài da' nên thoải mái ăn nói bỗ bã, cay độc xúc phạm người khác.",
+        "correction": "Đó không phải là thẳng thắn mà là sự thiếu tu dưỡng và thiếu lòng trắc ẩn (Pharusāvācā). Chánh ngữ đòi hỏi sự thật phải đi đôi với sự dịu dàng và đúng thời điểm."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Khoảng Lặng 3 Giây:** Mỗi khi cảm xúc giận dữ dâng lên muốn phản bác hoặc mắng chửi ai, hãy dừng lại đúng 3 giây, hít một hơi sâu và quán sát cảm xúc trước khi phát ngôn.\n2. **Cai 'Hóng Chuyện & Buôn Dưa Lê':** Tuyệt đối không chia sẻ tin tức chưa được kiểm chứng trên mạng xã hội; từ chối tham gia các cuộc bàn tán nói xấu người vắng mặt.\n3. **Thực Hành Ái Ngữ:** Mỗi ngày chủ động nói ít nhất một lời khen ngợi chân thành, khích lệ người thân hoặc đồng nghiệp.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Thực hành Chánh Ngữ chân thật, nói lời hòa hợp và giữ im lặng chánh niệm khi tâm đang sân hận."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hôm nay những lời bạn nói ra mang lại an vui, hòa giải và hiểu biết cho mọi người, hay đã gieo rắc sự ngờ vực, chia rẽ và tổn thương cho ai đó?",
+    "selfAuditChecklist": [
+      "Tôi không nói sai sự thật dù trong công việc hay trong lời nói đùa giỡn.",
+      "Tôi không nói xấu sau lưng, không đem chuyện người này kể cho người khác nghe để gây chia rẽ.",
+      "Tôi kiềm chế được cơn giận, không buông lời thô thiển cay độc xúc phạm người khác.",
+      "Tôi biết dừng lại trong im lặng chánh niệm khi thấy lời nói của mình không mang lại lợi ích."
+    ]
+  }
+}

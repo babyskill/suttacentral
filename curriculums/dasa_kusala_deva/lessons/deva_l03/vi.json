@@ -1,0 +1,69 @@
+{
+  "lessonId": "deva_l03",
+  "curriculumId": "dasa_kusala_deva",
+  "lessonNumber": 3,
+  "stageIndex": 3,
+  "title": "Bài 3: Ý Nghiệp Tối Thắng — Tứ Vô Lượng Tâm & Chánh Kiến",
+  "paliTitle": "Tevijja Sutta (DN 13) & Cunda Sutta (AN 10.176)",
+  "suttaRef": {
+    "uid": "dn13",
+    "title": "Kinh Tam Minh (Dīgha Nikāya 13)",
+    "excerptPali": "So mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ... Evaṃ karuṇā... muditā... upekkhāsahagatena cetasā...",
+    "excerptTranslation": "Vị ấy an trú biến mãn một phương với tâm câu hữu với Từ, cũng vậy phương thứ hai, phương thứ ba, phương thứ tư... rộng lớn, vô biên, không hận, không sân. Cũng vậy với tâm câu hữu với Bi... Hỷ... Xả..."
+  },
+  "pariyatti": {
+    "shortSummary": "Ý là cội nguồn của toàn bộ luân hồi và giải thoát. Ba thiện nghiệp của Ý kết hợp Tứ Vô Lượng Tâm (Từ, Bi, Hỷ, Xả) là con đường trực chỉ cộng trú cùng các cõi Trời Phạm Thiên.",
+    "coreConcepts": [
+      {
+        "term": "Ý Nghiệp Tối Thắng",
+        "pali": "Manokamma Kusala",
+        "definition": "Hành vi tư tưởng và tác ý trong tâm thức; đây là lực lượng kiến tạo định hình tương lai mạnh mẽ nhất vượt trên thân và khẩu."
+      },
+      {
+        "term": "Tâm Không Tham Vô Độ",
+        "pali": "Anabhijjhā",
+        "definition": "Không thèm muốn dòm ngó tài sản thành công của kẻ khác; luôn cảm nhận hạnh phúc tri túc trong những gì mình chân chính có được."
+      },
+      {
+        "term": "Tâm Không Sân Hận",
+        "pali": "Abyāpāda",
+        "definition": "Tâm nhu hòa vắng bóng ác ý, không nuôi dưỡng hận thù mong cho kẻ thù bị hủy diệt; luôn hướng niệm từ mẫn đến vạn loại."
+      },
+      {
+        "term": "Chánh Kiến Nghiệp Báo",
+        "pali": "Kammassakatā Sammādiṭṭhi",
+        "definition": "Hiểu biết đúng đắn rằng mỗi chúng sinh là chủ nhân của nghiệp, là kẻ thừa tự của nghiệp; nghiệp lành đưa đến lạc cảnh, nghiệp dữ chịu đọa xứ."
+      },
+      {
+        "term": "Bốn Tâm Vô Lượng",
+        "pali": "Cattāro Brahmavihārā",
+        "definition": "Bốn trạng thái tâm linh cao thượng của cõi Trời Phạm Thiên: Từ (Mettā - ban vui), Bi (Karuṇā - cứu khổ), Hỷ (Muditā - vui cùng phước lành), Xả (Upekkhā - bình đẳng không thiên vị)."
+      }
+    ],
+    "expositionMarkdown": "### 1. Ý Dẫn Đầu Mọi Pháp — Vị Kiến Trúc Sư Của Nghiệp\n\nĐức Phật mở đầu tập Kinh Pháp Cú (*Dhammapada*) bằng hai câu kệ đanh thép:\n\n> *'Ý dẫn đầu các pháp,*\n> *Ý làm chủ, ý tạo;*\n> *Nếu với ý ô nhiễm,*\n> *Nói lên hay hành động,*\n> *Khổ não bước theo sau,*\n> *Như xe chân vật kéo.'*\n> \n> *'Ý dẫn đầu các pháp,*\n> *Ý làm chủ, ý tạo;*\n> *Nếu với ý thanh tịnh,*\n> *Nói lên hay hành động,*\n> *An lạc bước theo sau,*\n> *Như bóng không rời hình.'*\n\nTrong cuộc đối thoại với du sĩ Upāli (Kinh Upāli - MN 56), khi phái Kỳ-na giáo cho rằng Thân phạt là nặng nhất, Đức Phật đã khẳng định dứt khoát: **Ý phạt (Manodaṇḍa) mới là tối trọng tội và có năng lực chi phối sâu rộng nhất**. Thân và Miệng chỉ là công cụ thừa hành mệnh lệnh của Ý.\n\n---\n\n### 2. Ba Nhánh Ý Nghiệp Thanh Tịnh (*Manokamma Kusala*)\n\nĐể tâm hồn bay bổng, thanh thoát như mây trời, hành giả phải gột rửa 3 chướng ngại vi tế của tâm:\n\n1. **Không tham lam (*Anabhijjhā*):**\n   - Thấy tài sản, danh vọng, hạnh phúc của người khác mà không khởi tâm thèm muốn: *'Ôi, ước gì của ấy trở thành của ta!'*.\n   - An vui với những gì do sức lao động chân chính của mình làm ra, lấy đức tri túc làm giàu sang tối thượng.\n\n2. **Không sân hận hại người (*Abyāpāda*):**\n   - Khi bị xúc phạm hay gặp nghịch cảnh, tâm không sôi sục oán thù, không khởi ý nghĩ nguyền rủa: *'Mong cho kẻ kia bị tai họa, mong cho nó bị tiêu diệt!'*.\n   - Nuôi dưỡng tâm niệm mát lành: *'Mong cho mọi chúng sinh sống không thù oán, không bất hạnh, được bảo toàn an vui!'*.\n\n3. **Chánh tri kiến (*Sammādiṭṭhi*):**\n   - Xác tín sâu sắc: Có bố thí, có cúng dường; có nghiệp thiện, có nghiệp ác và có quả báo của các nghiệp; có đời này và có đời sau; có những bậc chân nhân tu tập chứng ngộ chân lý.\n   - Chánh kiến chính là ngọn đuốc soi sáng chỉ đường cho mọi hành vi không bị sa vào hố sâu mê tín dị đoan.\n\n---\n\n### 3. Con Đường Đồng Đẳng Cùng Phạm Thiên (Kinh Tevijja - DN 13)\n\nTrong Kinh Tevijja, hai thanh niên Bà-la-môn hỏi Đức Phật con đường để được sinh về cõi Trời Phạm Thiên (*Brahmā*). Đức Phật hỏi lại: *'Các vị Phạm Thiên có sân hận không? Có dính mắc dục vọng không? Có hiểm độc không?'*. Hai thanh niên đáp: *'Bạch Thế Tôn, hoàn toàn không!'*.\n\nĐức Phật dạy: *'Vậy thì làm sao những người ôm ấp tham, sân, ác độc trong lòng lại có thể đồng đẳng và cộng trú cùng Phạm Thiên được?'*.\n\nVà Ngài chỉ ra con đường duy nhất để câu thông với cõi Trời Phạm Thiên: **Phát triển Tứ Vô Lượng Tâm (*Brahmavihāra*)**:\n- **Từ (Mettā):** Trải rộng tâm từ bi không giới hạn đến khắp muôn loài.\n- **Bi (Karuṇā):** Lòng trắc ẩn, xót thương trước nỗi đau của chúng sinh chìm đắm trong khổ ải.\n- **Hỷ (Muditā):** Niềm vui thanh tịnh, chân thành hân hoan khi thấy người khác thành công, hạnh phúc, dẹp tan ngọn lửa ghen tị đố kỵ.\n- **Xả (Upekkhā):** Tâm quân bình, thanh thản nhìn vạn sự vô thường theo đúng luật Nhân Quả, không thiên vị, không bám chấp.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng miễn mình không đánh ai, không mắng ai thì tâm mình tha hồ ghen tị, hằn học hay trù ẻo người khác cũng không tạo nghiệp xấu.",
+        "correction": "Ý niệm độc hại thiêu đốt ngay chính nội tâm người khởi niệm trước khi nó kịp làm hại người khác. Sự đố kỵ và sân ngấm ngầm chính là hạt giống trực tiếp dẫn đến các cõi giới đọa đày tăm tối. Cõi Trời chỉ đón nhận những tâm thức rộng mở, từ ái và biết hoan hỷ cùng điều thiện."
+      },
+      {
+        "mistake": "Nhầm lẫn giữa Tâm Xả (Upekkhā) của cõi Phạm Thiên với thái độ thờ ơ, vô cảm, vô trách nhiệm của người đời.",
+        "correction": "Tâm Xả chân chính là đỉnh cao của trí tuệ thấu suốt lý Duyên Sinh và Nhân Quả, giữ tâm bình thản trước 8 ngọn gió đời (được - mất, khen - chê, vinh - nhục, vui - khổ) chứ không phải là sự lạnh lùng ích kỷ."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Tập thói quen khởi tâm Hỷ (Muditā) ngay tức khắc khi lướt mạng xã hội hoặc nghe tin đồng nghiệp được thăng chức, bạn bè mua nhà mới: Mỉm cười thầm chúc: 'Lành thay, mừng cho bạn đã gặt hái quả lành!'. Buổi tối tĩnh tọa 15 phút rải tâm Từ (Mettā) bao trùm khắp không gian.",
+    "recommendedRoutineId": "r_metta",
+    "suggestedVirtue": "Gửi một tin nhắn chúc mừng chân thành từ đáy lòng đến một người vừa đạt được thành tựu tốt đẹp"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Khi thấy người khác có được thứ mình hằng mơ ước, tâm bạn phản ứng thế nào: một thoáng chạnh lòng đố kỵ hay một nụ cười hoan hỷ mừng cho họ?",
+    "selfAuditChecklist": [
+      "Tôi không khởi tâm thèm muốn hay mưu tính chiếm đoạt tài sản, vị thế của người khác.",
+      "Tôi đã xoa dịu những mầm mống sân hận và tha thứ cho những điều trái ý nghịch lòng xảy ra hôm nay.",
+      "Tôi duy trì Chánh kiến vững vàng về định luật Nhân Quả, tự chủ trước mọi thăng trầm.",
+      "Tôi thường xuyên thực hành trải rộng tâm Từ, Bi, Hỷ, Xả vô lượng đến mọi sinh linh không phân biệt."
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "lessonId": "pancasila_l03",
+  "curriculumId": "pancasila_human",
+  "lessonNumber": 3,
+  "stageIndex": 2,
+  "title": "Bài 3: Giới 2 — Liêm Chính Tài Chính & Chánh Mạng",
+  "paliTitle": "Sigālovādasutta (DN 31)",
+  "suttaRef": {
+    "uid": "dn31",
+    "title": "Kinh Giáo Thọ Thi-ca-la-việt (DN 31 - Trường Bộ)",
+    "excerptPali": "Adinnādānā veramaṇīsikkhāpadaṃ samādiyāmi... Yañca bhoge adhammena, na ca sādhūti maññati; Dhammena samataṃ patto, kalyāṇe niviṭṭho sadā... Anavajjasukhaṃ vindati.",
+    "excerptTranslation": "Con xin vâng giữ điều học là kiêng tránh lấy của không cho... Người chân chính không tìm kiếm tài sản bằng con đường phi pháp; kiếm sống thuận theo Chánh Pháp, an trú trong điều lành... người ấy hưởng được niềm an lạc không lỗi lầm."
+  },
+  "pariyatti": {
+    "shortSummary": "Giới thứ hai đòi hỏi sự liêm chính tuyệt đối trong tài chính, thời gian và bổn phận: Không lấy bất kỳ thứ gì người khác chưa cho, dù là chiếc kim sợi chỉ. Xây dựng sự nghiệp trên nền tảng Chánh Mạng (Sammā Ājīva) và thực hành bố thí để đoạn trừ tâm tham lam.",
+    "coreConcepts": [
+      {
+        "term": "Không Lấy Của Không Cho",
+        "pali": "Adinnādānā Veramaṇī",
+        "definition": "Sự kiêng tránh hành vi trộm cắp, cướp đoạt, lừa đảo, biển thủ hoặc chiếm giữ bất kỳ tài sản nào của cá nhân hay tập thể khi chưa được chủ sở hữu đồng thuận."
+      },
+      {
+        "term": "Chánh Mạng",
+        "pali": "Sammā Ājīva",
+        "definition": "Nghề nghiệp mưu sinh chân chính, không làm tổn hại đến sự sống, đạo đức và an nguy của xã hội (tránh 5 nghề tà mạng: buôn vũ khí, buôn người, buôn thịt sống, buôn chất say, buôn thuốc độc)."
+      },
+      {
+        "term": "Hạnh Xả Ly & Bố Thí",
+        "pali": "Cāga & Dāna",
+        "definition": "Đức tính rộng lượng, sẵn lòng chia sẻ tài vật, công sức và tri thức để giúp đỡ tha nhân, tiêu trừ lòng tham lam bủn xỉn (Macchariya)."
+      },
+      {
+        "term": "Lạc Không Lỗi Lầm",
+        "pali": "Anavajjasukha",
+        "definition": "Niềm hạnh phúc thanh thản tột cùng của người cư sĩ khi biết từng đồng tiền mình kiếm được và từng miếng cơm mình ăn đều hoàn toàn trong sạch, không do lừa lọc hay bóc lột ai mà có."
+      }
+    ],
+    "expositionMarkdown": "### 1. Trộm Cắp Trong Xã Hội Hiện Đại\n\nTrong thời đại số, hành vi trộm cắp diễn ra tinh vi hơn nhiều so với việc trèo tường khoét vách:\n- **Chiếm đoạt tài sản trí tuệ:** Sao chép, sử dụng lậu phần mềm, sách báo, tác phẩm âm nhạc bản quyền mà không trả phí bản quyền.\n- **Trộm cắp thời gian:** Nhận lương của cơ quan/doanh nghiệp nhưng dùng giờ làm việc để làm việc riêng, buôn chuyện, lướt mạng, lười biếng trốn tránh trách nhiệm.\n- **Gian lận tài chính & Trốn thuế:** Khai khống hóa đơn, gian lận thuế, buôn lậu, bán hàng giả hàng kém chất lượng lừa dối người tiêu dùng.\n- **Tham nhũng & Chiếm dụng của công:** Dùng tài sản của tập thể, xe công, văn phòng phẩm công ty làm của riêng gia đình mình.\n\nTất cả những hành vi trên, dù được ngụy biện dưới bất kỳ lý do nào, trong luật Nhân quả đều cấu thành nghiệp **Adinnādānā (Lấy của không cho)**.\n\n---\n\n### 2. Nghiệp Báo Của Sự Gian Lận & Hạnh Phúc Của Liêm Chính\n\n- Kẻ quen thói trộm cắp, lừa đảo, tham lam: Đời sau chắc chắn đọa vào loài **Ngạ quỷ (*Peta*)** chịu cảnh đói khát, túng thiếu triền miên. Nếu được làm người thì sinh vào gia cảnh bần hàn cùng cực, tài sản làm ra bao nhiêu cũng bị hỏa hoạn, lũ lụt, trộm cướp hoặc con cái phá tán tiêu sạch.\n- Ngược lại, người giữ giới trộm cắp trong sạch: Đời đời sinh ra có phước báu đầy đủ, tài sản bền vững không ai cướp đoạt được, luôn gặp quý nhân giúp đỡ và sống trong sự kính trọng tuyệt đối của xã hội.\n\nTrong **Kinh Tăng Chi Bộ (AN 4.62)**, Đức Phật dạy người cư sĩ có 4 niềm hạnh phúc lớn:\n1. *Atthisukha:* Hạnh phúc có tài sản do chính mồ hôi nước mắt mình tạo ra.\n2. *Bhogasukha:* Hạnh phúc được thọ dụng tài sản và san sẻ cho cha mẹ, người thân, làm việc thiện.\n3. *Anaṇasukha:* Hạnh phúc không bị nợ nần ai.\n4. **Anavajjasukha (Quan trọng nhất):** Hạnh phúc không có lỗi lầm — đêm nằm ngủ ngon giấc, tâm hồn thanh thản không sợ công an bắt bớ, không sợ lương tâm cắn rứt.\n\n---\n\n### 3. Phương Thuốc Trị Lòng Tham: Bố Thí (Dāna)\n\nCách tốt nhất để bảo vệ Giới thứ hai không chỉ là 'không lấy', mà là tập **'cho đi'**:\n- Người có tâm xả ly (*Cāga*) sẽ không bao giờ muốn chiếm đoạt của ai. Khi thấy người khác khó khăn, ta sẵn sàng san sẻ một phần tài sản, một lời động viên hay một hành động giúp đỡ.\n- Bố thí mở rộng tâm hồn, biến mảnh đất tâm cằn cỗi vì ích kỷ thành khu vườn phì nhiêu của lòng nhân ái.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng lấy một vài món đồ lặt vặt của công ty, nhà nước hay của người giàu thì không mang tội vì 'họ không nghèo đi vì chút đồ đó'.",
+        "correction": "Trong luật Nhân quả, vật thuộc quyền sở hữu của người khác mà ta tự ý lấy thì tâm tham đã khởi sinh và nghiệp bất thiện đã thành tựu. Của công là tài sản của muôn người, xâm phạm của công nghiệp báo còn nặng nề hơn tài sản cá nhân."
+      },
+      {
+        "mistake": "Cho rằng kiếm tiền bất chính (buôn bán gian lận, cờ bạc, hối lộ) rồi trích một phần đi cúng chùa, phóng sinh là có thể 'rửa sạch nghiệp'.",
+        "correction": "Nghiệp nào ra nghiệp nấy. Tiền phi pháp mang đi cúng dường không tạo được phước thanh tịnh mà còn làm hoen ố cửa chùa. Đức Phật dạy: Chỉ có tài sản kiếm được bằng Chánh Mạng mới đem lại an lạc đích thực."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Kiểm Toán Liêm Chính Cuối Ngày:** Tự rà soát: Hôm nay mình có lãng phí thời gian làm việc của công ty không? Có vô tình cầm nhầm đồ của ai không? Từng đồng tiền thu về hôm nay có chân chính không?\n2. **Thực Hành Hạnh Bố Thí (Dāna):** Trích một khoản nhỏ định kỳ (tùy khả năng) để giúp đỡ người nghèo khổ, cúng dường Tam Bảo hoặc ủng hộ các quỹ từ thiện minh bạch.\n3. **Tôn Trọng Bản Quyền Số:** Kiên quyết gỡ bỏ các phần mềm bẻ khóa (crack), không đọc sách lậu, tôn trọng công sức sáng tạo của người khác.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Sống thanh bạch, giữ gìn sự liêm chính trong từng đồng tiền và sẵn lòng sẻ chia giúp đỡ người khó khăn."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Có khoản thu nhập hay tài sản nào bạn đang nắm giữ mà nếu đem soi dưới ánh sáng của Chánh Pháp, lương tâm bạn vẫn còn thấy gợn đục và bất an không?",
+    "selfAuditChecklist": [
+      "Tôi không chiếm đoạt, sử dụng đồ của tập thể hay người khác khi chưa được phép.",
+      "Tôi làm việc đúng giờ giấc và trách nhiệm, không lãng phí thời gian công ty để tư lợi.",
+      "Tôi tôn trọng bản quyền và chất xám của người khác, không dung túng cho sự gian lận số.",
+      "Tôi cảm nhận được niềm hạnh phúc thanh thản của một nếp sống tài chính trong sạch (Anavajjasukha)."
+    ]
+  }
+}

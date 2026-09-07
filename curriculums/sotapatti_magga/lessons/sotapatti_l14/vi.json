@@ -1,0 +1,73 @@
+{
+  "lessonId": "sotapatti_l14",
+  "curriculumId": "sotapatti_magga",
+  "lessonNumber": 14,
+  "stageIndex": 3,
+  "title": "Chánh Niệm — Bốn Trụ Cột Tỉnh Thức (Tứ Niệm Xứ)",
+  "paliTitle": "Sammā-sati (MN 10 & DN 22)",
+  "suttaRef": {
+    "uid": "mn10",
+    "title": "Kinh Niệm Xứ & Đại Niệm Xứ (Satipaṭṭhāna Sutta — MN 10 / DN 22)",
+    "excerptPali": "Ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā, sokaparidevānaṁ samatikkamāya, dukkhadomanassānaṁ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṁ cattāro satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vedanānupassī viharati... citte cittānupassī viharati... dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.",
+    "excerptTranslation": "Này các Tỳ-kheo, đây là con đường độc nhất đưa đến sự thanh tịnh cho chúng sinh, vượt khỏi sầu bi, chấm dứt khổ ưu, thành tựu chánh trí, chứng ngộ Niết-bàn, đó là Bốn Niệm Xứ. Thế nào là bốn? Ở đây, này các Tỳ-kheo, vị Tỳ-kheo sống quán thân trên thân, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời; sống quán thọ trên thọ... sống quán tâm trên tâm... sống quán pháp trên pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời."
+  },
+  "pariyatti": {
+    "shortSummary": "Chánh Niệm (Sammā-sati) là chi phần thứ bảy của Bát Chánh Đạo, đóng vai trò như người gác cổng tỉnh thức canh giữ sáu căn và soi chiếu thực tại danh sắc. Qua bốn lĩnh vực quán chiếu (Thân, Thọ, Tâm, Pháp) với thái độ nhiệt tâm, tỉnh giác và buông xả tham ưu, hành giả giải cấu trúc ảo tưởng về một tự ngã bất biến, thiết lập nền tảng không thể lay chuyển cho Chánh Định và Tuệ Giác giải thoát.",
+    "coreConcepts": [
+      {
+        "term": "Bốn Nền Tảng Chánh Niệm",
+        "pali": "Cattāro Satipaṭṭhānā",
+        "definition": "Bốn vùng quán chiếu bao quát toàn bộ trải nghiệm hiện hữu của chúng sinh: Thân (Kāya), Cảm thọ (Vedanā), Tâm thức (Citta), và Các Pháp (Dhamma)."
+      },
+      {
+        "term": "Bộ Ba Năng Lực Tỉnh Thức",
+        "pali": "Ātāpī, Sampajāno, Satimā",
+        "definition": "Ba phẩm chất tâm vận hành đồng thời: Nhiệt tâm (sự nỗ lực kiên trì, thiêu đốt phiền não), Tỉnh giác (sự hiểu biết rõ ràng, thông tuệ thực tại đang diễn tiến), và Chánh niệm (khả năng ghi nhớ, an trú trọn vẹn trong hiện tại không lãng quên)."
+      },
+      {
+        "term": "Nhiếp Phục Tham Ưu Ở Đời",
+        "pali": "Vineyya Loke Abhijjhādomanassaṁ",
+        "definition": "Thái độ quan sát vô tư, xả ly: không bám víu khao khát (tham) đối với đối tượng dễ chịu, và không chán ghét bực bội (ưu/sân) đối với đối tượng khó chịu."
+      },
+      {
+        "term": "Quán... Trên...",
+        "pali": "Anupassanā",
+        "definition": "Quan sát liên tục, như thật từng hiện tượng đơn thuần mà không đồng hóa, không dán nhãn 'Tôi là thân này', 'Tôi đang đau', hay 'Tâm này là của tôi'."
+      },
+      {
+        "term": "Con Đường Độc Nhất",
+        "pali": "Ekāyano Maggo",
+        "definition": "Đại lộ đi thẳng và trực tiếp nhất đưa hành giả đến thanh tịnh nội tâm và giải thoát hoàn toàn, không dựa vào bất kỳ tha lực, huyền thuật hay nghi lễ ngoại tại nào."
+      }
+    ],
+    "expositionMarkdown": "### 1. 'Con Đường Độc Nhất' — Lời Tuyên Ngôn Bất Hủ Của Đức Phật\n\nTrong bài **Kinh Niệm Xứ (*Satipaṭṭhāna Sutta* — MN 10 / DN 22)**, Đức Phật đã mở đầu bằng lời khẳng định chấn động: *'Ekāyano ayaṁ bhikkhave maggo...'* — *Đây là con đường độc nhất đưa đến sự thanh tịnh cho chúng sinh, vượt thắng sầu bi, chấm dứt khổ ưu, thành tựu chánh lý, chứng ngộ Niết-bàn*.\n\nTừ *'Ekāyana'* mang ý nghĩa là con đường đi thẳng, con đường không ngã rẽ, con đường mà mọi chư Phật trong quá khứ, hiện tại và tương lai đều phải đi qua để đạt đến Giác ngộ. Không có bất kỳ con đường tắt nào qua lễ bái, van xin hay bùa chú. Muốn chấm dứt khổ đau sinh tử, hành giả bắt buộc phải trực tiếp thấu suốt và làm chủ chính thân tâm mình trong từng sát-na hiện tiền.\n\n---\n\n### 2. Bộ Ba Năng Lực: Nhiệt Tâm, Tỉnh Giác, Chánh Niệm\n\nĐể thiết lập Chánh Niệm chân chính (*Sammā-sati*), Đức Phật đòi hỏi sự phối hợp nhịp nhàng của bộ ba phẩm chất tâm:\n\n1. **Nhiệt tâm (*Ātāpī*):** Năng lượng siêng năng, kiên trì, giống như ngọn lửa thiêu đốt sự lười biếng, uể oải và phóng dật của tâm.\n2. **Tỉnh giác (*Sampajañña*):** Sự hiểu biết rõ ràng và thấu suốt bản chất của sự việc. Tỉnh giác chia làm 4 khía cạnh: biết rõ mục đích (*Sātthaka*), biết phương tiện thích hợp (*Sappāya*), không rời cảnh giới thiền định (*Gocara*), và thấy rõ bản chất vô si, vô ngã (*Asammoha*).\n3. **Chánh niệm (*Satimā*):** Khả năng neo giữ tâm thức trên đối tượng hiện tại, không để tâm trôi dạt về tiếc nuối quá khứ hay lo âu tương lai.\n\nKhi bộ ba này hội tụ, tâm đạt đến trạng thái **Nhiếp phục tham ưu (*Vineyya loke abhijjhādomanassaṁ*)** — một tâm thế quan sát khách quan thuần khiết (*Bare Observation*), không can thiệp, không dính mắc, không phán xét.\n\n---\n\n### 3. Bốn Miền Quán Chiếu Cốt Tủy (Cattāro Satipaṭṭhānā)\n\nĐức Phật phân chia toàn bộ sự sống thành 4 lãnh vực để hành giả thiết lập sự tỉnh thức toàn diện:\n\n#### A. Quán Thân Trên Thân (*Kāyānupassanā*)\n- **Hơi thở vào - ra (*Ānāpānasati*):** Thở vào dài biết thở vào dài, thở ra ngắn biết thở ra ngắn; cảm giác toàn thân khi thở vào, an tịnh thân hành khi thở ra.\n- **Bốn oai nghi (*Iriyāpatha*):** Đi biết mình đang đi, đứng biết đang đứng, ngồi biết đang ngồi, nằm biết đang nằm.\n- **Tỉnh giác trong mọi động tác (*Sampajāna-kārī*):** Khi co tay, duỗi chân, ăn uống, nhai nuốt, mặc y, đi đại tiểu tiện đều có sự tỉnh thức sáng tỏ.\n- **Quán thể trược & Tứ đại (*Paṭikūlamanasikāra & Dhātumanasikāra*):** Nhìn thấy thân gồm 32 thể trược (tóc, lông, móng, răng, da...) và 4 yếu tố vật chất (Địa - Thủy - Hỏa - Phong) để phá tan ảo tưởng về vẻ đẹp kiều diễm và sự trường tồn của nhục thân.\n\n#### B. Quán Thọ Trên Thọ (*Vedanānupassanā*)\n- Nhận biết như thật cảm thọ khi chúng vừa khởi lên: Thọ lạc (*Sukha*), Thọ khổ (*Dukkha*), hay Thọ phi khổ phi lạc (*Adukkhamasukha*).\n- Phân biệt rõ cảm thọ thuộc vật chất (thế tục) hay phi vật chất (xuất thế gian). Khi đau nhức, chỉ thấy 'đang có một cảm thọ khổ sinh khởi rồi biến hoại', tuyệt đối không đồng hóa: 'Tôi đang bị đau, tôi khổ quá'.\n\n#### C. Quán Tâm Trên Tâm (*Cittānupassanā*)\n- Soi rọi trạng thái tâm thức hiện tại như nhìn vào tấm gương trong: Tâm có tham biết tâm có tham, tâm không tham biết tâm không tham; tâm có sân biết có sân; tâm hôn trầm, tán loạn hay định tĩnh đều được ghi nhận trung thực không che giấu.\n\n#### D. Quán Pháp Trên Pháp (*Dhammānupassanā*)\n- Thấu triệt các quy luật và hiện tượng vận hành giải thoát:\n  - Nhận diện **Năm Triền Cái (*Nīvaraṇa*)**: Tham dục, Sân hận, Hôn trầm thụy miên, Trạo cử hối hận, Hoài nghi.\n  - Nhận diện **Năm Uẩn (*Khandha*)**: Sự sinh diệt của Sắc, Thọ, Tưởng, Hành, Thức.\n  - Nhận diện **Sáu Nội Ngoại Xứ (*Āyatana*)** và các kiết sử trói buộc do căn tiếp xúc với trần.\n  - Phát triển **Bảy Giác Chi (*Bojjhaṅga*)**: Niệm, Trạch pháp, Tinh tấn, Hỷ, Khinh an, Định, Xả.\n  - Liễu tri **Tứ Thánh Đế (*Ariyasacca*)**: Khổ, Tập, Diệt, Đạo.\n\n---\n\n### 4. Bí Quyết 'Quán Thân Trên Thân' (Kāye Kāyānupassī)\n\nTại sao Đức Phật dùng cụm từ trùng điệp: *'Quán thân trên thân'* mà không nói giản đơn là 'quán thân'?\n\nCác bậc Luận sư Theravāda giải thích rằng: Từ lặp lại nhằm nhấn mạnh sự **không nhầm lẫn và không thêm thắt**. Quán thân chỉ như một tập hợp các yếu tố vật chất vô tri, không xem thân là một 'Linh hồn', một 'Bản ngã', hay một 'Người sở hữu'. Khi nhìn cảm thọ, chỉ thấy cảm thọ sinh diệt theo duyên, không biến cảm thọ thành nỗi thống khổ của 'Cái Tôi'. Đây chính là thanh kiếm trí tuệ chặt đứt Thân kiến (*Sakkāya-diṭṭhi*) ở quả vị Nhập Lưu.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nhầm lẫn Chánh niệm với sự tập trung mù quáng (ví dụ: tay súng bắn tỉa tập trung cao độ khi ngắm bắn coi là có chánh niệm).",
+        "correction": "Sự tập trung của tay súng là Tà định kết hợp với tâm Sân và Hại. Chánh niệm (Sammā-sati) bắt buộc phải đi kèm với Tỉnh giác (Sampajañña), Tâm không tham ưu (Vineyya abhijjhādomanassaṁ) và được định hướng bởi Chánh tri kiến vô hại."
+      },
+      {
+        "mistake": "Cho rằng hành thiền Chánh niệm là phải cố gắng ngăn chặn, đè nén, không cho bất kỳ suy nghĩ hay cảm xúc nào khởi lên trong đầu.",
+        "correction": "Chánh niệm không phải là đè nén hay làm cho đầu óc rỗng tuếch. Chánh niệm là 'Biết rõ như thật' (Yathābhūtañāṇa). Khi có suy nghĩ lăng xăng, biết tâm đang lăng xăng; khi có sân hận, biết tâm đang có sân hận. Nhờ không can thiệp và không đồng hóa, các phiền não sẽ tự động suy yếu và hoại diệt theo quy luật vô thường."
+      },
+      {
+        "mistake": "Nghĩ rằng Tứ Niệm Xứ chỉ có thể thực hành khi ngồi kiết già trong phòng thiền tĩnh lặng, không áp dụng được vào công việc đời sống hiện đại.",
+        "correction": "Đức Phật dạy rõ quán oai nghi và tỉnh giác trong từng cử chỉ: ăn, uống, đi đứng, làm việc, dọn dẹp. Bất cứ nơi nào có sáu giác quan xúc chạm với thế giới, nơi đó chính là đạo tràng thiết lập Bốn Niệm Xứ."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Tọa Thiền Hơi Thở (15-20 phút):** Ngồi thẳng lưng thư thái, theo dõi luồng hơi thở tự nhiên xúc chạm ở vành môi trên hoặc cửa mũi. Thở vào biết thở vào, thở ra biết thở ra; khi tâm phóng đi, nhận biết 'tâm phóng dật' rồi nhẹ nhàng đưa sự chú ý trở về hơi thở.\n2. **Tỉnh Giác Trong 4 Oai Nghi:** Khi bước đi từ bàn làm việc ra cửa, hãy cảm nhận từng bước chân chạm đất. Khi nâng ly nước uống, hãy biết rõ cánh tay đang co lại và làn nước mát đi vào cổ họng.\n3. **Ghi Nhận Cảm Thọ Khi Căng Thẳng:** Khi nhận tin nhắn gây bực bội, dừng lại 5 giây quan sát cảm thọ khó chịu nơi lồng ngực hoặc nhịp tim đập nhanh. Tự nhủ: 'Đây chỉ là một cảm thọ vô thường đang vận hành, không phải là Tôi'.",
+    "recommendedRoutineId": "r_breath",
+    "suggestedVirtue": "Duy trì chánh niệm tỉnh giác trong từng cử chỉ và nhịp thở thường nhật."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hôm nay tâm bạn có bao nhiêu lần bị lôi cuốn bởi tham đắm hoặc bực bội ưu phiền? Bạn có kịp thời nhận diện chúng và đưa tâm trở về an trú nơi thân và hơi thở không?",
+    "selfAuditChecklist": [
+      "Tôi đã nhận biết rõ các oai nghi đi, đứng, nằm, ngồi trong sinh hoạt hôm nay.",
+      "Tôi không đồng hóa cơn đau hay sự mệt mỏi thể xác với bản thân mình.",
+      "Tôi đã bắt quả tang được trạng thái tham ái hoặc bực bội ngay khi chúng vừa manh nha.",
+      "Tôi giữ được tâm thế người quan sát khách quan, không oán trách hoàn cảnh khi gặp điều bất toại nguyện."
+    ]
+  }
+}

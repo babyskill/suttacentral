@@ -1,0 +1,64 @@
+{
+  "lessonId": "layman_l02",
+  "curriculumId": "ghihattha_layman",
+  "lessonNumber": 2,
+  "stageIndex": 2,
+  "title": "Bài 2: Tu Tập Thời Đại Số — Phòng Hộ Sáu Căn & Thoát Bẫy Dopamine Ngắn",
+  "paliTitle": "Kummopama Sutta (SN 35.240) & Ādittapariyāya Sutta (SN 35.28)",
+  "suttaRef": {
+    "uid": "sn35.240",
+    "title": "Kinh Con Rùa Rụt Mai & Kinh Lửa Cháy (SN 35.240 / SN 35.28)",
+    "excerptPali": "Kummova aṅgāni sake kapāle, samodahaṃ bhikkhu manovitakke; Anissito aññamaheṭhayāno, parinibbuto nūpavadeyya kañci.",
+    "excerptTranslation": "Như con rùa thu rút các chi vào trong mai, vị hành giả khéo thâu nhiếp các dòng suy nghĩ vọng động; Không nương tựa vào trần cảnh, không làm hại ai, an tịnh tịch diệt, không chỉ trích một ai."
+  },
+  "pariyatti": {
+    "shortSummary": "Giải phẫu căn bệnh thời đại: Thuật toán mạng xã hội như 'bạn ác vô hình' và bẫy dopamine ngắn gây tâm trạo cử (*Uddhacca*). Khám phá nghệ thuật phòng hộ 6 căn (*Indriyasaṃvara*) và chế độ ăn uống thông tin lành mạnh (*Phassāhāra*).",
+    "coreConcepts": [
+      {
+        "term": "Phòng Hộ Sáu Căn",
+        "pali": "Indriyasaṃvara",
+        "definition": "Sự canh giữ chánh niệm nơi mắt, tai, mũi, lưỡi, thân, ý; khi tiếp xúc với trần cảnh không nắm giữ tướng chung (nimitta) và tướng riêng (anubyañjana)."
+      },
+      {
+        "term": "Xúc Thực — Thức Ăn Của Giác Quan",
+        "pali": "Phassāhāra",
+        "definition": "Thức ăn của tâm thông qua sự tiếp xúc giác quan; nếu tiếp nhận thông tin giật gân, độc hại thì tâm thức sẽ bị ngộ độc và kiệt quệ."
+      },
+      {
+        "term": "Trạo Cử & Hối Quá",
+        "pali": "Uddhacca-kukkucca",
+        "definition": "Triền cái thứ tư — trạng thái tâm bồn chồn, lăng xăng, mất tập trung do nghiện các kích thích dopamine ngắn từ màn hình."
+      },
+      {
+        "term": "Chánh Niệm Không Phóng Dật",
+        "pali": "Appamāda",
+        "definition": "Thái độ tỉnh giác, tự chủ tuyệt đối trong việc sử dụng công nghệ thay vì để thuật toán điều khiển tâm trí."
+      }
+    ],
+    "expositionMarkdown": "### 1. Ẩn Dụ Con Rùa Rụt Mai Trước Con Chó Rừng (SN 35.240)\n\nTrong **Kinh Kummopama (SN 35.240)**, Đức Phật kể câu chuyện ngụ ngôn thâm thúy:\nMột con rùa đang kiếm ăn ven bờ sông thì thấy một con dã can (chó rừng) rình rập muốn ăn thịt nó. Con rùa lập tức thu rút bốn chân, đầu và đuôi vào trong mai, nằm im bất động. Con dã can lượn quanh rình mò, chờ rùa thò chi nào ra là cắn đứt chi ấy. Nhưng con rùa kiên quyết không thò ra kẽ hở nào. Cuối cùng, con dã can chán nản bỏ đi.\n\nĐức Phật dạy:\n> *'Cũng vậy, này các Tỳ-kheo, Ma Ba-tuần (Māra) luôn rình rập ở sáu cửa giác quan: 'Rất có thể ta bắt được người này qua con mắt, qua lỗ tai, qua lỗ mũi, qua cái lưỡi, qua thân xác, qua ý nghĩ!'. Do đó, người hành giả phải như con rùa rụt các chi vào mai, khéo phòng hộ sáu căn. Khi sáu căn được bảo hộ, Ma vương hoàn toàn bất lực!'*\n\n---\n\n### 2. Thuật Toán Mạng Xã Hội — Kẻ Thù Số 1 Của Sự Chú Ý Sâu\n\nThời hiện đại, \"con dã can\" không ở ngoài bờ sông mà nằm ngay trên lòng bàn tay chúng ta:\n- **Nền kinh tế chú ý (Attention Economy):** Bạn không phải trả tiền mua mạng xã hội vì chính **sự chú ý và thời gian của bạn là món hàng** bán cho nhà quảng cáo. Các kỹ sư công nghệ thiết kế thuật toán để kích hoạt tối đa lòng Tham (*Lobha*), sự Phẫn nộ (*Dosa*), và tính tò mò ngốc nghếch (*Moha*).\n- **Bẫy Dopamine Ngắn (Cheap Dopamine):** Các video ngắn 15–30 giây (TikTok, Reels, Shorts) liên tục bắn phá não bộ bằng những kích thích ảo, gây ra:\n  1. *Hủy hoại Chánh Định (Samādhi):* Không thể ngồi yên đọc sách kinh hay hành thiền quá 5 phút.\n  2. *Bùng phát Trạo Cử (Uddhacca):* Tâm lăng xăng, bồn chồn, ngứa ngáy tay chân, sương mù não (*Brain Fog*).\n  3. *So bì và Đố kỵ:* Nhìn thấy cuộc sống hào nhoáng giả tạo của người khác khiến tâm thức ngấm ngầm tự ti hoặc ghen ghét.\n\n---\n\n### 3. Kinh Lửa Cháy (SN 35.28) & Chế Độ Ăn Thông Tin Lành Mạnh (Phassāhāra)\n\nTrong **Kinh Lửa Cháy (Ādittapariyāya Sutta - SN 35.28)**, Đức Phật cảnh báo: *Mắt đang bốc cháy, các hình sắc đang bốc cháy bởi ngọn lửa tham, ngọn lửa sân, ngọn lửa si*.\nVà trong **Kinh Puttamāṃsa (SN 12.63)**, Ngài dạy **Xúc thực (*Phassāhāra*)** như con bò bị lột da, đứng vào đâu liền bị côn trùng nơi đó bu cắn. Mọi thông tin bạn nạp vào mắt hằng ngày chính là thức ăn của tâm.\n\n**Ba bước thiết lập \"Chánh Niệm Công Nghệ\" (Mindful Digital Diet):**\n1. **Thiết lập ranh giới vật lý (Physical Boundary):** Tạo ra \"Khu vực không điện thoại\" (phòng ngủ, bàn ăn, phòng thiền). Tắt toàn bộ thông báo không khẩn cấp.\n2. **Quy tắc dừng lại 3 giây (3-Second Pause):** Trước khi mở điện thoại, tự hỏi: *'Tâm ta đang tìm kiếm điều gì? Công việc thực tế hay cơn nghiện dopamine khỏa lấp cô đơn?'*.\n3. **Thanh lọc nguồn tiếp nhận (Digital Purge):** Hủy theo dõi triệt để các trang drama bêu xấu, tin giật gân, tranh cãi độc hại.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng lướt xem hàng trăm video Phật pháp ngắn và trích dẫn đạo lý trên mạng là mình đang tu tập tinh tấn.",
+        "correction": "Đức Phật dạy trong Pháp Cú 100: 'Dầu nói ngàn lời vô ích, không bằng một câu nghe xong tâm tịch tịnh'. Tiêu thụ thông tin tâm linh thụ động chỉ làm dày thêm bản ngã tri thức; tu tập chân chính đòi hỏi buông điện thoại xuống, ngồi yên tĩnh lặng và chuyển hóa nội tâm."
+      },
+      {
+        "mistake": "Cho rằng phòng hộ 6 căn là phải trốn tránh cuộc đời, cấm tiệt internet và không dùng điện thoại thông minh.",
+        "correction": "Trong Kinh Indriyabhāvanā (MN 152), Đức Phật dạy phòng hộ không phải là làm cho mù mắt điếc tai. Người trí tuệ dùng công nghệ như một công cụ hữu ích phục vụ cuộc sống nhưng không để công nghệ làm chủ hay biến mình thành tù nhân của thuật toán."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Thực hành 'Digital Fasting' mỗi tối: 90 phút trước khi đi ngủ, tắt wifi, để điện thoại ở phòng khách, không mang vào giường ngủ. Dành thời gian đó để tọa thiền 15 phút và đọc một bài kinh trong Tam Tạng Pāḷi.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Hủy theo dõi (unfollow) 5 kênh thông tin giật gân tiêu cực và tắt toàn bộ thông báo mạng xã hội"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn có thể ngồi yên tĩnh lặng 10 phút trọn vẹn mà không có cảm giác bồn chồn thèm quẹt màn hình điện thoại không?",
+    "selfAuditChecklist": [
+      "Tôi hoàn toàn làm chủ thiết bị công nghệ, không để thuật toán dẫn dụ vào các vòng lặp video ngắn vô bổ.",
+      "Tôi đã thiết lập khu vực không điện thoại trong phòng ngủ để bảo vệ giấc ngủ và sự an tịnh nội tâm.",
+      "Khi mắt thấy sắc trên màn hình, tôi không nắm giữ tướng chung hay tướng riêng kích động tham sân.",
+      "Tôi ý thức rõ giá trị của thời gian và năng lực chú ý sâu, không hoang phí đời mình vào drama mạng xã hội."
+    ]
+  }
+}

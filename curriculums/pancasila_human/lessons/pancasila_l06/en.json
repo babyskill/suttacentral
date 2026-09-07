@@ -1,0 +1,64 @@
+{
+  "lessonId": "pancasila_l06",
+  "curriculumId": "pancasila_human",
+  "lessonNumber": 6,
+  "stageIndex": 5,
+  "title": "Lesson 6: 5th Precept — Guarding the Lamp of Awareness & Wisdom",
+  "paliTitle": "Sigālovādasutta (DN 31)",
+  "suttaRef": {
+    "uid": "dn31",
+    "title": "Advice to Sigāla (DN 31 - The Six Perils of Intoxicants)",
+    "excerptPali": "Surāmerayamajjapamādaṭṭhānā veramaṇīsikkhāpadaṃ samādiyāmi... Cha khome, gahapatiputta, ādīnavā majjapamādaṭṭhānānuyoge: sandiṭṭhikā dhanajānī, kalahappavaḍḍhanī, rogānaṃ āyatanaṃ, akittisañjananī, kopīnanidaṃsanī, paññāya dubbalikaraṇītvatta.",
+    "excerptTranslation": "I undertake the training rule to abstain from fermented and distilled intoxicants that cause heedlessness... Householder's son, there are these six perils in indulging in intoxicants: immediate loss of wealth, increase of quarrels, origin of diseases, loss of good reputation, shameless exposure of oneself, and weakening of wisdom."
+  },
+  "pariyatti": {
+    "shortSummary": "Intoxicants dismantle the first four precepts. The fifth precept is the master safeguard protecting the flame of Mindfulness (Sati) and Wisdom (Paññā). Preserving an unclouded, luminous mind to master your destiny.",
+    "coreConcepts": [
+      {
+        "term": "Abstaining from Intoxicants",
+        "pali": "Surāmerayamajjapamādaṭṭhānā Veramaṇī",
+        "definition": "Restraint from alcohol, recreational drugs, and mind-clouding substances that induce reckless heedlessness and loss of moral control."
+      },
+      {
+        "term": "Heedlessness & Negligence",
+        "pali": "Pamāda",
+        "definition": "A state of spiritual stupor and lack of moral mindfulness; the direct gateway to catastrophe and downfall."
+      },
+      {
+        "term": "Mindfulness & Clear Comprehension",
+        "pali": "Sati & Sampajañña",
+        "definition": "Unbroken awareness and lucid understanding of one's actions; the spiritual lighthouse guiding the mind."
+      },
+      {
+        "term": "Six Perils of Intoxication",
+        "pali": "Cha Ādīnavā",
+        "definition": "1. Loss of wealth; 2. Escalation of quarrels; 3. Incubator of disease; 4. Bad reputation; 5. Indecent exposure; 6. Annihilation of wisdom."
+      }
+    ],
+    "expositionMarkdown": "### 1. Why the Fifth Precept is the Keystone of Morality\n\nA person may be naturally gentle, honest, and hardworking. Yet once thoroughly drunk or drugged, **all preceding four precepts can be shattered in a single night**:\n- Intoxicated, one turns violently murderous (Breaking Precept 1).\n- Intoxicated, one steals and vandalizes (Breaking Precept 2).\n- Intoxicated, one commits sexual assault (Breaking Precept 3).\n- Intoxicated, one babbles, slanders, and lies (Breaking Precept 4).\n\nThe fifth precept serves as the **master lock** securing the moral integrity of a human being.\n\n---\n\n### 2. The Six Poisoned Darts of Alcohol\n\nIn **DN 31**, the Buddha enumerates six devastating consequences:\n1. **Financial Hemorrhage (*Sandiṭṭhikā dhanajānī*):** Hard-earned money squandered on liquor, followed by staggering healthcare bills.\n2. **Breeder of Conflict (*Kalahappavaḍḍhanī*):** Domestic violence, street brawls, and homicides ignited across drinking tables.\n3. **Seedbed of Disease (*Rogānaṃ āyatanaṃ*):** Cirrhosis, brain atrophy, cardiovascular collapse, and mental instability.\n4. **Disgrace (*Akittisañjananī*):** Forfeiting public respect, trust, and professional credibility.\n5. **Loss of Decency (*Kopīnanidaṃsanī*):** Shameless behavior, vomiting in public, becoming a grotesque laughingstock.\n6. **Destruction of Wisdom (*Paññāya dubbalikaraṇī*):** The most catastrophic toll—alcohol destroys millions of brain cells, extinguishing the capacity for deep contemplation.\n\n---\n\n### 3. Modern Intoxicants & the Courage to Stand Sober\n\nToday, intoxicants extend beyond alcohol:\n- Narcotics, stimulants, electronic nicotine pods, and toxic behavioral addictions dull the brain.\n\nThe Buddha teaches that **a wise person fiercely treasures their own lucidity**.\nDeclining a drink at a social gathering is not a weakness; it is the hallmark of moral courage, independence, and profound respect for oneself and society.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing that 'drinking in moderation for social etiquette' carries no spiritual fault.",
+        "correction": "A single drop of poison remains poison. Relaxing vigilance compromises moral boundaries, inevitably opening the door to habitual indulgence."
+      },
+      {
+        "mistake": "Thinking that drinking alone at home harms nobody and produces no demerit.",
+        "correction": "The greatest casualty is your own organ of wisdom—the brain. One who systematically extinguishes their own lucidity reaps future births plagued by mental dullness, madness, or animal stupor."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Firm Refusal:** Practice politely yet resolutely declining alcohol in social situations, substituting water, tea, or healthy juices.\n2. **Detoxify Addictive Triggers:** Identify habits that lull the mind into dullness (late-night gaming, substance use) and dismantle them.\n3. **Cultivate Pure Joy:** Replace alcohol-induced intoxication with the sublime, natural joy of mindfulness, walking meditation, and tranquil Dhamma study.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Guard mental lucidity, resolutely abandon intoxicants, and uphold mindfulness."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Are you seeking refuge in alcohol, stimulants, or digital numbing to escape stress? Are you ready to embrace total sobriety to master your mind and life?",
+    "selfAuditChecklist": [
+      "I abstain completely from alcohol and mind-clouding intoxicants.",
+      "I possess the moral courage to refuse social pressures to drink.",
+      "I fiercely protect my brain and clarity as a priceless vessel of wisdom.",
+      "I experience the serene, dignified freedom of a completely sober, mindful life."
+    ]
+  }
+}

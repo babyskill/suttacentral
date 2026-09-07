@@ -1,0 +1,73 @@
+{
+  "lessonId": "sotapatti_l08",
+  "curriculumId": "sotapatti_magga",
+  "lessonNumber": 8,
+  "stageIndex": 3,
+  "title": "Chánh Tri Kiến — Ngọn Đèn Dẫn Lối Thấu Suốt Thiện Ác & Bốn Thánh Đế",
+  "paliTitle": "Sammā-diṭṭhi (MN 9)",
+  "suttaRef": {
+    "uid": "mn9",
+    "title": "Kinh Chánh Tri Kiến (Sammādiṭṭhi Sutta — MN 9)",
+    "excerptPali": "Yato kho, āvuso, ariyasāvako akusalañca pajānāti, akusalamūlañca pajānāti, kusalañca pajānāti, kusalamūlañca pajānāti — ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhammaṁ... Katamañca, āvuso, akusalaṁ, katamaṁ akusalamūlaṁ? Lobho akusalamūlaṁ, doso akusalamūlaṁ, moho akusalamūlaṁ; alobho kusalamūlaṁ, adoso kusalamūlaṁ, amoho kusalamūlaṁ.",
+    "excerptTranslation": "Này các Hiền giả, khi nào Thánh đệ tử tuệ tri được bất thiện và tuệ tri được căn bản bất thiện; tuệ tri được thiện và tuệ tri được căn bản thiện — chừng ấy, này các Hiền giả, Thánh đệ tử có Chánh tri kiến, có tri kiến chánh trực, có lòng tin bất động nơi Chánh pháp, đã đi đến Diệu pháp này... Thế nào là căn bản bất thiện? Tham là căn bản bất thiện, Sân là căn bản bất thiện, Si là căn bản bất thiện; Vô tham là căn bản thiện, Vô sân là căn bản thiện, Vô si là căn bản thiện."
+  },
+  "pariyatti": {
+    "shortSummary": "Chánh Tri Kiến (Sammā-diṭṭhi) là chi phần tối quan trọng, đóng vai trò ngọn đèn pha đi đầu dẫn dắt toàn bộ Bát Thánh Đạo. Dưới lời khai thị của Đại Trưởng Lão Sāriputta trong Kinh Trung Bộ số 9, Chánh Tri Kiến khởi đầu từ việc phân biệt rạch ròi thiện - ác và cội rễ của chúng (Tham, Sân, Si vs Vô tham, Vô sân, Vô si), thấu suốt quy luật Nghiệp báo (Kammassakatā-ñāṇa), và đạt đến đỉnh cao là sự thấu thị Tứ Thánh Đế cùng chuỗi 12 Duyên Khởi.",
+    "coreConcepts": [
+      {
+        "term": "Chánh Tri Kiến",
+        "pali": "Sammā-diṭṭhi",
+        "definition": "Cái thấy và sự hiểu biết chân chánh, sáng tỏ như thật về thực tại (Yathābhūta-ñāṇadassana); không bị bóp méo bởi ảo tưởng bản ngã, thành kiến hay sự mê mờ."
+      },
+      {
+        "term": "Chi Phần Dẫn Đầu",
+        "pali": "Pubbaṅgama",
+        "definition": "Như ánh bình minh báo hiệu mặt trời sắp mọc, Chánh Tri Kiến là yếu tố tiên phong rọi đường cho Chánh tư duy, Chánh ngữ, Chánh nghiệp... Nếu tri kiến bị lệch lạc (Tà kiến), mọi nỗ lực tu tập tiếp theo đều sẽ đi lạc hướng."
+      },
+      {
+        "term": "Cội Rễ Thiện & Bất Thiện",
+        "pali": "Kusala & Akusala Mūla",
+        "definition": "Gốc rễ của mọi hành vi: Ba gốc bất thiện là Tham (Lobha), Sân (Dosa), Si (Moha); Ba gốc thiện lành đối trị là Vô tham (Alobha - xả ly, rộng lượng), Vô sân (Adosa - từ bi, nhẫn nại), Vô si (Amoha - trí tuệ, tỉnh giác)."
+      },
+      {
+        "term": "Chánh Kiến Nghiệp Báo",
+        "pali": "Kammassakatā-ñāṇa",
+        "definition": "Chánh kiến hiệp thế nền tảng: Thấu hiểu mỗi chúng sinh là chủ nhân của nghiệp, là kẻ thừa tự của nghiệp; hành động thiện hay ác của thân - khẩu - ý sẽ tạo ra quả tương ứng không thể tránh khỏi."
+      },
+      {
+        "term": "Chánh Kiến Siêu Thế",
+        "pali": "Lokuttara Sammā-diṭṭhi",
+        "definition": "Tuệ giác vô lậu trực nhận Tứ Thánh Đế và Duyên Khởi trong thiền quán Vipassanā; phá tan Thân kiến, Hoài nghi, Giới cấm thủ, đưa hành giả nhập vào dòng Thánh."
+      }
+    ],
+    "expositionMarkdown": "### 1. Ngọn Đèn Pha Đi Đầu: 'Sammādiṭṭhi Pubbaṅgamā Hoti'\n\nTrong *Kinh Đại Bốn Mươi (Mahācattārīsaka Sutta — MN 117)*, Đức Phật nhấn mạnh một nguyên lý then chốt:\n> *'Này các Tỳ-kheo, Chánh Tri Kiến là yếu tố đi đầu (Pubbaṅgama)!'*\n\nNếu bạn bước lên một cỗ xe có động cơ cực mạnh (tương đương với Chánh Tinh Tấn) nhưng người cầm lái lại bị mù mắt hoặc xác định nhầm hướng (Tà kiến — *Micchā-diṭṭhi*), thì cỗ xe chạy càng nhanh, bạn càng lao thẳng xuống vực sâu hoặc đi vào rừng rậm nguy hiểm. \n\nChánh Tri Kiến chính là **cặp mắt sáng, chiếc la bàn định vị** chuẩn xác phương hướng trước khi khởi hành. Nhờ có Chánh Tri Kiến, ta mới biết suy nghĩ thế nào là chân chánh (Chánh tư duy), nói năng thế nào là thanh tịnh (Chánh ngữ), hành động thế nào là không gây hại (Chánh nghiệp).\n\n---\n\n### 2. Hai Tầng Cấp Của Chánh Tri Kiến: Hiệp Thế & Siêu Thế\n\nĐức Phật phân biệt rõ hai cấp độ Chánh Tri Kiến:\n\n1. **Chánh Kiến Hiệp Thế (*Lokiya Sammā-diṭṭhi*) — Tri Kiến Về Nghiệp (*Kammassakatā-ñāṇa*):**\n   - Nhận thức rằng các hành vi thiện ác đều có quả báo (*Kamma-vipāka*).\n   - Bố thí, cúng dường, hiếu kính cha mẹ, tôn trọng các bậc đạo hạnh là có kết quả tốt đẹp.\n   - Không có thần thánh hay số phận an bài; chính nghiệp do thân, khẩu, ý của ta tạo ra sẽ định hình đời sống hiện tại và tương lai.\n   - Tầng tri kiến này giúp con người sống đạo đức, không rơi vào bốn đường ác đạo (địa ngục, ngạ quỷ, súc sinh, a-tu-la), nhưng vẫn còn gắn liền với phước báo luân hồi hữu vi.\n\n2. **Chánh Kiến Siêu Thế (*Lokuttara Sammā-diṭṭhi*) — Tri Kiến Thấu Suốt Bốn Đế & Duyên Khởi:**\n   - Đây là tuệ giác vô lậu (*Anāsava*), thuộc về các bậc Thánh đệ tử.\n   - Nhìn thấy rõ năm uẩn là vô thường, khổ, vô ngã.\n   - Thấu triệt Khổ Đế, Tập Đế, Diệt Đế, Đạo Đế ngay trên chính thân tâm đang vận hành.\n   - Tri kiến này chặt đứt gốc rễ của Thân Kiến (*Sakkāya-diṭṭhi*), đoạn trừ Hoài Nghi (*Vicikicchā*) và xóa sạch Giới Cấm Thủ (*Sīlabbata-parāmāsa*), giải thoát hoàn toàn khỏi bánh xe sinh tử.\n\n---\n\n### 3. Mười Sáu Cánh Cửa Chánh Tri Kiến (Kinh Sammādiṭṭhi — MN 9)\n\nTrong bài kinh số 9 của Trung Bộ Kinh, Tôn giả Sāriputta đã khai thị 16 phương thức giúp một vị hành giả thành tựu Chánh Tri Kiến trọn vẹn:\n\n- **Phương thức đầu tiên:** Thấu suốt **Bất thiện (*Akusala*)** và **Căn bản Bất thiện (*Akusalamūla*)**; Thấu suốt **Thiện (*Kusala*)** và **Căn bản Thiện (*Kusalamūla*)**.\n  - Ba cội rễ bất thiện là **Tham (*Lobha*)**, **Sân (*Dosa*)**, **Si (*Moha*)**.\n  - Ba cội rễ thiện lành là **Vô tham (*Alobha*)**, **Vô sân (*Adosa*)**, **Vô si (*Amoha*)**.\n- **Các phương thức tiếp theo:** Thấu suốt về bốn loại Thức ăn (*Āhāra*); Thấu suốt Tứ Thánh Đế; và tuần tự thấu suốt 12 chi phần Duyên Khởi từ Già-Chết ngược về Vô Minh và Lậu Hoặc (*Āsava*).\n\nBất cứ khi nào một người nhận diện rõ ràng một hành vi sắp làm là do lòng tham ái hay lòng vị tha dẫn dắt, vị ấy đang thắp sáng ngọn đèn Chánh Tri Kiến.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng đạo Phật chủ trương thuyết tương đối, 'không có đúng sai, tất cả chỉ là góc nhìn cá nhân'.",
+        "correction": "Đức Phật kịch liệt phản bác chủ nghĩa hư vô và tương đối vô trách nhiệm. Hành vi bất thiện xuất phát từ Tham, Sân, Si tất yếu mang lại khổ đau; hành vi thiện xuất phát từ Vô tham, Vô sân, Vô si tất yếu đem lại an lạc. Chánh Tri Kiến có tiêu chuẩn thực chứng rõ ràng dựa trên luật Nhân Quả, không phải là sự mập mờ ba phải."
+      },
+      {
+        "mistake": "Nghĩ rằng đọc nhiều sách Phật học, học thuộc kinh điển và tranh luận triết học giỏi là đã có Chánh Tri Kiến.",
+        "correction": "Kiến thức sách vở mới chỉ là Văn tuệ (Sutamaya-paññā). Chánh Tri Kiến đích thực phải được phát triển thành Tư tuệ (Cintāmaya-paññā) và đỉnh cao là Tu tuệ (Bhāvanāmaya-paññā) — cái thấy trực tiếp thông qua thiền quán Vipassanā khi tâm mục kích ngũ uẩn sinh diệt từng tích tắc."
+      },
+      {
+        "mistake": "Đổ lỗi thất bại, bệnh tật cho số mệnh, giờ xấu, phong thủy hoặc sao hạn chiếu mạng rồi tìm thầy cúng bái giải trừ.",
+        "correction": "Đây là Tà kiến cực kỳ nặng nề (Giới cấm thủ & Tà kiến định mệnh). Chánh Tri Kiến xác định rõ ta là chủ nhân của nghiệp. Mọi biến cố hiện tại là quả của nghiệp quá khứ kết hợp với thái độ ứng xử (tác ý) ở hiện tại. Thay vì cúng sao, hành giả phải gieo nhân thiện và hành xử với tâm sáng suốt."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Kiểm Soát Gốc Rễ Động Cơ (Thường nhật):** Trước khi quyết định đầu tư, nhận việc, phản hồi email căng thẳng hay đưa ra lời phê bình, dừng lại 5 giây và tự hỏi: 'Cái gì đang thúc đẩy tôi ở đây? Lòng tham muốn hơn thua, sự tức tối giận dữ, hay tâm sáng suốt, thiện chí và tôn trọng sự thật?'. Kiên quyết không hành động nếu động cơ bị dẫn dắt bởi Tham hoặc Sân.\n2. **Ứng Dụng Chánh Kiến Nghiệp Báo Trước Va Chạm:** Khi bị người khác chỉ trích hoặc lừa gạt, tự nhắc nhở: 'Họ gieo nhân nào họ sẽ nhận quả đó. Nếu tôi phản ứng lại bằng tâm sân hận, tôi cũng đang gieo một nhân bất thiện đen tối cho chính mình'.\n3. **Tọa Thiền Soi Chiếu Duyên Sinh (15 phút):** Ngồi tĩnh lặng theo dõi hơi thở, ghi nhận thân tâm này là một tập hợp các yếu tố duyên sinh vô ngã, không có một cái Tôi độc lập bất biến.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Soi rọi tâm bằng Chánh tri kiến trước khi quyết định việc quan trọng"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Trong các xung đột hoặc quyết định quan trọng gần đây, bạn có bị chi phối bởi lòng tham ngấm ngầm (muốn khẳng định bản ngã) hay sự giận dữ (sân hận) không? Ánh sáng Chánh Tri Kiến đã giúp bạn nhìn nhận lại sự việc ấy như thế nào?",
+    "selfAuditChecklist": [
+      "Tôi phân biệt rạch ròi giữa hành vi thiện (cội rễ Vô tham, Vô sân, Vô si) và hành vi bất thiện (cội rễ Tham, Sân, Si).",
+      "Tôi an trú vững vàng nơi Chánh kiến nghiệp báo (Kammassakatā), hoàn toàn dứt bỏ thói quen xem bói, tử vi, phong thủy, cúng bái.",
+      "Tôi hiểu rõ Chánh Tri Kiến là ngọn đèn dẫn đầu (Pubbaṅgama) cho toàn bộ 7 chi phần còn lại của Bát Chánh Đạo.",
+      "Tôi duy trì thói quen soi chiếu động cơ nội tâm trước khi thực hiện các phát ngôn và hành động trọng yếu."
+    ]
+  }
+}

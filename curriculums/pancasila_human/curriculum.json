@@ -1,0 +1,187 @@
+{
+  "id": "pancasila_human",
+  "curriculumId": "pancasila_human",
+  "title": "Bảo Toàn Thân Người — Thâm Nhập Ngũ Giới",
+  "titleEn": "Preserving Human Rebirth — Pañcasīla Deep-Dive",
+  "paliTitle": "Manussatta & Pañcasīla",
+  "subtitle": "Thấu suốt 5 Giới Căn Bản từ tầng Hành Vi đến tầng Ý Niệm",
+  "subtitleEn": "Mastering the 5 Precepts from behavioral action to subtle thought",
+  "description": "Được thân người là vô cùng hy hữu và quý báu. Giáo trình này đi sâu vào từng giới trong Ngũ Giới (Pañcasīla) theo Tam Tạng Pāḷi, giúp hành giả thấu triệt 3 tầng bậc: hành vi thô, ý niệm vi tế và quy luật nghiệp báo, nhằm nuôi dưỡng nhân tính trọn vẹn và bảo toàn thân người trong các đời vị lai.",
+  "descriptionEn": "Attaining a human birth is exceptionally rare and precious. This curriculum explores each of the 5 Precepts (Pañcasīla) according to the Pāḷi Canon across 3 dimensions: coarse action, subtle intention, and karmic retribution, establishing noble character and securing human rebirth in future lives.",
+  "category": "sila",
+  "iconEmoji": "🌿",
+  "estimatedDuration": "6 bài / 5 Chặng",
+  "estimatedDurationEn": "6 Lessons / 5 Phases",
+  "canonicalSource": "Tam Tạng Pāḷi: SN 56.48 (Con Rùa Mù), Khp 9 / Snp 1.8 (Kinh Từ Bi), DN 31 (Sigālovāda), AN 10.176 (Cunda), MN 61 (Rāhula)",
+  "canonicalSourceEn": "Pāḷi Canon: SN 56.48 (Blind Turtle), Khp 9 / Snp 1.8 (Mettā Sutta), DN 31 (Sigālovāda), AN 10.176 (Cunda), MN 61 (Rāhula)",
+  "traditionLineage": "Phật giáo Nguyên thủy Theravāda chính thống — Giới học (Sīlasikkhā) & Chánh tri kiến Nhân quả",
+  "traditionLineageEn": "Authentic Theravāda Early Buddhism — Moral Training (Sīlasikkhā) & Karmic Right View",
+  "targetAudience": "Hành giả tại gia muốn giữ gìn nhân cách, bảo vệ sự an lạc của gia đình và tích lũy thiện nghiệp để bảo toàn thân người.",
+  "targetAudienceEn": "Lay practitioners seeking to protect moral integrity, cultivate family harmony, and preserve future human rebirth.",
+  "stages": [
+    {
+      "stageIndex": 1,
+      "title": "Chặng 1: Giới 1 — Tôn Trọng Sự Sống & Tâm Từ Vô Lượng",
+      "titleEn": "Phase 1: 1st Precept — Reverence for Life & Boundless Goodwill",
+      "paliTitle": "Pāṇātipātā Veramaṇī & Mettā",
+      "objective": "Thức tỉnh sự hy hữu của kiếp người và đoạn trừ tâm sát hại, trải rộng tâm từ đến muôn loài.",
+      "objectiveEn": "Awakening to the rarity of human life, abandoning harm, radiating goodwill to all.",
+      "lessons": [
+        {
+          "id": "pancasila_l01",
+          "lessonNumber": 1,
+          "title": "Bài 1: Thân Người Khó Được — Bọng Cây Giữa Biển Khơi",
+          "titleEn": "Lesson 1: The Rarity of Human Life — The Blind Turtle",
+          "paliTitle": "Dutiya Chiggalasutta (SN 56.48)",
+          "summary": "Đức Phật ví cơ hội được làm người hy hữu như con rùa mù trăm năm mới nổi lên một lần và chui trúng bọng cây trôi giạt giữa đại dương.",
+          "summaryEn": "The Buddha illustrates the extreme rarity of human rebirth: a blind turtle surfacing once a century and poking its neck through a yoke floating in the vast ocean.",
+          "suttaUid": "sn56.48",
+          "suttaTitle": "Kinh Bọng Cây Thứ Hai (SN 56.48)",
+          "suttaTitleEn": "The Hole (2nd) (SN 56.48)",
+          "recommendedRoutineId": "r_morning",
+          "practiceGuide": "Quán chiếu sự may mắn vô giá khi có được thân người lành lặn và biết đến Chánh Pháp, phát nguyện không hoang phí thời gian.",
+          "practiceGuideEn": "Contemplate the priceless fortune of a sound human life and encountering the Dhamma, resolving not to squander time.",
+          "reflectionPrompt": "Bạn đang sử dụng kiếp người quý báu này để gieo trồng trí tuệ thiện lành hay buông trôi theo các dục vọng vô bổ?",
+          "reflectionPromptEn": "Are you using this precious human rebirth to cultivate wisdom, or squandering it in transient desires?",
+          "suggestedVirtue": "Khởi tâm biết ơn sự sống và trân quý từng giờ phút tỉnh thức hiện tại",
+          "suggestedVirtueEn": "Cultivate gratitude for life and cherish every mindful moment"
+        },
+        {
+          "id": "pancasila_l02",
+          "lessonNumber": 2,
+          "title": "Bài 2: Giới 1 — Tôn Trọng Sự Sống & Tâm Từ Vô Lượng",
+          "titleEn": "Lesson 2: 1st Precept — Reverence for Life & Boundless Goodwill",
+          "paliTitle": "Karaṇīyamettāsutta (Khp 9 / Snp 1.8)",
+          "summary": "Dứt trừ hành vi và ý niệm sát hại; nuôi dưỡng tình thương không phân biệt đối với mọi chúng sinh từ con người đến loài nhỏ bé.",
+          "summaryEn": "Refraining from killing in action and thought; cultivating unconditional loving-kindness for all living creatures.",
+          "suttaUid": "kp9",
+          "suttaTitle": "Kinh Từ Bi (Khp 9 / Snp 1.8)",
+          "suttaTitleEn": "Discourse on Loving-Kindness (Khp 9)",
+          "recommendedRoutineId": "r_metta",
+          "practiceGuide": "Dành 15 phút thực hành rải tâm từ đến bản thân, người thân, người trung dung, người từng làm tổn thương mình và muôn loài.",
+          "practiceGuideEn": "Practice 15 minutes of Mettā meditation radiating goodwill to oneself, loved ones, neutrals, difficult persons, and all beings.",
+          "reflectionPrompt": "Khi gặp một người khó chịu hay một sinh vật nhỏ quấy rầy, phản ứng đầu tiên trong tâm bạn là sân hận muốn tiêu diệt hay thấu cảm và kiên nhẫn?",
+          "reflectionPromptEn": "When confronted with an annoying person or creature, is your first reaction anger to destroy or empathy to understand?",
+          "suggestedVirtue": "Bảo vệ sự sống của các sinh linh nhỏ bé và tha thứ cho người làm mình phật ý",
+          "suggestedVirtueEn": "Protect the lives of tiny creatures and forgive those who slight you"
+        }
+      ]
+    },
+    {
+      "stageIndex": 2,
+      "title": "Chặng 2: Giới 2 — Liêm Chính Tài Chính & Chánh Mạng",
+      "titleEn": "Phase 2: 2nd Precept — Financial Integrity & Right Livelihood",
+      "paliTitle": "Adinnādānā Veramaṇī & Sammā Ājīva",
+      "objective": "Tôn trọng tài sản người khác, kiếm sống trong sạch và thực hành hạnh bố thí xả ly.",
+      "objectiveEn": "Respecting others' property, honest livelihood, and cultivating generous detachment.",
+      "lessons": [
+        {
+          "id": "pancasila_l03",
+          "lessonNumber": 3,
+          "title": "Bài 3: Giới 2 — Liêm Chính Tài Chính & Chánh Mạng",
+          "titleEn": "Lesson 3: 2nd Precept — Financial Integrity & Right Livelihood",
+          "paliTitle": "Sigālovādasutta (DN 31)",
+          "summary": "Không lấy của không cho dù là vật nhỏ nhất; tránh gian lận thời gian, thuế má, bản quyền; rèn luyện đức liêm khiết tuyệt đối.",
+          "summaryEn": "Refraining from taking what is not given; avoiding theft of time, taxes, or digital copyright; cultivating pristine honesty.",
+          "suttaUid": "dn31",
+          "suttaTitle": "Kinh Giáo Thọ Thi-ca-la-việt (DN 31)",
+          "suttaTitleEn": "Advice to Sigāla (DN 31)",
+          "recommendedRoutineId": "r_morning",
+          "practiceGuide": "Rà soát lại công việc và tài chính: Đảm bảo mọi thu nhập đều trong sạch theo Chánh Mạng và không chiếm dụng tài sản tập thể.",
+          "practiceGuideEn": "Examine daily livelihood: ensure income is untainted by fraud and refrain from misusing shared resources.",
+          "reflectionPrompt": "Có hành vi nào trong công việc hay đời sống bạn đang tư lợi hoặc sử dụng tài nguyên của người khác mà chưa được cho phép?",
+          "reflectionPromptEn": "Are you taking advantage of public resources, work hours, or others' belongings without explicit permission?",
+          "suggestedVirtue": "Thực hành bố thí chân chính và tôn trọng quyền sở hữu của mọi người",
+          "suggestedVirtueEn": "Practice sincere generosity and respect the property rights of all"
+        }
+      ]
+    },
+    {
+      "stageIndex": 3,
+      "title": "Chặng 3: Giới 3 — Trí Tuệ Trong Ái Dục & Hạnh Phúc Gia Đình",
+      "titleEn": "Phase 3: 3rd Precept — Wisdom in Sensuality & Family Harmony",
+      "paliTitle": "Kāmesumicchācārā Veramaṇī",
+      "objective": "Tiết chế dục vọng, chung thủy với bạn đời và tôn trọng phẩm giá con người.",
+      "objectiveEn": "Restraining sensual desires, fidelity in partnership, honoring human dignity.",
+      "lessons": [
+        {
+          "id": "pancasila_l04",
+          "lessonNumber": 4,
+          "title": "Bài 4: Giới 3 — Trí Tuệ Trong Ái Dục & Hạnh Phúc Gia Đình",
+          "titleEn": "Lesson 4: 3rd Precept — Wisdom in Sensuality & Family Harmony",
+          "paliTitle": "Cundakammaraputtasutta (AN 10.176)",
+          "summary": "Tôn trọng cam kết hôn nhân; không tà hạnh với người đã có gia đình hay người được bảo hộ; bảo vệ sự thiêng liêng của gia đình.",
+          "summaryEn": "Honoring marital commitments; avoiding infidelity with protected persons; safeguarding family sanctity.",
+          "suttaUid": "an10.176",
+          "suttaTitle": "Kinh Cunda Con Người Thợ Rèn (AN 10.176)",
+          "suttaTitleEn": "With Cunda the Silversmith (AN 10.176)",
+          "recommendedRoutineId": "r_evening",
+          "practiceGuide": "Thực tập quán chiếu tác hại của ái dục buông thả và nuôi dưỡng sự tri túc (Santosa), yêu thương chân thành người bạn đời.",
+          "practiceGuideEn": "Contemplate the dangers of unchecked lust and cultivate contentment (Santosa), cherishing one's life partner.",
+          "reflectionPrompt": "Tâm bạn có đang hướng về sự thanh tịnh hay đang bị khuấy đảo bởi những hình ảnh dục lạc cám dỗ trên mạng xã hội?",
+          "reflectionPromptEn": "Is your heart rooted in serene purity or agitated by seductive online stimuli?",
+          "suggestedVirtue": "Giữ tâm trong sáng, thủy chung và bày tỏ sự tôn trọng đối với người bạn đời",
+          "suggestedVirtueEn": "Maintain pure intentions, fidelity, and heartfelt respect toward spouse"
+        }
+      ]
+    },
+    {
+      "stageIndex": 4,
+      "title": "Chặng 4: Giới 4 — Bốn Tiêu Chuẩn Lời Nói Chân Chính",
+      "titleEn": "Phase 4: 4th Precept — 4 Criteria of Noble Truthful Speech",
+      "paliTitle": "Musāvādā Veramaṇī & Sammā Vācā",
+      "objective": "Dứt trừ 4 lỗi khẩu nghiệp (nói dối, đâm thọc, hung ác, phù phiếm); thực hành Chánh Ngữ hòa hợp.",
+      "objectiveEn": "Abandoning 4 verbal faults (lying, slander, harsh speech, idle chatter); practicing harmonious Right Speech.",
+      "lessons": [
+        {
+          "id": "pancasila_l05",
+          "lessonNumber": 5,
+          "title": "Bài 5: Giới 4 — Bốn Tiêu Chuẩn Lời Nói Chân Chính",
+          "titleEn": "Lesson 5: 4th Precept — 4 Criteria of Noble Truthful Speech",
+          "paliTitle": "Ambalaṭṭhikārāhulovādasutta (MN 61)",
+          "summary": "Lời Phật dạy Tôn giả La-hầu-la về chiếc chậu nước: Người biết nói dối mà không biết hổ thẹn thì nhân cách hoàn toàn rỗng tuếch.",
+          "summaryEn": "The Buddha's advice to Venerable Rāhula: one who knowingly lies without shame has character as empty as an overturned waterpot.",
+          "suttaUid": "mn61",
+          "suttaTitle": "Kinh Giáo Giới La-hầu-la (MN 61)",
+          "suttaTitleEn": "Advice to Rāhula at Ambalaṭṭhikā (MN 61)",
+          "recommendedRoutineId": "r_morning",
+          "practiceGuide": "Thực tập 'Khoảng lặng 3 giây' trước khi phát ngôn hoặc nhắn tin: Tự hỏi lời này có chân thật, có hòa hợp, có từ ái và có lợi ích không?",
+          "practiceGuideEn": "Practice a 3-second pause before speaking or messaging: Is it true, harmonious, gentle, and beneficial?",
+          "reflectionPrompt": "Hôm nay bạn có nói lời phóng đại, nói dối để giữ thể diện, hay tham gia vào việc đàm tiếu thị phi vô bổ không?",
+          "reflectionPromptEn": "Did you exaggerate, lie to save face, or indulge in gossip and disparaging others today?",
+          "suggestedVirtue": "Nói lời ái ngữ chân thật, biết giữ im lặng chánh niệm khi tâm đang bất an",
+          "suggestedVirtueEn": "Speak kind, truthful words and maintain noble silence when agitated"
+        }
+      ]
+    },
+    {
+      "stageIndex": 5,
+      "title": "Chặng 5: Giới 5 — Bảo Vệ Ngọn Đèn Tỉnh Giác & Trí Tuệ",
+      "titleEn": "Phase 5: 5th Precept — Guarding the Lamp of Awareness & Wisdom",
+      "paliTitle": "Surāmerayamajjapamādaṭṭhānā Veramaṇī",
+      "objective": "Dứt trừ rượu bia, chất gây say nghiện, bảo toàn Chánh niệm và sự sáng suốt của trí tuệ.",
+      "objectiveEn": "Abstaining from intoxicants, guarding mindfulness, clarity, and wisdom.",
+      "lessons": [
+        {
+          "id": "pancasila_l06",
+          "lessonNumber": 6,
+          "title": "Bài 6: Giới 5 — Bảo Vệ Ngọn Đèn Tỉnh Giác & Trí Tuệ",
+          "titleEn": "Lesson 6: 5th Precept — Guarding the Lamp of Awareness & Wisdom",
+          "paliTitle": "Sigālovādasutta (DN 31)",
+          "summary": "Chất say là cửa ngõ phá hỏng 4 giới trước, làm suy giảm trí nhớ, tổn hại tài sản, gây chia rẽ và làm mê muội tâm thức.",
+          "summaryEn": "Intoxicants are the gateway to breaking the other four precepts, ruining memory, draining wealth, and clouding wisdom.",
+          "suttaUid": "dn31",
+          "suttaTitle": "Kinh Giáo Thọ Thi-ca-la-việt (DN 31)",
+          "suttaTitleEn": "Advice to Sigāla (DN 31)",
+          "recommendedRoutineId": "r_evening",
+          "practiceGuide": "Kiên quyết từ chối rượu bia và chất gây say nghiện; thay thế bằng niềm vui thanh tịnh trong thiền định, đọc kinh và sống tỉnh thức.",
+          "practiceGuideEn": "Resolutely decline alcohol and intoxicants, replacing them with the serene joy of meditation and mindful living.",
+          "reflectionPrompt": "Bạn có đủ dũng khí từ chối những cuộc nhậu nhẹt xã giao vô bổ để bảo vệ sự sáng suốt và nhân phẩm của mình không?",
+          "reflectionPromptEn": "Do you possess the courage to decline pointless drinking gatherings to preserve mental clarity and dignity?",
+          "suggestedVirtue": "Giữ tâm trí hoàn toàn tỉnh táo, minh mẫn và trân quý ngọn đèn chánh niệm",
+          "suggestedVirtueEn": "Keep the mind clear, sober, and treasure the flame of mindfulness"
+        }
+      ]
+    }
+  ]
+}

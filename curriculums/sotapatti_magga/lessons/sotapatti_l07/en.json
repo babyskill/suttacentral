@@ -1,0 +1,73 @@
+{
+  "lessonId": "sotapatti_l07",
+  "curriculumId": "sotapatti_magga",
+  "lessonNumber": 7,
+  "stageIndex": 2,
+  "title": "The Truth of the Path — The Middle Way & The Noble Eightfold Chariot to the End of Suffering",
+  "paliTitle": "Magga Sacca (MN 141 & SN 56.11)",
+  "suttaRef": {
+    "uid": "mn141",
+    "title": "The Exposition of the Truths & Setting the Wheel of Dhamma (MN 141 / SN 56.11)",
+    "excerptPali": "Idaṁ kho pana, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṁ: ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ — sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammā-ājīvo, sammāvāyāmo, sammāsati, sammāsamādhi... Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.",
+    "excerptTranslation": "Now this, monks, is the Noble Truth of the Way Leading to the Cessation of Suffering: It is simply this Noble Eightfold Path, that is: Right View, Right Intention, Right Speech, Right Action, Right Livelihood, Right Effort, Right Mindfulness, Right Concentration... Avoiding both of these extremes, monks, the Middle Way realized by the Tathāgata gives vision, gives knowledge, leading to peace, to direct knowledge, to awakening, to Nibbāna."
+  },
+  "pariyatti": {
+    "shortSummary": "The fourth Noble Truth is the Noble Truth of the Way Leading to the Cessation of Suffering (Dukkhanirodhagāminī Paṭipadā Ariyasacca) — the complete practical roadmap known as the Noble Eightfold Path (Ariya Aṭṭhaṅgika Magga). Steering clear of both sensual indulgence and futile self-mortification, this Middle Way (Majjhimā Paṭipadā) integrates into the three threefold trainings: Morality (Sīla), Concentration (Samādhi), and Wisdom (Paññā). The disciple's sacred duty toward the Path is Cultivation (Bhāvetabba).",
+    "coreConcepts": [
+      {
+        "term": "Noble Truth of the Path",
+        "pali": "Dukkhanirodhagāminī Paṭipadā Ariyasacca",
+        "definition": "The noble truth elucidating the eightfold transformative training that systematically severs all ties of saṃsāric suffering."
+      },
+      {
+        "term": "The Middle Way",
+        "pali": "Majjhimā Paṭipadā",
+        "definition": "The balanced, lucid path avoiding both dead ends: low sensual indulgence (Kāmasukhallikānuyoga) and agonizing self-mortification (Attakilamathānuyoga)."
+      },
+      {
+        "term": "Threefold Higher Training",
+        "pali": "Tisso Sikkhā",
+        "definition": "The foundational triad subsuming the Eightfold Path: Morality (Adhisīla-sikkhā: Right Speech, Action, Livelihood); Concentration (Adhicitta-sikkhā: Right Effort, Mindfulness, Concentration); Wisdom (Adhipaññā-sikkhā: Right View, Intention)."
+      },
+      {
+        "term": "The Path is to be Cultivated",
+        "pali": "Maggo Bhāvetabbo",
+        "definition": "The operational duty: The Eightfold Path is neither dogma to revere from a distance nor mere intellectual theory, but an experiential dynamic to be actively cultivated and integrated into daily life (Bhāvanā)."
+      },
+      {
+        "term": "Synergy of the Eight Factors",
+        "pali": "Maggaṅga Sahajātā",
+        "definition": "The factors do not operate as isolated chronological steps, but synergize like strands braided into an unbreakable cable, with Right View pointing the compass, bolstered by Right Effort and Right Mindfulness."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Middle Way: Transcending Two Destructive Extremes\n\nIn his inaugural sermon at the Deer Park in Isipatana, the Buddha commenced his discourse by cautioning against two dead-end ditches in which humanity routinely falls:\n\n1. **Sensual Indulgence (*Kāmasukhallikānuyoga*):** Chasing sensory gratification across sight, sound, smell, taste, and touch; becoming enslaved by luxuries, social status, and hedonic comforts. This is vulgar, ignoble, worldly, and only strengthens craving, perpetuating cyclic rebirth.\n2. **Self-Mortification (*Attakilamathānuyoga*):** Tormenting the flesh through self-starvation, extreme heat/cold exposure, or severe ascetic austerities under the false belief that physical pain 'burns off' karma. This is agonizing, ignoble, and spiritually useless.\n\nThe Buddha was uniquely qualified to pronounce on both: He had lived for 29 years immersed in supreme princely luxury, and then undertook 6 years of punishing asceticism in the jungle until his body was reduced to skin and bones. He testified: Both extremes are blind alleys.\n\nHe revealed the **Middle Way (*Majjhimā Paṭipadā*)** — the Noble Eightfold Path. It is a path of balance, lucidity, and ethical discipline that gathers mental power to pierce through the nature of reality.\n\n---\n\n### 2. The Architecture of the Threefold Training (Cūḷavedalla Sutta — MN 44)\n\nWhen the lay devotee Visākha inquired of the enlightened nun Dhammadinnā regarding the relationship between the Threefold Training and the Eightfold Path, she expounded with sublime precision:\n\n> *'Friend Visākha, the three aggregates of training are not included in the Noble Eightfold Path; rather, the Noble Eightfold Path is included in the three aggregates of training:'*\n\n1. **The Aggregate of Morality (*Sīlakkhandha*):** Encompassing **Right Speech, Right Action, Right Livelihood**.\n   - Purifies bodily deeds, speech, and vocation.\n   - Morality is the bedrock of awakening. Without clean conduct, conscience is haunted by remorse, anxiety, and guilt (*Avippaṭisāra* absent), making meditative stillness utterly impossible.\n2. **The Aggregate of Concentration (*Samādhikkhandha*):** Encompassing **Right Effort, Right Mindfulness, Right Concentration**.\n   - Strives ardently to prune unwholesome states, anchors awareness upon the Four Foundations of Mindfulness, and stills the five hindrances (*sensual desire, ill-will, dullness, agitation, and doubt*).\n   - The mind becomes still, brilliant, and steady like a flame in a windless shelter, ready to inspect reality.\n3. **The Aggregate of Wisdom (*Paññakkhandha*):** Encompassing **Right View, Right Intention**.\n   - Directly penetrates the Four Truths, grasps Karma and Conditionality, sees Anicca-Dukkha-Anattā, and inclines toward renunciation, loving-kindness, and harmlessness.\n   - Wisdom serves as the torch that leads the way, uprooting fundamental ignorance (*Avijjā*).\n\n*The living cycle:* Pure Morality fosters unshakeable Concentration; powerful Concentration gives rise to penetrating Wisdom; and mature Wisdom purifies Morality and Concentration to perfection.\n\n---\n\n### 3. The Path is to be Cultivated (Maggo Bhāvetabbo)\n\nIn Pāḷi, the word *Bhāvanā* (cultivation) derives from the root meaning **to bring into being, develop, or nurture** — just like agriculture: preparing the soil, sowing seeds, weeding, and watering.\n\nThe Path is not a ritual charm. In the *Mahāparinibbāna Sutta* (DN 16), right before his final passing, the Buddha issued a monumental truth:\n> *'In whatever Dhamma and Discipline the Noble Eightfold Path is not found, there no true recluse of the first, second, third, or fourth degree (Stream-Enterer, Once-Returner, Non-Returner, Arahant) is found...'*.\n\nFor anyone aspiring to enter the stream of liberation, bringing the Eightfold Path alive across every breath, every conversation, and every professional interaction is the sole authentic path.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Thinking that the Eightfold Path is a linear ladder: completing step 1 before moving to step 2.",
+        "correction": "The eight limbs operate simultaneously, like the eight spokes of a revolving wheel or components of an engine. In the Mahācattārīsaka Sutta (MN 117), the Buddha points out that Right View directs the compass, Right Mindfulness maintains alert presence, and Right Effort energizes every factor in real-time."
+      },
+      {
+        "mistake": "Believing that one can practice deep meditation (Concentration) without caring about ethical conduct (lying, cheating in business, hedonism).",
+        "correction": "This is a dangerous trap leading to Wrong Concentration (Micchā-samādhi). Meditation without a clean moral foundation is like building a skyscraper on quicksand. Subconscious guilt and unwholesome karma will inevitably scatter the mind."
+      },
+      {
+        "mistake": "Expecting that rituals, prayers, or amulets can bypass the Path and automatically secure spiritual liberation.",
+        "correction": "'You yourselves must strive; the Tathāgatas are only teachers' (Dhammapada 276). The Path must be cultivated (Bhāvetabba) by oneself. No ritual can replace mental and ethical self-transformation."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Daily Threefold Training Audit (Morning & Evening):**\n- **Morality (Sīla):** Were my words truthful and harmonious (Right Speech)? Was my professional conduct honest and blameless (Right Action & Livelihood)?\n- **Concentration (Samādhi):** Did I anchor my attention mindfully during work, guarding the mind from obsessive rumination (Right Effort & Mindfulness)?\n- **Wisdom (Paññā):** Did I interpret setbacks through the lens of Conditionality and Karma rather than wounded ego (Right View)?\n2. **Harmonizing the Middle Way:** Notice habitual extremes: mindless scrolling and indulgence (sensual ditch) vs. obsessive self-criticism and guilt (ascetic ditch). Relax back into alert, kind awareness.\n3. **Morning Stillness (15 mins):** Sit quietly anchored to natural breathing, establishing mental clarity as the launching pad for living the Eightfold Path throughout the day.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Cultivate the Noble Eightfold Path harmoniously in daily life"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Examining your daily life, which branch of the Threefold Training (Morality, Concentration, Wisdom) is currently strongest, and which is most neglected? How does this imbalance affect your peace of mind?",
+    "selfAuditChecklist": [
+      "I understand the Noble Eightfold Path as the sole empirical Middle Way leading to the end of suffering, transcending sensual indulgence and asceticism.",
+      "I grasp the structure of the Threefold Training: Morality (Speech, Action, Livelihood), Concentration (Effort, Mindfulness, Concentration), and Wisdom (View, Intention).",
+      "I recognize that the Path must be Cultivated (Bhāvetabba) in real daily moments rather than merely studied intellectually.",
+      "I actively unite meditation practice with ethical integrity in my professional and personal duties."
+    ]
+  }
+}

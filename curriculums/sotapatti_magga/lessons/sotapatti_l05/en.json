@@ -1,0 +1,68 @@
+{
+  "lessonId": "sotapatti_l05",
+  "curriculumId": "sotapatti_magga",
+  "lessonNumber": 5,
+  "stageIndex": 2,
+  "title": "The Truth of the Origin of Suffering — Roots of Craving & Dependent Origination",
+  "paliTitle": "Paṭiccasamuppādasutta (SN 12.1)",
+  "suttaRef": {
+    "uid": "sn12.1",
+    "title": "Dependent Origination (Paṭiccasamuppādasutta — SN 12.1)",
+    "excerptPali": "Idaṁ kho pana, bhikkhave, dukkhasamudayaṁ ariyasaccaṁ: yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ — kāmataṇhā, bhavataṇhā, vibhavataṇhā... Avijjāpaccayā saṅkhārā... phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo... Evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+    "excerptTranslation": "Now this, monks, is the Noble Truth of the Origin of Suffering: It is this craving that leads to renewed existence, accompanied by delight and lust, seeking relish now here, now there; that is, sensual craving, craving for existence, craving for non-existence... Dependent on ignorance arise volitional formations... dependent on contact arises feeling, dependent on feeling arises craving, dependent on craving arises clinging, dependent on clinging arises existence... Such is the origin of this entire mass of suffering."
+  },
+  "pariyatti": {
+    "shortSummary": "The second Noble Truth uncovers the root cause of all cyclic suffering: Craving (Taṇhā). The practitioner's sacred duty regarding the Truth of Origin is Abandonment (Pahātabba), fulfilled by discerning the chain of Dependent Origination (Contact ➔ Feeling ➔ Craving) and relinquishing grasping with mindful comprehension.",
+    "coreConcepts": [
+      {
+        "term": "Craving / Thirst",
+        "pali": "Taṇhā",
+        "definition": "Literally 'thirst'; the persistent compulsive thirsting and clinging of the mind toward sensory objects. Like drinking salt water, satisfying craving only intensifies inner turmoil."
+      },
+      {
+        "term": "Three Types of Craving",
+        "pali": "Tividhā Taṇhā",
+        "definition": "1. Kāma-taṇhā (sensual craving: obsession with pleasures of the 5 senses); 2. Bhava-taṇhā (craving for becoming/existence: desire to perpetuate an ego, rooted in Eternalism); 3. Vibhava-taṇhā (craving for non-existence: urge to escape, annihilate, or destroy painful states, rooted in Annihilationism)."
+      },
+      {
+        "term": "Clinging / Grasping",
+        "pali": "Upādāna",
+        "definition": "The solidified, intensified stage of craving. If craving is reaching for the forbidden fruit, clinging is gripping it tight and refusing to let go (includes sensual clinging, wrong-view clinging, rite-and-ritual clinging, and self-doctrine clinging)."
+      },
+      {
+        "term": "Origin is to be Abandoned",
+        "pali": "Samudayo Pahātabbo",
+        "definition": "The noble duty toward the Second Truth: To directly recognize the root of suffering so as to dismantle it, ceasing to supply fresh fuel of delusion to the fire."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Simile of Fire and Fuel\n\nIf Suffering (*Dukkha*) is the raging fire consuming body and mind, the Origin of Suffering (*Samudaya*) is the **dry firewood and oil** that feed the flames.\n\nWorldlings tormented by illness, financial loss, heartbreak, or insults routinely blame external circumstances or other people. Yet the Buddha's wisdom penetrates directly to the core: **External adversity is merely an auxiliary condition; the direct cause that generates mental agony is the latent Craving (*Taṇhā*) entrenched in the mind**.\n\nNo one can extinguish a fire while continuously tossing logs into the hearth. To quench suffering, the only viable way is **cutting off the fuel supply — abandoning craving completely**.\n\n---\n\n### 2. The Three Poisonous Currents of Craving (*Tividhā Taṇhā*)\n\nIn the *Dhammacakkappavattana Sutta*, the Buddha categorizes craving into three subtle currents:\n\n1. **Sensual Craving (*Kāma-taṇhā*):** The thirst for gratification through eye, ear, nose, tongue, and body. In modern psychology, this is the dopamine chase: compulsive scrolling on social media, binge consumption to numb stress, and the ceaseless hunger for sensory stimulation.\n2. **Craving for Becoming (*Bhava-taṇhā*):** The impulse to exist, to project oneself, to become 'someone' important, to acquire status and perpetual renown. This craving is rooted in **Eternalism (*Sassatadiṭṭhi*)** — the belief in an unchanging core or immortal soul.\n3. **Craving for Non-Existence (*Vibhava-taṇhā*):** The drive to eliminate, suppress, or escape painful states; the nihilistic wish that 'death ends it all'. When despair hits and the mind wishes to vanish, or when irritability erupts into destructive fury — that is Vibhava-taṇhā at work, grounded in **Annihilationism (*Ucchedadiṭṭhi*)**.\n\n---\n\n### 3. The Golden Window Between Feeling and Craving\n\nIn the 12 Links of Dependent Origination (*Paṭiccasamuppāda*):\n> **Contact (Phassa) ➔ Feeling (Vedanā) ➔ Craving (Taṇhā) ➔ Clinging (Upādāna) ➔ Becoming (Bhava) ➔ Birth, Aging, Death, Sorrow, Lamentation, Pain, Grief, and Despair.**\n\n- When the eye meets an unpleasant image or the ear hears criticism, unpleasant feeling (*Dukkha-vedanā*) arises automatically as a natural nervous system response (kammic result).\n- However, **mental suffering only ignites when Feeling mutates into Craving**: Discomfort breeds the aversion to push away (*Vibhava-taṇhā*); Pleasure breeds the thirst to hoard (*Kāma-taṇhā*).\n- **The gap between Feeling and Craving is the 'Golden Window' of Mindfulness**. If at the very moment feeling arises, clear awareness (*Sati-sampajañña*) notes: 'This is merely a conditioned sensation arising and passing', the link is broken! Feeling remains just feeling; craving never takes root, and sorrow is snuffed out before it begins.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing that eliminating craving turns a person into a cold, heartless stone without love or life goals.",
+        "correction": "Buddhism draws a razor-sharp distinction between selfish Craving (Taṇhā - grasping, possessing, exploiting) and Wholesome Zeal (Kusala-chanda - the earnest aspiration to do good and serve) as well as the Four Immeasurables (Loving-kindness, Compassion, Sympathetic Joy, and Equanimity). One who abandons craving does not become indifferent; rather, they radiate boundless, unstained goodwill free from neurotic anxiety."
+      },
+      {
+        "mistake": "Thinking that craving can be eradicated through ascetic self-mortification, brutal repression, or denying natural thoughts.",
+        "correction": "Repression merely drives craving into the subconscious latency (Anusaya), inevitably causing severe backlash or mutating into latent rage (Vibhava-taṇhā). The Buddha's path is 'Seeing Things as They Are' (Vipassanā): investigating the gratification (Assāda), the danger (Ādīnava), and the escape (Nissaraṇa) from craving through direct perception of impermanence."
+      },
+      {
+        "mistake": "Performing sacrificial rituals, astrological appeasements, or prayers hoping a deity will remove greed and misfortune.",
+        "correction": "Craving is nurtured by our own ignorance and can only be uprooted by our own cultivated discernment ('Attadīpā viharatha' - Be an island unto yourself). No magical ritual or divine power can substitute for one's own practice of the Noble Eightfold Path."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Catching the Feeling ➔ Craving Link in Daily Life:** While dining or browsing your device, notice the exact instant a pleasant sensation occurs. Pause for 3 seconds and note: 'This pleasant feeling is Vedanā; the impulse to grab another bite or scroll more is Taṇhā'. Remind yourself: 'This is merely a transient bio-electrical event, not Me'.\n2. **The S.T.O.P Protocol for Adversity:**\n- **S (Stop):** Halt immediate knee-jerk reactions.\n- **T (Take a breath):** Breathe in and out deeply 3 times.\n- **O (Observe):** Watch the agitation in the chest (recognizing it as Vibhava-taṇhā wanting to annihilate the annoyance).\n- **P (Proceed):** Respond with clarity and non-clinging.\n3. **Urge Surfing Meditation (15 mins):** Sit quietly. When an itch, restlessness, or the urge to check your phone arises, observe it like an ocean wave: it rises, crests, and naturally subsides if you refrain from feeding it with attention.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Recognize craving and relinquish possessive clinging"
+  },
+  "pativedha": {
+    "reflectionPrompt": "What attachment or craving for control was at the root of your deepest recent irritation or anxiety: a constructed self-image, hunger for validation, or the demand that reality conform to your expectations?",
+    "selfAuditChecklist": [
+      "I mindfully noticed at least one moment where sensation began turning into craving today.",
+      "I clearly distinguish wholesome aspiration (Kusala-chanda) from grasping craving (Taṇhā).",
+      "When encountering frustration, I identified the aversion as Vibhava-taṇhā seeking escape.",
+      "I successfully paused and observed an urge before it turned into impulsive action."
+    ]
+  }
+}

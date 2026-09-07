@@ -1,0 +1,64 @@
+{
+  "lessonId": "deva_l02",
+  "curriculumId": "dasa_kusala_deva",
+  "lessonNumber": 2,
+  "stageIndex": 2,
+  "title": "Bài 2: Khẩu Nghiệp Như Hương Hoa — Bốn Lời Nói Hiền Thiện",
+  "paliTitle": "Subhāsitasutta (Snp 3.3) & Maṅgala Sutta (Khp 5)",
+  "suttaRef": {
+    "uid": "kp5",
+    "title": "Kinh Điềm Lành & Kinh Lời Nói Khéo Thuyết (Khp 5 / Snp 3.3)",
+    "excerptPali": "Subhāsitā ca yā vācā, etaṃ maṅgalamuttamaṃ... Kalyāṇimeva muñceyya, na hi muñceyya pāpikaṃ; Mokkho kalyāṇiyā sādhu, mutvā tappati pāpikaṃ.",
+    "excerptTranslation": "Nói lời chân chính nhã nhặn, ấy là điềm lành tối thượng... Chỉ nên thốt ra lời hiền thiện, chớ bao giờ thốt lời ác độc; Nói lời hiền thiện đem lại an vui, nói lời thô ác ắt chịu sầu muộn thiêu đốt."
+  },
+  "pariyatti": {
+    "shortSummary": "Chiếc lưỡi không xương nhưng có thể tạo phước trời hoặc đốt cháy muôn dặm rừng công đức. Khám phá 4 chuẩn mực vàng của Chánh Ngữ và nghệ thuật giữ gìn sự Im Lặng Bậc Thánh.",
+    "coreConcepts": [
+      {
+        "term": "Lời Nói Khéo Thuyết",
+        "pali": "Subhāsitavācā",
+        "definition": "Lời nói đạt chuẩn mực tối thượng gồm 5 yếu tố: hợp thời, chân thật, dịu dàng ôn hòa, hữu ích và xuất phát từ lòng từ mẫn."
+      },
+      {
+        "term": "Chân Thật Ngữ",
+        "pali": "Saccavācā",
+        "definition": "Lời nói phản ánh đúng thực tại khách quan, không lừa dối gian xảo, bảo vệ sự thật và xây dựng uy tín giới đức."
+      },
+      {
+        "term": "Lời Nói Hòa Hợp",
+        "pali": "Samaggakaraṇī Vācā",
+        "definition": "Lời nói gắn kết mọi người, giải tỏa hiểu lầm, không đâm thọc ly gián kẻ này với người kia."
+      },
+      {
+        "term": "Sự Im Lặng Bậc Thánh",
+        "pali": "Ariya Tuṇhībhāva",
+        "definition": "Sự an tịnh nội tâm trong chánh niệm khi hoàn cảnh không cần đến lời nói hoặc khi lời nói không đem lại lợi ích cho ai."
+      }
+    ],
+    "expositionMarkdown": "### 1. Chiếc Lưỡi — Cánh Cửa Phước Đức & Tai Họa\n\nCổ nhân từng dạy: *'Bệnh tòng khẩu nhập, họa tòng khẩu xuất'*. Trong giáo lý Thập Thiện Nghiệp Đạo, Đức Phật dành tới **4 điều thiện** cho cửa Khẩu — nhiều hơn cả Thân (3 điều) và Ý (3 điều):\n\n> *Một lời nói thiện có thể làm ấm lòng cả mùa đông giá rét, một lời nói ác độc có thể xé nát trái tim và gieo rắc hận thù qua nhiều kiếp.*\n\n---\n\n### 2. Bốn Chi Phần Tịnh Hóa Khẩu Nghiệp\n\nĐể tâm thức nhẹ nhàng thanh khiết tương ưng với cõi Trời chư Thiên, người hành trì Thập Thiện phải làm chủ 4 ngõ ngách của lời nói:\n\n1. **Từ bỏ nói dối (*Musāvādā Veramaṇī*):**\n   - Đến hội chúng hay trước tòa án, thấy sao nói vậy, không thấy nói không thấy.\n   - Không vì danh lợi, vì tiền bạc, hay vì bảo vệ cái tôi giả tạo mà bẻ cong sự thật.\n   - Sống chân thật tạo nên năng lực uy tín bất hoại (*Saccakiriyā*).\n\n2. **Từ bỏ nói hai lưỡi, đâm thọc (*Pisuṇāvācā Veramaṇī*):**\n   - Nghe bên này không chạy sang bên kia kể lại để gây xích mích; nghe bên kia không đem về kể lại để sinh thù oán.\n   - Luôn là nhịp cầu hòa giải: Khen ngợi sự đoàn kết, vui sướng khi thấy mọi người hòa hợp, nói những lời hàn gắn yêu thương.\n\n3. **Từ bỏ nói lời thô ác, chửi rủa (*Pharusāvācā Veramaṇī*):**\n   - Không dùng lời lẽ cay nghiệt, châm chọc, nhục mạ hạ thấp nhân phẩm người khác.\n   - Sử dụng ái ngữ nhã nhặn, êm ái như dòng suối mát chảy vào lòng người nghe, ai nghe cũng sinh tâm hoan hỷ.\n\n4. **Từ bỏ nói lời phù phiếm, ngồi lê đôi mách (*Samphappalāpā Veramaṇī*):**\n   - Không bàn luận chuyện thị phi thiên hạ, chuyện nhảm nhí tiêu tốn năng lượng tinh thần.\n   - Lời nói phải có thời, có căn cứ, có giới hạn, gắn liền với mục đích thiện pháp và giải thoát.\n\n---\n\n### 3. Năm Tiêu Chuẩn Lời Nói Của Bậc Giác Ngộ\n\nTrong **Kinh Vācā Sutta (AN 5.198)**, Đức Phật đúc kết 5 thước đo cho một lời nói thánh thiện:\n1. *Kālena*: Nói đúng lúc, hợp thời điểm.\n2. *Saccena*: Nói chân thật, đúng lẽ phải.\n3. *Saṇhena*: Nói nhu hòa, nhã nhặn, dịu dàng.\n4. *Atthasaṃhitena*: Nói lời có ích lợi cho sự tiến tu của người nghe.\n5. *Mettacittena*: Nói với tâm tràn đầy tình thương, không một chút bực tức hay kiêu mạn.\n\nNếu lời nói thiếu vắng các chi phần này, bậc trí tuệ luôn chọn an trú trong **Sự Im Lặng Bậc Thánh (*Ariya Tuṇhībhāva*)**.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Tự nhận mình 'khẩu xà tâm phật' — nghĩ rằng ăn nói bỗ bã, văng tục, mạt sát người khác chỉ là thói quen vô hại ngoài miệng chứ tâm rất tốt.",
+        "correction": "Lời nói chính là sự biểu hiện tự nhiên của tâm thức. Tâm có chứa sân hận, bực tức thì miệng mới thốt ra lời cay độc. Không thể có một bông hoa sen thơm ngát nở ra từ đầm lầy bùn hôi của ác khẩu. Tu tập chân chính phải bắt đầu từ việc uốn nắn khẩu nghiệp."
+      },
+      {
+        "mistake": "Cho rằng nói dối vô hại để lấy lòng mọi người hay hùa theo những chuyện ngồi lê đôi mách ở nơi làm việc là kỹ năng giao tiếp cần thiết.",
+        "correction": "Những lời nói dối dù nhỏ nhặt cũng làm mòn đi sự nhạy cảm của lương tâm và hủy hoại niềm tin. Người hành thiện nghiệp cõi Trời luôn chọn sự chân thật và im lặng chánh niệm hơn là hòa tan vào các cuộc đàm tiếu vô bổ."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Áp dụng kỹ thuật 'Dừng 3 giây' trước khi phát ngôn trong mọi cuộc trò chuyện hoặc khi nhắn tin trên mạng xã hội: Nhận diện rõ tâm trạng hiện tại, chỉ cất lời khi tâm đã lắng dịu và lời nói hội đủ 5 tiêu chuẩn của Chánh Ngữ.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Chủ động nói một lời tán thán công đức của người khác hoặc hòa giải một mối hiềm khích"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hôm nay những lời bạn đã thốt ra đã trở thành những viên ngọc quý đem lại hòa khí hay như những mũi tên độc làm tổn thương người thân và đồng nghiệp?",
+    "selfAuditChecklist": [
+      "Tôi tuyệt đối không nói dối, không thêu dệt, nói đúng sự thật với tinh thần xây dựng.",
+      "Tôi không nói xấu sau lưng ai, không truyền đạt lời nói gây chia rẽ bất hòa giữa các cá nhân.",
+      "Tôi đã làm chủ giọng điệu và từ ngữ, không dùng lời lẽ thô tục hay cay độc dù khi đang bực tức.",
+      "Tôi tiết kiệm lời nói, tránh xa việc buôn chuyện vô bổ và trân quý sự im lặng thanh tịnh nội tâm."
+    ]
+  }
+}

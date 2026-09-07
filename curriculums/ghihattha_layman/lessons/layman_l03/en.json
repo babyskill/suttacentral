@@ -1,0 +1,69 @@
+{
+  "lessonId": "layman_l03",
+  "curriculumId": "ghihattha_layman",
+  "lessonNumber": 3,
+  "stageIndex": 3,
+  "title": "Lesson 3: Financial Wisdom & Four Supreme Treasures of Lay Life",
+  "paliTitle": "Vyagghapajja Sutta (AN 8.54) & Pattakamma Sutta (AN 4.61)",
+  "suttaRef": {
+    "uid": "an8.54",
+    "title": "To Dīghajāṇu & The Fourfold Bliss of Wealth (AN 8.54 / AN 4.61)",
+    "excerptPali": "Cattārome, vyagghapajja, dhammā kulaputtassa diṭṭhadhammahitāya saṃvattanti diṭṭhadhammasukhāya. Katame cattāro? Uṭṭhānasampadā, ārakkhasampadā, kalyāṇamittatā, samajīvitā.",
+    "excerptTranslation": "These four things, Vyagghapajja, lead to the welfare and happiness of a clan-settler in this present life: The accomplishment of initiative, the accomplishment of protection, good friendship, and balanced living."
+  },
+  "pariyatti": {
+    "shortSummary": "Early Buddhism and righteous wealth creation. Four principles of financial mastery, the fourfold budget formula, and four inexhaustible spiritual treasures for the hereafter.",
+    "coreConcepts": [
+      {
+        "term": "Accomplishment of Initiative",
+        "pali": "Uṭṭhānasampadā",
+        "definition": "Energetic industriousness and mastery in one's profession, free from laziness, procrastination, and excuses."
+      },
+      {
+        "term": "Accomplishment of Protection",
+        "pali": "Ārakkhasampadā",
+        "definition": "Safeguarding hard-earned wealth from theft, disaster, fraud, gambling, and reckless speculation."
+      },
+      {
+        "term": "Balanced Livelihood",
+        "pali": "Samajīvitā",
+        "definition": "Knowing income and expenditures, living moderately without extravagance nor miserliness."
+      },
+      {
+        "term": "Fourfold Bliss of Wealth",
+        "pali": "Cattāri Sukhāni",
+        "definition": "Bliss of ownership (Atthi-sukha), of enjoyment (Bhoga-sukha), of debtlessness (Anaṇa-sukha), and of blameless conduct (Anavajja-sukha)."
+      },
+      {
+        "term": "Four Future Treasures",
+        "pali": "Samparāyikasampadā",
+        "definition": "Faith (Saddhā), Morality (Sīla), Generosity (Cāga), and Discernment (Paññā)."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Dialogue With Young Dīghajāṇu (AN 8.54)\n\nA householder named Dīghajāṇu (Vyagghapajja) approached the Buddha and candidly requested:\n> *'Venerable Sir, we are lay householders living bound with family and children, enjoying luxury and scent. May the Blessed One teach us Dhamma for our welfare and happiness in this life, and for our happiness in future lives!'*\n\nThe Buddha never condemned the pursuit of prosperity. He delineated four practical principles for **Present Welfare (*Diṭṭhadhamma-sukha*)**:\n\n1. **Industriousness (*Uṭṭhānasampadā*):** Whatever your trade—agriculture, commerce, engineering, or crafts—be diligent, skillful, and persevering.\n2. **Protection (*Ārakkhasampadā*):** Protect what was earned by honest sweat against fire, flood, fraud, and volatile scams.\n3. **Good Friends (*Kalyāṇamittatā*):** Avoid friends who indulge in drinking, gambling, and debauchery; surround yourself with those of virtue and integrity.\n4. **Balanced Living (*Samajīvitā*):** Know your revenue and expenses. Neither squander wealth like one shaking a fig tree nor starve atop a hoard.\n\n---\n\n### 2. Four Drains of Ruin & Five Wrong Livelihoods\n\nThe Buddha likened wealth to a reservoir with four drains:\n1. Indulging in alcohol and intoxicants.\n2. Addiction to gambling and speculative wagering.\n3. Sensual debauchery destroying domestic harmony.\n4. Bad companions enticing one into corrupt habits.\n\nFurthermore, in **AN 5.177**, He strictly prohibited five wrongful trades: Weapons, Human trafficking, Meat/slaughter, Intoxicants, and Poisons.\n\n---\n\n### 3. The Fourfold Budget & The Four Supreme Joys (AN 4.61)\n\nIn **DN 31**, the Buddha advised a timeless budget model:\n- **1 portion (25%)** for living expenses and family support.\n- **2 portions (50%)** for reinvestment in one's business and productive work.\n- **1 portion (25%)** reserved for emergency savings, charity, and Dhamma offerings.\n\nThrough this, a householder achieves the **Four Supreme Joys (*Pattakamma Sutta - AN 4.61*)**:\n1. *Atthi-sukha*: Joy of possessing lawful wealth.\n2. *Bhoga-sukha*: Joy of utilizing wealth for family and social well-being.\n3. *Anaṇa-sukha*: Joy of living free from indebtedness.\n4. *Anavajja-sukha*: Supreme joy of knowing one's wealth and actions are completely blameless!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing that Buddhist practice demands poverty, or praying at shrines to gain instant lottery wealth.",
+        "correction": "The Buddha encouraged noble wealth through Right Livelihood. Great disciples like Anāthapiṇḍika used vast wealth to alleviate poverty and support the Sangha. True Buddhists rely on diligence and wisdom, not magical luck."
+      },
+      {
+        "mistake": "Thinking that high-risk online gambling, crypto betting, or get-rich-quick speculation aligns with modern investment.",
+        "correction": "Speculative betting is explicitly identified by the Buddha as a drain of ruin. Wealth acquired through the misfortune of others breeds anxiety and severe karmic backlash."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Audit your monthly cashflow: Divide income into the four Dhamma portions. Resolutely cut off any gambling or speculative drains. Allocate a portion toward helping those in need or supporting Dhamma causes.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Allocate a portion of funds to aid an impoverished family or support Dhamma propagation"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Does your livelihood and financial management bring the immaculate bliss of blamelessness (Anavajja-sukha) when you reflect upon your conscience?",
+    "selfAuditChecklist": [
+      "Every dollar I earn comes from honest diligence, completely free from the five prohibited trades.",
+      "I manage spending prudently, keeping my household free from irresponsible debt.",
+      "I strictly avoid all forms of gambling, betting, and corrupt speculative schemes.",
+      "I steadily accumulate the four spiritual treasures: Faith, Virtue, Generosity, and Wisdom."
+    ]
+  }
+}

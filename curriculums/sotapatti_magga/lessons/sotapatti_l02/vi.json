@@ -1,0 +1,64 @@
+{
+  "lessonId": "sotapatti_l02",
+  "curriculumId": "sotapatti_magga",
+  "lessonNumber": 2,
+  "stageIndex": 1,
+  "title": "Thước Đo Chân Lý — Tinh Thần Kinh Kālāma",
+  "paliTitle": "Kesamutti Sutta (AN 3.65)",
+  "suttaRef": {
+    "uid": "an3.65",
+    "title": "Kinh Kālāma (Kesamuttisutta — AN 3.65)",
+    "excerptPali": "Etha tumhe, Kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā 'samaṇo no garū'ti... Yadā tumhe, Kālāmā, attanāva jāneyyātha: 'Ime dhammā kusalā... ime dhammā sāvajjā... ime dhammā viññugarahitā... ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī'ti, atha tumhe, Kālāmā, pajaheyyātha.",
+    "excerptTranslation": "Này các Kālāma, chớ vội tin vì nghe truyền thuyết, chớ vội tin vì truyền thống, chớ vội tin vì lời đồn đại, chớ vội tin vì kinh điển truyền tụng, chớ vội tin vì lý luận siêu hình, chớ vội tin vì đúng với lập trường, chớ vội tin vì suy diễn bề ngoài, chớ vội tin vì thiên kiến phù hợp với mình, chớ vội tin vì người nói có vẻ đáng tin, chớ vội tin vì nghĩ rằng vị Sa-môn là bậc Đạo sư của ta... Nhưng này các Kālāma, khi nào tự mình biết rõ: 'Các pháp này là bất thiện, các pháp này là có tội, các pháp này bị người trí quở trách, các pháp này khi chấp nhận và thực hiện đưa đến bất hạnh, khổ đau', thời này các Kālāma, hãy từ bỏ chúng."
+  },
+  "pariyatti": {
+    "shortSummary": "Bản tuyên ngôn tự do tư tưởng vĩ đại nhất trong lịch sử tôn giáo nhân loại: Đức Phật trao cho con người chiếc chìa khóa tự chủ tâm linh, dạy cách phân biệt Chánh Tín và Mê Tín bằng tiêu chuẩn thực chứng Ly Tham, Ly Sân, Ly Si.",
+    "coreConcepts": [
+      {
+        "term": "Mười tiêu chí không vội tin",
+        "pali": "Dasa Anussava-pariyāya",
+        "definition": "Lời cảnh giác của Đức Phật trước 10 nguồn thẩm quyền bên ngoài (truyền thống, kinh điển, suy luận thuần lý, uy tín của thầy...) không đủ làm bảo chứng cho chân lý tuyệt đối nếu thiếu sự khảo nghiệm thực tế."
+      },
+      {
+        "term": "Thẩm định Chánh Tín qua Tam Độc",
+        "pali": "Lobha-Dosa-Moha Parīkkha",
+        "definition": "Thước đo tối hậu của Chánh Pháp: Một giáo lý hoặc pháp hành có thực sự làm giảm thiểu Tham (Lobha), Sân (Dosa), Si (Moha) và đem lại an vui chân thật cho mình và cộng đồng hay không."
+      },
+      {
+        "term": "Tự mình biết rõ",
+        "pali": "Attanāva Jāneyyātha",
+        "definition": "Sự chứng nghiệm cá nhân qua chánh niệm và trí tuệ tỉnh giác; không chấp nhận giáo điều một cách thụ động hay cả tin mù quáng."
+      },
+      {
+        "term": "Bốn sự an ổn",
+        "pali": "Cattāro Assāsā",
+        "definition": "Tâm thế an lạc, vững chãi của người sống thanh tịnh không tham sân si: Nếu có đời sau thì sinh thiện giới, nếu không có đời sau thì hiện tại đã sống thanh thản vô thù."
+      }
+    ],
+    "expositionMarkdown": "### 1. Bối Cảnh Lịch Sử Của Lời Dạy Kālāma\n\nThị trấn Kesamutta của bộ tộc Kālāma nằm ở một ngã tư sầm uất thời Ấn Độ cổ đại. Rất nhiều đạo sĩ, du sĩ và triết gia đã đi qua đây. Mỗi người đều tuyên bố giáo lý của mình là chân lý tối thượng, đồng thời bài xích, khinh miệt học thuyết của kẻ khác.\n\nNgười dân Kālāma rơi vào khủng hoảng nhận thức nghiêm trọng: *'Bạch Thế Tôn, ai là người nói thật? Ai là người nói dối giữa rừng giáo lý trái ngược này?'*.\n\nĐức Phật không hề nói: *'Hãy tin Ta đi, vì Ta là bậc Toàn Tri, còn họ là tà thuyết'*. Ngược lại, Ngài cất lên một lời dạy chấn động, giải phóng tư tưởng con người khỏi mọi gông cùm độc đoán:\n\n> *'Này các Kālāma, các ngươi hoài nghi là phải, phân vân là phải. Trong trường hợp đáng nghi ngờ thì sự phân vân khởi lên.'*\n\n---\n\n### 2. Mười Tiêu Chuẩn Thẩm Định — Bài Trừ Mọi Hình Thức Mê Tín\n\nĐức Phật liệt kê mười chỗ dựa mà người đời thường vin vào để trao gửi niềm tin mù quáng:\n1. **Mā anussavena:** Chớ vội tin vì nghe truyền khẩu từ đời này sang đời khác.\n2. **Mā paramparāya:** Chớ vội tin vì đó là tập tục, truyền thống lâu đời của dòng họ hay địa phương.\n3. **Mā itikirāya:** Chớ vội tin vì lời đồn đại của đám đông.\n4. **Mā piṭakasampadānena:** Chớ vội tin chỉ vì điều ấy được ghi chép trong văn bản kinh sách cổ xưa.\n5. **Mā takkahetu:** Chớ vội tin vì lý luận logic suy diễn trên bàn giấy.\n6. **Mā nayahetu:** Chớ vội tin vì một triết thuyết có vẻ hợp lý theo một tiên đề định sẵn.\n7. **Mā ākāraparivitakkena:** Chớ vội tin vì sự phán đoán bề ngoài hoặc hình thức bắt mắt.\n8. **Mā diṭṭhinijjhānakkhantiyā:** Chớ vội tin chỉ vì điều đó trùng khớp với thiên kiến, sở thích sẵn có của bản thân.\n9. **Mā bhabbarūpatāya:** Chớ vội tin vì người thuyết giảng có vẻ ngoài khả kính, phong thái quyền uy hay tài ăn nói lưu loát.\n10. **Mā 'samaṇo no garū'ti:** Chớ vội tin chỉ vì nghĩ rằng: 'Vị tu sĩ này là bậc thầy tôn kính của chúng ta'.\n\n---\n\n### 3. Ngọn Đuốc Chánh Kiến Soi Rọi Thời Hiện Đại\n\nKhi áp dụng tinh thần Kālāma vào đời sống hôm nay, mọi biểu hiện của **mê tín dị đoan** lập tức bị giải ảo:\n- **Bói toán, tử vi, xem ngày tốt xấu:** Gieo rắc tâm lý sợ hãi, phụ thuộc vào tha lực và chối bỏ định luật Nghiệp báo (*Kamma*). Đức Phật khẳng định: Thời điểm nào làm việc thiện bằng Thân - Khẩu - Ý thanh tịnh, thời điểm đó chính là ngày lành tháng tốt (*Suppabhāta Sutta*).\n- **Cúng sao giải hạn, đốt vàng mã, bùa chú cầu tài:** Đây là tà kiến xuất phát từ lòng tham lam và nỗi sợ hãi viển vông. Dùng vật chất hối lộ thần linh để trốn tránh quả báo là điều hoàn toàn trái ngược với Chánh kiến.\n\n### 4. Thước Đo Thực Nghiệm: Ly Tham, Ly Sân, Ly Si\n\nĐức Phật hỏi người dân Kālāma:\n- *'Khi lòng Tham (Lobha), Sân (Dosa), Si (Moha) khởi lên trong một người, điều đó đem lại an vui hay đau khổ?'* — *'Bạch Thế Tôn, đem lại đau khổ.'*\n- *'Khi một người không bị tham lam, sân hận, mê mờ chi phối, sống với lòng từ ái, họ có an vui không?'* — *'Bạch Thế Tôn, họ rất an vui.'*\n\nĐó chính là câu trả lời: **Bất kỳ pháp nào khi hành trì làm tiêu giảm lòng tham, dập tắt ngọn lửa giận dữ, làm sáng tỏ sự thật và không làm hại bất kỳ ai — pháp ấy chính là Chánh Pháp.**",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng tinh thần Kālāma là chủ nghĩa hoài nghi cực đoan, bảo người học Phật 'không được tin bất kỳ ai, kể cả Phật và các bậc chân tu', tự mình muốn làm gì thì làm.",
+        "correction": "Đức Phật không dạy bài xích mọi sự hướng dẫn. Ngài dạy không 'vội tin mù quáng'. Sau khi tự mình khảo nghiệm, người học cần đối chiếu kết quả đó với sự đánh giá của các bậc thiện trí thức chân chính ('viññūgarahitā' hay 'viññuppasatthā'). Chánh tín (Saddhā) trong đạo Phật luôn đồng hành với Trí tuệ (Paññā)."
+      },
+      {
+        "mistake": "Hiểu lầm rằng nếu có kinh điển Pāḷi thì không cần thực hành khảo nghiệm, chỉ cần tụng đọc là đủ phúc đức.",
+        "correction": "Tiêu chí 'Mā piṭakasampadānena' nhắc nhở: Kinh điển là bản đồ chỉ đường, nhưng tự mình phải bước đi và nếm trải hương vị giải thoát trên thân tâm mình thì mới thực sự thấu triệt."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Kiểm Toán Niềm Tin Cá Nhân (Belief Audit):** Dành 15 phút rà soát lại các thói quen tâm linh của bản thân: Bạn có còn tin vào phong thủy cực đoan, số mệnh định sẵn, xem bói, kiêng kỵ ngày giờ không?\n2. **Khảo Nghiệm Trên Thân Tâm:** Khi một lời khuyên hay một phương pháp tu tập được giới thiệu, hãy tự hỏi: 'Pháp này kích động lòng tham đắc chứng, tạo nỗi sợ hãi ma quỷ, hay đang giúp tâm ta buông xả, từ bi và sáng suốt hơn?'.\n3. **Thiết Lập Chánh Tín:** Thay thế các hành vi cúng bái cầu an bằng việc thọ trì Ngũ giới và phát tâm rải Mettā (Tâm Từ) đến muôn loài.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Hôm nay dứt khoát buông bỏ một thói quen kiêng kỵ mê tín và xác lập Chánh kiến Nhân Quả vững vàng."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn có đang nuôi dưỡng bất kỳ niềm tin tâm linh nào vì truyền thống gia đình hoặc đám đông truyền miệng mà thiếu đi sự thấu hiểu quy luật Duyên sinh không? Hãy viết ra cảm giác giải tỏa khi nhìn thẳng vào sự thật bằng Chánh kiến.",
+    "selfAuditChecklist": [
+      "Tôi không còn phụ thuộc vào bói toán, xem ngày giờ hay cúng bái xin xăm giải hạn.",
+      "Tôi biết dùng thước đo 'Ly Tham - Ly Sân - Ly Si' để đánh giá mọi thông tin và giáo lý tiếp nhận.",
+      "Tôi hiểu rằng an vui hay đau khổ là do nghiệp nhân chính mình tạo tác, không do thần quyền ban phát.",
+      "Tâm tôi thanh thản, tự tại vì không còn sợ hãi những điềm báo huyễn hoặc vô căn cứ."
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "lessonId": "layman_l01",
+  "curriculumId": "ghihattha_layman",
+  "lessonNumber": 1,
+  "stageIndex": 1,
+  "title": "Bài 1: Ba Mươi Tám Điềm Lành — Cẩm Nang Tỉnh Thức Giữa Đời Thường",
+  "paliTitle": "Mahāmaṅgala Sutta (Khp 5 / Snp 2.4)",
+  "suttaRef": {
+    "uid": "kp5",
+    "title": "Kinh Đại Điềm Lành (Khuddakapāṭha 5 / Sutta Nipāta 2.4)",
+    "excerptPali": "Asevanā ca bālānaṃ, paṇḍitānañca sevanā; Pūjā ca pūjanīyānaṃ, etaṃ maṅgalamuttamaṃ... Mātāpitu-upaṭṭhānaṃ, puttadārassa saṅgaho; Anākulā ca kammantā, etaṃ maṅgalamuttamaṃ.",
+    "excerptTranslation": "Không thân cận kẻ ác, kết giao bậc trí hiền, tôn kính bậc đáng kính, ấy là điềm lành tối thượng... Hiếu dưỡng mẹ cùng cha, chăm sóc vợ và con, làm nghề không hỗn loạn, ấy là điềm lành tối thượng."
+  },
+  "pariyatti": {
+    "shortSummary": "Đập tan hủ tục bói toán, xem ngày giờ, cúng sao giải hạn. Đức Phật định nghĩa lại 38 điềm lành thực chất là lối sống đạo đức: chọn bạn lành, hiếu dưỡng cha mẹ, chăm lo gia đình và giữ nghề nghiệp minh bạch.",
+    "coreConcepts": [
+      {
+        "term": "Điềm Lành Tối Thượng",
+        "pali": "Maṅgala",
+        "definition": "Những hành vi đạo đức và phẩm chất tâm linh tự thân kiến tạo sự cát tường, phúc lành và bảo hộ an ổn, không dựa dẫm bói toán huyền bí."
+      },
+      {
+        "term": "Tránh Xa Kẻ Ngu Ác",
+        "pali": "Bālasaṅgama Pahāna",
+        "definition": "Tuyệt đối không kết giao, a dua hay học đòi theo những người buông thả, bất thiện, lừa dối, nghiện ngập."
+      },
+      {
+        "term": "Hiếu Dưỡng Cha Mẹ",
+        "pali": "Mātāpitu-upaṭṭhāna",
+        "definition": "Bổn phận thiêng liêng đền đáp công ơn sinh thành dưỡng dục, là ruộng phước đức lớn nhất của người con tại gia."
+      },
+      {
+        "term": "Nghề Nghiệp Không Hỗn Loạn",
+        "pali": "Anākulā Kammantā",
+        "definition": "Công việc làm ăn rõ ràng, minh bạch, có kế hoạch, không gian dối, không phạm pháp luật và không gây oán kết cho đời."
+      }
+    ],
+    "expositionMarkdown": "### 1. Bối Cảnh Lịch Sử: Mười Hai Năm Tranh Cãi Về \"Điềm Lành\"\n\nTrong văn hóa Ấn Độ cổ đại, con người luôn khao khát tìm kiếm sự bảo hộ và may mắn. Suốt 12 năm ròng rã, chư Thiên và nhân loại đã tranh cãi gay gắt về câu hỏi: *'Thế nào là điềm lành tối thượng (Maṅgala)?'*:\n- Nhóm thứ nhất cho rằng: Điềm lành là khi buổi sáng thức dậy nhìn thấy hình ảnh đẹp (chim bay, bình hoa, cô gái đẹp).\n- Nhóm thứ hai cho rằng: Điềm lành là khi nghe được âm thanh êm tai (tiếng nhạc, lời tán tụng).\n- Nhóm thứ ba cho rằng: Điềm lành là khi ngửi mùi thơm hay sờ vào vật may mắn.\n\nTất cả đều rơi vào tà kiến ngoại đạo, biến con người thành những kẻ nô lệ cho dị đoan và nỗi sợ hãi vô căn cứ. Một vị thiên nhân đã hạ phàm thỉnh cầu Đức Thế Tôn tại Tu viện Kỳ Viên (Jetavana) giải mã chân lý.\n\n---\n\n### 2. Định Nghĩa Lại Điềm Lành: Tự Mình Kiến Tạo Vận Mệnh\n\nĐức Phật trả lời bằng **38 chuẩn mực đạo đức và thực hành cụ thể**, được sắp xếp theo thứ đệ từ thấp lên cao như một chiếc thang tiến hóa tâm thức:\n\n1. **Khởi đầu bằng việc chọn lọc môi trường sống (*Social & Environmental Foundation*):**\n   - *Asevanā ca bālānaṃ*: Không kết giao kẻ ngu dại. Người gần mực thì đen; nếu chọn nhầm bạn bè xấu ác, cuộc đời ắt trượt dài trong tăm tối.\n   - *Paṇḍitānañca sevanā*: Thân cận bậc trí hiền. Gần gũi những người có giới đức và trí tuệ để được soi sáng.\n   - *Pūjā ca pūjanīyānaṃ*: Tôn kính các bậc đáng kính (cha mẹ, thầy tổ, bậc giác ngộ).\n\n2. **Xây dựng mái ấm gia đình và sự nghiệp vững vàng (*Domestic & Livelihood Foundation*):**\n   - *Bāhusaccañca sippañca*: Học rộng hiểu sâu, thành thạo một nghề nghiệp chuyên môn tinh xảo.\n   - *Vinayo ca susikkhito*: Rèn luyện kỷ luật tự giác và nếp sống quy củ.\n   - *Mātāpitu-upaṭṭhānaṃ*: Hiếu thảo phụng dưỡng cha mẹ lúc tuổi già bóng xế.\n   - *Puttadārassa saṅgaho*: Yêu thương, chăm sóc chu đáo người bạn đời và con cái.\n   - *Anākulā ca kammantā*: Làm công việc không hỗn loạn, không trì hoãn, không mờ ám, không vi phạm lương tâm.\n\n3. **Tiến bước trên con đường giải thoát (*Spiritual Mastery*):**\n   - Sống biết tri túc, biết ơn, nhẫn nhục, nhu hòa, lắng nghe Chánh Pháp.\n   - Đỉnh cao của điềm lành: Giữ tâm không xao động, không sầu não, thanh tịnh an nhiên trước 8 ngọn gió đời (được - mất, khen - chê, vinh - nhục, vui - khổ).\n\n---\n\n### 3. Kinh Cát Tường Buổi Sáng (AN 3.155) — Phá Tan Mê Tín Phong Thủy\n\nTrong **Kinh Cát Tường Buổi Sáng (Suppabhāta Sutta - AN 3.155)**, Đức Phật đã khẳng định:\n> *'Này các Tỳ-kheo, chúng sinh nào trong buổi sáng làm việc thiện bằng thân, nói lời thiện bằng miệng, nghĩ điều thiện bằng ý, thì buổi sáng ấy là buổi sáng tốt lành, giờ ấy là giờ tốt lành, ngày ấy là ngày cát tường đối với họ.'*\n\nKhông có ngôi sao nào chiếu mệnh mang lại tai họa, cũng không có thầy bói hay vật phẩm phong thủy nào có thể cải đổi nghiệp báo. Sự trong sạch của 3 nghiệp chính là chiếc khiên phong thủy vững chắc nhất của người Phật tử.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng may mắn hay tai ương là do xem ngày giờ, sao hạn, hướng nhà hay lá số tử vi quyết định.",
+        "correction": "Đức Phật bài trừ hoàn toàn bói toán và mê tín dị đoan. Kinh AN 3.155 chỉ rõ: Thân khẩu ý thiện lành chính là ngày tốt giờ lành. Hành vi xấu ác thì dù chọn giờ hoàng đạo xuất hành vẫn phải gặt hái tai ương."
+      },
+      {
+        "mistake": "Cho rằng 'tránh xa kẻ ngu' là tỏ thái độ khinh miệt, phân biệt đối xử với những người kém may mắn.",
+        "correction": "'Kẻ ngu' (Bāla) trong định nghĩa Phật giáo là người có tư tưởng và hành vi vô đạo đức, nghiện ngập, lừa đảo, kích động tà kiến. Tránh xa là để bảo vệ giới hạnh của mình, đồng thời giữ tâm từ mẫn hồi hướng cho họ, chứ không phải với tâm kiêu ngạo."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Mỗi sáng khởi tâm: 'Hôm nay tôi sẽ làm một việc lành bằng thân, nói một lời ái ngữ bằng miệng, và giữ ý nghĩ lương thiện đối với mọi người'. Dọn dẹp nhà cửa ngăn nắp và dành 15 phút thăm hỏi, chăm sóc cha mẹ.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Làm một hành động tri ân chu đáo đối với cha mẹ hoặc người có ơn với mình"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn đang tìm kiếm sự an tâm trong cuộc sống từ những lá số tử vi, ngày giờ hoàng đạo hay từ chính nếp sống hiếu thảo, lương thiện của bản thân?",
+    "selfAuditChecklist": [
+      "Tôi đã hoàn toàn dứt bỏ niềm tin mê tín vào bói toán, xem ngày giờ hay cúng sao giải hạn.",
+      "Tôi cẩn trọng chọn lọc bạn bè và môi trường sống, không a dua theo những thói hư tật xấu.",
+      "Tôi luôn phụng dưỡng, lắng nghe và chăm lo chu đáo cho cha mẹ bằng sự kính yêu chân thành.",
+      "Công việc làm ăn và sự nghiệp của tôi minh bạch, không dây dưa nợ nần bất chính hay lừa dối khách hàng."
+    ]
+  }
+}

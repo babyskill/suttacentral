@@ -1,0 +1,64 @@
+{
+  "lessonId": "deva_l02",
+  "curriculumId": "dasa_kusala_deva",
+  "lessonNumber": 2,
+  "stageIndex": 2,
+  "title": "Lesson 2: Purifying Speech — Words Like Fragrant Flowers",
+  "paliTitle": "Subhāsitasutta (Snp 3.3) & Maṅgala Sutta (Khp 5)",
+  "suttaRef": {
+    "uid": "kp5",
+    "title": "Blessings & Well-Spoken Words (Khp 5 / Snp 3.3)",
+    "excerptPali": "Subhāsitā ca yā vācā, etaṃ maṅgalamuttamaṃ... Kalyāṇimeva muñceyya, na hi muñceyya pāpikaṃ; Mokkho kalyāṇiyā sādhu, mutvā tappati pāpikaṃ.",
+    "excerptTranslation": "Speech that is well spoken: this is the supreme blessing... One should utter only wholesome speech, never unwholesome words; Uttering wholesome words brings happiness, whereas unwholesome words bring remorse."
+  },
+  "pariyatti": {
+    "shortSummary": "The tongue lacks bones yet can build celestial merits or incinerate vast forests of virtue. Master the four noble standards of Right Speech and the grace of Noble Silence.",
+    "coreConcepts": [
+      {
+        "term": "Well-Spoken Speech",
+        "pali": "Subhāsitavācā",
+        "definition": "Noble utterance fulfilling 5 criteria: timely, truthful, affectionate, beneficial, and spoken from genuine goodwill."
+      },
+      {
+        "term": "Truthful Speech",
+        "pali": "Saccavācā",
+        "definition": "Words that accurately reflect objective truth, free from deception, safeguarding integrity and mutual trust."
+      },
+      {
+        "term": "Harmonious Speech",
+        "pali": "Samaggakaraṇī Vācā",
+        "definition": "Words that bridge estrangements, heal divisions, and refuse to carry slander between parties."
+      },
+      {
+        "term": "Noble Silence",
+        "pali": "Ariya Tuṇhībhāva",
+        "definition": "Mindful inner composure maintained when speech is untimely or serves no spiritual benefit."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Tongue — Gateway to Merits and Perils\n\nAncient sages observed: *'Words can warm three winters, or wound deeper than a blade'*. In the Ten Wholesome Courses of Action, the Buddha allocated **four full disciplines** to speech—more than Body (3) and Mind (3):\n\n> *A single compassionate word can revive a drooping spirit, while careless venom can shatter a bond and sow lifespans of discord.*\n\n---\n\n### 2. Four Facets of Purified Speech\n\nTo attune one's consciousness to celestial peace, one must master the four gateways of verbal karma:\n\n1. **Abandoning false speech (*Musāvādā Veramaṇī*):**\n   - Whether in casual company or under formal oath: what one saw, one says one saw; what one did not see, one says one did not see.\n   - Never bending the truth for gain, reputation, or defensive pride.\n   - Truthfulness creates the indestructible spiritual power of truth (*Saccakiriyā*).\n\n2. **Abandoning divisive slander (*Pisuṇāvācā Veramaṇī*):**\n   - What one heard here, one does not repeat there to divide them; what one heard there, one does not repeat here to create enemies.\n   - Acting as a reconciler of fractures, delighting in unity and uttering words that bind hearts.\n\n3. **Abandoning harsh, abusive speech (*Pharusāvācā Veramaṇī*):**\n   - Refraining from scolding, sarcastic sneering, or degrading insults.\n   - Speaking words that are gentle, soothing to the ear, affectionate, entering the heart like pleasant water.\n\n4. **Abandoning idle chatter (*Samphappalāpā Veramaṇī*):**\n   - Refusing to indulge in frivolous gossip, endless controversies, or mind-scattering trivialities.\n   - Speaking at the proper season, in accordance with facts, measuring one's speech with Dhamma and purpose.\n\n---\n\n### 3. Five Hallmarks of Noble Utterance (AN 5.198)\n\nIn the **Vācā Sutta (AN 5.198)**, the Buddha laid down five benchmarks for speech that uplifts:\n1. *Kālena*: Spoken at the right time.\n2. *Saccena*: Spoken in truth.\n3. *Saṇhena*: Spoken with gentleness.\n4. *Atthasaṃhitena*: Spoken with beneficial value.\n5. *Mettacittena*: Spoken with a mind of boundless loving-kindness.\n\nWhenever words cannot meet these standards, the wise take refuge in **Noble Silence (*Ariya Tuṇhībhāva*)**.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Claiming that being foul-mouthed or brutally sarcastic is simply 'being blunt and having a golden heart'.",
+        "correction": "Speech is the direct mirror of internal states. Harsh language arises from uncontained anger and pride. True spiritual maturity blends honest facts with gentleness and compassion."
+      },
+      {
+        "mistake": "Thinking that white lies and office gossip are harmless and necessary social lubricants.",
+        "correction": "Even small dishonesties dull moral sensitivity and corrode trust. A practitioner striving for heavenly realms values integrity and mindful restraint above superficial banter."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Apply the 'Three-Second Pause' before speaking in heated meetings or texting on social media: Ascertain your mental composure, ensuring words align with truth, kindness, and benefit before releasing them.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Speak words of sincere appreciation to a friend or gently dissolve a misunderstanding"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did your words today build bridges of understanding and calm, or act as hidden arrows causing anxiety and distress?",
+    "selfAuditChecklist": [
+      "I adhered strictly to truth, avoiding exaggeration and deceptive embellishments.",
+      "I abstained from backbiting and did not utter words that pit one against another.",
+      "I maintained a calm, polite tone, abstaining from vulgar or harsh insults even when provoked.",
+      "I refrained from mindless chatter, cherishing purposeful words and noble silence."
+    ]
+  }
+}

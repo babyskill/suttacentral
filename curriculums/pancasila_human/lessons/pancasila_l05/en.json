@@ -1,0 +1,64 @@
+{
+  "lessonId": "pancasila_l05",
+  "curriculumId": "pancasila_human",
+  "lessonNumber": 5,
+  "stageIndex": 4,
+  "title": "Lesson 5: 4th Precept — 4 Criteria of Noble Truthful Speech",
+  "paliTitle": "Ambalaṭṭhikārāhulovādasutta (MN 61)",
+  "suttaRef": {
+    "uid": "mn61",
+    "title": "Advice to Rāhula at Ambalaṭṭhikā (MN 61 - Majjhima Nikāya)",
+    "excerptPali": "Seyyathāpi, rāhula, yopi koci puriso sampajānamusāvāde na lajji, nāhaṃ tassa kiñci pāpaṃ kammaṃ akaraṇīyanti vadāmi. Tasmātiha te, rāhula, 'hasitabbāpāhaṃ na musā bhaṇissāmī'ti — evañhi te, rāhula, sikkhitabbaṃ.",
+    "excerptTranslation": "Rāhula, for one who feels no shame at intentional lying, I say there is no evil that they cannot do. Therefore, Rāhula, you must train yourself: 'I will not tell a lie even in jest'—thus you must train!"
+  },
+  "pariyatti": {
+    "shortSummary": "Speech possesses the power to inspire peace or ignite catastrophic destruction. The fourth precept trains us to abandon 4 verbal evils (lying, divisive speech, harsh abuse, idle chatter) and master 4 standards of Right Speech: Truthful, Harmonious, Gentle, and Beneficial.",
+    "coreConcepts": [
+      {
+        "term": "Abstaining from False Speech",
+        "pali": "Musāvādā Veramaṇī",
+        "definition": "Refraining from deliberately twisting reality, claiming to know what one does not know, or deceiving others."
+      },
+      {
+        "term": "Four Faults of Speech",
+        "pali": "Cattāro Vacīduccaritā",
+        "definition": "1. False speech (Musāvādā); 2. Divisive, backbiting speech (Pisuṇāvācā); 3. Harsh, abusive speech (Pharusāvācā); 4. Idle, frivolous chatter (Samphappalāpā)."
+      },
+      {
+        "term": "Right Speech",
+        "pali": "Sammā Vācā",
+        "definition": "Speech that is factual, unifying, soothing, spoken with goodwill, and timely to benefit the listener."
+      },
+      {
+        "term": "Rāhula's Overturned Waterpot",
+        "pali": "Rāhula Udakamaṇika",
+        "definition": "The Buddha's fundamental lesson: one who consciously lies without remorse has integrity as completely overturned and empty as discarded wash-water."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Overturned Waterpot — The Foundation of All Virtue\n\nIn **MN 61**, after washing his feet, the Buddha left a tiny puddle at the bottom of the basin and asked Novice Rāhula:\n- *'Rāhula, do you see this tiny, dirty, useless leftover water?'*\n- *'Yes, venerable sir.'*\n- *'Even so trifling and barren is the spiritual life of one who feels no shame at intentional lying.'*\n\nThen the Buddha emptied the water, turned the basin upside down, and declared:\n> **'Rāhula, for one who lies without shame, their spiritual life is overturned and empty just like this pot. I declare there is no evil deed that they are incapable of committing!'**\n\nTruth is the bedrock of civilization. When honesty is compromised, all oaths become meaningless noise.\n\n---\n\n### 2. Four Verbal Toxins\n\nThe Buddha categorizes unwholesome speech into 4 destructive toxins:\n1. **Lying (*Musāvādā*):** Distorting facts for personal gain or malice.\n2. **Divisive Speech (*Pisuṇāvācā*):** Whispering slander to alienate friends and shatter community harmony.\n3. **Harsh Speech (*Pharusāvācā*):** Words like barbed arrows dipped in venom, designed to inflict emotional lacerations.\n4. **Idle Chatter (*Samphappalāpā*):** Sensational gossip, spreading unverified rumors online, wasting irreplaceable life hours.\n\n---\n\n### 3. The 4 Filters of Right Speech (The 3-Second Pause)\n\nBefore speaking or hitting 'Send', pass your words through 4 contemplative filters:\n1. *Is it FACTUAL?* (Truth)\n2. *Does it promote HARMONY?* (Unity)\n3. *Is it spoken with GENTLE GOODWILL?* (Kindness)\n4. *Is it BENEFICIAL to the listener?* (Utility)\n\nIf it fails these tests, embrace **Noble Silence (*Ariya Tuṇhībhāva*)**.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Assuming that 'white lies' or lying for amusement are harmless.",
+        "correction": "The Buddha instructed: 'Do not tell a lie even in jest'. Habitual jesting untruths erode the conscience, paving the way for serious deceit."
+      },
+      {
+        "mistake": "Believing that being 'brutally honest' justifies cruel, humiliating insults.",
+        "correction": "Cruelty is not honesty—it is verbal violence (Pharusāvācā). Right Speech demands that truth be accompanied by gentle kindness and perfect timing."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **The 3-Second Pause:** When irritated, pause for 3 seconds before responding. Breathe and inspect intention.\n2. **Digital Gossip Detox:** Refrain from forwarding unverified rumors; gracefully exit conversations indulging in character assassination.\n3. **Practice Loving Words:** Intentionally speak at least one sincere word of praise or encouragement daily to someone around you.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Cultivate truthful, gentle, unifying speech, resting in noble silence when agitated."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did your words today bring clarity, reconciliation, and comfort, or did they scatter seeds of division, gossip, and pain?",
+    "selfAuditChecklist": [
+      "I spoke the truth conscientiously, avoiding deception and false pretense.",
+      "I did not backbite or spread stories to divide people.",
+      "I restrained angry impulses, refusing to utter harsh insults.",
+      "I maintained noble silence when words would serve no constructive purpose."
+    ]
+  }
+}

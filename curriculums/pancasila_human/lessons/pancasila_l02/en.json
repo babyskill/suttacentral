@@ -1,0 +1,64 @@
+{
+  "lessonId": "pancasila_l02",
+  "curriculumId": "pancasila_human",
+  "lessonNumber": 2,
+  "stageIndex": 1,
+  "title": "Lesson 2: 1st Precept — Reverence for Life & Boundless Goodwill",
+  "paliTitle": "Karaṇīyamettāsutta (Khp 9 / Snp 1.8)",
+  "suttaRef": {
+    "uid": "kp9",
+    "title": "Discourse on Loving-Kindness (Khp 9 / Snp 1.8)",
+    "excerptPali": "Mātā yathā nīyaṃ puttaṃ, āyusā ekaputtamanurakkhe; Evampi sabbabhūtesu, mānasaṃ bhāvaye aparimāṇaṃ. Mettañca sabbalokasmiṃ, mānasaṃ bhāvaye aparimāṇaṃ... Sabbe sattā bhavantu sukhitattā.",
+    "excerptTranslation": "Even as a mother would protect with her life her child, her only child, so too for all creatures unfold a boundless heart. With loving-kindness for the whole world, cultivate a boundless heart... May all beings be happy and safe!"
+  },
+  "pariyatti": {
+    "shortSummary": "The first precept reaches far beyond refraining from homicide—it is a sacred reverence for all living beings. Eradicating cruelty, ceasing the casual killing of tiny creatures, and transforming aversion into boundless Mettā.",
+    "coreConcepts": [
+      {
+        "term": "Abstaining from Taking Life",
+        "pali": "Pāṇātipātā Veramaṇī",
+        "definition": "The conscious restraint from intentionally destroying the life of any sentient creature that breathes, from humans to tiny insects."
+      },
+      {
+        "term": "Five Factors of Killing",
+        "pali": "Pāṇātipāta Sambhāra",
+        "definition": "1. A living being; 2. Awareness of life; 3. Volition to kill; 4. Effort applied; 5. Consequent death of that being."
+      },
+      {
+        "term": "Loving-Kindness",
+        "pali": "Mettā",
+        "definition": "Pure, unconditioned goodwill wishing safety, peace, and welfare for all beings without exception."
+      },
+      {
+        "term": "Non-Violence",
+        "pali": "Avihiṃsā",
+        "definition": "Harmonious coexistence, refusing to inflict physical, emotional, or psychological trauma upon others."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Core Meaning of the First Precept\n\nEvery breathing creature, from world leaders to the ant on the pavement, shares a common reality: **all cherish life and dread pain and death**.\nIn the **Dhammapada (Verse 129)**, the Buddha states:\n> *'All tremble at punishment,*\n> *All fear death.*\n> *Comparing others with oneself,*\n> *One should neither kill nor cause to kill.'*\n\nThe first precept arises from **empathic resonance (*Attūpanāyika*)**: knowing our own horror at injury, we refuse to inflict butchery upon another. The noble disciple refrains from killing not out of fear of social laws, but because the heart has awakened to compassion.\n\n---\n\n### 2. Subtle Forms of Violence in Modern Life\n\nMany assume: *'I have never killed anyone, so I am gentle'*. Yet deeper inspection reveals:\n- **Casual destruction of small creatures:** Crushing spiders, mosquitoes, or ants out of reflexive disgust.\n- **Verbal assassination (Cyberbullying):** Cruel comments, defamation, and digital mobs that drive victims to despair or suicide—a devastating form of indirect murder.\n- **Careless consumption:** Demanding cruel culinary practices that torment living animals for gourmet pleasure.\n\n---\n\n### 3. Karmic Retribution of Killing\n\nAccording to the **Cūḷakammavibhaṅga Sutta (MN 135)**:\n- Those habitual in cruelty descend upon death to states of woe.\n- If returning as humans, they suffer **short lifespans, congenital diseases, and constant peril**.\n- Conversely, those who revere life and harbor tenderness toward all living things reap **robust health, longevity, inner composure, and the protection of devas and humans**.\n\n---\n\n### 4. Cultivating Boundless Mettā\n\nMorality is fulfilled through active cultivation:\n- **Viewing difficult people with compassion:** When confronted by hostile people, see them as burning in their own ignorance and misery.\n- **Daily radiating Mettā:** Loving-kindness dismantles fear, grants peaceful sleep, and wards off mental toxins.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Assuming animals exist purely as food for humans and killing them incurs no karmic weight.",
+        "correction": "All sentient beings are travelers in the round of rebirth. Every intentional taking of life driven by delusion or aggression produces painful karmic fruit."
+      },
+      {
+        "mistake": "Worrying that accidentally stepping on an invisible insect breaks the precept.",
+        "correction": "The Buddha defines Kamma as Intention (Cetanā). Without the intention to destroy life, the precept remains intact, though mindful walking is cultivated to minimize harm."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Practice Sparing Life:** When insects enter your dwelling, patiently guide them outside using a paper sheet or glass rather than killing them.\n2. **Evening Mettā Meditation (15 mins):** Recite the Mettā Sutta, systematically directing goodwill to: Self -> Benefactors -> Neutrals -> Challenging persons -> All living beings.\n3. **Routine Integration:** Anchor this with the dedicated loving-kindness routine (r_metta).",
+    "recommendedRoutineId": "r_metta",
+    "suggestedVirtue": "Refuse to take any life today and practice releasing anger toward difficult people."
+  },
+  "pativedha": {
+    "reflectionPrompt": "When provoked today, did your mind react with venomous retaliation, or were you able to pause, recognize their suffering, and respond with patience?",
+    "selfAuditChecklist": [
+      "I did not deliberately destroy the life of any living creature today.",
+      "I refrained from harsh, insulting, or abusive language that wounds others.",
+      "I caught arising anger early and pacified it with mindfulness rather than letting it explode.",
+      "I felt the soothing peace of radiating boundless goodwill to the world."
+    ]
+  }
+}

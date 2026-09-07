@@ -1,0 +1,73 @@
+{
+  "lessonId": "sotapatti_l15",
+  "curriculumId": "sotapatti_magga",
+  "lessonNumber": 15,
+  "stageIndex": 3,
+  "title": "Right Concentration — Stillness & The Four Jhānas",
+  "paliTitle": "Sammā-samādhi (SN 45.8 & MN 141)",
+  "suttaRef": {
+    "uid": "sn45.8",
+    "title": "Analysis of the Path (Magga-vibhaṅga Sutta — SN 45.8 / MN 141)",
+    "excerptPali": "Katamo ca, bhikkhave, sammāsamādhi? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati. Vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati. Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: 'upekkhako satimā sukhavihārī'ti tatiyaṁ jhānaṁ upasampajja viharati. Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati. Ayaṁ vuccati, bhikkhave, sammāsamādhi.",
+    "excerptTranslation": "And what, monks, is Right Concentration? Here, secluded from sensual pleasures, secluded from unwholesome states, a monk enters and dwells in the first jhāna, which has applied and sustained thought, with rapture and pleasure born of seclusion. With the stilling of applied and sustained thought, he enters and dwells in the second jhāna, which has internal assurance and one-pointedness of mind without applied and sustained thought, with rapture and pleasure born of concentration. With the fading away of rapture, he dwells equanimous, mindful and clearly comprehending, and experiences bodily pleasure of which the noble ones declare: 'Equanimous and mindful, he dwells in pleasure' — he enters and dwells in the third jhāna. With the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, he enters and dwells in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity. This, monks, is called Right Concentration."
+  },
+  "pariyatti": {
+    "shortSummary": "Right Concentration (Sammā-samādhi) is the eighth factor and crowning culmination of the Noble Eightfold Path. Anchored firmly upon purified Morality (Sīla) and illuminated by Right Mindfulness (Sammā-sati), Right Concentration is one-pointed unification of mind (Cittassa ekaggatā) entirely emancipated from the Five Hindrances, progressively attaining the Four Fine-Material Absorptions (Cattāri Jhānāni). Its ultimate purpose is not escapism or mystical intoxication, but forging an unshakeable, malleable, and translucent mind capable of penetrating the Three Characteristics and cutting off the fetters of existence.",
+    "coreConcepts": [
+      {
+        "term": "Noble Right Concentration",
+        "pali": "Ariyo Sammā-samādhi",
+        "definition": "One-pointedness of mind equipped with and supported by the preceding seven factors of the Noble Eightfold Path (from Right View to Right Mindfulness); consciousness purged of all defilement, singularly still and radiant."
+      },
+      {
+        "term": "Secluded from Sensuality and Unwholesome States",
+        "pali": "Vivicceva Kāmehi Vivicca Akusalehi Dhammehi",
+        "definition": "The indispensable prerequisite for deep stillness: letting go of the pursuit of sensory gratifications and subduing the Five Hindrances (Sensual desire, Ill-will, Sloth-torpor, Restlessness-worry, Doubt)."
+      },
+      {
+        "term": "Five Jhāna Factors",
+        "pali": "Pañca Jhānaṅgāni",
+        "definition": "The five transformative mental factors composing the First Jhāna: Applied thought (Vitakka), Sustained thought (Vicāra), Rapture (Pīti), Happiness/Pleasure (Sukha), and One-pointedness (Ekaggatā)."
+      },
+      {
+        "term": "Purity of Mindfulness Due to Equanimity",
+        "pali": "Upekkhā-sati-pārisuddhi",
+        "definition": "The sublime pinnacle of the Fourth Jhāna: transcendent freedom beyond pleasure and pain, where consciousness rests in flawless, unblemished stillness, pure equanimity, and lucid awareness."
+      },
+      {
+        "term": "Serenity & Insight in Tandem",
+        "pali": "Samatha & Vipassanā",
+        "definition": "Serenity (Samatha) calms the turbid ripples of emotional turbulence, creating a tranquil mirror-like pool; Insight (Vipassanā) peers through the clear waters to directly comprehend impermanence, suffering, and non-self."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Supreme Apex of the Eightfold Path\n\nIn the **Great Discourse on the Forty (Mahācattārīsaka Sutta — MN 117)**, the Buddha declared: *'One-pointedness of mind equipped with these seven factors — Right View, Right Intention, Right Speech, Right Action, Right Livelihood, Right Effort, and Right Mindfulness — is called noble Right Concentration with its supports and requisites'*.\n\nThis demarcation fundamentally separates **Right Concentration** from **Wrong Concentration (*Micchā-samādhi*)**:\n- A cat stalking a mouse displays intense concentration, but it is fueled by predatory craving.\n- A sniper zeroing in on a target exhibits razor focus, but it is steered by violence and hatred.\n- Only when mental absorption is founded upon flawless ethical conduct (*Sīla*), guided by wisdom (*Sammā-diṭṭhi*), and governed by pure mindfulness (*Sammā-sati*), does it constitute Sammā-samādhi leading toward Nibbāna.\n\n---\n\n### 2. Disarming the Five Internal Bandits: The Five Hindrances (Nīvaraṇa)\n\nNo mind can enter Jhāna while held hostage by the **Five Hindrances** — obstacles compared by the Buddha to tainted vessels of water in the Saṅgārava Sutta (AN 5.193):\n\n1. **Sensual Desire (*Kāmacchanda*):** Like water dyed with brilliant pigments, blinding the seeker with superficial infatuations.\n2. **Ill-will (*Vyāpāda*):** Like boiling water bubbling and steaming furiously, burning the heart with resentment and wrath.\n3. **Sloth and Torpor (*Thīna-middha*):** Like water clogged with choking moss and algae, stagnating consciousness in lethargy, dullness, and sleepiness.\n4. **Restlessness and Remorse (*Uddhacca-kukkucca*):** Like water whipped into surging waves by a tempest, leaving the mind scattered, erratic, and burdened by regret.\n5. **Skeptical Doubt (*Vicikicchā*):** Like muddy water enclosed in pitch darkness, paralyzing conviction with chronic ambivalence.\n\nOnly when the meditator silences these five adversaries through Right Effort and Mindfulness (*Vivicca akusalehi dhammehi*) does the heart drop its crushing baggage, entering the luminous realm of the Jhānas.\n\n---\n\n### 3. The Progressive Architecture of the Four Jhānas (Cattāri Jhānāni)\n\nIn early Theravāda Buddhism, the progression of absorption is a **process of progressive refinement and subtraction from coarse to subtle**, rather than adding artificial states:\n\n#### The First Jhāna (*Paṭhama Jhāna*)\n- **State:** Secluded from sensual pleasures, secluded from unwholesome states, giving rise to Rapture (*Pīti*) and Pleasure (*Sukha*) born of seclusion.\n- **Characteristics:** Accompanied by **Applied Thought (*Vitakka*)** (directing attention to the breath) and **Sustained Thought (*Vicāra*)** (anchoring continuous focus on the breath). Exhilarating joy permeates the entire physical body, like water drenching a ball of bath powder.\n\n#### The Second Jhāna (*Dutiya Jhāna*)\n- **State:** With the stilling of applied and sustained thought, the mind achieves **Internal assurance and one-pointedness (*Ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ*)**.\n- **Characteristics:** Effortless stillness without verbal conceptualization; Rapture and Pleasure now arise directly from **Concentration (*Samādhija*)**, vastly deeper and more refined than the first.\n\n#### The Third Jhāna (*Tatiya Jhāna*)\n- **State:** The meditator lets go of Rapture (*Pīti*) because its ecstatic vibration is recognized as coarse agitation. Abiding in **Equanimity (*Upekkhā*)**, mindful and clearly comprehending.\n- **Characteristics:** Experiencing an immaculate, subtle bodily bliss celebrated by the Noble Ones: *'Equanimous and mindful, one dwells in pleasure'*. A pervasive, serene contentedness infusing every pore.\n\n#### The Fourth Jhāna (*Catuttha Jhāna*)\n- **State:** Transcending both pleasure and pain, with the complete eradication of former joy and sorrow. Neither-pain-nor-pleasure, resting in **Purity of mindfulness due to equanimity (*Upekkhā-sati-pārisuddhi*)**.\n- **Characteristics:** Gross physical respiration naturally calms to near cessation; consciousness rests like an unruffled mountain lake of pure crystal clarity, immovable and luminous.\n\n---\n\n### 4. Stillness for Liberating Insight — The True Goal of Absorption\n\nThe Buddha never intended for his disciples to treat Jhāna as a mystical hideout or an addictive recreational high. Jhāna is **a supreme instrument, never the final destination**.\n\nEmerging from absorption, the mind is described as: *malleable, wieldy, steady, imperturbable*. Seizing this golden moment, the practitioner immediately turns that laser-sharp clarity onto the **Contemplation of the Three Marks of Existence (*Vipassanā*)**: dissecting every aggregate, sensation, and perception to witness their ceaseless rising and falling, their inherent stress, and their complete lack of an enduring Self. Powered by Sammā-samādhi, Wisdom pierces the veil of ignorance, decisively sundering the fetters of saṃsāra.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing that attaining the meditative absorptions (Jhānas) is synonymous with full enlightenment (Arahantship).",
+        "correction": "The Jhānas are conditioned phenomena (Saṅkhāra) subject to impermanence. Clinging to the bliss of Jhāna leads only to rebirth in the refined Brahma heavens; when that karmic merit expires, one falls back into the round of rebirth. Concentration serves as the flawless mirror allowing Insight (Vipassanā) to dismantle the root delusion of Self."
+      },
+      {
+        "mistake": "Confusing meditative absorption with falling asleep, dull numbness, or entering a dark, unconscious void.",
+        "correction": "Entering a dark, blank void is subtle sloth and torpor (Thīna-middha) or wrong concentration. Authentic Buddhist Jhāna becomes progressively more lucid, peaking in the Fourth Jhāna's 'Purity of mindfulness due to equanimity' (Upekkhā-sati-pārisuddhi) — an exceptionally vivid, wakeful state."
+      },
+      {
+        "mistake": "Claiming that modern lay practitioners can dispense with concentration and attain liberation through intellectual reading alone.",
+        "correction": "The Noble Eightfold Path is an indissoluble, integrated vehicle. Without the mental stillness of concentration, the mind is tossed about by worldly winds (gain-loss, praise-blame, pleasure-pain) and lacks the piercing stability required to penetrate the true nature of phenomena."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Breath Concentration Sitting (20-30 mins):** Sit comfortably with upright posture. Relax facial and shoulder tensions. Anchor attention precisely where breath touches the rim of the nostrils or upper lip. Apply thought (Vitakka) to meet the breath; sustain thought (Vicāra) to stay seamlessly with the breath from start to finish.\n2. **Recognizing and Releasing Hindrances:** When restlessness appears, lengthen the out-breath to soothe nervous arousal; when drowsiness strikes, slightly open the eyes or contemplate the fragility of human life to kindle urgency.\n3. **Fostering Sensory Moderation in Daily Life:** Dial down compulsive digital overconsumption (endless feeds, sensationalist media); guard the sense doors with intentional, calm restraint.",
+    "recommendedRoutineId": "r_breath",
+    "suggestedVirtue": "Cultivate mental stillness, guarding the sense faculties and soothing inner agitations."
+  },
+  "pativedha": {
+    "reflectionPrompt": "When sitting in stillness, how long can your mind remain anchored to the breath before being hijacked by the five hindrances? Have you tasted the sublime joy born of the temporary absence of greed and anger?",
+    "selfAuditChecklist": [
+      "I maintained a dedicated sitting meditation session of at least 20 minutes today.",
+      "I identified intrusions from the five hindrances without feeding them further attention.",
+      "My mind recovered composure and clarity noticeably faster when challenged by sudden stressors.",
+      "I resisted grasping or cultivating spiritual vanity around transient sensations of meditative bliss."
+    ]
+  }
+}

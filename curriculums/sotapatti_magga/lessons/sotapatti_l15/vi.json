@@ -1,0 +1,73 @@
+{
+  "lessonId": "sotapatti_l15",
+  "curriculumId": "sotapatti_magga",
+  "lessonNumber": 15,
+  "stageIndex": 3,
+  "title": "Chánh Định — Tâm Nhất Niệm & Bốn Tầng Thiền (Jhāna)",
+  "paliTitle": "Sammā-samādhi (SN 45.8 & MN 141)",
+  "suttaRef": {
+    "uid": "sn45.8",
+    "title": "Kinh Phân Biệt Đạo (Magga-vibhaṅga Sutta — SN 45.8 / MN 141)",
+    "excerptPali": "Katamo ca, bhikkhave, sammāsamādhi? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati. Vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati. Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: 'upekkhako satimā sukhavihārī'ti tatiyaṁ jhānaṁ upasampajja viharati. Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati. Ayaṁ vuccati, bhikkhave, sammāsamādhi.",
+    "excerptTranslation": "Thế nào là Chánh định, này các Tỳ-kheo? Ở đây, Tỳ-kheo ly dục, ly các ác bất thiện pháp, chứng và trú Sơ thiền, một trạng thái hỷ lạc do ly dục sinh, có tầm, có tứ. Diệt tầm và tứ, chứng và trú Nhị thiền, một trạng thái hỷ lạc do định sinh, nội tĩnh nhất tâm, không tầm không tứ. Ly hỷ trú xả, chánh niệm tỉnh giác, thân cảm sự lạc thọ mà các bậc Thánh gọi là 'Xả niệm lạc trú', chứng và trú Tam thiền. Xả lạc xả khổ, diệt hỷ ưu đã cảm thọ trước, chứng và trú Tứ thiền, không khổ không lạc, xả niệm thanh tịnh. Này các Tỳ-kheo, đây gọi là Chánh định."
+  },
+  "pariyatti": {
+    "shortSummary": "Chánh Định (Sammā-samādhi) là chi phần thứ tám, đóng vai trò đỉnh cao quy tụ của Bát Chánh Đạo. Được xây dựng trên nền tảng Giới thanh tịnh và Chánh Niệm soi rọi, Chánh Định là trạng thái tâm nhất cảnh tính (Cittassa ekaggatā) hoàn toàn thoát khỏi Năm Triền Cái, tuần tự chứng đạt Bốn Tầng Thiền Sắc Giới (Cattāri Jhānāni). Mục đích tối hậu của Chánh Định không phải là tìm kiếm thần thông hay khoái lạc thiền vị, mà là tôi luyện tâm thức trở nên nhu nhuyễn, sáng suốt và tịch tịnh để làm bệ phóng cho Tuệ Quán thấu suốt Tam Tướng và giải thoát sinh tử.",
+    "coreConcepts": [
+      {
+        "term": "Chánh Định Của Bậc Thánh",
+        "pali": "Ariyo Sammā-samādhi",
+        "definition": "Sự nhất tâm có đầy đủ 7 chi phần trước (từ Chánh Kiến đến Chánh Niệm) làm trợ duyên và hành trang; tâm vắng bặt bất thiện pháp, tĩnh lặng và sáng tỏ tuyệt đối."
+      },
+      {
+        "term": "Ly Dục, Ly Ác Bất Thiện Pháp",
+        "pali": "Vivicceva Kāmehi Vivicca Akusalehi Dhammehi",
+        "definition": "Cửa ngõ quyết định bước vào thiền định: Buông xả sự thèm muốn khoái lạc giác quan và dập tắt Năm Triền Cái (Tham dục, Sân hận, Hôn trầm thụy miên, Trạo hối, Hoài nghi)."
+      },
+      {
+        "term": "Năm Thiền Chi",
+        "pali": "Pañca Jhānaṅgāni",
+        "definition": "Năm yếu tố tâm thức cấu thành Sơ thiền: Tầm (Vitakka - hướng tâm đến đối tượng), Tứ (Vicāra - duy trì tâm trên đối tượng), Hỷ (Pīti - sự hân hoan rung động), Lạc (Sukha - niềm an lạc sâu lắng), và Nhất tâm (Ekaggatā - tâm an định trên một điểm)."
+      },
+      {
+        "term": "Xả Niệm Thanh Tịnh",
+        "pali": "Upekkhā-sati-pārisuddhi",
+        "definition": "Đặc tính cao nhất của Tứ thiền: Vượt qua cả hỷ lẫn lạc, tâm an trú trong sự buông xả hoàn hảo và chánh niệm đạt mức tinh khiết, sáng suốt không tỳ vết."
+      },
+      {
+        "term": "Chỉ Quán Song Hành",
+        "pali": "Samatha & Vipassanā",
+        "definition": "Định (Samatha) làm lắng đọng các con sóng bùn lầy phiền não, tạo nên mặt hồ tâm phẳng lặng; Tuệ (Vipassanā) soi thấu đáy hồ thấy rõ bản chất vô thường, khổ, vô ngã của vạn pháp."
+      }
+    ],
+    "expositionMarkdown": "### 1. Vị Trí Cốt Tủy Của Chánh Định Trong Bát Chánh Đạo\n\nTrong **Kinh Đại Bốn Mươi (*Mahācattārīsaka Sutta* — MN 117)**, Đức Phật dạy rằng: *Sự nhất tâm được bao bọc, hỗ trợ bởi bảy chi phần từ Chánh Kiến đến Chánh Niệm, đó gọi là Chánh Định của bậc Thánh cùng với các trợ duyên và tư lương*.\n\nĐiều này vạch ra lằn ranh rõ rệt giữa **Chánh Định** và **Tà Định (*Micchā-samādhi*)**:\n- Kẻ trộm rình mò bẻ khóa cũng có sự tập trung cao độ, nhưng đó là định dẫn dắt bởi tâm tham.\n- Người giận dữ trả thù tập trung bắn đối phương, đó là định dẫn dắt bởi tâm sân.\n- Chỉ khi nào tâm an định dựa trên nền tảng Giới luật trong sạch (*Sīla*), nhận thức đúng đắn (*Sammā-diṭṭhi*) và sự chánh niệm tỉnh giác (*Sammā-sati*), sự định tĩnh đó mới được gọi là Chánh Định.\n\n---\n\n### 2. Dẹp Tan Năm Kẻ Cướp Nội Tâm: Năm Triền Cái (Nīvaraṇa)\n\nKhông ai có thể bước vào Chánh Định nếu tâm còn bị vây bủa bởi **Năm Triền Cái** — năm chướng ngại che lấp tâm trí được Đức Phật ví như các loại nước bị ô nhiễm trong Kinh Saṅgārava (AN 5.193):\n\n1. **Tham dục (*Kāmacchanda*):** Như chậu nước bị nhuộm đủ màu sắc sặc sỡ, khiến tâm mờ mịt theo đuổi khoái cảm trần thế.\n2. **Sân hận (*Vyāpāda*):** Như chậu nước sôi ùng ục bốc khói, thiêu đốt tâm can trong bực bội, bất mãn.\n3. **Hôn trầm thụy miên (*Thīna-middha*):** Như chậu nước bị rong rêu bèo tấm phủ kín, khiến tâm lờ đờ, buồn ngủ, thiếu sức sống.\n4. **Trạo cử hối quá (*Uddhacca-kukkucca*):** Như chậu nước bị gió bão khuấy đảo tạo sóng lớn cuồn cuộn, khiến tâm bồn chồn lo lắng, ân hận chuyện quá khứ.\n5. **Hoài nghi (*Vicikicchā*):** Như chậu nước bị đặt trong bóng tối bùn lầy, khiến tâm do dự, phân vân, mất phương hướng trên đạo lộ.\n\nChỉ khi hành giả bằng Chánh Tinh Tấn và Chánh Niệm dập tắt được 5 kẻ cướp này (*Vivicca akusalehi dhammehi*), tâm mới rũ bỏ gánh nặng để chứng nhập các tầng thiền sắc giới.\n\n---\n\n### 3. Lộ Trình Bốn Tầng Thiền (Cattāri Jhānāni)\n\nTiến trình thiền định trong Phật giáo Nguyên thủy là một **tiến trình thanh lọc và buông xả dần dần từ thô đến tế**, chứ không phải là thêm vào cái gì mới lạ:\n\n#### Sơ Thiền (*Paṭhama Jhāna*)\n- **Trạng thái:** Ly dục, ly ác bất thiện pháp, sinh khởi Hỷ (*Pīti*) và Lạc (*Sukha*) do sự viễn ly mang lại.\n- **Đặc điểm:** Vẫn còn **Tầm (*Vitakka*)** (hướng tâm đến đề mục hơi thở) và **Tứ (*Vicāra*)** (giữ tâm dán chặt vào đề mục). Cảm giác hoan hỷ tràn ngập toàn thân như một thợ tắm nhào cục xà phòng đẫm nước.\n\n#### Nhị Thiền (*Dutiya Jhāna*)\n- **Trạng thái:** Tầm và Tứ được làm lắng dịu, tâm đạt đến sự **Nội tĩnh nhất tâm (*Ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ*)**.\n- **Đặc điểm:** Không còn cần nỗ lực hướng tâm hay giữ tâm; Hỷ và Lạc lúc này phát sinh trực tiếp từ **Định (*Samādhija*)**, sâu lắng và vi tế hơn nhiều lần.\n\n#### Tam Thiền (*Tatiya Jhāna*)\n- **Trạng thái:** Hành giả buông xả luôn cả Hỷ (vì nhận thấy Hỷ vẫn còn sự kích động thô tháo), an trú trong **Xả (*Upekkhā*)**, chánh niệm tỉnh giác.\n- **Đặc điểm:** Thân cảm nhận niềm an lạc thanh tịnh vi diệu mà các bậc Thánh tán thán: *'Xả niệm lạc trú'*. Niềm an lạc này tĩnh tại và thấm đượm từng tế bào thân thể.\n\n#### Tứ Thiền (*Catuttha Jhāna*)\n- **Trạng thái:** Đoạn trừ cả khổ lẫn lạc, chấm dứt hoàn toàn hỷ và ưu đã khởi lên từ trước. Không khổ không lạc, an trú trong **Xả niệm thanh tịnh (*Upekkhā-sati-pārisuddhi*)**.\n- **Đặc điểm:** Hơi thở vật lý hoàn toàn an tịnh và dường như dừng lại; tâm thức như mặt gương hồ thu trong suốt, bất động, không chút gợn sóng.\n\n---\n\n### 4. Định Để Phát Tuệ — Mục Đích Tối Hậu Của Thiền Định\n\nĐức Phật không bao giờ khuyến khích đệ tử an phận hay nghiện ngập trong sự êm ái của các tầng thiền. Jhāna chỉ là **phương tiện, không phải cứu cánh**.\n\nSau khi xuất khỏi Tứ thiền, tâm thức ở vào trạng thái: *nhu nhuyễn, dễ uốn nắn, kiên cố, không dao động*. Lúc này, hành giả lập tức hướng tâm ấy đến **Tuệ quán Tam Tướng (*Vipassanā*)**: soi rọi từng uẩn, từng cảm thọ, từng trạng thái tâm thức để thấy rõ chúng đều do duyên sinh, vô thường, biến hoại và rỗng không tự ngã. Nhờ sức mạnh chiếu rọi của Chánh Định, Tuệ Giác đâm xuyên qua màn vô minh, cắt đứt vĩnh viễn các kiết sử trói buộc.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng chứng đắc các tầng thiền định (Jhāna) là đã chứng ngộ Niết-bàn giải thoát sinh tử.",
+        "correction": "Bốn tầng thiền sắc giới vẫn là pháp hữu vi (Saṅkhāra), chịu sự chi phối của quy luật vô thường. Nếu đắc thiền mà không phát triển Tuệ quán Vô Ngã, khi mạng chung sẽ sinh vào các cõi trời Sắc giới (Brahma loka), hưởng hết phước vẫn rơi trở lại luân hồi. Định là chiếc gương sáng để Tuệ soi rọi phá tan vô minh."
+      },
+      {
+        "mistake": "Nhầm lẫn trạng thái định tâm với hôn trầm, ngủ gục hoặc rơi vào khoảng không tối đen 'mất hết nhận thức'.",
+        "correction": "Trạng thái tối đen mất cảm giác là Hôn trầm vi tế (Thīna-middha) hoặc Tà định si ám. Chánh định của đạo Phật càng lên cao tâm thức càng sáng tỏ, đặc biệt ở Tứ thiền đạt đến đỉnh cao 'Xả niệm thanh tịnh' (Upekkhā-sati-pārisuddhi), cực kỳ tỉnh táo và nhạy bén."
+      },
+      {
+        "mistake": "Cho rằng người cư sĩ thời nay không cần tu thiền định, chỉ cần làm phước tụng kinh cầu vãng sinh là đủ.",
+        "correction": "Bát Chánh Đạo là một khối hữu cơ không thể tách rời. Không có Chánh Định, tâm trí sẽ luôn bị các ngọn gió thế gian (được - mất, khen - chê, vui - khổ) quăng quật, không bao giờ đủ sự tĩnh lặng để thành tựu Tuệ giải thoát Nhập Lưu."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Tọa Thiền Định Tâm (20-30 phút):** Ngồi tĩnh lặng, thả lỏng toàn bộ cơ bắp trên mặt và vai. Đặt trọn tâm ý tại điểm xúc chạm của hơi thở ở cửa mũi. Dùng 'Tầm' đưa tâm về hơi thở, dùng 'Tứ' duy trì sự chú ý liên tục từ đầu hơi thở đến cuối hơi thở.\n2. **Nhận Diện Và Buông Xả Triền Cái:** Khi thấy bồn chồn (trạo cử), hãy thở ra chậm và sâu để làm lắng dịu thân hành; khi thấy lờ đờ (hôn trầm), mở hé mắt hoặc tác ý đến sự vô thường của mạng sống để khơi dậy tinh tấn.\n3. **Nuôi Dưỡng Sự Ly Dục Trong Ngày:** Giảm bớt thói quen tiêu thụ giác quan quá mức (xem video ngắn, lướt tin tức kích động); bảo vệ các giác quan bằng nếp sống tiết chế.",
+    "recommendedRoutineId": "r_breath",
+    "suggestedVirtue": "Tĩnh tọa định tâm, thu nhiếp các căn thanh tịnh và làm lắng dịu phiền não."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Khi ngồi tĩnh tâm, tâm bạn có thể an trú trên đề mục hơi thở được bao lâu trước khi bị năm triền cái lôi kéo? Bạn đã từng cảm nhận niềm hỷ lạc thanh tịnh do sự vắng mặt của tham sân chưa?",
+    "selfAuditChecklist": [
+      "Tôi đã duy trì thời khóa tọa thiền định tâm ít nhất 20 phút hôm nay.",
+      "Tôi nhận diện rõ ràng sự khuấy đảo của 5 triền cái và không nuông chiều theo chúng.",
+      "Tâm tôi có khả năng gom tụ và lắng dịu nhanh hơn sau các biến cố căng thẳng.",
+      "Tôi không bám chấp hay tự hào về bất kỳ trạng thái hỷ lạc tạm thời nào trong khi hành thiền."
+    ]
+  }
+}

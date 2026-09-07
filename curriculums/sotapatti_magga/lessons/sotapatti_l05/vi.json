@@ -1,0 +1,68 @@
+{
+  "lessonId": "sotapatti_l05",
+  "curriculumId": "sotapatti_magga",
+  "lessonNumber": 5,
+  "stageIndex": 2,
+  "title": "Tập Thánh Đế — Cội Rễ Tham Ái & Chuỗi Xích Duyên Khởi",
+  "paliTitle": "Paṭiccasamuppādasutta (SN 12.1)",
+  "suttaRef": {
+    "uid": "sn12.1",
+    "title": "Kinh Duyên Khởi (Paṭiccasamuppādasutta — SN 12.1)",
+    "excerptPali": "Idaṁ kho pana, bhikkhave, dukkhasamudayaṁ ariyasaccaṁ: yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ — kāmataṇhā, bhavataṇhā, vibhavataṇhā... Avijjāpaccayā saṅkhārā... phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo... Evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+    "excerptTranslation": "Đây là Thánh Đế về Khổ Tập, này các Tỳ-kheo: Chính là Ái này đưa đến tái sinh, câu hữu với hỷ và tham, tìm cầu hỷ lạc chỗ này chỗ kia; tức là: Dục ái, Hữu ái, Phi hữu ái... Do duyên Vô minh có Hành... do duyên Xúc có Thọ, do duyên Thọ có Ái, do duyên Ái có Thủ, do duyên Thủ có Hữu... Như vậy là sự tập khởi của toàn bộ khối khổ đau này."
+  },
+  "pariyatti": {
+    "shortSummary": "Chân lý thứ hai vạch trần cội rễ trực tiếp sinh ra toàn bộ khổ đau luân hồi: Khát ái (Taṇhā). Phận sự của hành giả đối với Tập Thánh Đế là Đoạn trừ (Pahātabba) thông qua việc thấy rõ mắt xích Duyên khởi (Xúc ➔ Thọ ➔ Ái) và buông xả bám chấp bằng chánh niệm tỉnh giác.",
+    "coreConcepts": [
+      {
+        "term": "Khát Ái",
+        "pali": "Taṇhā",
+        "definition": "Nghĩa đen là 'cơn khát'; chỉ cho sự khao khát, thèm muốn và bám víu mãnh liệt của tâm thức vào các cảnh trần. Càng uống nước muối thì càng khát, tham ái càng được đáp ứng thì càng đốt cháy nội tâm."
+      },
+      {
+        "term": "Ba Loại Ái",
+        "pali": "Tividhā Taṇhā",
+        "definition": "1. Dục ái (Kāma-taṇhā: đắm chìm vào lạc thú 5 giác quan); 2. Hữu ái (Bhava-taṇhā: khát vọng trường tồn, muốn trở thành, gắn với Thường kiến); 3. Phi hữu ái (Vibhava-taṇhā: muốn hủy diệt, trốn chạy thực tại, chối bỏ cái khó chịu, gắn với Đoạn kiến)."
+      },
+      {
+        "term": "Chấp Thủ",
+        "pali": "Upādāna",
+        "definition": "Mức độ bám víu thô cứng xuất phát từ Ái. Ví như Ái là vươn tay với lấy trái táo, còn Thủ là nắm chặt không chịu buông (gồm Dục thủ, Kiến thủ, Giới cấm thủ và Ngã luận thủ)."
+      },
+      {
+        "term": "Tập cần phải Đoạn trừ",
+        "pali": "Samudayo Pahātabbo",
+        "definition": "Phận sự đối với Chân lý thứ hai: Nhận diện rốt ráo nguồn gốc của đau khổ để nhổ sạch cội rễ, không nuôi dưỡng thêm nhiên liệu tham ái bằng sự vô minh."
+      }
+    ],
+    "expositionMarkdown": "### 1. Ẩn Dụ Ngọn Lửa và Nhiên Liệu\n\nNếu Khổ (*Dukkha*) là ngọn lửa dữ dội đang thiêu đốt thân tâm, thì Tập Đế (*Samudaya*) chính là **củi khô và dầu mỡ** làm bùng cháy ngọn lửa ấy.\n\nNgười đời đau khổ vì bệnh tật, phá sản, chia ly, thất tình, hay bị xúc phạm... thường oán trời trách đất, đổ lỗi cho hoàn cảnh hoặc người khác. Nhưng Đức Phật đã dùng tuệ nhãn chỉ thẳng: **Ngoại cảnh chỉ là duyên phụ, cội rễ trực tiếp sinh ra cơn khổ chính là Tham Ái (*Taṇhā*) ẩn sâu trong tâm thức**.\n\nKhông ai có thể dập tắt ngọn lửa nếu vẫn liên tục ném thêm củi vào lò. Muốn dập tắt khổ đau, con đường duy nhất là **cắt đứt nguồn cung cấp nhiên liệu — đoạn tận tham ái**.\n\n---\n\n### 2. Ba Ngọn Gió Độc Của Tham Ái (*Tividhā Taṇhā*)\n\nTrong bài kinh *Dhammacakkappavattana Sutta*, Đức Phật phân loại tham ái thành ba dòng chảy tinh tế:\n\n1. **Dục ái (*Kāma-taṇhā*):** Sự khát khao khoái lạc qua mắt, tai, mũi, lưỡi, thân (thức ăn ngon, thanh âm êm tai, hình sắc quyến rũ, tiện nghi vật chất). Trong thời hiện đại, đây là cơ chế nghiện Dopamine: lướt mạng xã hội vô thức, mua sắm giải tỏa áp lực, tìm kiếm kích thích giác quan liên tục.\n2. **Hữu ái (*Bhava-taṇhā*):** Khát vọng tồn tại, muốn khẳng định bản ngã, muốn trở thành 'ai đó' quan trọng, muốn sống mãi, tích lũy danh vọng và quyền lực. Dòng ái này bắt nguồn từ **Thường kiến (*Sassatadiṭṭhi*)** — lầm tưởng có một linh hồn bất tử hay cái Tôi vĩnh cửu.\n3. **Phi hữu ái (*Vibhava-taṇhā*):** Khát vọng tiêu diệt, trốn chạy, muốn 'chết là hết', muốn hủy hoại những trạng thái khó chịu. Khi gặp thất bại bế tắc, tâm khởi lên ý nghĩ muốn biến mất khỏi cuộc đời, hoặc khi bị cơn đau hành hạ liền tức tối muốn đập phá — đó chính là Phi hữu ái. Dòng ái này bắt nguồn từ **Đoạn kiến (*Ucchedadiṭṭhi*)**.\n\n---\n\n### 3. Cửa Sổ Vàng Giữa Thọ và Ái\n\nTrong chuỗi 12 Duyên Khởi (*Paṭiccasamuppāda*):\n> **Lục căn tiếp xúc Lục trần ➔ Xúc (Phassa) ➔ Thọ (Vedanā) ➔ Ái (Taṇhā) ➔ Thủ (Upādāna) ➔ Hữu (Bhava) ➔ Sanh, Già, Chết, Sầu, Bi, Khổ, Ưu, Não.**\n\n- Khi mắt nhìn thấy hình ảnh hay tai nghe tiếng chê bai, cảm giác khó chịu (*Bất lạc thọ*) sinh khởi là quy luật tự nhiên của hệ thần kinh (đây là quả của nghiệp quá khứ).\n- Nhưng **khổ đau tâm lý chỉ bùng phát khi Thọ chuyển thành Ái**: Khó chịu sinh ra tâm bực bội muốn xua đuổi (*Phi hữu ái*); Dễ chịu sinh ra tâm thèm muốn bám giữ (*Dục ái*).\n- **Khoảng hở giữa Thọ và Ái chính là 'Cửa Sổ Vàng' của Chánh niệm**. Nếu tại giây phút cảm thọ sinh khởi, ta có Chánh niệm (*Sati*) tỉnh giác ghi nhận: 'Đây chỉ là một cảm thọ sinh rồi sẽ diệt', thì sợi xích Duyên khởi bị bẻ gãy ngay lập tức! Thọ dừng lại ở Thọ, không kịp biến thành Ái, và mầm mống đau khổ bị dập tắt từ trong trứng nước.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng đoạn trừ tham ái là trở thành người vô cảm trơ đá, không còn tình thương gia đình và mất hết động lực phấn đấu trong cuộc sống.",
+        "correction": "Đạo Phật phân biệt rạch ròi giữa Tham ái vị kỷ (Taṇhā - muốn chiếm đoạt, bám víu và sở hữu) với Dục thiện chân chính (Kusala-chanda - ý chí nhiệt tâm phụng sự, làm việc thiện) và Tứ Vô Lượng Tâm (Từ - Bi - Hỷ - Xả). Người dứt sạch tham ái không hề vô cảm, mà trái lại sở hữu tình thương rộng lớn vô điều kiện, làm việc với tâm cống hiến thanh thản mà không bị lòng tham danh lợi giằng xé."
+      },
+      {
+        "mistake": "Nghĩ rằng diệt trừ tham ái bằng cách đè nén, ép xác khổ hạnh hay cố gắng xua đuổi cảm xúc tiêu cực.",
+        "correction": "Đè nén chỉ làm tham ái chìm sâu vào tầng tiềm thức (Tùy miên - Anusaya) và chắc chắn sẽ bùng nổ dữ dội hơn khi gặp duyên, hoặc biến tướng thành tâm sân hận cáu gắt (Phi hữu ái). Đức Phật dạy phương pháp 'Như Thật Tri Kiến' (Vipassanā): Nhìn rõ vị ngọt (Assāda), sự nguy hại (Ādīnava) và sự xuất ly (Nissaraṇa) của tham ái bằng tuệ giác soi chiếu sự vô thường của đối tượng."
+      },
+      {
+        "mistake": "Cầu xin cúng sao giải hạn, dâng lễ vật để xin Đức Phật hay thần linh trừ bớt lòng tham và xua đuổi nghiệp xấu.",
+        "correction": "Tham ái bắt rễ từ vô minh trong tâm ta, chỉ có thể được đoạn trừ bằng chính sự tự phản tỉnh và tu tập của chính ta ('Attadīpā viharatha' - Hãy tự mình là ngọn đèn cho chính mình). Không một nghi lễ huyền bí hay tha lực nào có thể đoạn trừ lòng tham thay cho hành giả."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Bắt Quả Tang Mắt Xích Thọ ➔ Ái (Đời thường):** Khi lướt mạng xã hội hoặc ăn uống, chú ý khoảnh khắc một cảm xúc thích thú khởi lên. Hãy dừng lại 3 giây, nhận biết: 'Cảm giác thích thú này là Lạc thọ; còn cái thôi thúc muốn xem tiếp/ăn tiếp chính là Dục ái'. Tự nhủ: 'Đây chỉ là phản ứng sinh học tạm thời, không phải là Tôi'.\n2. **Ứng Dụng Quy Tắc S.T.O.P Khi Bất Như Ý:**\n- **S (Stop):** Dừng ngay phản ứng tức thời (chưa vội trả đũa hay phản bác).\n- **T (Take a breath):** Hít thở sâu 3 nhịp có ý thức.\n- **O (Observe):** Quan sát sự bực tức trong tâm (nhận diện đây là Phi hữu ái muốn tiêu diệt cái khó chịu).\n- **P (Proceed):** Hành động lại với tâm sáng suốt, xả ly.\n3. **Tĩnh Tọa Quán Cơn Thèm Khát (Urge Surfing - 15 phút):** Ngồi tĩnh lặng. Khi cơ thể khởi lên cơn ngứa, mỏi hoặc ý muốn xem điện thoại, hãy quan sát nó như một ngọn sóng: khởi lên, đạt đỉnh, và tự tan biến nếu không tiếp thêm nhiên liệu chú ý.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Nhận diện tham ái và buông xả tâm mong cầu chiếm hữu"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Cơn bực bội hoặc muộn phiền lớn nhất của bạn trong vài ngày qua thực chất bắt nguồn từ sự bám víu (Ái) vào điều gì: một hình ảnh cái Tôi hoàn hảo, một lời khen của người khác, hay mong muốn kiểm soát hoàn cảnh ngoài tầm tay?",
+    "selfAuditChecklist": [
+      "Tôi đã nhận diện được ít nhất một khoảnh khắc Thọ chuyển thành Ái trong ngày.",
+      "Tôi phân biệt được sự khác nhau giữa Dục thiện (Kusala-chanda) và Tham ái vị kỷ (Taṇhā).",
+      "Khi tâm cảm thấy khó chịu, tôi nhận ra đó là Phi hữu ái (Vibhava-taṇhā) đang muốn trốn chạy thực tại.",
+      "Tôi đã áp dụng thành công quy tắc dừng lại quan sát trước khi để cơn thèm muốn biến thành hành động bốc đồng."
+    ]
+  }
+}
