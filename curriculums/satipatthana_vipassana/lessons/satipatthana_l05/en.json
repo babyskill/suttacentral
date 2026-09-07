@@ -1,0 +1,58 @@
+{
+  "lessonId": "satipatthana_l05",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 5,
+  "stageIndex": 2,
+  "title": "Lesson 5: Pleasant, Painful, and Neutral Feelings — The Worldling's Second Arrow",
+  "paliTitle": "Salla Sutta (SN 36.6)",
+  "suttaRef": {
+    "uid": "sn36.6",
+    "title": "The Arrow (SN 36.6 - Saṃyutta Nikāya)",
+    "excerptPali": "Seyyathāpi, bhikkhave, purisaṃ sallena vijjheyya. Tamenaṃ dutiyena sallena anuvedhaṃ vijjheyya. Evañhi so, bhikkhave, puriso dvisallena vedanaṃ vediyetha... Assutavā puthujjano dukkhāya vedanāya phuṭṭho samāno socati rodati paridevati... So dvemā vedanā vedayati — kāyikañca, cetasikañca.",
+    "excerptTranslation": "Suppose, monks, a person were pierced by a dart. And right after that, pierced by a second dart. That person would experience the pain of two darts... When an uninstructed worldling is touched by painful feeling, he weeps and grieves... He experiences two kinds of feelings: a bodily one and a mental one."
+  },
+  "pariyatti": {
+    "shortSummary": "Feeling is the vital link in Dependent Origination: Contact conditions Feeling, Feeling conditions Craving. The uninstructed worldling responds to physical pain with emotional despair, shooting a second arrow into consciousness. The noble disciple bears the first arrow without firing the second.",
+    "coreConcepts": [
+      {
+        "term": "Three Feelings",
+        "pali": "Tisso Vedanā",
+        "definition": "Pleasant feeling (*Sukha*), painful feeling (*Dukkha*), and neutral feeling (*Adukkhamasukha*)."
+      },
+      {
+        "term": "First Arrow",
+        "pali": "Kāyikā Vedanā",
+        "definition": "Inherent physical sensation registered through sensory nerves without emotional overlay."
+      },
+      {
+        "term": "Second Arrow",
+        "pali": "Cetasikā Vedanā",
+        "definition": "Self-inflicted emotional torment: rage, victimhood, self-pity, and anxious resistance."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Critical Pivot in Dependent Origination\nWe cannot close eyes and ears permanently. Senses will inevitably meet stimuli, generating feeling. **The exact pivot where liberation occurs is between Feeling and Craving.**\n\n### 2. Disarming the Second Arrow\nPain in the knee during sitting is mere sensation. Suffering only ignites when the mind screams: 'Why is this happening to ME?'. Observing sensation objectively breaks emotional agony instantly.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Vipassanā aims to turn you into an insensitive stone block devoid of sensation.",
+        "correction": "Awakened beings feel bodily pain keenly; their minds simply harbor zero aversion or anxiety."
+      },
+      {
+        "mistake": "Gritting teeth and fighting pain with aggressive willpower.",
+        "correction": "Aggressive endurance is subtle aversion. Vipassanā softly observes sensations arising and decaying."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. When leg aches in meditation: Pause before shifting. For 3 minutes inspect the focal center: heat, throbbing, vibration. Notice its fluid constant flux.\n2. Upon annoying messages: Stop, note 'painful mental feeling present', breathe 3 times, refuse to reply while arrow is lodged in heart.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Serene acceptance of unpleasant sensation without blame or complaint."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Was there a moment today where you caught and intercepted the second arrow before it mutated into outright rage?",
+    "selfAuditChecklist": [
+      "I registered bodily discomfort without snapping or irritable reactivity.",
+      "I refrained from binge-eating or digital escapism just to evade loneliness.",
+      "I witnessed the moment-to-moment flux of an itch or ache on my body."
+    ]
+  }
+}

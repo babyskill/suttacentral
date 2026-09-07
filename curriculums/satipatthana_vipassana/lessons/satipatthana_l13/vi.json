@@ -1,0 +1,53 @@
+{
+  "lessonId": "satipatthana_l13",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 13,
+  "stageIndex": 5,
+  "title": "Bài 13: Ẩn Dụ Người Làm Xiếc Tre — Tự Bảo Vệ Mình Là Bảo Vệ Người",
+  "paliTitle": "Sedaka Sutta (SN 47.19)",
+  "suttaRef": {
+    "uid": "sn47.19",
+    "title": "Kinh Người Đất Sedaka (Sedaka Sutta — SN 47.19)",
+    "excerptPali": "Seyyathāpi, bhikkhave, caṇḍālavamso... Medakathālikā antevāsī caṇḍālavamsikaṃ ācariyaṃ etadavoca: 'Tvaṃ, ācariya, maṃ rakkha, ahaṃ taṃ rakkhissāmi'... Evaṃ vutte, caṇḍālavamsiko ācariyo... 'No kho evaṃ, bhikkhave, tattha dhammo... Attānaṃ, bhikkhave, rakkhanto paraṃ rakkhati, paraṃ rakkhanto attānaṃ rakkhati. Kathañca attānaṃ rakkhanto paraṃ rakkhati? Āsevanāya, bhāvanāya, bahulīkammena... Kathañca paraṃ rakkhanto attānaṃ rakkhati? Khantiyā, avihiṃsāya, mettacittatāya, anuddayatāya.'",
+    "excerptTranslation": "Ví như, này các Tỳ-kheo, một người biểu diễn leo cột tre... Nàng Medakathālikā, người học trò, nói với thầy: 'Thầy hãy bảo vệ con, con sẽ bảo vệ thầy'... Khi nghe nói vậy, người thầy nói: 'Không thể như vậy được!... Này các Tỳ-kheo, bảo vệ chính mình là bảo vệ người khác; bảo vệ người khác là bảo vệ chính mình. Thế nào là bảo vệ mình để bảo vệ người? Bằng cách thực hành, tu tập, làm cho sung mãn Tứ Niệm Xứ... Thế nào là bảo vệ người để bảo vệ mình? Bằng sự nhẫn nại, không làm hại, bằng tâm từ ái và sự xót thương.'"
+  },
+  "pariyatti": {
+    "shortSummary": "Kinh Sedaka là tuyệt phẩm về mối quan hệ giữa Đạo và Đời, giữa Tu thân và Phục vụ xã hội. Bằng ẩn dụ hai thầy trò làm xiếc trên ngọn tre chênh vênh, Đức Phật chỉ rõ: Một người không thể bảo vệ ai nếu chính bản thân họ đang mất thăng bằng tâm lý. Bằng cách thiết lập vững chắc Tứ Niệm Xứ, ta tự bảo vệ mình; bằng từ bi và bất bạo động, ta bảo vệ toàn xã hội.",
+    "coreConcepts": [
+      {
+        "term": "Tự Bảo Vệ Mình",
+        "pali": "Attānaṃ Rakkhati",
+        "definition": "Thiết lập chánh niệm vững chắc trong thân, thọ, tâm, pháp; không để tham sân si làm ô nhiễm nội tâm."
+      },
+      {
+        "term": "Bảo Vệ Người Khác",
+        "pali": "Paraṃ Rakkhati",
+        "definition": "Sống với lòng kham nhẫn (Khanti), bất bạo động (Avihiṃsā), tâm từ (Mettā) và sự thấu cảm (Anuddayā)."
+      }
+    ],
+    "expositionMarkdown": "### 1. Nghệ Thuật Giữ Thăng Bằng Trên Đầu Cây Tre\n\nHãy hình dung hai nghệ sĩ xiếc: Thầy đứng dưới giữ cây tre cao vút, trò trèo lên đỉnh ngọn tre biểu diễn uốn dẻo. Nếu người đệ tử trên đỉnh cây tre vừa diễn vừa lo lắng nhìn xuống xem thầy mình có đứng vững không, người ấy chắc chắn sẽ té ngã!\n\nNgười thầy dạy chí lý:\n> **'Con hãy tập trung giữ thăng bằng tuyệt đối nơi con! Thầy sẽ tập trung giữ thăng bằng tuyệt đối nơi thầy! Khi cả hai đều giữ vững thăng bằng cho chính mình, cả hai chúng ta đều an toàn và hoàn thành màn biểu diễn xuất sắc!'**\n\n### 2. Ứng Dụng Trong Gia Đình & Xã Hội Hiện Đại\n- Trong gia đình: Nếu cha mẹ luôn bất an, stress, cáu kỉnh mà suốt ngày nói 'Tôi hy sinh tất cả vì con cái', thì chính sự bất an ấy là độc dược đầu độc con cái mỗi ngày. Ngược lại, một người cha, người mẹ biết chăm sóc tâm mình, luôn an vui, trầm tĩnh (an trú Tứ Niệm Xứ) sẽ tỏa ra một trường năng lượng che chở bình yên cho cả tổ ấm.\n- Tu tập Tứ Niệm Xứ không phải là ích kỷ trốn chạy cuộc đời, mà là **nền tảng tối thượng của lòng từ bi chân chính**!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng người thực hành thiền Tứ Niệm Xứ là người vị kỷ, chỉ biết lo cho bản thân mà không màng thế sự.",
+        "correction": "Đức Phật dạy rõ trong kinh này: 'Bảo vệ mình tức là bảo vệ người'. Một người làm chủ được tham sân thì xã hội bớt đi một nguồn cơn tội ác, bạo lực và xung đột."
+      },
+      {
+        "mistake": "Nghĩ rằng muốn giúp người khác thì phải can thiệp, sửa đổi và kiểm soát người khác.",
+        "correction": "Cách chuyển hóa người khác bền vững nhất là tự chuyển hóa chính mình. Năng lượng bình an từ sự tu tập chân thật có sức lan tỏa và cảm hóa mầu nhiệm."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Khi người thân trong gia đình hoặc đồng nghiệp nổi nóng: Nhắc nhở mình 'hãy giữ thăng bằng cây tre của chính mình'. Tuyệt đối không phản ứng bằng sự giận dữ tương đương.\n2. Nuôi dưỡng tâm từ ái (Mettā) và nhẫn nại trước lỗi lầm của người khác.",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Trách nhiệm trọn vẹn với sự an lạc của chính mình để làm điểm tựa cho tha nhân."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hôm nay, bạn đã giữ được 'thăng bằng trên ngọn tre' của mình khi xung quanh đầy sóng gió và áp lực chưa?",
+    "selfAuditChecklist": [
+      "Tôi không trút sự bực bội của mình lên người thân hay đồng nghiệp.",
+      "Tôi nhận thức rằng sự bình an của bản thân là món quà vô giá dành cho gia đình.",
+      "Tôi đã thực hành kham nhẫn và không làm tổn hại bất kỳ ai trong ngày."
+    ]
+  }
+}

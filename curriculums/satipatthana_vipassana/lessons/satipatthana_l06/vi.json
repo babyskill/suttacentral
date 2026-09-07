@@ -1,0 +1,53 @@
+{
+  "lessonId": "satipatthana_l06",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 6,
+  "stageIndex": 2,
+  "title": "Bài 6: Thọ Thuộc Thế Tục & Thọ Xuất Thế — Chuyển Hóa Ái Dục",
+  "paliTitle": "Rahogata Sutta (SN 36.11)",
+  "suttaRef": {
+    "uid": "sn36.11",
+    "title": "Kinh Vắng Lặng (SN 36.11)",
+    "excerptPali": "Seyyathāpi, bhikkhu, ākāse vividhā vātā vāyanti... Evameva kho, bhikkhu, imasmiṃ kāyasmiṃ vividhā vedanā uppajjanti: sukhāpi vedanā uppajjati, dukkhāpi vedanā uppajjati, adukkhamasukhāpi vedanā uppajjati... Sāmisāpi vedanā uppajjati, nirāmisāpi vedanā uppajjati.",
+    "excerptTranslation": "Ví như, này Tỳ-kheo, giữa hư không các luồng gió khác nhau thổi qua... Cũng vậy, này Tỳ-kheo, trong thân này các cảm thọ sai khác khởi lên: lạc thọ khởi lên, khổ thọ khởi lên, bất khổ bất lạc thọ khởi lên... Cảm thọ thế tục khởi lên, cảm thọ không thế tục khởi lên."
+  },
+  "pariyatti": {
+    "shortSummary": "Không phải mọi niềm vui đều như nhau. Đức Phật phân định rõ ranh giới giữa Lạc thọ thế tục (Sāmisa Sukha) — niềm vui phụ thuộc vào ngũ dục, luôn kèm theo mầm mống sợ hãi và bám chấp, với Lạc thọ xuất thế (Nirāmisa Sukha) — niềm an vui thanh tịnh sinh khởi từ sự buông ly, định tĩnh và chánh niệm.",
+    "coreConcepts": [
+      {
+        "term": "Thọ Thế Tục",
+        "pali": "Sāmisā Vedanā",
+        "definition": "Cảm giác vui sướng hoặc đau buồn gắn liền với sự thỏa mãn hay thất bại của 5 giác quan trần tục (tiền tài, danh vọng, ăn ngon, sắc dục)."
+      },
+      {
+        "term": "Thọ Xuất Thế",
+        "pali": "Nirāmisā Vedanā",
+        "definition": "Cảm giác hỷ lạc nhẹ nhàng, thanh tịnh xuất phát từ sự ly dục, tâm định và sự thấu hiểu Chánh Pháp."
+      }
+    ],
+    "expositionMarkdown": "### 1. Bản Chất Bẫy Mồi Của Thọ Thế Tục\n\nThế gian mải miết chạy theo hạnh phúc giác quan: một bữa ăn sang trọng, một chiếc xe mới, một lời khen ngợi trên mạng xã hội. Những cảm giác ấy tuy ngọt ngào lúc ban đầu nhưng có 3 hiểm họa tiềm tàng:\n1. **Phải phụ thuộc:** Muốn có vui thì phải có đối tượng bên ngoài cung phụng.\n2. **Tập nhiễm tăng liều (Toleration):** Càng hưởng thụ thì ngưỡng thỏa mãn càng tăng lên, dẫn đến nghiện ngập và bất toại nguyện.\n3. **Cái đuôi sợ hãi:** Luôn nơm nớp lo sợ đối tượng mang lại niềm vui sẽ bị mất mát hoặc suy tàn.\n\n### 2. Sự Giàu Có Của Tâm Định Tĩnh (Nirāmisa)\nNgược lại, niềm vui của thiền định và sự xả ly là niềm vui **không phụ thuộc ngoại cảnh**. Một hành giả an trú chánh niệm nhìn ngắm hơi thở vào ra có thể trải nghiệm sự khinh an sâu lắng hơn bất kỳ vị vua chúa nào trên ngai vàng quyền lực.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng đạo Phật cấm đoán mọi niềm vui và bắt con người phải sống khắc khổ buồn thảm.",
+        "correction": "Đức Phật không chối bỏ hỷ lạc; Ngài hướng dẫn chúng ta nâng cấp từ niềm vui thô nhám nguy hiểm sang niềm vui thanh cao, an toàn tuyệt đối của Định và Tuệ."
+      },
+      {
+        "mistake": "Nghĩ rằng hỷ lạc thiền định là mục đích cứu cánh.",
+        "correction": "Hỷ lạc xuất thế là phương tiện bồi bổ tâm lực; hành giả vẫn phải quán chiếu tính vô thường của chính niềm hỷ lạc ấy để không bị kẹt lại trong các tầng thiền định."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Thực hành nhịn bớt một thói quen hưởng thụ giác quan (ví dụ: không nghe nhạc giải trí 1 buổi tối, hoặc ăn cơm thanh đạm không đòi hỏi gia vị đậm đà).\n2. Dành thời gian đó ngồi tĩnh lặng cảm nhận niềm hỷ lạc thanh nhẹ của một tâm trí không bị kích thích bởi thế gian.",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Biết đủ (Santosa) và trân quý niềm an lạc chân thật nơi nội tâm."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hôm nay, bạn đã nếm trải được hương vị nào của sự an lạc không phụ thuộc vào tiền tài và khen chê thế gian chưa?",
+    "selfAuditChecklist": [
+      "Tôi phân biệt rõ ràng giữa sự kích động giác quan tạm bợ và sự an tịnh nội tâm.",
+      "Tôi cảm thấy thỏa mãn với một đời sống giản dị, ít nhu cầu vật chất.",
+      "Khi buông bỏ được một thói quen ham muốn, tâm tôi cảm thấy nhẹ nhõm thênh thang."
+    ]
+  }
+}

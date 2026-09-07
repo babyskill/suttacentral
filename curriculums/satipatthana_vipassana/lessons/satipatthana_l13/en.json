@@ -1,0 +1,53 @@
+{
+  "lessonId": "satipatthana_l13",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 13,
+  "stageIndex": 5,
+  "title": "Lesson 13: The Bamboo Acrobat Simile — Protecting Oneself Protects Others",
+  "paliTitle": "Sedaka Sutta (SN 47.19)",
+  "suttaRef": {
+    "uid": "sn47.19",
+    "title": "At Sedaka (SN 47.19)",
+    "excerptPali": "Seyyathāpi, bhikkhave, caṇḍālavamso... Medakathālikā antevāsī caṇḍālavamsikaṃ ācariyaṃ etadavoca: 'Tvaṃ, ācariya, maṃ rakkha, ahaṃ taṃ rakkhissāmi'... Evaṃ vutte, caṇḍālavamsiko ācariyo... 'No kho evaṃ, bhikkhave, tattha dhammo... Attānaṃ, bhikkhave, rakkhanto paraṃ rakkhati, paraṃ rakkhanto attānaṃ rakkhati. Kathañca attānaṃ rakkhanto paraṃ rakkhati? Āsevanāya, bhāvanāya, bahulīkammena... Kathañca paraṃ rakkhanto attānaṃ rakkhati? Khantiyā, avihiṃsāya, mettacittatāya, anuddayatāya.'",
+    "excerptTranslation": "Just as an acrobat on a bamboo pole... The apprentice Medakathālikā said to her master: 'You protect me, master, and I will protect you'... The master replied: 'That is not the way!... Protecting oneself, one protects others; protecting others, one protects oneself. How does protecting oneself protect others? By the practice, cultivation, and development of the four foundations of mindfulness... How does protecting others protect oneself? By patience, harmlessness, loving-kindness, and compassion.'"
+  },
+  "pariyatti": {
+    "shortSummary": "The Sedaka Sutta is the supreme canonical synthesis of personal cultivation and social compassion. Through the acrobat simile, the Buddha reveals: one cannot protect others while emotionally unbalanced. By establishing Satipaṭṭhāna, you protect yourself; by loving-kindness and harmlessness, you protect the world.",
+    "coreConcepts": [
+      {
+        "term": "Protecting Oneself",
+        "pali": "Attānaṃ Rakkhati",
+        "definition": "Establishing resolute mindfulness over body, feeling, mind, and dhammas against mental defilement."
+      },
+      {
+        "term": "Protecting Others",
+        "pali": "Paraṃ Rakkhati",
+        "definition": "Embodying patience (*Khanti*), harmlessness (*Avihiṃsā*), loving-kindness (*Mettā*), and tender empathy."
+      }
+    ],
+    "expositionMarkdown": "### 1. Balancing on the Bamboo Apex\nIf the acrobat atop the pole obsesses over whether the base is holding steady, she plummets. The master says: 'Focus on your balance, and I will focus on mine; thus self-stabilized, we succeed together.'\n\n### 2. Radical Compassion in Family & Society\nStressed, neurotic parents loudly proclaiming sacrifices while transmitting venomous anxiety harm their children. A parent whose mind is balanced via Satipaṭṭhāna radiates an invulnerable sanctuary of peace. Satipaṭṭhāna is not escapism, but the bedrock of authentic compassion.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Meditators are selfish narcissists unconcerned with the world.",
+        "correction": "The Buddha refutes this: by extinguishing inner greed and hostility, one eliminates a fountainhead of global violence and suffering."
+      },
+      {
+        "mistake": "Helping others requires coercing and controlling them.",
+        "correction": "The most potent transformation is self-transmutation. Radiant inner stillness silently uplifts everyone who crosses your path."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. When family or colleagues flare with temper: Whisper 'hold your own bamboo balance'. Refuse to mirror wrath.\n2. Radiate patient loving-kindness (*Mettā*) toward human fallibility.",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Total responsibility for one's emotional equilibrium to serve as a fortress of peace for others."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you sustain your 'bamboo balance' today when stormy pressures swirled around you?",
+    "selfAuditChecklist": [
+      "I refrained from projecting personal frustrations onto loved ones.",
+      "I realized that my own inner tranquility is the greatest offering I can present to my home.",
+      "I practiced patience and harmlessness toward all beings today."
+    ]
+  }
+}

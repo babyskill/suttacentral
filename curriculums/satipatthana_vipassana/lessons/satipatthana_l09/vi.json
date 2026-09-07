@@ -1,0 +1,53 @@
+{
+  "lessonId": "satipatthana_l09",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 9,
+  "stageIndex": 3,
+  "title": "Bài 9: Bài Dụ Người Đầu Bếp — Nghệ Thuật Nắm Bắt Tâm Trí",
+  "paliTitle": "Sūda Sutta (SN 47.8)",
+  "suttaRef": {
+    "uid": "sn47.8",
+    "title": "Kinh Người Đầu Bếp (SN 47.8)",
+    "excerptPali": "Seyyathāpi, bhikkhave, bālo abyatto akusalo sūdo rājānaṃ vā rājamahāmattaṃ vā nānāvidhehi sūpehi paccupaṭṭhito hoti... So tassa sakassa bhattuno nimittaṃ na gaṇhāti... Evameva kho, bhikkhave, idhekacco bālo abyatto akusalo bhikkhu kāye kāyānupassī viharati... So tassa cittassa nimittaṃ na gaṇhāti.",
+    "excerptTranslation": "Ví như, này các Tỳ-kheo, một người đầu bếp ngu si, vụng về dâng lên vua các món canh với nhiều vị chua, cay, mặn, ngọt... Người ấy không biết quan sát và nắm bắt sở thích của chủ... Cũng vậy, này các Tỳ-kheo, có Tỳ-kheo vụng về tu tập quán thân, quán thọ, quán tâm, quán pháp... nhưng không nắm bắt được tướng của tâm mình."
+  },
+  "pariyatti": {
+    "shortSummary": "Trong Kinh Sūda Sutta, Đức Phật phân biệt giữa người thực hành thiền vụng về và người hành thiền thiện xảo. Người thiện xảo như người đầu bếp thông minh: biết rõ tâm mình đang thích hợp với đề mục nào (khi nào cần quán niệm hơi thở, khi nào cần quán từ bi, khi nào cần quán thân vô thường), từ đó gặt hái được hỷ lạc và trí tuệ giải thoát.",
+    "coreConcepts": [
+      {
+        "term": "Nắm Bắt Tướng Của Tâm",
+        "pali": "Cittassa Nimittaṃ Gaṇhāti",
+        "definition": "Khả năng thấu cảm và nhận thức sâu sắc về trạng thái, nhu cầu và khuynh hướng của tâm trong từng thời điểm."
+      },
+      {
+        "term": "Thiện Xảo Trong Đề Mục",
+        "pali": "Kusala Kammaṭṭhāna",
+        "definition": "Sự linh hoạt chuyển đổi giữa các đối tượng quán chiếu để đem lại lợi ích tối ưu cho sự an định và tuệ giác."
+      }
+    ],
+    "expositionMarkdown": "### 1. Sự Khác Biệt Giữa Hai Người Đầu Bếp\n\n- **Người đầu bếp vụng về:** Cứ mù quáng nấu các món theo thói quen của mình mà không thèm để ý xem hôm nay vua thích ăn chua hay ngọt, ăn xong có vui lòng hay không. Hậu quả là làm việc quần quật suốt đời mà không được ban thưởng chiếc áo hay đồng tiền nào!\n- **Người đầu bếp thiện xảo:** Luôn tinh tế quan sát: 'Hôm nay chủ gắp món canh chua nhiều lần, món mặn không đụng tới'. Người ấy liền điều chỉnh thực đơn phù hợp. Ngay lập tức được thăng quan, ban thưởng hậu hĩnh.\n\n### 2. Ứng Dụng Vào Pháp Hành Vipassanā\n- Khi tâm đang đầy ắp oán giận cay đắng: Ép ngồi đếm hơi thở rất khó. Hãy 'đổi món' sang rải **Tâm Từ (Mettā)** để xoa dịu vết thương tâm lý.\n- Khi tâm đang bị dục vọng cuồng nhiệt thiêu đốt: Hãy 'đổi món' sang **Quán Thể Phần Bất Tịnh** hoặc **Tứ Đại** để hạ nhiệt ái dục.\n- Khi tâm đã êm dịu, trong sáng: Hãy quay về với **Tứ Niệm Xứ** thuần túy để soi rọi bản chất Vô thường, Khổ, Vô ngã.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cố chấp bám cứng vào một kỹ thuật duy nhất suốt đời và tự hành hạ mình khi kỹ thuật đó không hiệu quả.",
+        "correction": "Pháp môn là chiếc bè qua sông, không phải sợi dây thừng trói buộc. Hành giả thông minh phải biết tùy bệnh cho thuốc như lời Phật chỉ dạy."
+      },
+      {
+        "mistake": "Nghĩ rằng thay đổi đề mục thiền là biểu hiện của sự thiếu kiên nhẫn, đứng núi này trông núi nọ.",
+        "correction": "Đức Phật khen ngợi sự 'nắm bắt tướng của tâm'. Thay đổi có trí tuệ khác hoàn toàn với sự phóng túng đổi đề mục vì lười biếng."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Trước mỗi thời thiền, dành 1 phút nhắm mắt tự hỏi: 'Tâm tôi lúc này đang cần thức ăn gì? Sự tĩnh lặng, lòng từ bi hay sự tinh tấn tỉnh giác?'.\n2. Chọn đề mục thích ứng nhất để nuôi dưỡng tâm thức trong ngày.",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Sự linh hoạt, thấu hiểu chính mình và không giáo điều cứng nhắc."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hôm nay bạn đã biết cách 'chăm sóc và nêm nếm' cho tâm trí mình những đề mục thiện lành thay vì ép uổng nó một cách máy móc?",
+    "selfAuditChecklist": [
+      "Tôi đã lắng nghe và thấu hiểu trạng thái cảm xúc của mình trước khi thực hành.",
+      "Tôi biết linh hoạt ứng dụng Pháp của Phật để chuyển hóa các bế tắc tâm lý.",
+      "Tôi cảm nghiệm được niềm an lạc khi đề mục thiền hòa hợp tự nhiên với tâm thức."
+    ]
+  }
+}

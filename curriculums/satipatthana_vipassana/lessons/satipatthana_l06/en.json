@@ -1,0 +1,53 @@
+{
+  "lessonId": "satipatthana_l06",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 6,
+  "stageIndex": 2,
+  "title": "Lesson 6: Worldly and Unworldly Feelings — Transmuting Craving",
+  "paliTitle": "Rahogata Sutta (SN 36.11)",
+  "suttaRef": {
+    "uid": "sn36.11",
+    "title": "Alone (SN 36.11)",
+    "excerptPali": "Seyyathāpi, bhikkhu, ākāse vividhā vātā vāyanti... Evameva kho, bhikkhu, imasmiṃ kāyasmiṃ vividhā vedanā uppajjanti: sukhāpi vedanā uppajjati, dukkhāpi vedanā uppajjati, adukkhamasukhāpi vedanā uppajjati... Sāmisāpi vedanā uppajjati, nirāmisāpi vedanā uppajjati.",
+    "excerptTranslation": "Just as diverse winds blow in the sky... so too in this body diverse feelings arise: pleasant feeling arises, painful feeling arises, neutral feeling arises... worldly feeling arises, unworldly feeling arises."
+  },
+  "pariyatti": {
+    "shortSummary": "Not all happiness is created equal. The Buddha distinguishes Worldly Pleasure (*Sāmisa Sukha*) dependent upon sense stimuli and tethered to fear, from Unworldly Bliss (*Nirāmisa Sukha*) born of renunciation, meditative stillness, and insight.",
+    "coreConcepts": [
+      {
+        "term": "Worldly Feeling",
+        "pali": "Sāmisā Vedanā",
+        "definition": "Feelings bound to sense indulgence (wealth, status, culinary addiction, sexual gratification)."
+      },
+      {
+        "term": "Unworldly Feeling",
+        "pali": "Nirāmisā Vedanā",
+        "definition": "Sublime, untethered joy springing from renunciation, concentration, and Dhamma realization."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Addictive Mirage of Worldly Pleasure\nSensory hits demand higher doses, breed psychological dependency, and remain forever haunted by the dread of loss.\n\n### 2. The Unconditioned Wealth of Stillness\nUnworldly joy (*Nirāmisa*) flows freely from within. Observing one breath with immaculate presence yields deeper fulfillment than an emperor's treasury.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Buddhism is a gloomy, joyless philosophy condemning all delight.",
+        "correction": "The Buddha elevates humanity from toxic, ephemeral pleasures to noble, invulnerable spiritual joy."
+      },
+      {
+        "mistake": "Meditative bliss is the ultimate goal.",
+        "correction": "Even spiritual bliss must be seen as impermanent, lest one become intoxicated with meditative states."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Practice fasting from one sensory entertainment (e.g., skip music streaming for one evening, eat a simple meal).\n2. Spend that time resting in the pristine joy of a mind unperturbed by stimulation.",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Contentment (*Santosa*) and reverence for authentic inner serenity."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you savor any glimpse today of peace independent of wealth, praise, or worldly validation?",
+    "selfAuditChecklist": [
+      "I distinguished clearly between sensory dopamine spikes and inner quietude.",
+      "I felt deep contentment in simple living with minimal consumerist demands.",
+      "Upon renouncing a trivial craving, my heart felt unburdened and spacious."
+    ]
+  }
+}

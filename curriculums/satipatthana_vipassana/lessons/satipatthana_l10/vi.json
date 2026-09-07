@@ -1,0 +1,68 @@
+{
+  "lessonId": "satipatthana_l10",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 10,
+  "stageIndex": 4,
+  "title": "Bài 10: Vượt Qua Năm Triền Cái — Nhận Diện & Tháo Gỡ Rào Cản",
+  "paliTitle": "Pañca Nīvaraṇā (MN 39)",
+  "suttaRef": {
+    "uid": "mn39",
+    "title": "Đại Kinh Xóm Ngựa (Mahā-assapura Sutta — MN 39)",
+    "excerptPali": "Seyyathāpi, bhikkhave, puriso iṇaṃ ādāya kammante payojeyya... Seyyathāpi, bhikkhave, puriso ābādhiko assa dukkhito bāḷhagilāno... Seyyathāpi, bhikkhave, puriso bandhanāgāre baddho assa... Seyyathāpi, bhikkhave, puriso dāso assa anattādīno... Seyyathāpi, bhikkhave, puriso saddhano sabhogo kantāraddhānamaggaṃ paṭipajjeyya... Evaṃ kho, bhikkhave, bhikkhu ime pañca nīvaraṇe appahīne attani samanupassati.",
+    "excerptTranslation": "Ví như, này các Tỳ-kheo, một người mắc nợ... Ví như một người bị bạo bệnh trầm kha... Ví như một người bị giam cầm trong ngục tối... Ví như một người làm nô lệ không được tự chủ... Ví như một người mang nhiều tài sản đi qua sa mạc hiểm trở... Cũng vậy, này các Tỳ-kheo, Tỳ-kheo nhìn thấy năm triền cái chưa đoạn trừ trong tự thân như món nợ, như bệnh tật, như ngục tù, như cảnh nô lệ, như sa mạc."
+  },
+  "pariyatti": {
+    "shortSummary": "Năm Triền Cái (Pañca Nīvaraṇā) là năm chướng ngại đen tối che phủ tâm trí, ngăn chặn sự sinh khởi của Định và Tuệ. Đức Phật đưa ra 5 hình ảnh ẩn dụ chấn động: món nợ (Tham dục), bệnh tật (Sân hận), ngục tù (Hôn trầm), nô lệ (Trạo hối), và sa mạc nguy hiểm (Hoài nghi). Nhận diện và tháo gỡ chúng là cánh cửa bước vào giải thoát.",
+    "coreConcepts": [
+      {
+        "term": "Tham Dục Triền Cái",
+        "pali": "Kāmacchanda",
+        "definition": "Sự khao khát, dính mắc vào khoái lạc 5 giác quan như kẻ mắc nợ không ngóc đầu lên được."
+      },
+      {
+        "term": "Sân Hận Triền Cái",
+        "pali": "Vyāpāda",
+        "definition": "Sự căm phẫn, bất mãn, muốn phá hủy như người mắc bệnh nan y sốt rét đau đớn."
+      },
+      {
+        "term": "Hôn Trầm Thụy Miên",
+        "pali": "Thīna-middha",
+        "definition": "Sự đờ đẫn của tâm và sự nặng nề của thân xác như kẻ bị giam cầm trong ngục tối chật hẹp."
+      },
+      {
+        "term": "Trạo Cử Hối Quá",
+        "pali": "Uddhacca-kukkucca",
+        "definition": "Sự lăng xăng đứng ngồi không yên và sự dằn vặt ân hận như người nô lệ bị chủ quất roi bắt chạy liên tục."
+      },
+      {
+        "term": "Hoài Nghi Triền Cái",
+        "pali": "Vicikicchā",
+        "definition": "Sự ngờ vực, hoang mang về con đường tu tập như người lạc lối giữa sa mạc đầy cướp bóc."
+      }
+    ],
+    "expositionMarkdown": "### 1. Ẩn Dụ Chiếc Bát Nước Phản Chiếu Khuôn Mặt\n\nTrong Tăng Chi Bộ Kinh (AN 5.193), Đức Phật ví tâm trí như một bát nước trong veo soi thấy rõ từng nét mặt của ta:\n1. Bát nước pha phẩm nhuộm xanh đỏ tím vàng → **Tham dục** che khuất thực tại.\n2. Bát nước bị đun sôi sùng sục bốc hơi mịt mù → **Sân hận** làm biến dạng hình ảnh.\n3. Bát nước bị đóng rong rêu và bèo bọt phủ kín → **Hôn trầm** che giấu đáy hồ.\n4. Bát nước bị gió lớn khuấy động nổi sóng ba đào → **Trạo hối** làm vỡ nát phản chiếu.\n5. Bát nước bị khuấy bùn đục ngầu đặt trong bóng đêm tối om → **Hoài nghi** không thể thấy gì.\n\n### 2. Pháp Đối Trị Cụ Thể\n- Tham dục: Đối trị bằng Quán Thể Phần Bất Tịnh & Vô thường.\n- Sân hận: Đối trị bằng Tâm Từ Vô Lượng (*Mettā*).\n- Hôn trầm: Đối trị bằng Khởi Tâm Tinh Tấn & Quán Ánh Sáng.\n- Trạo hối: Đối trị bằng Định Tĩnh & Nhớ lại các giới đức thanh tịnh của mình.\n- Hoài nghi: Đối trị bằng Học hỏi Chánh Pháp, Tham vấn bậc chân nhân và Thực nghiệm tự thân.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng phải tiêu diệt sạch bóng triền cái vĩnh viễn thì mới có thể ngồi thiền được.",
+        "correction": "Triền cái chỉ được đoạn tận hoàn toàn ở các bậc Thánh (Ariya). Mục tiêu của thiền sinh là nhận diện và 'tạm thời nhiếp phục' chúng trong giờ thiền để phát triển định tuệ."
+      },
+      {
+        "mistake": "Nhầm lẫn giữa sự hoài nghi lành mạnh (nghiên cứu khoa học) và hoài nghi triền cái.",
+        "correction": "Hoài nghi triền cái là trạng thái do dự, hoang mang liệt kháng không dám hành động; khác với sự truy vấn sâu sắc của Trạch Pháp Giác Chi (*Dhammavicaya*)."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Trước khi ngồi thiền, rà soát nhanh qua 5 triền cái xem tâm đang vướng vào loại nào.\n2. Áp dụng ngay pháp đối trị tương ứng trong 5 phút đầu tiên của thời khóa để làm lắng dịu mặt nước tâm trí.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Cảnh giác và dứt khoát không dung túng năm kẻ trộm cướp nội tâm."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn đã trải nghiệm cảm giác nhẹ nhõm như vừa trút bỏ một món nợ lớn khi một triền cái buông tha cho tâm trí bạn chưa?",
+    "selfAuditChecklist": [
+      "Tôi đã nhận diện được triền cái chủ đạo làm phiền tâm trí mình hôm nay.",
+      "Tôi không đồng lõa hay nuôi dưỡng lòng thù hằn, oán giận.",
+      "Tâm tôi nếm trải sự tự do, sáng suốt khi các triền cái tạm thời lắng dịu."
+    ]
+  }
+}

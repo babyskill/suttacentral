@@ -1,0 +1,63 @@
+{
+  "lessonId": "satipatthana_l03",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 3,
+  "stageIndex": 1,
+  "title": "Lesson 3: Contemplation of the Four Great Elements in the Physical Body",
+  "paliTitle": "Dhātumanasikāra (MN 28)",
+  "suttaRef": {
+    "uid": "mn28",
+    "title": "The Greater Discourse on the Simile of the Elephant's Footprint (MN 28)",
+    "excerptPali": "Katamo cāvuso pathavīdhātu? Pathavīdhātu siyā ajjhattikā, siyā bāhirā... Kesa lomā nakhā dantā taco... Yaṃ kiñci ajjhattaṃ paccattaṃ kakkhaḷaṃ kharigataṃ upādinnaṃ — ayaṃ vuccatāvuso ajjhattikā pathavīdhātu. Sā kho panesā 'netaṃ mama, nesohamasmi, na meso attā'ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+    "excerptTranslation": "What is the earth element? The earth element may be internal or external... Head hairs, body hairs, nails, teeth, skin... whatever internally is solid and clung to is called internal earth element. Both must be seen as they really are with right wisdom: 'This is not mine, this I am not, this is not my self.'"
+  },
+  "pariyatti": {
+    "shortSummary": "The physical organism is not a permanent monolithic entity but an ephemeral nexus of four elemental qualities: Earth (hardness/softness), Water (cohesion/fluidity), Fire (warmth/coolness), and Air (motion/pressure). Element contemplation shatters ego-solidity.",
+    "coreConcepts": [
+      {
+        "term": "Earth Element",
+        "pali": "Pathavīdhātu",
+        "definition": "Quality of hardness or softness, providing structural support."
+      },
+      {
+        "term": "Water Element",
+        "pali": "Āpodhātu",
+        "definition": "Quality of cohesion and fluidity binding material particles."
+      },
+      {
+        "term": "Fire Element",
+        "pali": "Tejodhātu",
+        "definition": "Quality of temperature, maturation, and metabolic heat."
+      },
+      {
+        "term": "Air Element",
+        "pali": "Vāyodhātu",
+        "definition": "Quality of pressure, expansion, and motion powering physical movement."
+      }
+    ],
+    "expositionMarkdown": "### 1. Dismantling the Illusion of Compactness (Ghana-saññā)\nIgnorance perceives an enduring whole and labels it 'Me'. Insight reveals only four borrowed elements: Earth returning to earth, Water to water, Fire to warmth, Air to atmosphere.\n\n### 2. Radical Freedom from Fear\nWhen you realize not a single atom belongs to an ego, existential dread regarding illness and death evaporates naturally.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Imagining physical soil or campfire flames literally.",
+        "correction": "Elements refer to tactile phenomenal qualities directly felt: hardness, cohesion, temperature, motion."
+      },
+      {
+        "mistake": "Element contemplation causes cold apathy toward life.",
+        "correction": "It births profound communion and reverence for nature and all interconnected life."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Sit in meditation, feel contact with the cushion: observe solidity and pressure (*Earth element*).\n2. Feel the temperature in palms and breath (*Fire element*).\n3. Feel the rhythmic expansion and deflation of torso (*Air element*).\n4. Affirm: 'These are natural qualities, not mine, not me, not my self.'",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Observe the bodily vehicle with objective nonself spiritual insight."
+  },
+  "pativedha": {
+    "reflectionPrompt": "When experiencing bodily fatigue or heat today, did you see it as elemental fluctuation or lament 'I am sick'?",
+    "selfAuditChecklist": [
+      "I analyzed physical tactile sensations into the four elemental dynamics.",
+      "I abandoned vanity or inferiority complexes regarding physical appearance.",
+      "I felt deep kinship between my physical container and the natural world."
+    ]
+  }
+}

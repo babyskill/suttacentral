@@ -1,0 +1,53 @@
+{
+  "lessonId": "satipatthana_l04",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 4,
+  "stageIndex": 1,
+  "title": "Lesson 4: Mindfulness Immersed in Body & Anatomical Parts",
+  "paliTitle": "Kāyagatāsati Sutta (MN 119)",
+  "suttaRef": {
+    "uid": "mn119",
+    "title": "Mindfulness Immersed in the Body (MN 119)",
+    "excerptPali": "Seyyathāpi, bhikkhave, ubhatomukhā mutoli pūrā nānāvihitassa dhaññassa... Tamenaṃ cakkhumā puriso muñcitvā paccavekkheyya: 'ime sālī, ime vīhī, ime muggā'... Evameva kho, bhikkhave, bhikkhu imameva kāyaṃ... paccavekkhati: 'atthi imasmiṃ kāye kesā lomā nakhā dantā taco maṃsaṃ nhāru aṭṭhi...'",
+    "excerptTranslation": "Just as if there were a bag with an opening at both ends full of various kinds of grain... and a person with good eyes were to open it and examine it: 'This is rice, this is barley, these are beans'... So too, a bhikkhu examines this very body: 'There are in this body head hairs, body hairs, nails, teeth, skin, flesh, sinews, bones...'"
+  },
+  "pariyatti": {
+    "shortSummary": "Sensual obsession with bodily beauty survives solely due to the thin envelope of outer skin. Beneath lies 31 anatomical parts assembled causally. Anatomical contemplation dissolves infatuation and establishes unshakeable inner sovereignty.",
+    "coreConcepts": [
+      {
+        "term": "Mindfulness Immersed in Body",
+        "pali": "Kāyagatāsati",
+        "definition": "Dwelling with consciousness deeply anchored inside the bodily organism, shielded from external sensory lures."
+      },
+      {
+        "term": "Contemplation of Anatomical Parts",
+        "pali": "Paṭikūlamanasikāra",
+        "definition": "Dissecting the biological frame into its 31 constituents to emancipate consciousness from lust and narcissism."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Neurobiological Trap of Beauty\nPrimal instincts seduce the mind via superficial skin tone and symmetry. Yet strip away a millimeter of skin, and not a trace of romantic fascination remains.\n\n### 2. Spiritual Anatomical Dissection\nLike sorting grains in a sack, the seeker inspects hair, teeth, skin, bones. This leads not to morbid self-loathing, but to majestic disillusionment (*Nibbidā*) and authentic sovereignty.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Anatomical reflection induces clinical depression or self-harm impulses.",
+        "correction": "It is surgical medicine targeted exclusively against toxic lust and vanity, unlocking pristine spiritual peace."
+      },
+      {
+        "mistake": "One should neglect basic personal hygiene.",
+        "correction": "Maintain cleanliness sensibly as maintaining a rented vehicle, free from vanity."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. In front of a mirror or while washing: Contemplate hair, teeth, skin objectively.\n2. In meditation: Picture the white skeletal frame holding together muscles and organs. Reflect on mortality.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Serene freedom from infatuation with physical form."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Have you ever observed yourself or others entirely free from superficial aesthetic evaluation?",
+    "selfAuditChecklist": [
+      "I stopped squandering hours obsessed with superficial grooming.",
+      "I peacefully accepted gray hairs and wrinkles as gentle ambassadors of impermanence.",
+      "My sensual impulses subsided through wise anatomical contemplation."
+    ]
+  }
+}

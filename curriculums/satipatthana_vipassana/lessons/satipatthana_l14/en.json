@@ -1,0 +1,58 @@
+{
+  "lessonId": "satipatthana_l14",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 14,
+  "stageIndex": 5,
+  "title": "Lesson 14: 24/7 Satipaṭṭhāna — Stepping into the Irreversible Stream",
+  "paliTitle": "Sotāpatti & Ekayāno Maggo (SN 55.1)",
+  "suttaRef": {
+    "uid": "sn55.1",
+    "title": "At Rājagaha (SN 55.1)",
+    "excerptPali": "Cattārome, bhikkhave, dhammā bhāvitā bahulīkatā sotāpattiphalasacchikiriyāya saṃvattanti. Katame cattāro? Sappurisasaṃsevo, saddhammassavanaṃ, yonisomanasikāro, dhammānudhammapaṭipatti... Catūhi kho, bhikkhave, dhammehi samannāgato ariyasāvako sotāpanno hoti avinipātadhammo niyato sambodhiparāyano.",
+    "excerptTranslation": "Four things, monks, when cultivated and developed, lead to the realization of the fruit of stream-entry... Endowed with these four qualities, a noble disciple is a stream-enterer, no longer subject to downfall, assured of final enlightenment."
+  },
+  "pariyatti": {
+    "shortSummary": "Satipaṭṭhāna is the direct path (*Ekayāno Maggo*) synthesizing all 37 Aids to Awakening, severing the three lower fetters (Self-Identity View, Doubt, Attachment to Rites). When mindfulness flows seamlessly 24/7, the practitioner steps into irreversible Stream-Entry (*Sotāpatti*), closing the abyss of wretched realms forever.",
+    "coreConcepts": [
+      {
+        "term": "The Direct Path",
+        "pali": "Ekayāno Maggo",
+        "definition": "The singular, direct trajectory leading inexorably to purification of beings and realization of Nibbāna."
+      },
+      {
+        "term": "Stream-Enterer",
+        "pali": "Sotāpanna",
+        "definition": "Noble disciple entering the stream of awakening, free from lower destinations, guaranteed full awakening in at most seven lives."
+      },
+      {
+        "term": "Severing Three Fetters",
+        "pali": "Tīṇi Saṃyojanāni",
+        "definition": "Eradicating Self-Identity View (*Sakkāya-diṭṭhi*), Doubt (*Vicikicchā*), and Clinging to Rites & Rituals (*Sīlabbata-parāmāsa*)."
+      }
+    ],
+    "expositionMarkdown": "### 1. The River Flowing Inexorably to the Sea\nAs the Ganges slants and flows to the east, so one who cultivates Satipaṭṭhāna slants, slopes, and inclines toward Nibbāna.\n\n### 2. The Collapse of the Three Lower Fetters\n1. Self-Identity View shattered: Direct experience of nonself eradicates belief in a static ego.\n2. Doubt obliterated: Experiential verification anchors rock-solid confidence in the Tri-Ratna.\n3. Attachment to rites severed: Complete abandonment of superstitious rituals and magical reliance.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Stream-entry requires renouncing worldly household life and shaving the head.",
+        "correction": "Eminent lay disciples like Anāthapiṇḍika and Visākhā were stream-enterers presiding over families and enterprises with holy minds."
+      },
+      {
+        "mistake": "Completing a curriculum marks the end of training.",
+        "correction": "The curriculum is merely the compass; the terrain of continuous 24/7 mindfulness awaits in every waking breath."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Morning Resolution: Awaken each dawn resolving to dwell grounded in the 4 Foundations and pristine ethical precepts.\n2. Evening Audit: Dedicate 15 minutes reviewing the day's mental trajectory in light of Satipaṭṭhāna, rejoicing in the supreme Dhamma.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Unyielding perseverance on Morality, Concentration, and Wisdom toward supreme awakening."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Looking across the span from Body and Feeling to Mind and Dhammas, do you know with crystalline certainty that the Dhamma invites you to 'come and see' (Ehipassiko) and liberates here and now?",
+    "selfAuditChecklist": [
+      "I have thoroughly mastered the progression from Body and Feeling to Mind and Dhammas.",
+      "I abandoned irrational superstitions and magical thinking forever.",
+      "Satipaṭṭhāna is now the unshakeable compass guiding my daily existence."
+    ]
+  }
+}

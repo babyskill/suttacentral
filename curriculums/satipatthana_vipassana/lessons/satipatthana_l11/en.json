@@ -1,0 +1,68 @@
+{
+  "lessonId": "satipatthana_l11",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 11,
+  "stageIndex": 4,
+  "title": "Lesson 11: Contemplating the Five Clinging Aggregates — Shattering the Citadel of Self",
+  "paliTitle": "Pañcupādānakkhandhā (SN 22.59)",
+  "suttaRef": {
+    "uid": "sn22.59",
+    "title": "The Characteristic of Nonself (SN 22.59)",
+    "excerptPali": "Rūpaṃ, bhikkhave, anattā. Rūpañca hidaṃ, bhikkhave, attā abhavissa, nayidaṃ rūpaṃ ābādhāya saṃvatteyya... Yasmā ca kho, bhikkhave, rūpaṃ anattā, tasmā rūpaṃ ābādhāya saṃvattati... Vedanā anattā... Saññā anattā... Saṅkhārā anattā... Viññāṇaṃ anattā.",
+    "excerptTranslation": "Form, monks, is not-self. If form were self, this form would not lead to affliction... But because form is not-self, form leads to affliction... Feeling is not-self... Perception is not-self... Volitional formations are not-self... Consciousness is not-self."
+  },
+  "pariyatti": {
+    "shortSummary": "Our total existence is an impermanent confluence of Five Aggregates: Form, Feeling, Perception, Fabrications, and Consciousness. Delusion fabricates an eternal 'I' presiding within them. Penetrating their impermanent, unsatisfactory, and nonself nature severs Self-Identity View forever.",
+    "coreConcepts": [
+      {
+        "term": "Form Aggregate",
+        "pali": "Rūpakkhandha",
+        "definition": "Physical organism, biological matter, sense organs, and tangible phenomena."
+      },
+      {
+        "term": "Feeling Aggregate",
+        "pali": "Vedanākkhandha",
+        "definition": "Affective valence: pleasant, unpleasant, or neutral sensations."
+      },
+      {
+        "term": "Perception Aggregate",
+        "pali": "Saññākkhandha",
+        "definition": "Identification, memory recall, labeling, and recognition of signs."
+      },
+      {
+        "term": "Volitional Formations",
+        "pali": "Saṅkhārakkhandha",
+        "definition": "Volitional impulses, emotional reactions, intentions prompting karmic deeds."
+      },
+      {
+        "term": "Consciousness Aggregate",
+        "pali": "Viññāṇakkhandha",
+        "definition": "Bare cognitive awareness operating through the six sensory doors."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Five Similes of Emptiness (SN 22.95)\n- Form: a glob of river foam\n- Feeling: a bursting rain bubble\n- Perception: a desert mirage\n- Fabrications: a hollow plantain trunk\n- Consciousness: a magician's trick\n\n### 2. Uprooting Identity View (*Sakkāya-diṭṭhi*)\nWhen insulted, what is hurt? Sound waves strike ear (Form), unpleasant tone felt (Feeling), recognized as insult (Perception), defensiveness reacts (Fabrications), cognized (Consciousness). **No eternal 'Self' exists to be offended!** Suffering dissolves instantly.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nonself implies nihilism: nothing matters and karma is invalid.",
+        "correction": "Nonself refutes a static ego, yet the causal continuum of karma operates flawlessly like one flame kindling another."
+      },
+      {
+        "mistake": "One must destroy the aggregates to achieve liberation.",
+        "correction": "The aggregates are natural phenomena. Suffering resides exclusively in *Clinging* (*Upādāna*) to them."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. In sitting: Trace Form, Feeling, Perception, Intention, and Cognition separately.\n2. Inscribe deeply: 'This is not mine, this I am not, this is not my self.'",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Egoless living, renouncing defensive pride and possessiveness."
+  },
+  "pativedha": {
+    "reflectionPrompt": "When criticized today, did you witness words touching mere perception and emotional reaction without tarnishing deep awareness?",
+    "selfAuditChecklist": [
+      "I observed emotions deconstruct into disparate aggregate components.",
+      "I refused to allow defensive ego to kindle arguments.",
+      "I tasted freedom realizing my consciousness is not trapped in biological form."
+    ]
+  }
+}

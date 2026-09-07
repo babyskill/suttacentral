@@ -1,0 +1,58 @@
+{
+  "lessonId": "satipatthana_l14",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 14,
+  "stageIndex": 5,
+  "title": "Bài 14: Tứ Niệm Xứ 24/7 — Bước Vào Dòng Thánh Bất Thối Chuyển",
+  "paliTitle": "Sotāpatti & Ekayāno Maggo (SN 55.1)",
+  "suttaRef": {
+    "uid": "sn55.1",
+    "title": "Kinh Vương Xá (Rājagaha Sutta — SN 55.1)",
+    "excerptPali": "Cattārome, bhikkhave, dhammā bhāvitā bahulīkatā sotāpattiphalasacchikiriyāya saṃvattanti. Katame cattāro? Sappurisasaṃsevo, saddhammassavanaṃ, yonisomanasikāro, dhammānudhammapaṭipatti... Catūhi kho, bhikkhave, dhammehi samannāgato ariyasāvako sotāpanno hoti avinipātadhammo niyato sambodhiparāyano.",
+    "excerptTranslation": "Có bốn pháp này, này các Tỳ-kheo, được tu tập, được làm cho sung mãn sẽ đưa đến chứng ngộ quả vị Nhập Lưu... Thành tựu bốn pháp này, vị Thánh đệ tử là bậc Nhập Lưu, không còn bị đọa lạc, chắc chắn hướng đến giác ngộ hoàn toàn."
+  },
+  "pariyatti": {
+    "shortSummary": "Tứ Niệm Xứ là con đường độc nhất (Ekayāno Maggo) hội tụ toàn bộ 37 Phẩm Trợ Đạo, đưa hành giả đoạn trừ vĩnh viễn 3 hạ phần kiết sử (Thân kiến, Hoài nghi, Giới cấm thủ). Khi chánh niệm trở thành dòng chảy tự nhiên liên tục 24/7, hành giả chính thức bước vào dòng Thánh Nhập Lưu (Sotāpanna), vĩnh viễn khép lại bốn đọa xứ và chắc chắn giác ngộ.",
+    "coreConcepts": [
+      {
+        "term": "Con Đường Độc Nhất",
+        "pali": "Ekayāno Maggo",
+        "definition": "Con đường trực tiếp, duy nhất, không có ngả rẽ, đưa thẳng đến sự thanh tịnh chúng sinh và chứng ngộ Niết-bàn."
+      },
+      {
+        "term": "Bậc Nhập Lưu",
+        "pali": "Sotāpanna",
+        "definition": "Bậc Thánh đệ tử đã bước vào dòng Chánh Pháp, đoạn trừ 3 kiết sử, không còn thoái chuyển và sẽ viên mãn giải thoát trong tối đa 7 kiếp sống."
+      },
+      {
+        "term": "Đoạn Trừ 3 Kiết Sử",
+        "pali": "Tīṇi Saṃyojanāni",
+        "definition": "Xóa tan Thân kiến (tin có cái Tôi bất biến), Hoài nghi (nghi ngờ Phật Pháp Tăng), và Giới cấm thủ (tin vào nghi lễ mê tín dị đoan)."
+      }
+    ],
+    "expositionMarkdown": "### 1. Tứ Niệm Xứ Như Dòng Nước Chảy Về Đại Dương\n\nTrong Tương Ưng Niệm Xứ (SN 47), Đức Phật dạy:\n> *'Ví như dòng sông Hằng nghiêng về phương Đông, xuôi về phương Đông, đổ về phương Đông; cũng vậy, người tu tập và làm cho sung mãn Tứ Niệm Xứ sẽ nghiêng về Niết-bàn, xuôi về Niết-bàn, đổ về Niết-bàn.'*\n\nKhi bạn biến từng hơi thở, từng bước chân, từng bữa ăn, từng phản ứng cảm xúc thành đạo tràng Tứ Niệm Xứ, bạn không cần phải 'cố gắng đạt tới giải thoát' — giải thoát sẽ tự động tìm đến bạn như nước ắt phải chảy về chỗ trũng.\n\n### 2. Ba Thành Trì Sụp Đổ Khi Chứng Quả Nhập Lưu\n1. **Thân kiến (*Sakkāya-diṭṭhi*) sụp đổ:** Thấy rõ ngũ uẩn sinh diệt, vĩnh viễn không còn niềm tin vào một linh hồn bất tử, một cái Ta độc tôn hay sự ích kỷ hẹp hòi.\n2. **Hoài nghi (*Vicikicchā*) sụp đổ:** Tự mình thấy, tự mình chứng nghiệm quy luật Vô thường - Khổ - Vô ngã, niềm tin nơi Đức Phật và Chánh Pháp trở nên bất động như dãy núi Hy Mã Lạp Sơn, không ai có thể lay chuyển.\n3. **Giới cấm thủ (*Sīlabbata-parāmāsa*) sụp đổ:** Hiểu rõ giải thoát chỉ đến từ sự thanh tịnh Thân - Khẩu - Ý qua Bát Chánh Đạo, dứt sạch mọi thói quen mê tín van vái, cầu xin thần thánh, bói toán hay cúng sao giải hạn.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng bậc Nhập Lưu là người phải từ bỏ gia đình, cạo đầu xuất gia và sống tách biệt thế gian.",
+        "correction": "Rất nhiều đệ tử cư sĩ tại gia thời Phật (như ông Cấp Cô Độc Anāthapiṇḍika, bà Visākhā) đều là bậc Thánh Nhập Lưu, sống giữa thương trường và gia đình mà tâm hoàn toàn an trụ trong dòng Thánh."
+      },
+      {
+        "mistake": "Tưởng rằng hoàn thành khóa học là xong việc tu tập.",
+        "correction": "Giáo trình chỉ là tấm bản đồ; con đường nằm dưới chân bạn. Từng ngày, từng giờ phía trước mới là nơi kiểm chứng sức mạnh thực tế của Tứ Niệm Xứ."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Lời Nguyện Chánh Niệm Đầu Ngày:** Mỗi sớm mai thức dậy, phát nguyện gìn giữ 4 Niệm Xứ và 5 Giới trong sạch suốt ngày dài.\n2. **Thời Khóa Buổi Tối:** Dành 15 phút soi lại dòng tâm thức trong ngày theo tinh thần Kinh Niệm Xứ và tri ân giáo pháp cao quý của Đức Thế Tôn.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Sự kiên định tuyệt đối trên con đường Giới - Định - Tuệ, hướng đến giác ngộ tối hậu."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Khi nhìn lại toàn bộ lộ trình từ Thân, Thọ, Tâm đến Pháp, bạn có cảm nhận rõ ràng rằng Chánh Pháp là điều 'đến để mà thấy' (Ehipassiko) và có khả năng giải thoát ngay trong kiếp sống này?",
+    "selfAuditChecklist": [
+      "Tôi đã nắm vững toàn bộ lộ trình thực hành từ Thân, Thọ, Tâm đến Pháp.",
+      "Tôi đoạn trừ được nỗi sợ mơ hồ và các thói quen mê tín dị đoan trong đời sống.",
+      "Tứ Niệm Xứ đã trở thành kim chỉ nam dẫn đường cho mọi quyết định của tôi."
+    ]
+  }
+}

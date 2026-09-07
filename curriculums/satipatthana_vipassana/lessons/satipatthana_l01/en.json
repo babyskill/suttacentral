@@ -1,0 +1,59 @@
+{
+  "lessonId": "satipatthana_l01",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 1,
+  "stageIndex": 1,
+  "title": "Lesson 1: In-and-Out Breathing — The Gateway to the Present",
+  "paliTitle": "Ānāpānasati Sutta (MN 118)",
+  "suttaRef": {
+    "uid": "mn118",
+    "title": "Mindfulness of Breathing (MN 118 - Majjhima Nikāya)",
+    "excerptPali": "Dīghaṃ vā assasanto 'dīghaṃ assasāmī'ti pajānāti, dīghaṃ vā passasanto 'dīghaṃ passasāmī'ti pajānāti... 'Sabbakāyapaṭisaṃvedī assasissāmī'ti sikkhati, 'sabbakāyapaṭisaṃvedī passasissāmī'ti sikkhati; 'passambhayam kāyasaṅkhāraṃ assasissāmī'ti sikkhati, 'passambhayam kāyasaṅkhāraṃ passasissāmī'ti sikkhati.",
+    "excerptTranslation": "Breathing in long, he discerns: 'I breathe in long'; or breathing out long, he discerns: 'I breathe out long.'... He trains himself: 'Experiencing the whole body, I will breathe in.' He trains himself: 'Experiencing the whole body, I will breathe out.' He trains himself: 'Calming the bodily formation, I will breathe in.' He trains himself: 'Calming the bodily formation, I will breathe out.'"
+  },
+  "pariyatti": {
+    "shortSummary": "The natural breath is the most wondrous and truthful anchor calling the wandering mind back to present reality. Through the first tetrad of Ānāpānasati, the meditator calms bodily formations and establishes the primary foundation for insight (Vipassanā).",
+    "coreConcepts": [
+      {
+        "term": "Mindfulness of Breathing",
+        "pali": "Ānāpānasati",
+        "definition": "Maintaining lucid awareness of natural in-and-out breath without volitional control or manipulation."
+      },
+      {
+        "term": "The Entire Breath Body",
+        "pali": "Sabbakāya",
+        "definition": "The complete trajectory of each breath from beginning through middle to cessation, permeating the physical frame."
+      },
+      {
+        "term": "Calming Bodily Formations",
+        "pali": "Passambhayam Kāyasaṅkhāraṃ",
+        "definition": "Gradual tranquilization of coarse bodily disturbances and breath turbulence as the mind settles."
+      }
+    ],
+    "expositionMarkdown": "### 1. Why Breath Is the Foundation of Satipaṭṭhāna\n\nBreath (*Ānāpāna*) possesses unique qualities: it is always present throughout life, faithfully mirrors the mind's emotional state, and acts as the direct bridge between bodily matter and conscious awareness.\n\n### 2. The First Tetrad: Contemplation of the Body in the Breath\n1. Knowing long breath naturally.\n2. Knowing short breath naturally.\n3. Experiencing the entire breath body (*Sabbakāya*).\n4. Tranquilizing bodily formations (*Passambhayam Kāyasaṅkhāraṃ*).\n\n### 3. Vipassanā vs Breath Manipulation\nVipassanā does not force, hold, or shape the breath. You act simply as a watchful gatekeeper at the nostril threshold, observing natural sensations as they arise and cease.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Forcing the breath deep and slow to artificially manufacture calm.",
+        "correction": "Forcing causes chest tightness. Authentic mindfulness accepts breath exactly as it is."
+      },
+      {
+        "mistake": "Believing breath meditation is solely tranquility (Samatha) without insight potential.",
+        "correction": "MN 118 explicitly states that observing the impermanence and nonself nature of breath fulfills all four foundations of mindfulness and the seven factors of awakening."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Posture: Sit comfortably with upright spine, relaxing all facial and shoulder muscles.\n2. Touchpoint: Direct gentle attention to the sensation of coolness upon inhalation and warmth upon exhalation at the nostril tip or upper lip.\n3. Duration: Sit for 15-20 minutes every morning before starting the day.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Gently return to the natural breath whenever the mind is caught daydreaming."
+  },
+  "pativedha": {
+    "reflectionPrompt": "While observing your breath today, did you notice it flows in and out entirely on its own without needing an 'I' to orchestrate it?",
+    "selfAuditChecklist": [
+      "I sat mindfully for 15 minutes without fidgeting unnecessarily.",
+      "I refrained from forcing or controlling the breath artificially.",
+      "When distracted, I recognized it and gently returned to the breath anchor.",
+      "My mind and physical frame experienced lightness and serenity afterwards."
+    ]
+  }
+}

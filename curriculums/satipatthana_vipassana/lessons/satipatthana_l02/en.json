@@ -1,0 +1,54 @@
+{
+  "lessonId": "satipatthana_l02",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 2,
+  "stageIndex": 1,
+  "title": "Lesson 2: Four Postures & Clear Comprehension in Every Movement",
+  "paliTitle": "Iriyāpatha & Sampajañña (MN 10)",
+  "suttaRef": {
+    "uid": "mn10",
+    "title": "Satipaṭṭhāna Sutta — Postures & Clear Comprehension (MN 10)",
+    "excerptPali": "Gacchanto vā 'gacchāmī'ti pajānāti, ṭhito vā 'ṭhitomhī'ti pajānāti, nisinno vā 'nisinnomhī'ti pajānāti, sayāno vā 'sayānomhī'ti pajānāti... Abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti.",
+    "excerptTranslation": "When walking, he discerns: 'I am walking'; when standing, he discerns: 'I am standing'; when sitting, he discerns: 'I am sitting'; when lying down, he discerns: 'I am lying down.'... In going forward and returning, he acts with clear comprehension; in looking ahead and looking aside, he acts with clear comprehension; in bending and stretching his limbs, he acts with clear comprehension."
+  },
+  "pariyatti": {
+    "shortSummary": "The Buddha never confined meditation to the cushion. In the Satipaṭṭhāna Sutta, he instructs disciples to transform all 24 hours of daily life into practice through clear comprehension of the four primary postures and microscopic daily movements.",
+    "coreConcepts": [
+      {
+        "term": "Four Postures",
+        "pali": "Cattāro Iriyāpathā",
+        "definition": "The four fundamental bodily orientations: Walking, Standing, Sitting, and Lying down."
+      },
+      {
+        "term": "Mindfulness & Clear Comprehension",
+        "pali": "Sati-Sampajañña",
+        "definition": "Sati is continuous presence of mind; Sampajañña is wisdom discerning wholesome purpose, suitability, and nonself nature of actions."
+      }
+    ],
+    "expositionMarkdown": "### 1. Modern Alienation of Body and Mind\nModern humans walk while mind frets over emails; eat while absorbing digital outrage. Healing begins when body and mind reunite in the present moment.\n\n### 2. Four Facets of Clear Comprehension\n- Purposeful comprehension (*Sātthaka*)\n- Suitable comprehension (*Sappāya*)\n- Domain comprehension (*Gocara*)\n- Non-delusion comprehension (*Asammoha*) seeing only physical and mental factors devoid of self.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Walking meditation requires stiff, artificial robotic slowness.",
+        "correction": "Mindfulness can occur at normal or slow speed; the key is lucid presence, not theatrical stiffness."
+      },
+      {
+        "mistake": "Being mindful while working decreases productivity.",
+        "correction": "Mindfulness eliminates costly mental scattering, dramatically elevating focus and precision."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. 100-step practice: Walk mindfully focusing completely on foot sole sensations touching the earth.\n2. Micro-mindfulness: When picking up a glass or reaching for your phone, feel the muscular stretch for 1 clear second.",
+    "recommendedRoutineId": "r_mindful_walking",
+    "suggestedVirtue": "Maintain alert presence of physical posture during routine work and motion."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you catch moments today where your mind abandoned your physical frame to chase mental phantoms?",
+    "selfAuditChecklist": [
+      "I practiced walking meditation for at least 10 minutes.",
+      "I ate mindfully, chewing attentively without digital distraction.",
+      "I maintained postural awareness and adjusted my spine while sitting.",
+      "I refrained from walking with my eyes glued absentmindedly to a phone."
+    ]
+  }
+}

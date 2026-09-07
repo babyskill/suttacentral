@@ -1,0 +1,58 @@
+{
+  "lessonId": "satipatthana_l08",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 8,
+  "stageIndex": 3,
+  "title": "Lesson 8: Shrunk, Scattered & Sluggish Mind — Mind Regulation Techniques",
+  "paliTitle": "Paṁsudhovaka Sutta (AN 3.100)",
+  "suttaRef": {
+    "uid": "an3.100",
+    "title": "The Gold Refiner (AN 3.100 - Aṅguttara Nikāya)",
+    "excerptPali": "Seyyathāpi, bhikkhave, suvaṇṇakāro vā suvaṇṇakārantevāsī vā ukkaṃ bandhati... Kālena kālaṃ samādhinimittaṃ manasi karoti, kālena kālaṃ paggahanimittaṃ manasi karoti, kālena kālaṃ upekkhānimittaṃ manasi karoti... Taṃ hoti cittaṃ muduñca kammaniyañca pabhassarañca, na ca pabhaṅgu.",
+    "excerptTranslation": "Just as a goldsmith or goldsmith's apprentice... from time to time attends to the sign of concentration, from time to time attends to the sign of energetic striving, and from time to time attends to the sign of equanimity... Then the mind becomes malleable, wieldy, radiant, and not brittle."
+  },
+  "pariyatti": {
+    "shortSummary": "During meditation, consciousness oscillates between two pitfalls: Sluggish withdrawal (*Saṅkhitta*) and Restless agitation (*Vikkhitta*). The Buddha teaches the artistry of the master goldsmith: stoking energy when sluggish, cooling with tranquility when agitated.",
+    "coreConcepts": [
+      {
+        "term": "Shrunk / Sluggish Mind",
+        "pali": "Saṅkhitta Citta",
+        "definition": "Lethargic, contracted consciousness paralyzed by sleepiness and low psychic energy."
+      },
+      {
+        "term": "Scattered / Agitated Mind",
+        "pali": "Vikkhitta Citta",
+        "definition": "Restless, frantic mind darting across fantasies, anxieties, and plans without stillness."
+      },
+      {
+        "term": "Malleable & Wieldy",
+        "pali": "Mudu & Kammaniya",
+        "definition": "State of exquisite equilibrium between tranquility and energetic inquiry, fit for penetration."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Goldsmith's Alchemy\nConstant blowing (excessive effort) burns the gold; excessive sprinkling of water (excessive absorption) cools it stiff. Balanced alternation yields luminous, supple gold.\n\n### 2. Practical Field Remedies\n- For torpor: Open eyes, attend to light perception (*Āloka*), switch to walking meditation, reflect on urgent impermanence.\n- For restlessness: Ground attention immediately in tangible physical touchpoints or breath counting.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Expecting the brain to stop generating all thoughts permanently.",
+        "correction": "Mind generates thoughts naturally. Practice is not lobotomizing the mind, but not biting the sensory hooks."
+      },
+      {
+        "mistake": "Mistaking drowsy stupor for deep meditative absorption.",
+        "correction": "Sluggish numbness is a paralyzing hindrance (*Thīna-middha*), the polar opposite of radiant Samādhi."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. In sitting: If head nods, take 3 sharp deep breaths, open eyes, gaze forward softly 1-2 meters.\n2. When projecting future schemes: Mentally whisper 'planning... planning' and return to cushion sensations.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Masterful energetic self-regulation in daily tasks."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you function as an intuitive goldsmith today, knowing precisely when to arouse energy and when to relax?",
+    "selfAuditChecklist": [
+      "I caught sluggishness and mental scattering as soon as they surfaced.",
+      "I deployed effective antidotes to recover crisp alertness.",
+      "My mind emerged from meditation radiant, balanced, and wieldy."
+    ]
+  }
+}

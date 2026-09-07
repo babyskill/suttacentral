@@ -1,0 +1,58 @@
+{
+  "lessonId": "satipatthana_l05",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 5,
+  "stageIndex": 2,
+  "title": "Bài 5: Cảm Thọ Lạc, Khổ, Xả — Mũi Tên Thứ Hai Của Phàm Phu",
+  "paliTitle": "Salla Sutta (SN 36.6)",
+  "suttaRef": {
+    "uid": "sn36.6",
+    "title": "Kinh Mũi Tên (SN 36.6 - Saṃyutta Nikāya)",
+    "excerptPali": "Seyyathāpi, bhikkhave, purisaṃ sallena vijjheyya. Tamenaṃ dutiyena sallena anuvedhaṃ vijjheyya. Evañhi so, bhikkhave, puriso dvisallena vedanaṃ vediyetha... Assutavā puthujjano dukkhāya vedanāya phuṭṭho samāno socati rodati paridevati... So dvemā vedanā vedayati — kāyikañca, cetasikañca.",
+    "excerptTranslation": "Ví như, này các Tỳ-kheo, một người bị bắn bởi một mũi tên. Rồi người ấy bị bắn tiếp bởi mũi tên thứ hai. Như vậy, người ấy cảm thọ sự đau đớn của hai mũi tên... Kẻ phàm phu không nghe pháp khi bị cảm thọ khổ chạm đến liền sầu muộn, than khóc, đấm ngực... Kẻ ấy cảm thọ hai loại cảm thọ: cảm thọ thuộc về thân và cảm thọ thuộc về tâm."
+  },
+  "pariyatti": {
+    "shortSummary": "Cảm thọ là cầu nối then chốt trong chuỗi 12 Duyên Khởi: Xúc duyên Thọ, Thọ duyên Ái. Đức Phật chỉ rõ kẻ phàm phu khi bị đau đớn thân thể liền khởi tâm oán hận, tự bắn thêm mũi tên thứ hai vào tâm thức. Bậc Thánh chỉ đón nhận mũi tên thứ nhất mà không bao giờ nhận mũi tên thứ hai.",
+    "coreConcepts": [
+      {
+        "term": "Ba Loại Cảm Thọ",
+        "pali": "Tisso Vedanā",
+        "definition": "Lạc thọ (Sukha - dễ chịu), Khổ thọ (Dukkha - khó chịu), và Bất khổ bất lạc thọ / Xả thọ (Adukkhamasukha - trung tính)."
+      },
+      {
+        "term": "Mũi Tên Thứ Nhất",
+        "pali": "Kāyikā Vedanā",
+        "definition": "Cảm thọ vật lý thuần túy trên thân do thần kinh tiếp nhận kích thích ngoại cảnh hoặc bệnh tật sinh học."
+      },
+      {
+        "term": "Mũi Tên Thứ Hai",
+        "pali": "Cetasikā Vedanā",
+        "definition": "Phản ứng tâm lý giận dữ, sầu muộn, sợ hãi, bực dọc do vô minh và bản ngã tự chuốc lấy."
+      }
+    ],
+    "expositionMarkdown": "### 1. Tại Sao Quán Thọ Là Mắt Xích Quyết Định Để Chặt Đứt Luân Hồi?\n\nTrong giáo lý Duyên Khởi (*Paṭiccasamuppāda*):\n- Sáu Căn tiếp xúc Sáu Trần sinh ra **Xúc (*Phassa*)**.\n- Xúc sinh ra **Thọ (*Vedanā*)**.\n- Thọ sinh ra **Ái (*Taṇhā*)**.\n- Ái sinh ra **Thủ (*Upādāna*)** và **Hữu (*Bhava*)** đưa đến Khổ đau triền miên.\n\nTa không thể ngăn cản sáu căn tiếp xúc trần cảnh (mắt vẫn phải nhìn, tai vẫn phải nghe). Ta cũng không thể cấm thân thể này không bị đau khi va chạm. **Điểm duy nhất có thể bẻ gãy mắt xích nghiệp chướng chính là ở khoảng cách giữa THỌ và ÁI!**\n\n### 2. Bí Quyết Hóa Giải Mũi Tên Thứ Hai\nKhi một cơn đau nhức (Khổ thọ) xuất hiện trên đầu gối khi ngồi thiền:\n- Phàm phu: Co rút tâm, bực bội, khó chịu, oán trách thời tiết, nghĩ rằng 'Tôi đang đau quá, tại sao tôi phải khổ thế này?' → Đã nhận mũi tên thứ hai!\n- Hành giả Vipassanā: Nhìn vào cơn đau như một nhà khoa học nhìn mẫu vật dưới kính hiển vi. 'Có một cảm giác tê nóng đang sinh diệt tại đầu gối. Cảm giác ấy không phải là Tôi, không thuộc về Tôi.' Cơn đau thân xác vẫn còn, nhưng tâm hồn hoàn toàn bất động, tự do!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng tu thiền là để trở nên chai lỳ như khúc gỗ, không còn cảm giác đau đớn vui buồn gì nữa.",
+        "correction": "Đức Phật và chư A-la-hán vẫn cảm nhận cơn đau trên thân (như khi Phật đau lưng hay bị đá đè trúng chân), nhưng tâm các ngài không hề có sân giận, lo sợ."
+      },
+      {
+        "mistake": "Cố gắng gồng mình chịu đựng cơn đau bằng ý chí thô bạo.",
+        "correction": "Chịu đựng bằng ý chí là sân ngầm (*Dosa*). Quán Thọ là thả lỏng, buông thư và quan sát cảm giác sinh rồi diệt bằng tâm xả ly thanh thản."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Khi ngồi thiền bị đau chân: Không đổi tư thế vội. Dừng lại 3 phút, đưa tâm quan sát trực tiếp vào tâm điểm cơn đau. Xem nó nhói, nóng, hay co rút? Nhận biết nó biến đổi liên tục.\n2. Khi gặp tin nhắn làm bực mình: Dừng lại nhận biết 'khổ thọ tâm đang khởi lên', hít thở 3 hơi và kiên quyết không trả lời tin nhắn trong lúc mũi tên thứ hai đang cắm vào tâm.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Bình thản đón nhận cảm thọ nghịch ý mà không buông lời than vãn hay trách móc."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hôm nay có tình huống nào bạn đã kịp thời rút mũi tên thứ hai ra khỏi tâm trí mình trước khi nó biến thành cơn giận dữ?",
+    "selfAuditChecklist": [
+      "Tôi ghi nhận được cảm giác khó chịu trên thân mà không bực bội hay cáu gắt với người xung quanh.",
+      "Tôi không tìm kiếm thức ăn ngọt hay thú tiêu khiển chỉ để trốn chạy một cảm giác trống trải.",
+      "Tôi nhìn thấy rõ sự sinh diệt từng tích tắc của một cảm giác đau hoặc ngứa trên thân."
+    ]
+  }
+}

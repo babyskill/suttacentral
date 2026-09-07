@@ -1,0 +1,63 @@
+{
+  "lessonId": "satipatthana_l03",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 3,
+  "stageIndex": 1,
+  "title": "Bài 3: Quán Tứ Đại — Đất, Nước, Lửa, Gió Trong Nhục Thân",
+  "paliTitle": "Dhātumanasikāra (MN 28)",
+  "suttaRef": {
+    "uid": "mn28",
+    "title": "Đại Kinh Thí Dụ Dấu Chân Voi (MN 28)",
+    "excerptPali": "Katamo cāvuso pathavīdhātu? Pathavīdhātu siyā ajjhattikā, siyā bāhirā... Kesa lomā nakhā dantā taco... Yaṃ kiñci ajjhattaṃ paccattaṃ kakkhaḷaṃ kharigataṃ upādinnaṃ — ayaṃ vuccatāvuso ajjhattikā pathavīdhātu. Sā kho panesā 'netaṃ mama, nesohamasmi, na meso attā'ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+    "excerptTranslation": "Này chư Hiền, thế nào là Địa đại? Địa đại có thể là nội phần, có thể là ngoại phần... Tóc, lông, móng, răng, da... bất cứ vật gì trong tự thân có tính thô cứng, được chấp thủ — đây gọi là Địa đại nội phần. Cả hai thứ ấy đều phải được thấy như thật bằng chánh trí tuệ: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải tự ngã của tôi.'"
+  },
+  "pariyatti": {
+    "shortSummary": "Thân xác con người không phải là một khối thống nhất bất biến mà là sự kết hợp tạm thời của 4 đại tự nhiên: Đất (cứng/mềm), Nước (gắn kết/chảy), Lửa (nóng/lạnh), và Gió (chuyển động/áp suất). Quán chiếu Tứ đại bẻ gãy ảo tưởng về một bản ngã độc lập.",
+    "coreConcepts": [
+      {
+        "term": "Địa Đại",
+        "pali": "Pathavīdhātu",
+        "definition": "Đặc tính cứng hoặc mềm, có công năng nâng đỡ và chiếm chỗ trong không gian."
+      },
+      {
+        "term": "Thủy Đại",
+        "pali": "Āpodhātu",
+        "definition": "Đặc tính dính ướt, gắn kết các phân tử vật chất lại với nhau."
+      },
+      {
+        "term": "Hỏa Đại",
+        "pali": "Tejodhātu",
+        "definition": "Nhiệt lượng, độ ấm nóng hoặc lạnh, làm chín thức ăn và duy trì chuyển hóa."
+      },
+      {
+        "term": "Phong Đại",
+        "pali": "Vāyodhātu",
+        "definition": "Áp lực, sự co giãn, rung động và lực đẩy tạo nên sự cử động của thân xác."
+      }
+    ],
+    "expositionMarkdown": "### 1. Phá Vỡ Khối Kiên Cố (Ghana-saññā)\n\nPhàm phu bám chặt vào thân thể này vì bị đánh lừa bởi ảo tưởng khối kiên cố (*Ghana*): nhìn thấy một khuôn mặt, một dáng dấp, một cơ thể hoàn mỹ và gán cho nó danh xưng 'Tôi'.\n\nKhi soi chiếu bằng tuệ quán Tứ đại:\n- Xương, răng, cơ bắp chỉ là tính cứng của **Đất** đang vay mượn từ thực phẩm nuôi sống.\n- Máu, mồ hôi, dịch vị chỉ là tính kết dính của **Nước** vay mượn từ sông hồ.\n- Hơi ấm 37 độ C trong lồng ngực chỉ là ngọn lửa của **Hỏa đại** vay mượn từ ánh mặt trời.\n- Hơi thở và lực vận động thần kinh chỉ là **Phong đại** vay mượn từ bầu khí quyển.\n\n### 2. Sự Hòa Điệu Cùng Đại Tự Nhiên\nKhi ta chết đi, Đất trả về đất, Nước trả về nước, Lửa trả về nhiệt lượng không gian, Gió trả về hư không. Không có một hạt bụi nào thuộc về sở hữu của 'Ta'. Thấu hiểu điều này, nỗi sợ hãi về cái chết và bệnh tật tự nhiên tan biến như sương mai gặp nắng.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Tưởng tượng 4 đại là 4 chất liệu thô thiển như đất cát ngoài vườn hay ngọn lửa bếp củi.",
+        "correction": "Đức Phật nói về 'Đặc tính' thực nghiệm trực tiếp: cứng/mềm, dính/chảy, nóng/lạnh, rung động/căng cứng cảm nhận được qua xúc giác thân căn."
+      },
+      {
+        "mistake": "Nghĩ rằng quán tứ đại làm tâm trở nên lãnh đạm, thờ ơ với sự sống.",
+        "correction": "Trái lại, thấy mình cùng bản chất với đất trời sinh khởi lòng kính trọng sâu sắc đối với thiên nhiên và vạn vật."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Ngồi thiền, cảm nhận điểm tiếp xúc giữa mông và mặt phẳng tọa cụ — cảm nhận tính cứng/mềm (*Địa đại*).\n2. Cảm nhận hơi ấm trong lòng bàn tay và hơi thở (*Hỏa đại*).\n3. Cảm nhận sự căng phồng và xẹp xuống nơi bụng (*Phong đại*).\n4. Khởi tâm chánh niệm: 'Đây chỉ là các yếu tố tự nhiên, không phải là tôi, không phải tự ngã của tôi'.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Nhìn nhận thân xác bằng con mắt khoa học tâm linh vô ngã."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Khi thân thể có triệu chứng mệt mỏi, sốt nóng hay đau nhức hôm nay, bạn đã nhìn nhận nó là sự biến đổi của Tứ đại hay xem đó là 'tôi đang bị bệnh' đầy sầu não?",
+    "selfAuditChecklist": [
+      "Tôi đã dành thời gian phân tích cảm giác trên thân thành 4 đặc tính nguyên tố.",
+      "Tôi không khởi tâm kiêu căng hay tự ti về nhan sắc, ngoại hình.",
+      "Tôi cảm nhận sự kết nối bình đẳng giữa thân thể mình và môi trường tự nhiên xung quanh."
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "lessonId": "satipatthana_l02",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 2,
+  "stageIndex": 1,
+  "title": "Bài 2: Bốn Oai Nghi & Tỉnh Giác Trong Từng Cử Động",
+  "paliTitle": "Iriyāpatha & Sampajañña (MN 10)",
+  "suttaRef": {
+    "uid": "mn10",
+    "title": "Kinh Niệm Xứ — Bốn Oai Nghi & Tỉnh Giác (MN 10)",
+    "excerptPali": "Gacchanto vā 'gacchāmī'ti pajānāti, ṭhito vā 'ṭhitomhī'ti pajānāti, nisinno vā 'nisinnomhī'ti pajānāti, sayāno vā 'sayānomhī'ti pajānāti... Abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti.",
+    "excerptTranslation": "Đi, người ấy biết: 'Tôi đang đi.' Đứng, người ấy biết: 'Tôi đang đứng.' Ngồi, người ấy biết: 'Tôi đang ngồi.' Nằm, người ấy biết: 'Tôi đang nằm.'... Khi bước tới bước lui, người ấy tỉnh giác; khi nhìn thẳng nhìn quanh, người ấy tỉnh giác; khi co tay duỗi tay, người ấy tỉnh giác."
+  },
+  "pariyatti": {
+    "shortSummary": "Đức Phật không bao giờ giới hạn thiền trên bồ đoàn. Trong Kinh Đại Niệm Xứ, Ngài dạy hành giả biến toàn bộ 24 giờ của đời sống thành thiền qua sự tỉnh giác trong bốn oai nghi chính (Đi, Đứng, Ngồi, Nằm) và các vi hành động (nhìn, co, duỗi, ăn, uống, mặc áo).",
+    "coreConcepts": [
+      {
+        "term": "Bốn Oai Nghi",
+        "pali": "Cattāro Iriyāpathā",
+        "definition": "Bốn tư thế vật lý cơ bản của thân: Đi (Gacchanta), Đứng (Ṭhita), Ngồi (Nisinna), Nằm (Sayāna)."
+      },
+      {
+        "term": "Chánh Niệm Tỉnh Giác",
+        "pali": "Sati-Sampajañña",
+        "definition": "Sati là sự ghi nhớ, có mặt của tâm; Sampajañña là trí tuệ thấy rõ mục đích chân chánh, sự thích nghi và bản chất vô ngã của hành động."
+      }
+    ],
+    "expositionMarkdown": "### 1. Bốn Căn Bệnh 'Mất Hồn' Trong Đời Sống Hiện Đại\n\nCon người hiện đại thường xuyên sống trong trạng thái phân ly giữa Thân và Tâm: Thân đang rửa chén nhưng tâm đang lo nghĩ về dự án; Thân đang bước đi trên đường nhưng tâm đang tức giận một tin nhắn trên điện thoại. Đó là trạng thái 'Thân một nơi, Tâm một nẻo' — nguồn gốc của bất an và sai lầm.\n\n### 2. Bốn Tầng Tỉnh Giác (Sampajañña)\n1. **Sātthaka-sampajañña (Tỉnh giác về mục đích):** Trước khi nói hay làm, tự hỏi hành động này có đem lại lợi ích giải thoát hay chỉ kích động tham sân?\n2. **Sappāya-sampajañña (Tỉnh giác về sự thích nghi):** Hành động này có phù hợp với hoàn cảnh, thời điểm không?\n3. **Gocara-sampajañña (Tỉnh giác về cảnh giới):** Luôn đem tâm neo lại trên đề mục Tứ Niệm Xứ khi làm mọi việc.\n4. **Asammoha-sampajañña (Tỉnh giác không mê mờ):** Thấy rõ đằng sau bước đi hay cái co tay không có một 'ông Tôi' nào cả, chỉ có phong đại và ý muốn vận hành cơ bắp sinh diệt.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng thiền hành là phải đi thật chậm và cứng nhắc như người máy.",
+        "correction": "Chánh niệm có thể đi nhanh, đi chậm tùy hoàn cảnh; mấu chốt là tâm biết rõ thân đang di chuyển chứ không phải biểu diễn điệu bộ."
+      },
+      {
+        "mistake": "Cho rằng vừa làm việc vừa chánh niệm sẽ làm giảm năng suất công việc.",
+        "correction": "Chánh niệm giúp tâm gom tụ, loại bỏ tạp niệm phân tán, từ đó tăng năng suất và độ chính xác trong công việc lên gấp nhiều lần."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Bài tập 100 bước chân:** Mỗi ngày chọn một đoạn đường ngắn (từ bãi đỗ xe vào văn phòng, hoặc trong hành lang nhà) thực hành trọn vẹn sự chú tâm vào cảm giác gan bàn chân chạm đất.\n2. **Khoảnh khắc Micro-Mindfulness:** Khi cầm điện thoại, khi với tay lấy ly nước, dừng lại 1 giây cảm nhận cơ tay co duỗi.",
+    "recommendedRoutineId": "r_mindful_walking",
+    "suggestedVirtue": "Ý thức rõ rệt thân thể trong lúc di chuyển, ăn uống và làm việc."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Trong ngày hôm nay, bạn có nhận diện được những khoảnh khắc tâm bạn 'bỏ rơi' thân thể để chạy theo ảo ảnh tương lai?",
+    "selfAuditChecklist": [
+      "Tôi đã thực hành thiền hành ít nhất 10 phút.",
+      "Tôi duy trì sự tỉnh giác khi ăn cơm, nhai chậm và thưởng thức trọn vẹn.",
+      "Tôi nhận biết tư thế ngồi và điều chỉnh cột sống thẳng thắn trong lúc làm việc.",
+      "Tôi không vừa đi vừa cắm mặt vào màn hình điện thoại trong vô thức."
+    ]
+  }
+}

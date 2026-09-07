@@ -1,0 +1,68 @@
+{
+  "lessonId": "satipatthana_l10",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 10,
+  "stageIndex": 4,
+  "title": "Lesson 10: Overcoming the Five Hindrances — Diagnosing & Unbinding Blocks",
+  "paliTitle": "Pañca Nīvaraṇā (MN 39)",
+  "suttaRef": {
+    "uid": "mn39",
+    "title": "The Greater Discourse at Assapura (MN 39)",
+    "excerptPali": "Seyyathāpi, bhikkhave, puriso iṇaṃ ādāya kammante payojeyya... Seyyathāpi, bhikkhave, puriso ābādhiko assa dukkhito bāḷhagilāno... Seyyathāpi, bhikkhave, puriso bandhanāgāre baddho assa... Seyyathāpi, bhikkhave, puriso dāso assa anattādīno... Seyyathāpi, bhikkhave, puriso saddhano sabhogo kantāraddhānamaggaṃ paṭipajjeyya... Evaṃ kho, bhikkhave, bhikkhu ime pañca nīvaraṇe appahīne attani samanupassati.",
+    "excerptTranslation": "Suppose, monks, a man were to take a loan... Suppose a man were afflicted, sick, gravely ill... Suppose a man were imprisoned in jail... Suppose a man were an enslaved person, not his own master... Suppose a wealthy man traveled along a dangerous desert road... Just so, a bhikkhu sees these five unabandoned hindrances in himself as a debt, a disease, a prison, slavery, and a desert."
+  },
+  "pariyatti": {
+    "shortSummary": "The Five Hindrances (*Pañca Nīvaraṇā*) are psychological pollutants suffocating clarity, blocking concentration and insight. The Buddha presents five seismic metaphors: debt (sensual lust), disease (ill will), prison (sloth-torpor), slavery (restlessness-remorse), and desert (doubt). Uprooting them is liberation.",
+    "coreConcepts": [
+      {
+        "term": "Sensual Desire",
+        "pali": "Kāmacchanda",
+        "definition": "Hunger for sensory stimulation resembling debilitating debt."
+      },
+      {
+        "term": "Ill Will",
+        "pali": "Vyāpāda",
+        "definition": "Bitter aversion and resentment burning like a debilitating fever."
+      },
+      {
+        "term": "Sloth & Torpor",
+        "pali": "Thīna-middha",
+        "definition": "Mental numbness and physical heaviness suffocating like a subterranean dungeon."
+      },
+      {
+        "term": "Restlessness & Remorse",
+        "pali": "Uddhacca-kukkucca",
+        "definition": "Agitated fluttering and neurotic guilt like a whipped slave whipped without respite."
+      },
+      {
+        "term": "Doubt",
+        "pali": "Vicikicchā",
+        "definition": "Paralyzing uncertainty and confusion like traveling unarmed through a desert filled with bandits."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Simile of the Water Bowl\nConsciousness is a reflective pool:\n- Colored dyes: Sensual Lust\n- Boiling heat: Ill Will\n- Dense algae: Sloth & Torpor\n- Windblown ripples: Restlessness\n- Muddy gloom in darkness: Doubt\n\n### 2. Canonical Antidotes\n- Lust: Anatomical contemplation & impermanence\n- Anger: Boundless Loving-Kindness (*Mettā*)\n- Sloth: Energy activation & light visualization\n- Restlessness: Serene breath concentration\n- Doubt: Empirical inquiry and Dhamma study.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Expecting total eradication of hindrances before daring to meditate.",
+        "correction": "Complete destruction belongs to Holy Arahants. The practitioner temporarily unbinds them to cultivate clear seeing."
+      },
+      {
+        "mistake": "Confusing constructive critical inquiry with debilitating doubt.",
+        "correction": "Hindering doubt is paralyzing ambivalence; Dhammavicaya is sharp, luminous analytical investigation."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Scan the 5 hindrances before sitting to identify which pollutant dominates.\n2. Apply the specific canonical remedy in the first 5 minutes to settle the waters.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Vigilant intolerance toward inner robbers of peace."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you taste the immense relief of being freed from a crippling debt when a hindrance surrendered today?",
+    "selfAuditChecklist": [
+      "I accurately diagnosed the primary hindrance tormenting my attention.",
+      "I refused to nourish resentment or bitter rumination.",
+      "My heart enjoyed pristine sovereignty when the hindrances dissolved."
+    ]
+  }
+}

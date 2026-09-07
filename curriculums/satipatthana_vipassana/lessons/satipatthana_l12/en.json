@@ -1,0 +1,53 @@
+{
+  "lessonId": "satipatthana_l12",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 12,
+  "stageIndex": 4,
+  "title": "Lesson 12: Seven Awakening Factors & Four Noble Truths",
+  "paliTitle": "Bojjhaṅga & Ariyasacca (MN 141)",
+  "suttaRef": {
+    "uid": "mn141",
+    "title": "The Exposition of the Truths (MN 141)",
+    "excerptPali": "Katamañcāvuso dukkhaṃ ariyasaccaṃ? Jātipi dukkhā, jarāpi dukkhā, maraṇampi dukkhaṃ... Saṅkhittena pañcupādānakkhandhā dukkhā... Katamañca dukkhasamudayaṃ ariyasaccaṃ? Yāyaṃ taṇhā ponobbhavikā nandirāgasahagatā... Katamañca dukkhanirodhaṃ ariyasaccaṃ? Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo... Katamañca dukkhanirodhagāminī paṭipadā ariyasaccaṃ? Ayameva ariyo aṭṭhaṅgiko maggo.",
+    "excerptTranslation": "What is the noble truth of suffering? Birth is suffering, aging is suffering, death is suffering... in brief, the five clinging aggregates are suffering... What is the noble truth of the origin of suffering? It is craving that leads to renewed existence, accompanied by delight and lust... What is the noble truth of the cessation of suffering? It is the remainderless fading away and cessation of that very craving, its giving up and relinquishment... What is the noble truth of the path leading to the cessation of suffering? It is this Noble Eightfold Path."
+  },
+  "pariyatti": {
+    "shortSummary": "The summit of Contemplation of Dhammas is the flourishing of the Seven Awakening Factors (*Bojjhaṅga*) and the direct penetration of the Four Noble Truths. One discerns Dukkha not to despair, but to uproot Craving, realize Nibbāna, and walk the Noble Eightfold Path.",
+    "coreConcepts": [
+      {
+        "term": "Seven Awakening Factors",
+        "pali": "Satta Bojjhaṅgā",
+        "definition": "Mindfulness, Investigation, Energy, Joy, Tranquility, Concentration, Equanimity."
+      },
+      {
+        "term": "Four Noble Truths",
+        "pali": "Cattāri Ariyasaccāni",
+        "definition": "Suffering (to be fully understood), Origin (to be abandoned), Cessation (to be realized), Path (to be cultivated)."
+      }
+    ],
+    "expositionMarkdown": "### 1. Symphonic Harmony of the 7 Awakening Factors\nRegulated by constant Mindfulness (*Sati*):\n- Energizing factors: Investigation, Energy, Joy (deployed against sluggishness)\n- Calming factors: Tranquility, Concentration, Equanimity (deployed against restlessness)\n\n### 2. The Four Noble Truths as Master Medicine\nThe Buddha is the supreme physician:\n1. Symptom diagnosed: Dukkha\n2. Etiology pinpointed: Craving (*Taṇhā*)\n3. Prognosis of complete cure: Cessation (*Nirodha*)\n4. Therapeutic regimen prescribed: The Noble Eightfold Path.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Buddhism is pessimistic because it starts with Dukkha.",
+        "correction": "It is rigorously empirical like medicine: diagnosing disease honestly is the mandatory first step to cure."
+      },
+      {
+        "mistake": "Penetrating Truths means passing a written philosophy exam.",
+        "correction": "It is real-time experiential realization (*Abhiññā*) witnessing the immediate evaporation of suffering the instant craving ceases."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Daily Fourfold Task: Comprehend pain when present; Pinpoint underlying craving; Relinquish grasping; Abide in Morality and Mindfulness.\n2. Cultivate Equanimity factor (*Upekkhā*) amidst worldly financial swings and social evaluations.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Fearless relinquishment of craving to experience supreme peace."
+  },
+  "pativedha": {
+    "reflectionPrompt": "When releasing an attachment or rigid expectation today, did you glimpse the cool peace of Nibbāna revealing itself in your heart?",
+    "selfAuditChecklist": [
+      "I identified the exact craving generating my emotional frustration.",
+      "I felt the presence of awakening factors: Sati, Investigation, and Equanimity.",
+      "I established unshakeable confidence in the Buddha's Noble Path."
+    ]
+  }
+}

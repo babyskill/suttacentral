@@ -1,0 +1,63 @@
+{
+  "lessonId": "satipatthana_l07",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 7,
+  "stageIndex": 3,
+  "title": "Bài 7: Nhận Diện Tâm Có Tham, Sân, Si & Tâm Giải Thoát",
+  "paliTitle": "Sarāga & Sadosa Citta (MN 10)",
+  "suttaRef": {
+    "uid": "mn10",
+    "title": "Kinh Niệm Xứ — Quán Tâm (MN 10)",
+    "excerptPali": "Sarāgaṃ vā cittaṃ 'sarāgaṃ cittan'ti pajānāti, vītarāgaṃ vā cittaṃ 'vītarāgaṃ cittan'ti pajānāti. Sadosaṃ vā cittaṃ 'sadosaṃ cittan'ti pajānāti, vītadosaṃ vā cittaṃ 'vītadosaṃ cittan'ti pajānāti. Samohaṃ vā cittaṃ 'samohaṃ cittan'ti pajānāti, vītamohaṃ vā cittaṃ 'vītamohaṃ cittan'ti pajānāti.",
+    "excerptTranslation": "Tâm có tham, biết tâm có tham; tâm không tham, biết tâm không tham. Tâm có sân, biết tâm có sân; tâm không sân, biết tâm không sân. Tâm có si, biết tâm có si; tâm không si, biết tâm không si."
+  },
+  "pariyatti": {
+    "shortSummary": "Tâm thức vốn không có hình tướng nhưng liên tục đổi màu theo các tâm sở (Cetasika) đi kèm. Đức Phật dạy hành giả đóng vai trò một người quan sát khách quan, nhìn rõ từng trạng thái tâm thức mà không đồng hóa 'tôi đang giận' hay 'tôi đang tham', giải thoát tâm khỏi sự phán xét tội lỗi.",
+    "coreConcepts": [
+      {
+        "term": "Tâm Có Tham",
+        "pali": "Sarāga Citta",
+        "definition": "Trạng thái tâm bám víu, khao khát, dính mắc vào đối tượng khả ái khả hỷ."
+      },
+      {
+        "term": "Tâm Có Sân",
+        "pali": "Sadosa Citta",
+        "definition": "Trạng thái tâm phản kháng, bực dọc, chống đối, căm ghét đối tượng khả ố."
+      },
+      {
+        "term": "Tâm Có Si",
+        "pali": "Samoha Citta",
+        "definition": "Trạng thái tâm mơ hồ, hoang mang, không thấy rõ thực tại vô thường, khổ, vô ngã."
+      },
+      {
+        "term": "Biết Rõ Như Thật",
+        "pali": "Yathābhūta Pajānāti",
+        "definition": "Sự thấy biết thuần khiết, không bóp méo, không thêm bớt phán xét đạo đức chủ quan."
+      }
+    ],
+    "expositionMarkdown": "### 1. Cuộc Cách Mạng Tâm Lý Của Quán Tâm (Cittānupassanā)\n\nHầu hết nhân loại đau khổ vì họ rơi vào hai thái cực sai lầm:\n1. **Đồng hóa (Identification):** 'Tôi giận', 'Tôi thất bại', 'Tôi tội lỗi' — biến một trạng thái tâm tạm bợ thành bản sắc kiên cố của cái Tôi.\n2. **Đè nén & Tự trách (Suppression & Guilt):** Khi thấy tâm nổi tham hay sân, liền cảm thấy tội lỗi, xấu hổ, cố gắng dập tắt hoặc che giấu.\n\nĐức Phật đưa ra con đường thứ ba vĩ đại: **Quan Sát Thuần Túy**.\n- Khi tâm có sân, Ngài không bảo 'hãy biến tâm sân thành tâm từ', mà Ngài dạy: **'Biết rõ tâm đang có sân'**.\n- Sự kỳ diệu của chánh niệm là: Khi có ánh sáng của Sati chiếu rọi vào, ngọn lửa sân hận và tham ái không còn nhiên liệu vô minh để tiếp tục bùng cháy, chúng sẽ tự động tàn lụi theo quy luật vô thường!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng quán tâm là ngồi suy nghĩ, phân tích xem tại sao mình lại giận.",
+        "correction": "Đó là tâm lý học suy luận (Vitakka), không phải thiền. Thiền quán tâm là cảm nhận trực tiếp 'năng lượng của cơn giận' đang vận hành trong tâm thức ngay hiện tại."
+      },
+      {
+        "mistake": "Cảm thấy thất vọng và nghĩ mình tu dở khi thấy tâm vẫn còn nổi tham sân.",
+        "correction": "Còn là phàm phu thì tham sân vẫn sinh khởi là điều hoàn toàn tự nhiên. Điểm khác biệt của người tu là biết rõ nó khi nó vừa sinh khởi."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Kỹ thuật Đặt tên thầm lặng (Mental Note):** Khi một cơn giận hoặc ham muốn bùng lên, dừng lại mỉm cười và thầm ghi nhận: 'Sân... sân... sân' hoặc 'Tham... tham... tham'.\n2. **Giữ khoảng cách người xem:** Xem tâm trí như màn hình TV, còn bạn là khán giả ngồi xem phim; không nhảy vào màn hình để đóng kịch.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Dũng cảm đối diện với sự thật của tâm thức mà không trốn chạy hay ngụy biện."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn đã bao giờ thấy một cơn giận bốc lên dữ dội rồi tự nó biến mất mà bạn không cần phải làm gì ngoài việc ngồi yên quan sát?",
+    "selfAuditChecklist": [
+      "Tôi đã bắt quả tang được ít nhất một cơn bực dọc ngay khi nó mới manh nha.",
+      "Tôi không mắng mỏ bản thân khi phát hiện mình có suy nghĩ bất thiện.",
+      "Tôi thấy rõ bản chất vô ngã: Cơn giận không phải là tôi, nó chỉ là một trạng thái tâm sinh rồi diệt."
+    ]
+  }
+}

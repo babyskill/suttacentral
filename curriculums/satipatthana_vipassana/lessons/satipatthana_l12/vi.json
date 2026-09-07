@@ -1,0 +1,53 @@
+{
+  "lessonId": "satipatthana_l12",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 12,
+  "stageIndex": 4,
+  "title": "Bài 12: Bảy Yếu Tố Giác Ngộ & Bốn Sự Thật Màu Nhiệm",
+  "paliTitle": "Bojjhaṅga & Ariyasacca (MN 141)",
+  "suttaRef": {
+    "uid": "mn141",
+    "title": "Kinh Phân Biệt Về Sự Thật (Saccavibhaṅga Sutta — MN 141)",
+    "excerptPali": "Katamañcāvuso dukkhaṃ ariyasaccaṃ? Jātipi dukkhā, jarāpi dukkhā, maraṇampi dukkhaṃ... Saṅkhittena pañcupādānakkhandhā dukkhā... Katamañca dukkhasamudayaṃ ariyasaccaṃ? Yāyaṃ taṇhā ponobbhavikā nandirāgasahagatā... Katamañca dukkhanirodhaṃ ariyasaccaṃ? Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo... Katamañca dukkhanirodhagāminī paṭipadā ariyasaccaṃ? Ayameva ariyo aṭṭhaṅgiko maggo.",
+    "excerptTranslation": "Thế nào là Khổ Thánh Đế? Sinh là khổ, già là khổ, chết là khổ... Tóm lại năm thủ uẩn là khổ... Thế nào là Khổ Tập Thánh Đế? Chính là ái dục đưa đến tái sinh, câu hữu với hỷ và tham... Thế nào là Khổ Diệt Thánh Đế? Chính là sự đoạn diệt hoàn toàn không còn dư tàn của chính ái dục ấy, sự từ bỏ, sự xả ly... Thế nào là Con Đường Đưa Đến Khổ Diệt? Chính là Bát Chánh Đạo thù thắng này."
+  },
+  "pariyatti": {
+    "shortSummary": "Đỉnh cao của Pháp Quán Niệm Xứ là sự bừng nở của Thất Giác Chi (7 yếu tố đưa đến giác ngộ) và sự thấu triệt trọn vẹn Tứ Thánh Đế. Hành giả nhìn thấy sự thật về Khổ (Dukkha) không phải để bi quan, mà để nhổ tận gốc rễ Ái Dục (Samudaya), chứng nghiệm sự an lạc Niết-bàn (Nirodha) qua con đường Bát Chánh Đạo (Magga).",
+    "coreConcepts": [
+      {
+        "term": "Thất Giác Chi",
+        "pali": "Satta Bojjhaṅgā",
+        "definition": "7 chi phần giác ngộ: Niệm (Sati), Trạch pháp (Dhammavicaya), Tinh tấn (Viriya), Hỷ (Pīti), Khinh an (Passaddhi), Định (Samādhi), Xả (Upekkhā)."
+      },
+      {
+        "term": "Tứ Thánh Đế",
+        "pali": "Cattāri Ariyasaccāni",
+        "definition": "Bốn sự thật tối thượng: Khổ (cần hiểu rõ), Tập (cần đoạn trừ), Diệt (cần chứng ngộ), Đạo (cần tu tập)."
+      }
+    ],
+    "expositionMarkdown": "### 1. Sự Hài Hòa Kỳ Diệu Của 7 Giác Chi\n\nĐể tâm trí bừng sáng giác ngộ, 7 yếu tố giác ngộ phải được cân bằng tinh tế dưới sự điều phối của **Niệm (*Sati*)**:\n- **Nhóm kích hoạt năng lượng:** Trạch pháp (*Dhammavicaya*), Tinh tấn (*Viriya*), Hỷ (*Pīti*) — dùng khi tâm bị hôn trầm, uể oải.\n- **Nhóm an dịu tĩnh lặng:** Khinh an (*Passaddhi*), Định (*Samādhi*), Xả (*Upekkhā*) — dùng khi tâm bị trạo cử, bất an.\n- **Chánh niệm (*Sati*):** Đứng ở trung tâm, như người cầm lái điều tiết hai bên để cỗ xe tâm linh tiến thẳng về phía trước.\n\n### 2. Tứ Thánh Đế Không Phải Là Triết Thuyết Mà Là Bản Đồ Chữa Bệnh\nĐức Phật là vị Đại Y Vương chữa căn bệnh luân hồi:\n1. **Khổ Đế (*Dukkha*):** Chẩn đoán đúng căn bệnh (sự bất toại nguyện của kiếp sống vô thường).\n2. **Tập Đế (*Samudaya*):** Tìm ra nguyên nhân gốc rễ gây bệnh (lòng tham ái và bám chấp).\n3. **Diệt Đế (*Nirodha*):** Xác nhận bệnh có thể chữa khỏi hoàn toàn (sự tịch diệt của phiền não — Niết-bàn).\n4. **Đạo Đế (*Magga*):** Kê đơn thuốc điều trị toàn diện (Bát Chánh Đạo: Giới, Định, Tuệ).",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng đạo Phật bi quan vì mở đầu bằng 'Đời là bể khổ'.",
+        "correction": "Đạo Phật thực tế như y học. Nhận biết căn bệnh không phải là bi quan mà là bước đi khoa học đầu tiên để chữa lành bệnh tận gốc rễ."
+      },
+      {
+        "mistake": "Cho rằng chứng ngộ Tứ Diệu Đế là hiểu bằng ngôn ngữ logic hay triết học sách vở.",
+        "correction": "Chứng ngộ là sự 'trực giác trực tiếp' (Abhiññā) trên thân tâm mình trong lúc hành thiền, thấy tận mắt khoảnh khắc tham ái diệt thì khổ đau lập tức chấm dứt."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Thực tập quán sát 4 nhiệm vụ của Tứ Đế mỗi ngày: Nhận diện nỗi khổ khi nó tới; Tìm xem tham ái nào đang gây ra nó; Buông tay khỏi tham ái đó; An trú trong Chánh niệm và Giới luật.\n2. Nuôi dưỡng tâm Xả giác chi trước mọi biến động tài chính, khen chê thế gian.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Sự dũng cảm buông bỏ tham ái để nếm trải sự giải thoát nhiệm màu."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hôm nay, khi bạn buông bỏ được một sự bám chấp hay kỳ vọng cá nhân, bạn có nhận ra một tia sáng của Niết-bàn tịch tịnh vừa hé lộ trong tâm mình?",
+    "selfAuditChecklist": [
+      "Tôi đã thực hành nhận diện nguyên nhân tham ái đằng sau nỗi bực bội của mình.",
+      "Tôi cảm nhận được sự hiện diện của các giác chi: Niệm, Trạch pháp và Xả trong tâm.",
+      "Tôi có niềm tin bất hoại vào con đường Bát Chánh Đạo của Đức Phật."
+    ]
+  }
+}

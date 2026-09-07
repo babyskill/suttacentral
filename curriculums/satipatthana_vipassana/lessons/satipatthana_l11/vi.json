@@ -1,0 +1,68 @@
+{
+  "lessonId": "satipatthana_l11",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 11,
+  "stageIndex": 4,
+  "title": "Bài 11: Quán Năm Thủ Uẩn — Phá Vỡ Tòa Lâu Đài Của Bản Ngã",
+  "paliTitle": "Pañcupādānakkhandhā (SN 22.59)",
+  "suttaRef": {
+    "uid": "sn22.59",
+    "title": "Kinh Vô Ngã Tướng (Anattalakkhaṇa Sutta — SN 22.59)",
+    "excerptPali": "Rūpaṃ, bhikkhave, anattā. Rūpañca hidaṃ, bhikkhave, attā abhavissa, nayidaṃ rūpaṃ ābādhāya saṃvatteyya... Yasmā ca kho, bhikkhave, rūpaṃ anattā, tasmā rūpaṃ ābādhāya saṃvattati... Vedanā anattā... Saññā anattā... Saṅkhārā anattā... Viññāṇaṃ anattā.",
+    "excerptTranslation": "Sắc, này các Tỳ-kheo, là vô ngã. Này các Tỳ-kheo, nếu sắc là tự ngã, thời sắc này không thể bị bệnh hoạn... Vì sắc là vô ngã, nên sắc bị bệnh hoạn... Cảm thọ là vô ngã... Tri giác là vô ngã... Các hành là vô ngã... Thức là vô ngã."
+  },
+  "pariyatti": {
+    "shortSummary": "Toàn bộ con người chúng ta từ thân xác đến tâm thức chỉ là sự tập hợp của Năm Uẩn (Sắc, Thọ, Tưởng, Hành, Thức). Vì vô minh, ta chấp thủ và tin rằng có một 'Tôi' bất biến ngự trị trong 5 uẩn đó. Thấy rõ 5 uẩn đều là vô thường, khổ và vô ngã chính là nhát kiếm cắt đứt hoàn toàn Thân Kiến (Sakkāya-diṭṭhi).",
+    "coreConcepts": [
+      {
+        "term": "Sắc Uẩn",
+        "pali": "Rūpakkhandha",
+        "definition": "Cơ thể vật lý, tế bào, các giác quan và các đối tượng vật chất."
+      },
+      {
+        "term": "Thọ Uẩn",
+        "pali": "Vedanākkhandha",
+        "definition": "Các cảm giác vui, buồn, khổ, sướng và trung tính sinh khởi do tiếp xúc giác quan."
+      },
+      {
+        "term": "Tưởng Uẩn",
+        "pali": "Saññākkhandha",
+        "definition": "Ký ức, sự nhận biết, ghi nhớ và gán nhãn cho các đối tượng."
+      },
+      {
+        "term": "Hành Uẩn",
+        "pali": "Saṅkhārakkhandha",
+        "definition": "Các phản ứng tâm lý, ý muốn, ý định, cảm xúc yêu ghét thúc đẩy hành động."
+      },
+      {
+        "term": "Thức Uẩn",
+        "pali": "Viññāṇakkhandha",
+        "definition": "Khả năng nhận biết thuần túy qua 6 giác quan (mắt thấy, tai nghe, mũi ngửi...)."
+      }
+    ],
+    "expositionMarkdown": "### 1. Ẩn Dụ Tuyệt Mỹ Về Năm Uẩn Trong Kinh Bọt Nước (SN 22.95)\n\nĐức Phật dùng 5 hình ảnh thiên nhiên tráng lệ để diễn tả sự rỗng không của con người:\n1. **Sắc uẩn như đống bọt nước trên sông:** Trôi nổi bồng bềnh, chạm vào là vỡ vụn.\n2. **Thọ uẩn như bong bóng mưa:** Vừa phập phồng hiện ra liền tan biến ngay tức khắc.\n3. **Tưởng uẩn như ảo ảnh giữa sa mạc trưa hè:** Nhìn từ xa tưởng là hồ nước trong lành, chạy đến gần chỉ là hơi nóng bốc lên mặt cát khô cằn.\n4. **Hành uẩn như thân cây chuối:** Người tiều phu lột từng lớp bẹ tìm lõi gỗ đặc bên trong, lột hết chẳng thấy có gì đặc ruột.\n5. **Thức uẩn như trò ảo thuật của nhà ảo thuật gia:** Tạo ra đủ loại hình ảnh biến hóa trước mắt khán giả nhưng hoàn toàn không có thực chất kiên cố.\n\n### 2. Thân Kiến — Nguồn Gốc Của Mọi Bi Kịch Nhân Loại\nKhi ta nói 'Tôi bị xúc phạm', 'Nhà của tôi', 'Ý kiến của tôi', ta đang tự trói mình vào một bóng ma. Khi soi rọi bằng Vipassanā: chỉ có Sắc uẩn bị va chạm bởi sóng âm thanh, Thọ uẩn khởi lên cảm giác khó chịu, Tưởng uẩn gán nhãn 'lời chê bai', Hành uẩn nổi cơn tự ái, Thức uẩn ghi nhận tiến trình. **Không có một 'Ông Tôi' nào bị tổn thương ở đây cả!** Thấy được như vậy, mọi đau khổ tự nhiên rơi rụng.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng Vô ngã (Anattā) nghĩa là hư vô chủ nghĩa, chết là hết hoặc không có nhân quả.",
+        "correction": "Đức Phật bác bỏ thuyết đoạn diệt. Dù không có cái Tôi bất biến, nhưng dòng chảy Duyên khởi của nghiệp (Kamma) và quả của nghiệp vẫn tiếp nối liên tục như ngọn nến này mồi sang ngọn nến khác."
+      },
+      {
+        "mistake": "Nghĩ rằng phải triệt tiêu 5 uẩn thì mới hết khổ.",
+        "correction": "Năm uẩn tự nó là hiện tượng tự nhiên; khổ đau chỉ sinh ra do sự 'chấp thủ' (Upādāna) vào 5 uẩn mà thôi. Khi buông bỏ chấp thủ, 5 uẩn vẫn vận hành nhưng tâm hoàn toàn thanh tịnh."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Ngồi thiền: Quán chiếu cơ thể (Sắc), cảm giác (Thọ), sự nhận biết (Tưởng), suy nghĩ khởi lên (Hành), sự hay biết (Thức).\n2. Khẳng định trong chánh niệm từng phút giây: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải tự ngã của tôi'.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Sống vô ngã, buông bỏ lòng tự ái và thái độ bám chấp độc tôn."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Khi ai đó phê bình bạn trong ngày hôm nay, bạn có thấy được rằng đó chỉ là những lời nói chạm vào Tưởng và Hành uẩn, chứ không chạm được vào sự an tịnh sâu thẳm của tâm?",
+    "selfAuditChecklist": [
+      "Tôi đã quan sát được sự phân rã của cảm xúc thành các uẩn riêng biệt.",
+      "Tôi không để cho lòng tự ái bản ngã châm ngòi cho các cuộc tranh cãi.",
+      "Tôi cảm nhận được sự tự do khi thấy mình không bị giới hạn trong thân xác này."
+    ]
+  }
+}

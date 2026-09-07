@@ -1,0 +1,53 @@
+{
+  "lessonId": "satipatthana_l04",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 4,
+  "stageIndex": 1,
+  "title": "Bài 4: Thân Hành Niệm & Thể Phần — Giải Mã Ảo Tưởng Thân Sắc",
+  "paliTitle": "Kāyagatāsati Sutta (MN 119)",
+  "suttaRef": {
+    "uid": "mn119",
+    "title": "Kinh Thân Hành Niệm (MN 119)",
+    "excerptPali": "Seyyathāpi, bhikkhave, ubhatomukhā mutoli pūrā nānāvihitassa dhaññassa... Tamenaṃ cakkhumā puriso muñcitvā paccavekkheyya: 'ime sālī, ime vīhī, ime muggā'... Evameva kho, bhikkhave, bhikkhu imameva kāyaṃ... paccavekkhati: 'atthi imasmiṃ kāye kesā lomā nakhā dantā taco maṃsaṃ nhāru aṭṭhi...'",
+    "excerptTranslation": "Ví như, này các Tỳ-kheo, một bao bì mở cả hai đầu chứa đầy các loại ngũ cốc... Một người có mắt mở bao ra và quán sát: 'Đây là gạo, đây là lúa, đây là đậu xanh'... Cũng vậy, này các Tỳ-kheo, Tỳ-kheo quán sát chính thân này...: 'Trong thân này có tóc, lông, móng, răng, da, thịt, gân, xương...'"
+  },
+  "pariyatti": {
+    "shortSummary": "Ảo tưởng về vẻ đẹp và sự quyến rũ của thân thể phàm phu được duy trì bởi lớp da mỏng manh bao bọc bên ngoài. Khi lột bỏ lớp da, bên trong chỉ là 31 thể phần duyên hợp vô thường. Quán chiếu thể phần giúp tâm đoạn trừ ái dục cuồng si và thiết lập sự tự do nội tại.",
+    "coreConcepts": [
+      {
+        "term": "Thân Hành Niệm",
+        "pali": "Kāyagatāsati",
+        "definition": "Sự an trú tâm thường xuyên vào bên trong thân thể, không để tâm phóng túng theo các kích thích ngoại cảnh."
+      },
+      {
+        "term": "Quán Thể Phần Bất Tịnh",
+        "pali": "Paṭikūlamanasikāra",
+        "definition": "Phương pháp mổ xẻ cấu trúc sinh học của thân thành 31-32 thể phần để giải trừ ảo tưởng hấp dẫn giới tính và dính mắc tự thân."
+      }
+    ],
+    "expositionMarkdown": "### 1. Cái Bẫy Nhan Sắc Của Não Bộ\n\nBộ não con người bị lập trình bởi bản năng sinh tồn và sinh sản để bị mê hoặc bởi làn da mịn, hàm răng trắng, mái tóc đen. Nhưng Đức Phật chỉ ra rằng: Nếu bóc lớp da mỏng chỉ vài milimet ra, không một ai trên thế giới còn cảm thấy thèm muốn hay si mê nữa.\n\n### 2. Tinh Thần Giải Phẫu Học Tâm Linh\nĐức Phật ví người hành giả như một người kiểm kho thông minh: Mở bao ngũ cốc ra và thấy rõ đâu là đỗ, đâu là mè, đâu là thóc. Thân này có 5 phần đầu tiên gọi là *Taca-pañcaka* (Tóc, Lông, Móng, Răng, Da) — đây là những thứ mà nhân loại chi hàng ngàn tỷ đô la mỗi năm để tô vẽ, nhưng hễ rụng ra khỏi thân thì lại trở thành rác rưởi dơ bẩn!\n\nNhận diện sự thật này không phải để chán ghét tự hủy hoại bản thân, mà là để đạt đến tâm **Xả ly (Nibbida)** — thoát khỏi kiếp nô lệ cho nhan sắc và trang sức phù phiếm.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng quán bất tịnh sẽ sinh tâm trầm cảm, chán đời hoặc muốn hủy hoại thân thể.",
+        "correction": "Đức Phật dạy đề mục này nhằm chữa trị căn bệnh tham dục và ái ngã. Thuốc đắng dã tật; khi tham dục dịu xuống, tâm sẽ tràn ngập sự khinh an thanh tịnh."
+      },
+      {
+        "mistake": "Nghĩ rằng người tu phải bỏ bê vệ sinh thân thể cho bẩn thỉu.",
+        "correction": "Giữ thân sạch sẽ là bổn phận chăm sóc sức khỏe, nhưng tâm không còn dính mắc hay tự phụ về hình tướng bên ngoài."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Trước gương hoặc trong lúc tắm: Nhìn tóc, móng, răng, da và quán chiếu tính chất tự nhiên của chúng.\n2. Tĩnh tọa: Quán chiếu bộ xương trắng đang nâng đỡ toàn bộ khối thịt và gân này. Thấy rõ sự hữu hạn của kiếp người.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Tâm thái bình thản, không bám víu vào sắc đẹp phù du của mình và người khác."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn đã bao giờ nhìn người khác hoặc chính mình mà không bị chi phối bởi tiêu chuẩn nhan sắc thế tục chưa?",
+    "selfAuditChecklist": [
+      "Tôi không tiêu tốn thời gian và tiền bạc quá mức vào việc chải chuốt ngoại hình vô ích.",
+      "Tôi quán chiếu được tính vô thường của sắc thân khi thấy tóc bạc hay nếp nhăn mới.",
+      "Tâm tôi lắng dịu bớt các xung năng dục vọng nhờ quán chiếu thể phần."
+    ]
+  }
+}

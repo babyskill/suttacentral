@@ -1,0 +1,53 @@
+{
+  "lessonId": "satipatthana_l09",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 9,
+  "stageIndex": 3,
+  "title": "Lesson 9: The Simile of the Cook — The Art of Discerning the Mind's Object",
+  "paliTitle": "Sūda Sutta (SN 47.8)",
+  "suttaRef": {
+    "uid": "sn47.8",
+    "title": "The Cook (SN 47.8)",
+    "excerptPali": "Seyyathāpi, bhikkhave, bālo abyatto akusalo sūdo rājānaṃ vā rājamahāmattaṃ vā nānāvidhehi sūpehi paccupaṭṭhito hoti... So tassa sakassa bhattuno nimittaṃ na gaṇhāti... Evameva kho, bhikkhave, idhekacco bālo abyatto akusalo bhikkhu kāye kāyānupassī viharati... So tassa cittassa nimittaṃ na gaṇhāti.",
+    "excerptTranslation": "Suppose, monks, a foolish, unskillful cook presents a king with various soups: sour, bitter, sweet, salty... He does not take note of his master's preference... In the same way, an unskillful meditator dwells contemplating body, feelings, mind, dhammas... but does not take note of the sign of his own mind."
+  },
+  "pariyatti": {
+    "shortSummary": "In the Sūda Sutta, the Buddha illustrates the difference between an unskillful and a wise meditator through the parable of the cook. The wise practitioner discerns which contemplation object nourishes the mind in specific moments, reaping liberation and joyous peace.",
+    "coreConcepts": [
+      {
+        "term": "Taking Note of the Mind's Sign",
+        "pali": "Cittassa Nimittaṃ Gaṇhāti",
+        "definition": "Intuitively discerning current mental climate, receptivity, and organic needs of consciousness."
+      },
+      {
+        "term": "Skillful Meditation Object Selection",
+        "pali": "Kusala Kammaṭṭhāna",
+        "definition": "Flexible matching of contemplation subjects to nourish balance and awakening."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Tale of Two Cooks\nThe foolish cook blindly serves random dishes without sensing the sovereign's inclination, laboring in vain. The wise cook keenly notices: 'Today the king favored the tart soup', tailoring the meal and winning royal treasure.\n\n### 2. Spiritual Menu Engineering\nWhen seething with bitterness, offer the heart Loving-Kindness (*Mettā*). When overwhelmed by lust, contemplate anatomical elements. When serene and lucid, immerse in pure Satipaṭṭhāna.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Rigid dogmatic attachment to a single technique even when it is manifestly failing.",
+        "correction": "Techniques are rafts, not handcuffs. The wise practitioner applies the canonical medicine tailored to the affliction."
+      },
+      {
+        "mistake": "Equating intelligent adaptation with fickle distraction.",
+        "correction": "Wise accommodation is praised by the Buddha as supreme skillfulness (*Kusala*)."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Before sitting, take 1 minute to ask: 'What spiritual nourishment does my mind need now: stillness, loving-kindness, or energetic investigation?'.\n2. Select the optimal contemplation object consciously.",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Supple self-awareness free from dogmatic rigidity."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you tenderly nourish and attune your mind with wholesome medicine today rather than forcing it mechanically?",
+    "selfAuditChecklist": [
+      "I listened attentively to my inner climate before beginning practice.",
+      "I flexibly deployed canonical methods to resolve psychological knots.",
+      "I tasted profound joy when the meditation object harmonized with consciousness."
+    ]
+  }
+}

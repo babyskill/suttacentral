@@ -1,0 +1,63 @@
+{
+  "lessonId": "satipatthana_l07",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 7,
+  "stageIndex": 3,
+  "title": "Lesson 7: Discerning Mind with Greed, Hatred, Delusion & Liberated Mind",
+  "paliTitle": "Sarāga & Sadosa Citta (MN 10)",
+  "suttaRef": {
+    "uid": "mn10",
+    "title": "Satipaṭṭhāna Sutta — Contemplation of the Mind (MN 10)",
+    "excerptPali": "Sarāgaṃ vā cittaṃ 'sarāgaṃ cittan'ti pajānāti, vītarāgaṃ vā cittaṃ 'vītarāgaṃ cittan'ti pajānāti. Sadosaṃ vā cittaṃ 'sadosaṃ cittan'ti pajānāti, vītadosaṃ vā cittaṃ 'vītadosaṃ cittan'ti pajānāti. Samohaṃ vā cittaṃ 'samohaṃ cittan'ti pajānāti, vītamohaṃ vā cittaṃ 'vītamohaṃ cittan'ti pajānāti.",
+    "excerptTranslation": "He discerns mind affected by lust as 'mind affected by lust', and mind unaffected by lust as 'mind unaffected by lust.' He discerns mind affected by hate as 'mind affected by hate', and mind unaffected by hate as 'mind unaffected by hate.' He discerns mind affected by delusion as 'mind affected by delusion', and mind unaffected by delusion as 'mind unaffected by delusion.'"
+  },
+  "pariyatti": {
+    "shortSummary": "Consciousness has no form of its own but takes on the color of accompanying mental factors (*Cetasikas*). The Buddha trains the meditator as an objective witness observing mental states without self-identification ('I am angry', 'I am greedy'), liberating the heart from neurotic guilt.",
+    "coreConcepts": [
+      {
+        "term": "Mind with Greed",
+        "pali": "Sarāga Citta",
+        "definition": "State of consciousness clinging, hungering, or grasping after alluring objects."
+      },
+      {
+        "term": "Mind with Hatred",
+        "pali": "Sadosa Citta",
+        "definition": "State of consciousness repelling, resisting, or despising disagreeable objects."
+      },
+      {
+        "term": "Mind with Delusion",
+        "pali": "Samoha Citta",
+        "definition": "Confused, clouded state blind to the realities of impermanence, suffering, and nonself."
+      },
+      {
+        "term": "Discerning as It Is",
+        "pali": "Yathābhūta Pajānāti",
+        "definition": "Pristine, unadulterated witness consciousness free from subjective moralistic distortion."
+      }
+    ],
+    "expositionMarkdown": "### 1. Psychological Revolution of Mind Contemplation\nHumanity swings between toxic identification ('I am angry') and violent suppression. The Buddha introduces the transcendent Middle Way: **Pure Awareness**.\n- Discerning: 'Mind with hate present'. When illumined by conscious awareness, the fire of aversion runs out of ignorant fuel and dissolves on its own.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Contemplation of mind means psychoanalyzing past childhood trauma.",
+        "correction": "That is intellectual speculation. Satipaṭṭhāna is direct real-time observation of the emotional energy in consciousness now."
+      },
+      {
+        "mistake": "Feeling demoralized when defilements still arise.",
+        "correction": "Defilements arise naturally in unawakened beings. Progress is measured by how swiftly awareness catches them."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Silent labeling: When irritation or greed flares, softly register: 'Anger... anger' or 'Craving... craving'.\n2. Spectator stance: View your mental cinema from the audience; never jump onto the screen to act out the drama.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Courageous honesty in facing inner states without excuses or evasion."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Have you witnessed a fierce wave of anger peak and dissolve on its own simply because you watched it quietly?",
+    "selfAuditChecklist": [
+      "I caught at least one irritable impulse in its nascent stage.",
+      "I refrained from self-condemnation upon noticing unwholesome thoughts.",
+      "I experienced nonself directly: the anger was not 'Me', merely a transient mental guest."
+    ]
+  }
+}

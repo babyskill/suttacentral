@@ -1,0 +1,59 @@
+{
+  "lessonId": "satipatthana_l01",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 1,
+  "stageIndex": 1,
+  "title": "Bài 1: Hơi Thở Vào Ra — Cánh Cửa Đi Vào Hiện Tại",
+  "paliTitle": "Ānāpānasati Sutta (MN 118)",
+  "suttaRef": {
+    "uid": "mn118",
+    "title": "Kinh Nhập Tức Xuất Tức Niệm (MN 118 - Majjhima Nikāya)",
+    "excerptPali": "Dīghaṃ vā assasanto 'dīghaṃ assasāmī'ti pajānāti, dīghaṃ vā passasanto 'dīghaṃ passasāmī'ti pajānāti... 'Sabbakāyapaṭisaṃvedī assasissāmī'ti sikkhati, 'sabbakāyapaṭisaṃvedī passasissāmī'ti sikkhati; 'passambhayam kāyasaṅkhāraṃ assasissāmī'ti sikkhati, 'passambhayam kāyasaṅkhāraṃ passasissāmī'ti sikkhati.",
+    "excerptTranslation": "Thở vô dài, người ấy biết: 'Tôi thở vô dài.' Thở ra dài, người ấy biết: 'Tôi thở ra dài.'... Người ấy tập: 'Cảm giác toàn thân, tôi sẽ thở vô.' Người ấy tập: 'Cảm giác toàn thân, tôi sẽ thở ra.' Người ấy tập: 'An tịnh thân hành, tôi sẽ thở vô.' Người ấy tập: 'An tịnh thân hành, tôi sẽ thở ra.'"
+  },
+  "pariyatti": {
+    "shortSummary": "Hơi thở tự nhiên là chiếc mỏ neo vi diệu và trung thực nhất kéo tâm thức lang thang trở về thực tại nơi thân thể. Bằng cách quán niệm 4 bước đầu tiên của kinh Ānāpānasati, hành giả an tịnh thân hành và đặt nền móng sơ khởi cho thiền tuệ Vipassanā.",
+    "coreConcepts": [
+      {
+        "term": "Niệm Hơi Thở",
+        "pali": "Ānāpānasati",
+        "definition": "Chánh niệm tỉnh giác theo dõi luồng hơi thở tự nhiên đi vào và đi ra nơi cửa mũi hoặc môi trên mà không dùng ý chí can thiệp."
+      },
+      {
+        "term": "Toàn Thân Hơi Thở",
+        "pali": "Sabbakāya",
+        "definition": "Toàn bộ tiến trình của một chu kỳ hơi thở từ lúc bắt đầu, chặng giữa cho đến khi kết thúc (hoặc toàn bộ cơ thể vật lý được xoa dịu bởi hơi thở)."
+      },
+      {
+        "term": "An Tịnh Thân Hành",
+        "pali": "Passambhayam Kāyasaṅkhāraṃ",
+        "definition": "Sự lắng dịu dần dần của các biến động thô nhám trên thân xác và hơi thở khi tâm an định."
+      }
+    ],
+    "expositionMarkdown": "### 1. Tại Sao Hơi Thở Là Đề Mục Nền Tảng Của Tứ Niệm Xứ?\n\nTrong các đề mục thiền định, hơi thở (*Ānāpāna*) mang những đặc tính vô song:\n- **Luôn có mặt:** Hơi thở đồng hành cùng ta từ tiếng khóc chào đời đến hơi thở tàn cuối cùng. Dù ở bất cứ đâu, trong phòng thiền hay trên tàu xe, ta luôn có sẵn đề mục.\n- **Phản ánh trung thực tâm thức:** Khi tâm sân hận hay lo âu, hơi thở lập tức trở nên gấp gáp, nóng bức, thô kệch. Khi tâm buông thư và an tịnh, hơi thở tự nhiên trở nên vi tế, êm dịu, nhẹ nhàng như sợi tơ.\n- **Cầu nối Thân và Tâm:** Hơi thở thuộc về Thân (*Kāyasaṅkhāra*), nhưng sự nhận biết hơi thở lại thuộc về Tâm (*Citta*). Dùng tâm biết rõ thân là bước khởi đầu căn bản của Tứ Niệm Xứ.\n\n---\n\n### 2. Bốn Bậc Đầu Của Kinh Ānāpānasati (Quán Thân Trong Hơi Thở)\n\n1. **Nhận biết Hơi Thở Dài:** Hít vào dài biết rõ, thở ra dài biết rõ. 'Biết rõ' (*Pajānāti*) nghĩa là chỉ thuần túy quan sát, không ép hơi thở phải dài ra.\n2. **Nhận biết Hơi Thở Ngắn:** Khi thân tâm lắng dịu dần, hơi thở tự động rút ngắn lại. Hành giả chỉ ghi nhận sự ngắn lại ấy như thật.\n3. **Cảm giác Toàn Thân Hơi Thở (*Sabbakāya*):** Cảm nhận trọn vẹn điểm đầu, đoạn giữa và điểm cuối của luồng khí vào ra, nhận biết sự phập phồng của lồng ngực và bụng.\n4. **An tịnh Thân Hành (*Passambhayam*):** Để hơi thở tự tìm đến trạng thái tĩnh lặng nhất mà không dùng bất kỳ sự gượng gạo nào.\n\n---\n\n### 3. Cảnh Giác: Thiền Quán Không Phải Là Khí Công\n\nNhiều người lầm tưởng niệm hơi thở là phải hít sâu vào đan điền, nín thở hay gồng cơ hoành. Đó là các bài tập dưỡng sinh thể chất, không phải Chánh niệm Pāḷi. Trong Vipassanā, ta để hơi thở diễn ra hoàn toàn tự nhiên. Nhiệm vụ duy nhất của hành giả là làm một **'người gác cổng tỉnh thức'** — ai ra vào cửa cổng (mũi/môi) đều được ghi nhận phân minh.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cố tình ép hơi thở sâu và chậm lại để mau đạt được cảm giác an lạc.",
+        "correction": "Ép hơi thở sẽ gây căng thẳng lồng ngực và ngột ngạt. Chánh niệm chân chính là để hơi thở tự nhiên, dù nông, sâu, dài hay ngắn đều chỉ thuần túy ghi nhận."
+      },
+      {
+        "mistake": "Nghĩ rằng niệm hơi thở chỉ là thiền Chỉ (Samatha) chứ không thể phát triển tuệ giác (Vipassanā).",
+        "correction": "Kinh MN 118 chỉ rõ: Khi quán sát tính sinh diệt, biến đổi không ngừng của hơi thở và thấy rõ hơi thở vô ngã không do ta sở hữu, 16 đề mục Ānāpāna làm viên mãn cả 4 Niệm xứ và 7 Giác chi."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Tư thế:** Ngồi bán già hoặc kiết già, giữ cột sống thẳng tự nhiên nhưng các cơ bắp toàn thân hoàn toàn buông lỏng.\n2. **Điểm chạm:** Chú ý vào cảm giác mát khi gió vào và ấm khi gió ra tại vành mũi hoặc bờ môi trên.\n3. **Thời lượng:** Thực hành tĩnh tọa 15–20 phút mỗi sớm mai trước khi bước vào ngày mới.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Kiên nhẫn đưa tâm quay về với hơi thở mỗi khi phát hiện tâm vừa bị lôi cuốn bởi tạp niệm."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Khi quan sát hơi thở hôm nay, bạn có nhận ra hơi thở tự vào rồi tự ra mà không cần một 'cái Tôi' nào ra lệnh?",
+    "selfAuditChecklist": [
+      "Tôi đã ngồi trọn vẹn 15 phút không cử động thân thể vô cớ.",
+      "Tôi không cố tình gồng ép hay điều khiển hơi thở theo ý muốn.",
+      "Mỗi khi tâm phóng dật, tôi nhận diện và mỉm cười quay về hơi thở.",
+      "Thân thể và tâm trí tôi cảm nhận được sự nhẹ nhàng lắng dịu sau thời thiền."
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "lessonId": "satipatthana_l08",
+  "curriculumId": "satipatthana_vipassana",
+  "lessonNumber": 8,
+  "stageIndex": 3,
+  "title": "Bài 8: Tâm Co Rút, Phóng Dật & Đờ Đẫn — Kỹ Thuật Điều Phục",
+  "paliTitle": "Paṁsudhovaka Sutta (AN 3.100)",
+  "suttaRef": {
+    "uid": "an3.100",
+    "title": "Kinh Người Lọc Vàng (AN 3.100 - Aṅguttara Nikāya)",
+    "excerptPali": "Seyyathāpi, bhikkhave, suvaṇṇakāro vā suvaṇṇakārantevāsī vā ukkaṃ bandhati... Kālena kālaṃ samādhinimittaṃ manasi karoti, kālena kālaṃ paggahanimittaṃ manasi karoti, kālena kālaṃ upekkhānimittaṃ manasi karoti... Taṃ hoti cittaṃ muduñca kammaniyañca pabhassarañca, na ca pabhaṅgu.",
+    "excerptTranslation": "Ví như, này các Tỳ-kheo, người thợ vàng hay người học việc thợ vàng... thỉnh thoảng chú tâm đến tướng định, thỉnh thoảng chú tâm đến tướng tinh tấn, thỉnh thoảng chú tâm đến tướng xả... Nhờ vậy tâm trở nên nhu nhuyễn, dễ sử dụng, chói sáng và không bị bể vụn."
+  },
+  "pariyatti": {
+    "shortSummary": "Trong quá trình hành thiền, tâm trí thường xuyên bị dao động giữa hai thái cực nguy hiểm: Hôn trầm co rút (Sloth & Torpor) và Trạo cử phóng dật (Restlessness). Đức Phật dạy nghệ thuật điều hòa tâm như người thợ luyện vàng: biết gia tăng tinh tấn khi tâm chùng xuống và tăng cường định tĩnh khi tâm quá lăng xăng.",
+    "coreConcepts": [
+      {
+        "term": "Tâm Co Rút / Thu Muội",
+        "pali": "Saṅkhitta Citta",
+        "definition": "Trạng thái tâm bị chìm đắm, lười biếng, hôn trầm, đờ đẫn, thiếu sức sống nhận thức."
+      },
+      {
+        "term": "Tâm Phóng Dật / Tán Loạn",
+        "pali": "Vikkhitta Citta",
+        "definition": "Trạng thái tâm nhảy nhót, bồn chồn, bay lượn từ ý nghĩ này sang ký ức khác không thể an trú."
+      },
+      {
+        "term": "Nhu Nhuyễn & Dễ Sử Dụng",
+        "pali": "Mudu & Kammaniya",
+        "definition": "Trạng thái tâm đạt được sự quân bình hoàn hảo giữa Định (Samatha) và Tuệ (Vipassanā), sẵn sàng thấu suốt chân lý."
+      }
+    ],
+    "expositionMarkdown": "### 1. Ẩn Dụ Chiếc Lò Luyện Vàng Của Người Thợ Khéo\n\nNgười thợ vàng muốn chế tác món đồ trang sức tinh xảo:\n- Nếu chỉ liên tục thổi lửa (tinh tấn quá mức) → Vàng sẽ bị cháy khét và gãy giòn (tâm rơi vào trạo cử, lo âu).\n- Nếu chỉ liên tục rưới nước làm nguội (định tĩnh quá mức) → Vàng sẽ bị nguội ngắt và cứng đờ (tâm rơi vào hôn trầm, ngủ gục).\n- Phải biết luân phiên thổi lửa, rưới nước và quán sát với tâm xả (*Upekkhā*) → Vàng sẽ trở nên mềm mại, dẻo dai và sáng chói.\n\n### 2. Các Pháp Đối Trị Cụ Thể Trong Tứ Niệm Xứ\n- **Khi buồn ngủ, lờ đờ:** Mở mắt to, quán tưởng luồng ánh sáng chói lọi trước trán (*Ālokasaññā*), đứng dậy thiền hành, xoa bóp vành tai, hoặc quán chiếu cái chết bất ngờ có thể ập đến bất cứ lúc nào.\n- **Khi tâm nhảy nhót như đàn khỉ:** Đừng cố dùng suy nghĩ để chống lại suy nghĩ! Hãy lập tức hạ cánh khẩn cấp về cảm giác hơi thở xúc chạm tại cửa mũi, hoặc đếm hơi thở từ 1 đến 10 để neo chặt tâm lại.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cố ép tâm không được có một ý nghĩ nào cả trong suốt thời thiền.",
+        "correction": "Tâm trí có bản chất sản xuất suy nghĩ như dạ dày tiết dịch vị. Mục tiêu không phải là biến não thành khoảng không rỗng tuếch, mà là không bị cuốn theo dòng suy nghĩ."
+      },
+      {
+        "mistake": "Xem cơn buồn ngủ khi ngồi thiền là dấu hiệu của sự định tâm sâu sắc.",
+        "correction": "Đó là hôn trầm thụy miên (*Thīna-middha*), một trong 5 Triền cái che mờ trí tuệ, hoàn toàn trái ngược với Chánh định sáng suốt."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Trong thời thiền: Khi nhận thấy đầu gật gù, hít sâu 3 hơi mạnh, mở mắt nhìn thẳng về phía trước 1-2 mét.\n2. Khi nhận thấy tâm bay bổng lên kế hoạch tương lai: Nhẹ nhàng thầm nhủ 'suy nghĩ... suy nghĩ' và đưa sự chú ý trở về cảm giác bàn tọa chạm đệm thiền.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Biết cách điều tiết và giữ thăng bằng năng lượng tinh thần trong mọi hoạt động."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn đã học được cách trở thành 'người thợ vàng' thông minh, biết lúc nào cần thúc đẩy năng lượng và lúc nào cần buông thư tâm trí chưa?",
+    "selfAuditChecklist": [
+      "Tôi nhận biết được trạng thái co rút (buồn ngủ) và phóng dật (nghĩ ngợi) ngay khi chúng xuất hiện.",
+      "Tôi đã áp dụng thành công ít nhất một pháp đối trị để lấy lại sự tỉnh thức.",
+      "Tâm trí tôi sau thời thiền đạt được sự linh hoạt, sáng suốt và bình thản."
+    ]
+  }
+}
