@@ -1,0 +1,58 @@
+{
+  "lessonId": "paticcasamuppada_l04",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 4,
+  "stageIndex": 2,
+  "title": "Bài 4: Xúc, Thọ, Ái, Thủ — Mắt Xích Kích Hoạt Luân Hồi",
+  "paliTitle": "Mahānidāna Sutta (DN 15)",
+  "suttaRef": {
+    "uid": "dn15",
+    "title": "Kinh Đại Duyên (Mahānidāna Sutta — DN 15)",
+    "excerptPali": "'Vedanāpaccayā taṇhā'ti iti kho panetaṃ vuttaṃ... Taṇhāpaccayā pariyesanā, pariyesanāpaccayā lābho, lābhapaccayā vinicchayo, vinicchayapaccayā chandarāgo... Etampeso, ānanda, pariyāyo yena vedanāpaccayā taṇhā veditabbā.",
+    "excerptTranslation": "'Do duyên Cảm Thọ có Ái Dục', điều này đã được tuyên bố... Do duyên Ái có Tìm cầu; do duyên Tìm cầu có Thủ đắc; do duyên Thủ đắc có Phán đoán; do duyên Phán đoán có Dục tham; do duyên Dục tham có Chấp giữ; do duyên Chấp giữ có Bủn xỉn; do duyên Bủn xỉn có Phòng hộ; do duyên Phòng hộ mà phát sinh đao trượng, tranh chấp, đấu khẩu, nói láo, và vô số ác bất thiện pháp khởi lên!"
+  },
+  "pariyatti": {
+    "shortSummary": "Kinh Đại Duyên (DN 15) là bản kinh thâm sâu bậc nhất về Duyên Khởi xã hội học và tâm lý học. Đức Phật vạch trần con đường dẫn đến chiến tranh, cãi vã, lừa đảo và đau khổ của nhân loại: Tất cả bắt đầu từ một cảm giác dễ chịu (Thọ) ➔ bùng phát thành thèm muốn (Ái) ➔ biến thành bám chặt chiếm đoạt (Thủ) ➔ ra sức bảo vệ tài sản (Hữu) ➔ xung đột và tương tàn!",
+    "coreConcepts": [
+      {
+        "term": "Xúc",
+        "pali": "Phassa",
+        "definition": "Sự hội tụ của 3 yếu tố: Căn (mắt), Trần (sắc), và Thức (nhãn thức)."
+      },
+      {
+        "term": "Ái Dục",
+        "pali": "Taṇhā",
+        "definition": "Cơn khát khao, thèm muốn đối với các đối tượng giác quan (Dục ái, Hữu ái, Phi hữu ái)."
+      },
+      {
+        "term": "Chấp Thủ",
+        "pali": "Upādāna",
+        "definition": "Sự nắm chặt, bám víu mãnh liệt biến đối tượng thành 'của Tôi' (Dục thủ, Kiến thủ, Giới cấm thủ, Ngã luận thủ)."
+      }
+    ],
+    "expositionMarkdown": "### 1. Tại Sao Thế Giới Lại Tranh Đấu Vì Miếng Cơm Manh Áo?\n\nTrong Kinh Đại Duyên, Đức Phật đã phân tích tâm lý học tội phạm và chiến tranh một cách sắc bén đến kinh ngạc:\n- Khi mắt nhìn thấy tiền tài, danh vọng hoặc người đẹp → sinh ra **Cảm Thọ dễ chịu (*Sukha Vedanā*)**.\n- Phàm phu lập tức khởi lên **Cơn Khát Thèm Muốn (*Ái*)**.\n- Có Ái liền sinh ra hành động **Tìm Kiếm (*Pariyesanā*)**.\n- Tìm kiếm được rồi thì sinh tâm **Chiếm Hữu (*Lābha*)**.\n- Chiếm hữu rồi liền sinh tâm **Bủn Xỉn, Ganh Tỵ (*Macchariya*)**.\n- Muốn bảo vệ tài sản của mình khỏi kẻ khác cướp đoạt liền lập hàng rào, vác gươm giáo, súng đạn ra **Phòng Hộ (*Rakkhā*)**.\n- Từ sự phòng hộ ích kỷ đó nảy sinh xung đột gia đình, kiện tụng thương trường, và chiến tranh giữa các quốc gia!\n\n### 2. Điểm 'Cắt Cầu Dao' Duy Nhất Của Người Tu Tập\nTa không thể mù mắt hay điếc tai để trốn tránh Xúc. Nhưng **ta hoàn toàn có thể dừng lại ở THỌ mà không để THỌ biến thành ÁI và THỦ!**\nKhi ăn một miếng ngon: Biết rõ vị ngon ngọt (Thọ), nhưng chánh niệm soi chiếu 'đây chỉ là vị giác sinh diệt', không khởi tâm thèm thuồng nghiện ngập (không có Ái). Cầu dao luân hồi bị cắt đứt ngay tại bàn ăn!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng Cảm Thọ (Vedanā) chính là tội lỗi và nguyên nhân gây khổ đau.",
+        "correction": "Cảm thọ là hiện tượng sinh học tự nhiên vô tội. Kẻ thực sự gây khổ đau là lòng Tham Ái (Taṇhā) bám theo sau cảm thọ đó."
+      },
+      {
+        "mistake": "Nghĩ rằng buông bỏ Chấp Thủ (Upādāna) là trở nên vô cảm, bỏ bê gia đình và công việc.",
+        "correction": "Không chấp thủ là không bám víu và sở hữu một cách độc đoán; nhờ vậy ta chăm sóc gia đình và làm việc với tình thương và trí tuệ thanh thản nhất."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Bài tập 3 Giây Chánh Niệm Khi Mua Sắm:** Khi thấy một món đồ kích thích thị giác, dừng lại 3 giây và tự hỏi: 'Cảm giác muốn mua này là nhu cầu thực sự hay chỉ là phản ứng Ái dục của mắt?'.\n2. **Tập Ăn Uống Trong Tỉnh Giác:** Nhận diện cảm giác thèm ăn trước khi ăn; ghi nhận vị ngon khi nhai; và thấy rõ vị ngon tan biến khi nuốt trôi qua cổ họng.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Làm chủ ham muốn giác quan, bảo vệ sự tự do tự tại của nội tâm."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn có cảm nhận được sự tự do vĩ đại khi bạn thản nhiên ngắm nhìn một thứ đồ đẹp đẽ mà không hề có ý muốn chiếm đoạt nó làm của riêng?",
+    "selfAuditChecklist": [
+      "Tôi đã chặn đứng được ít nhất một cơn thôi thúc thèm muốn không cần thiết.",
+      "Tôi không biến các mối quan hệ thành sự kiểm soát, sở hữu ngột ngạt.",
+      "Tôi cảm thấy tâm mình nhẹ nhõm khi không bị ràng buộc bởi ham muốn tiêu dùng."
+    ]
+  }
+}

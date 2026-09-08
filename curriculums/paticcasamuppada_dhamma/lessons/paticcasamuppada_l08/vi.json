@@ -1,0 +1,58 @@
+{
+  "lessonId": "paticcasamuppada_l08",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 8,
+  "stageIndex": 4,
+  "title": "Bài 8: Bàn Tay Không Thương Tích — Vượt Thoát Lực Hút Của Nghiệp",
+  "paliTitle": "Nibbedhika Sutta (AN 6.63) & Dhp 124",
+  "suttaRef": {
+    "uid": "an6.63",
+    "title": "Kinh Thấu Suốt (Nibbedhikasutta — AN 6.63)",
+    "excerptPali": "Cetanāhaṃ, bhikkhave, kammaṃ vadāmi. Cetayitvā kammaṃ karoti — kāyena vācāya manasā... Pāṇimhi ce vaṇo nāssa, hareyya pāṇinā visaṃ. Nābbaṇaṃ visamanveti, natthi pāpaṃ akubbato.",
+    "excerptTranslation": "'Này các Tỳ-kheo, Ta tuyên bố Tác Ý chính là Nghiệp. Có tác ý rồi mới tạo nghiệp qua Thân, Khẩu, Ý'... Bàn tay không thương tích có thể cầm nắm thuốc độc; thuốc độc không thể ngấm vào nơi không có vết thương. Cũng vậy, không có tội lỗi nào chạm tới được người không làm điều ác."
+  },
+  "pariyatti": {
+    "shortSummary": "Đỉnh cao của giáo lý Nghiệp Báo trong Phật giáo: Nghiệp không nằm ở hình thức bên ngoài, mà nằm ở Tác Ý (Cetanā) ẩn sâu trong tâm thức. Bằng cách thanh lọc tác ý qua thiền định và trí tuệ vô ngã, hành giả tạo ra loại Nghiệp thứ tư: 'Nghiệp không đen không trắng, đưa đến đoạn tận mọi nghiệp' — chính thức thoát khỏi lực hút luân hồi.",
+    "coreConcepts": [
+      {
+        "term": "Tác Ý Là Nghiệp",
+        "pali": "Cetanā Kamma",
+        "definition": "Ý định, động cơ tâm lý khởi đầu là linh hồn và yếu tố quyết định tính chất phước hay tội của hành động."
+      },
+      {
+        "term": "Bốn Loại Nghiệp",
+        "pali": "Cattāri Kammāni",
+        "definition": "Nghiệp đen quả đen (ác), Nghiệp trắng quả trắng (thiện), Nghiệp đen trắng quả đen trắng (pha tạp), và Nghiệp không đen không trắng đưa đến đoạn tận nghiệp (Bát Chánh Đạo)."
+      },
+      {
+        "term": "Bàn Tay Không Thương Tích",
+        "pali": "Abbaṇa Pāṇi",
+        "definition": "Hình ảnh ẩn dụ người có tâm hoàn toàn trong sạch, không có vết thương của tham sân si, độc tố thế gian không thể làm hại."
+      }
+    ],
+    "expositionMarkdown": "### 1. Tại Sao Tác Ý Quyết Định Tất Cả?\n\nCùng là một nhát dao rạch vào bụng:\n- Một tên sát nhân rạch dao với **Tác ý thù hận, cướp của** ➔ Đó là cực trọng ác nghiệp đọa địa ngục.\n- Một bác sĩ phẫu thuật rạch dao với **Tác ý cứu sống bệnh nhân** ➔ Đó là thiện nghiệp cao quý cứu người.\n\nHành động vật lý giống hệt nhau, nhưng Nghiệp báo hoàn toàn trái ngược vì **Tác Ý (*Cetanā*) khác nhau một trời một vực**!\n\n### 2. Vượt Thoát Lực Hút Luân Hồi Bằng Loại Nghiệp Thứ Tư\n- Làm việc bất thiện ➔ Rơi xuống cõi khổ (Địa ngục, Ngạ quỷ, Súc sinh).\n- Làm việc phước thiện thế tục ➔ Sinh lên cõi an vui (Người, Trời), nhưng hết phước vẫn rơi rụng luân hồi.\n- **Con đường của bậc Thánh:** Thực hành Bát Chánh Đạo, tu tập Tứ Niệm Xứ, quán Duyên Khởi vô ngã. Đây là **loại Nghiệp chấm dứt mọi Nghiệp**, đưa tâm thoát khỏi bánh xe luân hồi, an trú trong Niết-bàn vô lậu!\n\nKhi tâm không còn một vết thương của tham lam, đố kỵ hay thù hận, bạn như người có 'bàn tay không thương tích' — dù bước đi giữa cuộc đời đầy cạm bẫy và độc hại, không một ác pháp nào có thể làm tổn thương sự tự do giải thoát của bạn!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng vô tình dẫm phải con kiến cũng mang tội sát sinh nặng nề.",
+        "correction": "Đức Phật dạy: Nếu hoàn toàn không có tác ý hay ý thức dẫm đạp (như người mù đi đường vô tình dẫm trúng), hành vi đó không cấu thành nghiệp sát sinh vì thiếu chi phần Tác Ý (Cetanā)."
+      },
+      {
+        "mistake": "Nghĩ rằng tu Phật chỉ là làm phước để kiếp sau giàu có hơn.",
+        "correction": "Làm phước hưởng thụ chỉ là luân hồi trong cõi vui. Mục tiêu tối thượng của đạo Phật là nhổ sạch gốc rễ Vô minh để chấm dứt hoàn toàn sinh tử luân hồi."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Kỹ thuật Soi Sáng Tác Ý:** Trước khi gửi một email quan trọng, trước khi phát biểu trong cuộc họp hay trước khi dạy dỗ con cái, dừng lại 3 giây tự hỏi: 'Tác ý thầm kín của tôi lúc này là gì? Là muốn thể hiện cái tôi, muốn trả đũa, hay thực sự xuất phát từ thiện ý và giải pháp?'.\n2. Hướng toàn bộ phước lành của ngày hôm nay đến sự giác ngộ giải thoát tối hậu.",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Sự thanh khiết tuyệt đối của động cơ tâm lý trong từng hành động."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn có cảm nhận được sự tự do và thanh thản tuyệt đối khi mọi hành động của bạn trong ngày đều xuất phát từ tác ý trong sạch vô tư?",
+    "selfAuditChecklist": [
+      "Tôi đã soi rọi và thanh lọc tác ý trước các quyết định quan trọng.",
+      "Tôi hướng mọi hành vi thiện lành đến mục tiêu giải thoát rốt ráo.",
+      "Tâm tôi tự tại, không sợ hãi nghiệp quả xấu vì đã sống trọn vẹn với Chánh Pháp."
+    ]
+  }
+}

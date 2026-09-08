@@ -1,0 +1,58 @@
+{
+  "lessonId": "paticcasamuppada_l05",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 5,
+  "stageIndex": 3,
+  "title": "Bài 5: Chặt Đứt Mắt Xích Ái Dục — Chiều Nghịch Của Duyên Khởi",
+  "paliTitle": "Mahātaṇhāsaṅkhaya Sutta (MN 38)",
+  "suttaRef": {
+    "uid": "mn38",
+    "title": "Đại Kinh Đoạn Tận Ái (Mahātaṇhāsaṅkhaya Sutta — MN 38)",
+    "excerptPali": "'Aññatra, bhikkhave, paccayā natthi viññāṇassa sambhavo'ti... Yato kho, bhikkhave, bhikkhu channaṃ phassāyatanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ viditvā anupādā vimutto hoti — ayaṃ vuccati, bhikkhave, bhikkhu taṇhākkhayavimutto.",
+    "excerptTranslation": "'Ngoài các duyên, này các Tỳ-kheo, không có sự sinh khởi của Thức'... Khi một Tỳ-kheo thấy như thật sự tập khởi, sự biến diệt, vị ngọt, sự nguy hiểm và sự xuất ly của sáu xứ xúc chạm, vị ấy nhờ không chấp thủ mà được giải thoát — đây gọi là Tỳ-kheo giải thoát nhờ đoạn tận Ái dục."
+  },
+  "pariyatti": {
+    "shortSummary": "Nếu Duyên Khởi theo chiều thuận (Anuloma) giải thích nguồn gốc của khổ đau, thì Duyên Khởi theo chiều nghịch (Paṭiloma) mở toang cánh cửa dẫn đến Niết-bàn. Khi Vô minh bị thay thế bởi Minh (Vijjā), Ái dục bị tận diệt; Ái diệt thì Thủ diệt; Thủ diệt thì Hữu diệt; toàn bộ khối đau khổ luân hồi sụp đổ như tòa lâu đài cát.",
+    "coreConcepts": [
+      {
+        "term": "Chiều Nghịch Duyên Khởi",
+        "pali": "Paṭiloma Paṭiccasamuppāda",
+        "definition": "Tiến trình đoạn diệt: do duyên này diệt nên kết quả kia diệt, đưa đến sự chấm dứt hoàn toàn của khổ đau."
+      },
+      {
+        "term": "Đoạn Tận Ái",
+        "pali": "Taṇhākkhaya",
+        "definition": "Sự dập tắt trọn vẹn mọi khát ái dục vọng, đồng nghĩa với sự chứng ngộ Niết-bàn."
+      },
+      {
+        "term": "Năm Khía Cạnh Của Các Pháp",
+        "pali": "Samudaya - Atthaṅgama - Assāda - Ādīnava - Nissaraṇa",
+        "definition": "Tập khởi, Biến diệt, Vị ngọt, Sự nguy hiểm, và Sự xuất ly vượt thoát khỏi các pháp giác quan."
+      }
+    ],
+    "expositionMarkdown": "### 1. Vụ Án 'Linh Hồn Thức' Của Tỳ-kheo Sāti\n\nTỳ-kheo Sāti khởi lên tà kiến nguy hiểm: *'Tôi hiểu theo lời Phật dạy thì chính cái Thức nhận biết này luân chuyển từ kiếp này sang kiếp khác mà không thay đổi!'*.\nĐức Phật lập tức triệu tập Tăng chúng và quở trách nặng nề:\n> *'Này kẻ mê mờ kia, người nghe Ta dạy điều ấy cho ai bao giờ? Chẳng phải Ta đã dùng vô số phương tiện chỉ rõ: Thức chỉ sinh khởi do duyên, không có duyên thì không thể có Thức hay sao?'*\n\nNgọn lửa cháy được là nhờ duyên củi, duyên rơm hay duyên dầu. Hết củi thì lửa tắt. Tâm thức cũng vậy, do duyên căn và trần mà sinh; khi hết vô minh và ái dục thì dòng chảy tái sinh chấm dứt trong sự tịch tịnh nhiệm màu.\n\n### 2. Công Thức Đoạn Khổ Tuyệt Đối\n- **Vô minh diệt** ➔ Hành diệt  \n- **Hành diệt** ➔ Thức tái sinh diệt  \n- **Thức diệt** ➔ Danh Sắc diệt  \n- **Danh Sắc diệt** ➔ Lục Nhập diệt  \n- **Lục Nhập diệt** ➔ Xúc diệt  \n- **Xúc diệt** ➔ Thọ diệt  \n- **Thọ diệt** ➔ Ái diệt  \n- **Ái diệt** ➔ Thủ diệt  \n- **Thủ diệt** ➔ Hữu diệt  \n- **Hữu diệt** ➔ Sinh diệt  \n- **Sinh diệt** ➔ Lão, tử, sầu, bi, khổ, ưu, não đoạn diệt hoàn toàn!  \n**Đó là sự tịch tịnh tối thượng của Niết-bàn!**",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng 'Diệt' (Nirodha) nghĩa là tự tử hay tiêu diệt bản thân.",
+        "correction": "Tự tử là do tâm Sân (Phi hữu ái - Vibhavataṇhā) thúc đẩy, sẽ đưa đến tái sinh vào đọa xứ. 'Diệt' trong Chánh Pháp là dập tắt Tham, Sân, Si bằng Trí tuệ."
+      },
+      {
+        "mistake": "Cho rằng Niết-bàn là một cõi thiên đàng vật lý ở phương Tây hay trên mây trời.",
+        "correction": "Niết-bàn (Nibbāna) là trạng thái tâm thức hoàn toàn vắng bóng ngọn lửa tham ái, sân hận và vô minh ngay trong hiện tại."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Thực tập quán chiếu 'Sự Biến Diệt' (Vaya-dhamma): Khi một cơn giận hay cảm giác thèm ăn dịu xuống, dành 30 giây chiêm nghiệm sự biến mất của nó. Cảm nhận niềm an tịnh khi ngọn lửa tắt.\n2. Nuôi dưỡng nhận thức 'Xuất ly' (Nissaraṇa): Thấy rõ những rắc rối và lo âu đi kèm với việc sở hữu nhiều của cải.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Sự dũng mãnh buông xả, hướng tâm về sự an tịnh Niết-bàn."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn có cảm nhận được rằng sự chấm dứt của một cơn khát ái mang lại niềm hạnh phúc thanh tịnh gấp ngàn lần việc thỏa mãn cơn khát đó?",
+    "selfAuditChecklist": [
+      "Tôi đã chiêm nghiệm được trạng thái an tịnh khi một ham muốn được buông bỏ hoàn toàn.",
+      "Tôi không tìm kiếm sự tồn tại của một linh hồn bất biến sau khi thấy rõ lẽ duyên sinh.",
+      "Tâm tôi khao khát sự thanh tịnh giải thoát hơn là các danh lợi tạm bợ trần thế."
+    ]
+  }
+}

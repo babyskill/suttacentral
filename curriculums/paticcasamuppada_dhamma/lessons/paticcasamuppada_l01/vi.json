@@ -1,0 +1,58 @@
+{
+  "lessonId": "paticcasamuppada_l01",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 1,
+  "stageIndex": 1,
+  "title": "Bài 1: Định Lý Duyên Sinh — Trái Tim Của Chánh Pháp",
+  "paliTitle": "Paccaya Sutta (SN 12.20)",
+  "suttaRef": {
+    "uid": "sn12.20",
+    "title": "Kinh Duyên (Paccayasutta — SN 12.20)",
+    "excerptPali": "Uppādā vā, bhikkhave, tathāgatānaṃ anuppādā vā tathāgatānaṃ, ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā idappaccayatā... Iti kho, bhikkhave, yā tatra tathatā avitathatā anaññathatā idappaccayatā — ayaṃ vuccati, bhikkhave, paṭiccasamuppādo.",
+    "excerptTranslation": "Dù Như Lai có xuất hiện hay không xuất hiện, này các Tỳ-kheo, pháp giới tánh ấy, pháp trụ tánh ấy, pháp định tánh ấy, y duyên tánh ấy vẫn an nhiên an trú... Như vậy, này các Tỳ-kheo, cái gì ở đây là như tính, bất hư vọng tính, bất biến dị tính, y duyên tính ấy — này các Tỳ-kheo, đây gọi là Duyên Khởi."
+  },
+  "pariyatti": {
+    "shortSummary": "Định lý Duyên Khởi (Paṭiccasamuppāda) không phải do Đức Phật chế định ra, mà là chân lý tự nhiên hằng hữu của vũ trụ. Đức Phật chỉ là bậc Đại Giác khám phá và công bố lại cho nhân loại. Nguyên lý căn bản: 'Cái này có thì cái kia có, cái này sinh thì cái kia sinh; cái này không có thì cái kia không có, cái này diệt thì cái kia diệt.'",
+    "coreConcepts": [
+      {
+        "term": "Duyên Khởi",
+        "pali": "Paṭiccasamuppāda",
+        "definition": "Tiến trình vạn vật nương tựa vào nhau mà sinh khởi và hoại diệt, không có hiện tượng nào tồn tại độc lập."
+      },
+      {
+        "term": "Y Duyên Tánh",
+        "pali": "Idappaccayatā",
+        "definition": "Tính chất tương quan nhân duyên cụ thể: do điều kiện này làm duyên thì kết quả kia ắt phải xuất hiện."
+      },
+      {
+        "term": "Như Tính & Bất Hư Vọng",
+        "pali": "Tathatā & Avitathatā",
+        "definition": "Bản chất chân thật khách quan của vạn pháp, không bao giờ sai chạy theo ý muốn chủ quan của con người."
+      }
+    ],
+    "expositionMarkdown": "### 1. Cuộc Cách Mạng Khoa Học Của Đức Phật Cách Đây 2600 Năm\n\nVào thời cổ đại, nhân loại giải thích thế giới bằng hai lối mòn thần bí:\n1. **Thuyết Thần Tạo (Issaranimmāna):** Mọi thứ do một Đấng Sáng Thế tối cao ban phước hoặc trừng phạt.\n2. **Thuyết Tiền Định hoặc Ngẫu Nhiên (Ahetu-appaccayā):** Mọi sự sinh ra do số phận tiền kiếp bất di bất dịch, hoặc ngẫu nhiên tình cờ không có nguyên nhân.\n\nĐức Phật xuất hiện và đập tan cả hai ảo tưởng đó bằng một định lý bất hủ:\n> **'Imasmiṃ sati idaṃ hoti, imassuppādā idaṃ uppajjati.**  \n> **Imasmiṃ asati idaṃ na hoti, imassa nirodhā idaṃ nirujjhati.'**  \n> *(Cái này có thì cái kia có, cái này sinh thì cái kia sinh;  \n> Cái này không thì cái kia không, cái này diệt thì cái kia diệt.)*\n\n### 2. Ý Nghĩa Thực Tiễn Trong Đời Sống Hiện Đại\n- Không có đau khổ nào rơi từ trên trời xuống, và cũng không có hạnh phúc nào tự nhiên ùa tới.\n- Mọi căng thẳng, đổ vỡ trong quan hệ hay bế tắc tài chính đều là **hậu quả của một chuỗi các điều kiện (duyên)** mà ta đã và đang dung dưỡng.\n- Thay vì cầu nguyện hay than khóc, hành giả chỉ cần làm một việc trí tuệ duy nhất: **Thay đổi các điều kiện nhân duyên thì kết quả ắt tự khắc đổi thay!**",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng Duyên Khởi đồng nghĩa với thuyết Định Mệnh (Fatalism) — mọi thứ đã được sắp đặt sẵn.",
+        "correction": "Duyên Khởi hoàn toàn trái ngược với định mệnh. Vì mọi thứ do duyên sinh nên khi ta thay đổi tác ý và hành vi trong hiện tại, toàn bộ tương lai lập tức được định hình lại."
+      },
+      {
+        "mistake": "Nghĩ rằng Duyên Khởi chỉ là triết học lý thuyết dành cho các học giả nghiên cứu.",
+        "correction": "Duyên Khởi là bản đồ hướng dẫn tu tập thực chứng. Thấy rõ duyên sinh giúp hành giả buông bỏ bám chấp vào cái Tôi và đoạn tận sầu bi."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Bài tập Tìm Nguyên Nhân Thực Tại:** Khi gặp một chuyện bực mình trong ngày, dừng lại 1 phút và viết ra ít nhất 3 điều kiện khách quan và chủ quan đã dẫn tới tình huống đó.\n2. **Quán chiếu Nhân Duyên:** Trong giờ tĩnh tọa, quan sát hơi thở và thấy rõ: Hơi thở có mặt là do phổi, không khí, cơ hoành và ý muốn sống nương tựa nhau mà thành.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Sống trách nhiệm và thấu suốt, không tìm kiếm vật tế thần để đổ lỗi."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn có nhận ra rằng bạn hoàn toàn nắm giữ quyền năng chuyển hóa cuộc đời mình bằng cách thay đổi các nhân duyên trong từng giây phút hiện tại?",
+    "selfAuditChecklist": [
+      "Tôi đã ngừng đổ lỗi cho số phận hay hoàn cảnh khi gặp điều bất như ý.",
+      "Tôi nhìn thấy mối liên hệ nhân quả rõ ràng giữa hành động và cảm xúc của mình.",
+      "Tâm tôi thanh thản hơn khi nhận thức vạn vật vận hành theo quy luật tự nhiên."
+    ]
+  }
+}

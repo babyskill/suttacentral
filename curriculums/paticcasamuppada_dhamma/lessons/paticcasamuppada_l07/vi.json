@@ -1,0 +1,58 @@
+{
+  "lessonId": "paticcasamuppada_l07",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 7,
+  "stageIndex": 4,
+  "title": "Bài 7: Phân Biệt Nghiệp Báo — Ta Là Chủ Nhân Của Nghiệp",
+  "paliTitle": "Cūḷakammavibhaṅga Sutta (MN 135)",
+  "suttaRef": {
+    "uid": "mn135",
+    "title": "Tiểu Kinh Nghiệp Phân Biệt (Cūḷakammavibhaṅga Sutta — MN 135)",
+    "excerptPali": "Kammassakā, māṇava, sattā kammadāyādā kammayoni kammabandhū kammapaṭisaraṇā. Kammaṃ satte vibhajati yadidaṃ hīnappaṇītatāyāti... Idhānanda, ekacco mātughātako hoti pitughātako... Idhānanda, ekacco pāṇātipātā paṭivirato hoti...",
+    "excerptTranslation": "Các loài chúng sinh, này thanh niên, là chủ nhân của nghiệp, là kẻ thừa tự của nghiệp. Nghiệp là thai tạng, nghiệp là quyến thuộc, nghiệp là điểm tựa; nghiệp phân chia các loài chúng sinh có liệt có ưu... Người sát sinh thời yểu thọ, người không sát sinh thời trường thọ; người tật đố thời không uy quyền, người không tật đố thời có uy quyền..."
+  },
+  "pariyatti": {
+    "shortSummary": "Một trong những bài kinh căn bản và thực tế nhất của Phật giáo: Lời giải đáp của Đức Phật cho thanh niên Subha về sự bất bình đẳng giữa con người (kẻ giàu người nghèo, kẻ đẹp người xấu, người thọ kẻ yểu). Tất cả không phải do thần linh định đoạt, mà là sự phản chiếu chính xác của Nghiệp (Kamma) qua các đời sống.",
+    "coreConcepts": [
+      {
+        "term": "Chủ Nhân Của Nghiệp",
+        "pali": "Kammassaka",
+        "definition": "Mỗi cá nhân tự chịu trách nhiệm hoàn toàn về mọi hành vi thân, khẩu, ý của mình."
+      },
+      {
+        "term": "Kẻ Thừa Tự Của Nghiệp",
+        "pali": "Kammadāyāda",
+        "definition": "Quả báo tốt hay xấu nhận được trong hiện tại và tương lai là gia tài do chính hành vi quá khứ để lại."
+      },
+      {
+        "term": "Nghiệp Phân Chia Chúng Sinh",
+        "pali": "Kammaṃ Satte Vibhajati",
+        "definition": "Sự đa dạng của các hoàn cảnh sống, năng khiếu và số phận bắt nguồn từ sự gieo nhân sai khác."
+      }
+    ],
+    "expositionMarkdown": "### 1. Bảy Cặp Nghiệp Nhân & Quả Báo Trong Kinh MN 135\n\n1. **Sát sinh, bạo lực** ➔ Quả báo: Đoản mệnh, nhiều tai nạn.  \n   *Trái lại: Tôn trọng sự sống, phóng sinh* ➔ Trường thọ, an ổn.  \n2. **Tàn hại, đánh đập loài vật** ➔ Quả báo: Bệnh tật triền miên.  \n   *Trái lại: Thương xót chữa lành* ➔ Khỏe mạnh, ít ốm đau.  \n3. **Sân hận, dễ nổi giận, bất mãn** ➔ Quả báo: Dung mạo xấu xí, khó coi.  \n   *Trái lại: Nhu hòa, tươi cười, từ ái* ➔ Dung nhan thanh tú, khả ái.  \n4. **Ganh ghét, đố kỵ với thành công của người khác** ➔ Quả báo: Kém uy tín, không tiếng nói.  \n   *Trái lại: Tùy hỷ, khen ngợi điều lành* ➔ Có uy quyền, được tôn kính.  \n5. **Bủn xỉn, không biết san sẻ cúng dường** ➔ Quả báo: Nghèo hèn, túng thiếu.  \n   *Trái lại: Hào phóng, bố thí rộng rãi* ➔ Giàu sang, tài sản sung túc.  \n6. **Kiêu ngạo, coi thường người khác** ➔ Quả báo: Sinh nơi thấp kém, bị khinh khi.  \n   *Trái lại: Khiêm cung, lễ độ kính trọng* ➔ Tái sinh dòng dõi cao quý.  \n7. **Lười biếng, không chịu học hỏi Chánh pháp** ➔ Quả báo: Ngu muội, đần độn.  \n   *Trái lại: Thường xuyên gần gũi bậc trí học hỏi* ➔ Thông minh, đại trí tuệ.\n\n### 2. Ý Nghĩa Triệt Để Của Thuyết Nghiệp Báo\nĐức Phật trao trả toàn bộ quyền năng tối thượng về số phận vào tay của chính bạn! Bạn muốn một tương lai khỏe mạnh, giàu sang, có trí tuệ và được yêu mến? Đừng van xin thần linh — hãy **ngay lập tức gieo những hạt giống tương ứng trong từng hành vi mỗi ngày!**",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng nghiệp báo là sự trừng phạt của vũ trụ hay đấng bề trên.",
+        "correction": "Nghiệp hoàn toàn không có tính trừng phạt hay thù oán. Nó là quy luật vật lý tâm linh tự nhiên như quả táo rụng theo trọng lực: gieo ớt thì thu vị cay, gieo mía thì thu vị ngọt."
+      },
+      {
+        "mistake": "Thấy ai gặp nạn liền buông lời ác ý: 'Đáng đời, nghiệp quật đó!'.",
+        "correction": "Đó là tâm tàn nhẫn độc hại. Trước nỗi khổ của người khác, người học Phật chân chính luôn khởi tâm Từ Bi (Karuṇā) tương trợ, vì chính mình cũng mang vô số nghiệp bất thiện chưa trổ quả."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Năm Điều Quán Tưởng Đầu Ngày (Upajjhatthāna Sutta):**  \n   - 'Ta chắc chắn phải già, không thoát khỏi già.'  \n   - 'Ta chắc chắn phải bệnh, không thoát khỏi bệnh.'  \n   - 'Ta chắc chắn phải chết, không thoát khỏi chết.'  \n   - 'Tất cả người thân và vật ta yêu quý đều phải ly tán.'  \n   - 'Ta là chủ nhân của nghiệp, là kẻ thừa tự của nghiệp. Dù ta làm việc thiện hay ác, ta sẽ thừa tự nghiệp ấy.'\n2. Thực hiện ít nhất một hành vi bố thí hoặc giúp đỡ vô vụ lợi trong ngày.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Sống chính trực, thanh liêm và chủ động gieo trồng phước thiện."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn có nhận ra rằng tương lai kiếp sau của bạn không phải là một ẩn số mù mờ, mà đang được phác thảo rõ ràng qua từng suy nghĩ và lời nói của bạn hôm nay?",
+    "selfAuditChecklist": [
+      "Tôi đã quán niệm 5 điều suy ngẫm về nghiệp báo vào đầu ngày.",
+      "Tôi đã ngăn chặn được một hành động bất thiện vì sợ hãi hậu quả quả báo.",
+      "Tôi hoan hỷ chia vui với thành công và phước báu của người khác."
+    ]
+  }
+}

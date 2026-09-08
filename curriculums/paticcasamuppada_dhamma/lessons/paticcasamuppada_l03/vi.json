@@ -1,0 +1,63 @@
+{
+  "lessonId": "paticcasamuppada_l03",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 3,
+  "stageIndex": 2,
+  "title": "Bài 3: Từ Vô Minh Đến Danh Sắc — Nguồn Gốc Thân Tâm",
+  "paliTitle": "Vibhaṅga Sutta (SN 12.2)",
+  "suttaRef": {
+    "uid": "sn12.2",
+    "title": "Kinh Phân Biệt Duyên Khởi (SN 12.2)",
+    "excerptPali": "Avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṃ; viññāṇapaccayā nāmarūpaṃ; nāmarūpapaccayā saḷāyatanaṃ... Katamā ca, bhikkhave, avijjā? Yaṃ kho, bhikkhave, dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ — ayaṃ vuccati, bhikkhave, avijjā.",
+    "excerptTranslation": "Do duyên Vô minh, này các Tỳ-kheo, có Hành; do duyên Hành có Thức; do duyên Thức có Danh Sắc; do duyên Danh Sắc có Lục Nhập... Và này các Tỳ-kheo, thế nào là Vô minh? Không hiểu biết về Khổ, không hiểu biết về Khổ Tập, không hiểu biết về Khổ Diệt, không hiểu biết về Con Đường Đưa Đến Khổ Diệt — đây gọi là Vô minh."
+  },
+  "pariyatti": {
+    "shortSummary": "Mười hai chi phần Duyên Khởi giải mã toàn bộ tiến trình hình thành sự sống của một con người. Không có một linh hồn từ trên trời bay vào bụng mẹ; chính dòng Thức kết sinh (Paṭisandhi-viññāṇa) do nghiệp lực quá khứ thúc đẩy đã làm duyên cho phôi thai Danh Sắc (Nāmarūpa) tượng hình, phát triển 6 căn giác quan để chuẩn bị bước vào cuộc đời.",
+    "coreConcepts": [
+      {
+        "term": "Vô Minh",
+        "pali": "Avijjā",
+        "definition": "Sự mù quáng, không thấy rõ bản chất Tứ Thánh Đế và Tam Tướng (Vô thường, Khổ, Vô ngã)."
+      },
+      {
+        "term": "Hành",
+        "pali": "Saṅkhāra",
+        "definition": "Các tác ý, ý chí tạo tác nghiệp thiện hoặc ác qua Thân, Khẩu, Ý."
+      },
+      {
+        "term": "Thức",
+        "pali": "Viññāṇa",
+        "definition": "Tâm thức nhận biết, đặc biệt là thức tái sinh kết nối giữa kiếp sống cũ và kiếp sống mới."
+      },
+      {
+        "term": "Danh Sắc",
+        "pali": "Nāmarūpa",
+        "definition": "Danh (tâm lý: thọ, tưởng, tư, xúc, tác ý) và Sắc (cơ thể vật chất bốn đại)."
+      }
+    ],
+    "expositionMarkdown": "### 1. Vô Minh Là Gì Theo Định Nghĩa Của Đức Phật?\n\nVô minh không phải là ngu dốt về kiến thức thế gian. Một giáo sư đoạt giải Nobel hay một chuyên gia công nghệ hàng đầu vẫn có thể ngập tràn vô minh nếu:\n- Không hiểu rõ bản chất của **Khổ** (cứ ngỡ dục lạc thế gian là hạnh phúc vĩnh cửu).\n- Không thấy rõ **Tập** (không biết lòng tham ái đang tự thiêu đốt mình).\n- Không tin vào sự **Diệt khổ** và con đường **Bát Chánh Đạo**.\n\n### 2. Tiến Trình Tái Sinh Không Cần Linh Hồn\n- Vì có Vô minh nên con người khởi tâm lăng xăng mưu cầu, tạo tác nghiệp (*Hành*).\n- Năng lượng của nghiệp đó phóng ra dòng chảy tâm thức (*Thức*).\n- Khi thân thể này tan rã, dòng tâm thức tương ưng bị lực hút nghiệp báo hút vào một bào thai mới trong cõi giới tương ứng (*Danh Sắc* hình thành).\n- Từ Danh Sắc nảy nở ra 6 căn giác quan (*Lục Nhập*: mắt, tai, mũi, lưỡi, thân, ý) như cành cây mọc ra 6 chiếc lá để sẵn sàng đón nhận gió bão cuộc đời.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng Vô Minh là 'Đấng Khởi Nguyên' đầu tiên giống như thuyết sáng thế.",
+        "correction": "Đức Phật dạy luân hồi không có điểm khởi đầu tuyệt đối. Vô minh cũng sinh ra do duyên (do lậu hoặc duyên sinh) trong một vòng tròn tương tác khép kín."
+      },
+      {
+        "mistake": "Cho rằng Thức tái sinh là một linh hồn độc lập bay từ thể xác này sang thể xác khác.",
+        "correction": "Thức không phải linh hồn bất biến. Nó là dòng chảy liên tục sinh diệt như âm thanh phát ra từ tiếng đàn, không có vật thể cứng đặc nào bay đi."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Thực tập quán chiếu 'Vô minh' trong ngày: Mỗi khi khởi tâm tham lam mua sắm hoặc sân hận ghen tị, tự hỏi 'Tâm tôi đang bị sự mù quáng nào che mờ?'.\n2. Cắt đứt mắt xích 'Hành': Không biến suy nghĩ tiêu cực thành hành động hại mình hại người.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Tỉnh táo thắp sáng ngọn đèn Chánh Tri Kiến, xóa tan bóng tối vô minh."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hôm nay, bạn đã nhìn thấy rõ Thân và Tâm của bạn chỉ là sự tiếp nối duyên sinh của Danh Sắc chứ không phải là một 'cái Tôi' vĩnh hằng?",
+    "selfAuditChecklist": [
+      "Tôi đã nhận diện được một tác ý bất thiện trước khi nó biến thành hành vi.",
+      "Tôi hiểu rõ nguồn gốc của cảm xúc không đến từ ai khác mà từ chính vô minh nội tại.",
+      "Tâm tôi vững vàng hơn khi thấu suốt tiến trình duyên sinh của thân tâm."
+    ]
+  }
+}

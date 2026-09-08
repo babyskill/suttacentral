@@ -1,0 +1,58 @@
+{
+  "lessonId": "paticcasamuppada_l02",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 2,
+  "stageIndex": 1,
+  "title": "Bài 2: Vượt Qua Hữu & Phi Hữu — Con Đường Trung Đạo",
+  "paliTitle": "Kaccānagotta Sutta (SN 12.15)",
+  "suttaRef": {
+    "uid": "sn12.15",
+    "title": "Kinh Kaccānagotta (SN 12.15 - Tương Ưng Nhân Duyên)",
+    "excerptPali": "Dvayanissito khvāyaṃ, kaccāna, loko yebhuyyena — atthitañceva natthitañca... Lokasamudayaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke natthitā sā na hoti. Lokanirodhaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke atthitā sā na hoti... Ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti.",
+    "excerptTranslation": "Này Kaccāna, thế giới này phần lớn y chỉ vào hai cực đoan: 'Có' (thường hằng) và 'Không' (đoạn diệt)... Này Kaccāna, ai với chánh trí tuệ thấy như thật sự tập khởi của thế giới thì không chấp trước quan điểm 'không có' (phi hữu). Ai với chánh trí tuệ thấy như thật sự đoạn diệt của thế giới thì không chấp trước quan điểm 'có' (thường hữu)... Không rơi vào hai cực đoan ấy, Như Lai thuyết pháp theo con đường Trung đạo."
+  },
+  "pariyatti": {
+    "shortSummary": "Tư duy nhân loại muôn đời bị giằng xé giữa hai vực thẳm: Thường kiến (Sassatadiṭṭhi - tin có linh hồn bất biến) và Đoạn kiến (Ucchedadiṭṭhi - tin chết là hết, hư vô chủ nghĩa). Đức Phật chỉ ra con đường Trung đạo Duyên Khởi: Vạn pháp không phải là 'thường còn', cũng không phải là 'hư vô', mà là một dòng chảy tương tục sinh diệt không ngừng nghỉ.",
+    "coreConcepts": [
+      {
+        "term": "Thường Kiến",
+        "pali": "Sassatadiṭṭhi",
+        "definition": "Tà kiến cho rằng có một bản ngã, linh hồn hay thượng đế bất biến vĩnh cửu."
+      },
+      {
+        "term": "Đoạn Kiến",
+        "pali": "Ucchedadiṭṭhi",
+        "definition": "Tà kiến hư vô cho rằng con người chết là tan biến hoàn toàn, không có nghiệp báo luân hồi."
+      },
+      {
+        "term": "Trung Đạo Duyên Khởi",
+        "pali": "Majjhena Dhamma",
+        "definition": "Thấy rõ mọi hiện tượng do duyên sinh nên không thể là 'thường còn'; do duyên tiếp nối nên không thể là 'hư vô đoạn diệt'."
+      }
+    ],
+    "expositionMarkdown": "### 1. Hai Chiếc Bẫy Tư Tưởng Giam Cầm Con Người\n\n1. **Chiếc bẫy Thường Kiến:** Dẫn đến lòng bám chấp tuyệt vọng vào sự trường sinh, sợ hãi cái chết, sinh ra các nghi lễ cúng tế cầu xin thần linh ban phước bất tử.\n2. **Chiếc bẫy Đoạn Kiến:** Dẫn đến lối sống trụy lạc, buông thả vô trách nhiệm: 'Đời chỉ có một lần, cứ hưởng thụ mặc kệ hậu quả, chết là hết!'. Đây là cội rễ của sự suy đồi đạo đức trong xã hội hiện đại.\n\n### 2. Ẩn Dụ Dòng Sông Và Ngọn Lửa\n- Con người như ngọn nến cháy từ đầu canh đến cuối canh: Ngọn lửa canh ba không phải là ngọn lửa canh một (vì sáp và bấc cũ đã cháy hết), nhưng cũng không phải là ngọn lửa hoàn toàn xa lạ (vì nó tiếp nối từ ngọn lửa trước).\n- Dòng sông ta tắm hôm nay không phải là dòng sông ta tắm hôm qua (vì nước đã trôi qua), nhưng cũng không phải là dòng sông khác.\n\n**Sự sống là một dòng chảy tiếp nối liên tục (*Santati*) của Danh và Sắc.** Hiểu được điều này, ta vừa thoát khỏi nỗi sợ chết, vừa có trách nhiệm sâu sắc với từng ý nghĩ, lời nói hôm nay!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng đạo Phật chủ trương 'Đời là hư không, không có gì tồn tại cả'.",
+        "correction": "Đức Phật quở trách tà kiến hư vô. Đạo Phật dạy 'Vô ngã' (không có ngã thể độc lập) chứ không phủ nhận sự tồn tại tương đối của các pháp duyên sinh."
+      },
+      {
+        "mistake": "Lầm tưởng Trung đạo là sự thỏa hiệp ba phải đứng ở giữa hai ý kiến.",
+        "correction": "Trung đạo trong Phật giáo là Tuệ giác siêu việt vượt lên trên toàn bộ hệ thống nhị nguyên nhị biên của tâm trí phàm phu."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Khi đối diện với mất mát (mất việc, mất người thân, suy sụp tài chính): Quán chiếu 'sự đoạn diệt của thế giới' — mọi thứ tụ họp rồi phải tan rã theo duyên; tâm không kinh hoàng thảng thốt.\n2. Khi gặt hái thành công: Quán chiếu 'sự tập khởi do duyên' — không tự mãn kiêu căng vì biết thành công chỉ là duyên hợp tạm bợ.",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Tâm thế tự tại, quân bình trước mọi thăng trầm được mất của thế gian."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hôm nay tâm bạn có nghiêng về nỗi sợ hư vô hay bám víu vào sự vĩnh cửu? Bạn đã an trú được bao lâu trong con đường Trung đạo?",
+    "selfAuditChecklist": [
+      "Tôi không rơi vào tâm lý buông xuôi vô nghĩa hay hưởng thụ bất chấp hậu quả.",
+      "Tôi nhận thức rõ sự đổi thay liên tục của tâm trí và thân xác mình.",
+      "Tôi cảm nhận sự bình an thanh thản khi buông bỏ cả hai thái cực Có và Không."
+    ]
+  }
+}

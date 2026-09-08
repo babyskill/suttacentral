@@ -1,0 +1,53 @@
+{
+  "lessonId": "paticcasamuppada_l06",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 6,
+  "stageIndex": 3,
+  "title": "Bài 6: Bó Lau Dựa Vào Nhau — Tuệ Quán Vô Ngã Của Duyên Khởi",
+  "paliTitle": "Naḷakalāpī Sutta (SN 12.67)",
+  "suttaRef": {
+    "uid": "sn12.67",
+    "title": "Kinh Bó Lau (Naḷakalāpīsutta — SN 12.67)",
+    "excerptPali": "Seyyathāpi, āvuso, dve naḷakalāpiyo aññamaññaṃ nissāya tiṭṭheyyuṃ... Evameva kho, āvuso, nāmarūpapaccayā viññāṇaṃ, viññāṇapaccayā nāmarūpaṃ... Tāsañce, āvuso, naḷakalāpīnaṃ ekaṃ ākaḍḍheyya, ekā papateyya; aparañce ākaḍḍheyya, aparā papateyya. Evameva kho, āvuso, viññāṇanirodhā nāmarūpanirodho, nāmarūpanirodhā viññāṇanirodho.",
+    "excerptTranslation": "Ví như, này chư Hiền, hai bó lau dựa vào nhau mà cùng đứng vững... Cũng vậy, này chư Hiền, do duyên Danh Sắc có Thức, do duyên Thức có Danh Sắc... Này chư Hiền, nếu kéo một bó lau ra thì bó lau kia sẽ ngã đổ; nếu kéo bó lau kia ra thì bó lau này sẽ ngã đổ. Cũng vậy, này chư Hiền, do Thức diệt nên Danh Sắc diệt; do Danh Sắc diệt nên Thức diệt."
+  },
+  "pariyatti": {
+    "shortSummary": "Một trong những ẩn dụ triết học chói sáng nhất của Tam Tạng Pāḷi: Cuộc đối thoại giữa hai bậc Đại Thánh Sāriputta và Mahākoṭṭhita. Danh Sắc (thân thể và tâm lý) và Thức (nhận thức) không có cái nào tự sinh, không có cái nào làm chủ tể sáng tạo ra cái kia; chúng dựa vào nhau như hai bó lau. Bẻ gãy ảo tưởng 'Tâm sinh ra Vật chất' hoặc 'Vật chất sinh ra Tâm'.",
+    "coreConcepts": [
+      {
+        "term": "Tương Duyên Hỗ Trợ",
+        "pali": "Aññamaññapaccaya",
+        "definition": "Quan hệ nhân duyên tương hỗ hai chiều: A làm điều kiện cho B, và B đồng thời làm điều kiện cho A."
+      },
+      {
+        "term": "Bó Lau Nương Nhau",
+        "pali": "Naḷakalāpī",
+        "definition": "Hình ảnh ẩn dụ tuyệt mỹ về sự phụ thuộc lẫn nhau của thân xác và ý thức, rút một bên là bên kia sụp đổ."
+      }
+    ],
+    "expositionMarkdown": "### 1. Vượt Thoát Chủ Nghĩa Duy Vật & Chủ Nghĩa Duy Tâm\n\nTriết học phương Tây tranh cãi hàng ngàn năm giữa:\n- **Duy vật luận (Materialism):** Não bộ sinh ra tâm trí, vật chất quyết định tất cả.\n- **Duy tâm luận (Idealism):** Tâm trí sinh ra vũ trụ, vật chất chỉ là ảo ảnh của ý thức.\n\nĐức Phật và Tôn giả Sāriputta chỉ rõ bằng ẩn dụ hai bó lau:\n- Không có thân thể và giác quan (*Danh Sắc*), thì ý thức (*Thức*) không thể nương gá vào đâu để nhận biết.\n- Không có ý thức (*Thức*), thì thân xác (*Danh Sắc*) chỉ là một tử thi bất động tan rữa trong đất.\n\n**Thân và Tâm là hai bó lau dựa vào nhau mà đứng!** Cả hai đều vô ngã, đều là dòng chảy hiện tượng sinh diệt theo điều kiện.\n\n### 2. Ý Nghĩa Của Việc Nhận Diện Ảo Tưởng 'Chủ Nhân'\nKhi bạn nhận ra Thân và Tâm chỉ nương tựa nhau như hai bó lau:\n- Bạn không còn tìm kiếm một 'Linh Hồn' vô hình đứng đằng sau điều khiển.\n- Bạn nhìn thấy rõ khi đau ốm thân xác làm tâm khó chịu, hay khi căng thẳng tinh thần làm dạ dày đau nhức — đó chỉ là sự tương tác sinh học - tâm lý tự nhiên. Không có gì phải tự dằn vặt hay bi kịch hóa!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Hiểu lầm rằng một trong hai bó lau phải có trước bó lau kia trong thời gian.",
+        "correction": "Trong Duyên Khởi, có những mắt xích đồng sinh (Sahajāta) và tương duyên (Aññamañña) khởi lên cùng một lúc, không thể tách rời cái nào trước cái nào sau."
+      },
+      {
+        "mistake": "Nghĩ rằng nếu thân tâm nương tựa nhau thì chết là hết vì thân hoại thì tâm tiêu.",
+        "correction": "Khi thân này hoại, năng lượng nghiệp lực (Kamma-saṅkhāra) lập tức kích hoạt dòng Thức kết sinh gá vào một phôi thai Danh Sắc mới tương ứng; hai bó lau mới lại tiếp tục hình thành."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Ngồi thiền: Quán sát sự tương tác hai chiều giữa Tâm và Thân. Hơi thở (thân) chậm lại thì tâm dịu xuống; tâm dịu xuống thì hơi thở càng êm dịu hơn.\n2. Thấy rõ sự vô ngã: Không có một 'ông chủ' nào cai quản cả hai; chỉ có sự vận hành hài hòa của các điều kiện.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Sự buông thư hoàn toàn, không cố gắng kiểm soát thực tại bằng bản ngã."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn có nhận ra rằng những căng thẳng mệt mỏi của bạn hôm nay chỉ là phản ứng tương tác giữa hai bó lau Thân và Tâm, hoàn toàn không dính líu đến tự ngã đích thực?",
+    "selfAuditChecklist": [
+      "Tôi đã thấy được sự tương tác mật thiết giữa sức khỏe cơ thể và cảm xúc tinh thần.",
+      "Tôi không còn bám víu vào ý niệm có một 'ông Tôi' bất tử điều khiển thân xác.",
+      "Tâm tôi có được sự xả ly sâu sắc trước các biến đổi sinh học của cơ thể."
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "lessonId": "paticcasamuppada_l08",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 8,
+  "stageIndex": 4,
+  "title": "Lesson 8: The Unwounded Hand — Transcending the Gravitational Pull of Karma",
+  "paliTitle": "Nibbedhika Sutta (AN 6.63) & Dhp 124",
+  "suttaRef": {
+    "uid": "an6.63",
+    "title": "Penetrative Discourse (AN 6.63)",
+    "excerptPali": "Cetanāhaṃ, bhikkhave, kammaṃ vadāmi. Cetayitvā kammaṃ karoti — kāyena vācāya manasā... Pāṇimhi ce vaṇo nāssa, hareyya pāṇinā visaṃ. Nābbaṇaṃ visamanveti, natthi pāpaṃ akubbato.",
+    "excerptTranslation": "'Intention, monks, is what I call karma. Having intended, one acts through body, speech, and mind'... If on the hand there is no wound, one may handle poison with one's hand. Poison does not enter where there is no wound; there is no bad result for one who does not perform unwholesome actions."
+  },
+  "pariyatti": {
+    "shortSummary": "The crowning summit of Buddhist Karma: Karma is fundamentally Intention (*Cetanā*). By purifying intention through mindfulness and insight, one generates the fourth kind of karma: 'Karma neither dark nor bright, leading to the exhaustion of all karma'—transcending samsaric gravity forever.",
+    "coreConcepts": [
+      {
+        "term": "Intention is Karma",
+        "pali": "Cetanā Kamma",
+        "definition": "Volitional intent is the soul and determinant deciding whether an act yields suffering or liberation."
+      },
+      {
+        "term": "Four Kinds of Action",
+        "pali": "Cattāri Kammāni",
+        "definition": "Dark karma with dark result, bright with bright, mixed with mixed, and karma neither dark nor bright leading to exhaustion of karma (The Noble Path)."
+      },
+      {
+        "term": "Unwounded Hand",
+        "pali": "Abbaṇa Pāṇi",
+        "definition": "Metaphor for consciousness purged of defilements: worldly poisons cannot penetrate an uninjured heart."
+      }
+    ],
+    "expositionMarkdown": "### 1. Why Intention Determines Everything\nA knife cut in the abdomen:\n- By a robber with murderous greed ➔ Hell-bound heavy dark karma.\n- By a surgeon to extract a deadly tumor ➔ Sublime noble merit.\nThe physical movement is identical, yet the karmic destiny is worlds apart because the **Intention (*Cetanā*)** is opposite!\n\n### 2. Transcending the Wheel via the Fourth Karma\n- Dark deeds lead to lower realms.\n- Bright deeds lead to celestial realms, yet heavenly merit eventually expires.\n- **The Noble Path:** Cultivating mindfulness and insight is **karma neither dark nor bright, exhausting all karma**, liberating consciousness into deathless Nibbāna.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Accidentally stepping on an insect constitutes heinous murder karma.",
+        "correction": "Absent intention or awareness (like an unseeing person walking), it does not constitute karmic killing due to the absence of volitional intent."
+      },
+      {
+        "mistake": "Buddhism is merely accumulating merits to be reborn wealthy next lifetime.",
+        "correction": "Heavenly merit remains samsaric. The ultimate goal is uprooting Ignorance to attain irreversible freedom."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Intention Spotlight: Before sending an email or addressing conflict, pause 3 seconds and ask: 'What is my secret motive? Ego-validation, retaliation, or genuine service?'.\n2. Dedicate all daily merits toward supreme unconditioned awakening.",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Absolute immaculate purity of psychological motivation in every deed."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you experience invulnerable peace knowing every choice you made today flowed from selfless, pure intentions?",
+    "selfAuditChecklist": [
+      "I scrutinized and purified my intentions before crucial actions.",
+      "I dedicated all wholesome merit toward ultimate liberation.",
+      "My heart rests fearless, knowing I dwell safeguarded within the Dhamma."
+    ]
+  }
+}

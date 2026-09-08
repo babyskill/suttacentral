@@ -1,0 +1,58 @@
+{
+  "lessonId": "paticcasamuppada_l01",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 1,
+  "stageIndex": 1,
+  "title": "Lesson 1: Universal Conditionality — The Core Heart of the Dhamma",
+  "paliTitle": "Paccaya Sutta (SN 12.20)",
+  "suttaRef": {
+    "uid": "sn12.20",
+    "title": "Conditions (Paccayasutta — SN 12.20)",
+    "excerptPali": "Uppādā vā, bhikkhave, tathāgatānaṃ anuppādā vā tathāgatānaṃ, ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā idappaccayatā... Iti kho, bhikkhave, yā tatra tathatā avitathatā anaññathatā idappaccayatā — ayaṃ vuccati, bhikkhave, paṭiccasamuppādo.",
+    "excerptTranslation": "Whether Tathāgatas arise or not, there remains this element, this steadfastness of the Dhamma, this fixed regularity of the Dhamma, specific conditionality... Thus, monks, the reality, the infallibility, the unalterability, the specific conditionality: this is called dependent origination."
+  },
+  "pariyatti": {
+    "shortSummary": "Dependent Origination is not an invented doctrine, but the eternal natural law of reality discovered by the Buddha. The universal formula: 'When this exists, that comes to be; with the arising of this, that arises. When this does not exist, that does not come to be; with the cessation of this, that ceases.'",
+    "coreConcepts": [
+      {
+        "term": "Dependent Origination",
+        "pali": "Paṭiccasamuppāda",
+        "definition": "The interdependent cosmic process of phenomena arising and ceasing in reliance upon conditions."
+      },
+      {
+        "term": "Specific Conditionality",
+        "pali": "Idappaccayatā",
+        "definition": "The exact scientific causal matrix: condition A necessarily yields result B."
+      },
+      {
+        "term": "Suchness & Infallibility",
+        "pali": "Tathatā & Avitathatā",
+        "definition": "The unalterable objective nature of reality, defying wishful human ego projection."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Revolutionary Breakthrough 2,600 Years Ago\nWhile ancient thought debated Divine Creation vs Fatalistic Chance, the Buddha declared the immutable scientific axiom: 'When this exists, that comes to be; with the arising of this, that arises.'\n\n### 2. Practical Modern Liberation\nNo stress or relationship breakdown falls from heaven. Everything is a causal feedback loop. Alter the conditions mindfully, and outcomes transform irrevocably!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Confusing Dependent Origination with rigid Fatalism.",
+        "correction": "Dependent Origination is dynamic. Altering present intentional conditions reconfigures the future instantaneously."
+      },
+      {
+        "mistake": "Regarding conditionality as dry armchair metaphysics.",
+        "correction": "It is the direct operating manual for insight meditation, dissolving ego clinging and existential despair."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Reality Causal Audit: When annoyed, pause for 1 minute and list 3 internal and external conditions generating the event.\n2. In meditation: Discern how the breath exists only through lungs, atmosphere, diaphragm, and the will to live converging.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Radical responsibility, abandoning scapegoating forever."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Do you realize you hold total agency to transform your life by altering causes in the living present?",
+    "selfAuditChecklist": [
+      "I ceased blaming fate or other people for difficulties.",
+      "I clearly perceive the causal link between my choices and emotional states.",
+      "My heart gained immense peace knowing life follows natural law."
+    ]
+  }
+}

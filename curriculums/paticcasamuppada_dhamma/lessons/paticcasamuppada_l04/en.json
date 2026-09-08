@@ -1,0 +1,58 @@
+{
+  "lessonId": "paticcasamuppada_l04",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 4,
+  "stageIndex": 2,
+  "title": "Lesson 4: Contact, Feeling, Craving, Clinging — The Ignite Switch of Samsara",
+  "paliTitle": "Mahānidāna Sutta (DN 15)",
+  "suttaRef": {
+    "uid": "dn15",
+    "title": "The Great Causes Discourse (Mahānidāna Sutta — DN 15)",
+    "excerptPali": "'Vedanāpaccayā taṇhā'ti iti kho panetaṃ vuttaṃ... Taṇhāpaccayā pariyesanā, pariyesanāpaccayā lābho, lābhapaccayā vinicchayo, vinicchayapaccayā chandarāgo... Etampeso, ānanda, pariyāyo yena vedanāpaccayā taṇhā veditabbā.",
+    "excerptTranslation": "'With feeling as condition, craving comes to be': thus it has been said... Craving conditions pursuit; pursuit conditions gain; gain conditions decision-making; decision-making conditions desire and lust; desire and lust condition clinging; clinging conditions possessiveness; possessiveness conditions stinginess; stinginess conditions safeguarding; and conditioned by safeguarding, many bad unwholesome things arise: taking up of sticks and knives, conflicts, quarrels, insults, and falsehoods!"
+  },
+  "pariyatti": {
+    "shortSummary": "The Mahānidāna Sutta (DN 15) exposes the socio-psychological engine of wars, conflicts, and family betrayals: all ignite from bare feeling (*Vedanā*) sparking Craving (*Taṇhā*), mutating into Clinging (*Upādāna*), possessiveness, safeguarding, and violent warfare.",
+    "coreConcepts": [
+      {
+        "term": "Contact",
+        "pali": "Phassa",
+        "definition": "The confluence of sense organ, sense object, and corresponding consciousness."
+      },
+      {
+        "term": "Craving",
+        "pali": "Taṇhā",
+        "definition": "Unquenchable thirst for sensual gratification (*Kāmataṇhā*), becoming (*Bhavataṇhā*), or non-becoming (*Vibhavataṇhā*)."
+      },
+      {
+        "term": "Clinging",
+        "pali": "Upādāna",
+        "definition": "Fierce possessive grasping: sensual clinging, dogma clinging, ritual clinging, and ego clinging."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Anatomy of Global Conflict\nPleasant sensation sparks Craving ➔ Pursuit ➔ Acquisition ➔ Greed ➔ Possessiveness ➔ Jealousy ➔ Weaponized defense ➔ Global warfare! The Buddha traced all geopolitical slaughter to unexamined pleasant feeling.\n\n### 2. Flipping the Circuit Breaker\nYou cannot gouge your eyes out to avoid contact. But **you can cut the circuit at Feeling before it sparks Craving.** Enjoy the meal with clear comprehension without becoming an addicted slave to taste!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Blaming Feeling (*Vedanā*) as the evil villain.",
+        "correction": "Feeling is innocent neurobiology. The criminal culprit is Craving (*Taṇhā*) latching onto it."
+      },
+      {
+        "mistake": "Non-clinging means abandoning family responsibilities and becoming cold.",
+        "correction": "Non-clinging liberates you from possessive neurosis, empowering you to love and serve with pure, unselfish wisdom."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. 3-Second Purchasing Pause: When seduced by a consumer product, pause 3 seconds and ask: 'Is this real utility or eye-craving?'.\n2. Mindful Eating: Observe craving before tasting; taste attentively; watch taste disappear down the throat.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Mastery over sensory thirst, preserving uncompromised inner sovereignty."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you taste the majestic freedom of admiring something alluring without the slightest impulse to possess it?",
+    "selfAuditChecklist": [
+      "I intercepted at least one impulsive wave of unnecessary craving.",
+      "I refrained from treating relationships as possessive ownership.",
+      "My mind felt spacious and uncluttered by consumerist compulsions."
+    ]
+  }
+}

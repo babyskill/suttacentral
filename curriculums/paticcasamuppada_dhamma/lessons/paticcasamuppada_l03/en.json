@@ -1,0 +1,63 @@
+{
+  "lessonId": "paticcasamuppada_l03",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 3,
+  "stageIndex": 2,
+  "title": "Lesson 3: From Ignorance to Mind-and-Matter — Genesis of Organism",
+  "paliTitle": "Vibhaṅga Sutta (SN 12.2)",
+  "suttaRef": {
+    "uid": "sn12.2",
+    "title": "Analysis of Dependent Origination (SN 12.2)",
+    "excerptPali": "Avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṃ; viññāṇapaccayā nāmarūpaṃ; nāmarūpapaccayā saḷāyatanaṃ... Katamā ca, bhikkhave, avijjā? Yaṃ kho, bhikkhave, dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ — ayaṃ vuccati, bhikkhave, avijjā.",
+    "excerptTranslation": "With ignorance as condition, volitional formations come to be; with volitional formations as condition, consciousness; with consciousness as condition, mind-and-matter; with mind-and-matter as condition, the six sense bases... And what is ignorance? Not knowing suffering, not knowing the origin of suffering, not knowing the cessation of suffering, not knowing the way leading to the cessation of suffering: this is called ignorance."
+  },
+  "pariyatti": {
+    "shortSummary": "The 12 links unveil the genesis of sentient existence without a static soul. Driven by past karmic volitions, relinking consciousness (*Paṭisandhi-viññāṇa*) descends into maternal matrix, conditioning the embryonic mind-and-matter (*Nāmarūpa*) and budding the six sense organs.",
+    "coreConcepts": [
+      {
+        "term": "Ignorance",
+        "pali": "Avijjā",
+        "definition": "Spiritual blindness, non-comprehension of the Four Noble Truths and Three Characteristics."
+      },
+      {
+        "term": "Volitional Formations",
+        "pali": "Saṅkhāra",
+        "definition": "Karmic volitions shaping bodily, verbal, and mental destiny."
+      },
+      {
+        "term": "Consciousness",
+        "pali": "Viññāṇa",
+        "definition": "Cognitive continuity, specifically relinking consciousness connecting lifetimes."
+      },
+      {
+        "term": "Mind-and-Matter",
+        "pali": "Nāmarūpa",
+        "definition": "Psychophysical organism: mental components (feeling, perception, volition, contact, attention) and physical form."
+      }
+    ],
+    "expositionMarkdown": "### 1. Canonical Definition of Ignorance\nIgnorance is not lack of academic degrees. A genius polymath lives in deep ignorance if blind to Dukkha, Craving, Cessation, and the Eightfold Path.\n\n### 2. Rebirth Devoid of a Soul\nPast karmic momentum propelled relinking consciousness into conception, sparking embryonic mind-and-matter, sprouting the six sense doors to meet the world.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Treating Ignorance as a temporal 'First Cause' like Genesis.",
+        "correction": "Samsara has no discoverable first beginning. Ignorance itself arises conditionally from mental taints in an ongoing cycle."
+      },
+      {
+        "mistake": "Viewing rebirth consciousness as an immortal soul migrating bodies.",
+        "correction": "Consciousness is a fluid causal wave like an echo rebounding across valleys, void of substantial entity."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Daily Ignorance Check: When vanity or envy flares, ask: 'What delusion is blinding my awareness right now?'.\n2. Intercept Formation: Stop negative thoughts from crystallizing into harmful verbal or physical deeds.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Radiate the lamp of Right View, dispelling shadows of delusion."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you perceive that your body and mind are merely a conditional stream of psycho-physical factors rather than an eternal 'I'?",
+    "selfAuditChecklist": [
+      "I caught unwholesome volitional impulses before they manifested outwardly.",
+      "I recognized emotional turmoil springs from inner delusion, not external enemies.",
+      "My heart gained stability witnessing the impersonal causal flow of existence."
+    ]
+  }
+}

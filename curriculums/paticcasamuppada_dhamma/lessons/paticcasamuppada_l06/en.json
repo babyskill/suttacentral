@@ -1,0 +1,53 @@
+{
+  "lessonId": "paticcasamuppada_l06",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 6,
+  "stageIndex": 3,
+  "title": "Lesson 6: Two Sheaves of Reeds — The Non-Self Insight of Interdependence",
+  "paliTitle": "Naḷakalāpī Sutta (SN 12.67)",
+  "suttaRef": {
+    "uid": "sn12.67",
+    "title": "Sheaves of Reeds (SN 12.67)",
+    "excerptPali": "Seyyathāpi, āvuso, dve naḷakalāpiyo aññamaññaṃ nissāya tiṭṭheyyuṃ... Evameva kho, āvuso, nāmarūpapaccayā viññāṇaṃ, viññāṇapaccayā nāmarūpaṃ... Tāsañce, āvuso, naḷakalāpīnaṃ ekaṃ ākaḍḍheyya, ekā papateyya; aparañce ākaḍḍheyya, aparā papateyya. Evameva kho, āvuso, viññāṇanirodhā nāmarūpanirodho, nāmarūpanirodhā viññāṇanirodho.",
+    "excerptTranslation": "Just as two sheaves of reeds might stand leaning against each other... So too, with mind-and-matter as condition, consciousness comes to be; with consciousness as condition, mind-and-matter... If one of those sheaves of reeds is pulled away, the other falls; if the other is pulled away, the first falls. So too, with the cessation of consciousness, mind-and-matter ceases; with the cessation of mind-and-matter, consciousness ceases."
+  },
+  "pariyatti": {
+    "shortSummary": "One of the most dazzling philosophical similes in the Pāḷi Canon: Discourse between Ven. Sāriputta and Ven. Mahākoṭṭhita. Mind-and-Matter and Consciousness do not arise independently or create each other; they stand mutually leaning like two sheaves of reeds, transcending both Materialism and Idealism.",
+    "coreConcepts": [
+      {
+        "term": "Mutuality Condition",
+        "pali": "Aññamaññapaccaya",
+        "definition": "Two-way reciprocal causality: Factor A conditions Factor B, while Factor B simultaneously conditions Factor A."
+      },
+      {
+        "term": "Two Sheaves of Reeds",
+        "pali": "Naḷakalāpī",
+        "definition": "The supreme simile of somatic-cognitive interdependence: withdraw one, and the other collapses immediately."
+      }
+    ],
+    "expositionMarkdown": "### 1. Transcending Materialism vs Idealism\nWestern philosophy raged over Materialism (brain creates mind) vs Idealism (mind creates matter). The Buddha proves neither is primary: Consciousness cannot cognize without physical organs; organs decay into dust without consciousness. They stand leaning together!\n\n### 2. The Total Dissolution of the Master Myth\nNo homunculus soul stands behind the control panel. When anxiety causes stomach ulcers or exhaustion causes irritability, it is merely sheaves of reeds leaning on each other.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing one sheaf of reeds must temporally precede the other.",
+        "correction": "In dependent conditionality, factors function simultaneously (*Sahajāta*) and mutually (*Aññamañña*)."
+      },
+      {
+        "mistake": "Assuming physical death ends everything forever because the body dissolves.",
+        "correction": "Upon physical death, karmic momentum immediately kindles relinking consciousness into a fresh matrix, erecting two new sheaves of reeds."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. In meditation: Trace the two-way loop: slow breathing calms the mind; a calm mind refines the breath.\n2. Discern nonself: No CEO presides over the process; only harmonious mutual conditioning.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Effortless surrender of the ego's desperate need to micromanage reality."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you see that your mental fatigue today was merely reciprocal friction between the sheaves of Body and Mind, touching no permanent core?",
+    "selfAuditChecklist": [
+      "I clearly recognized the intimate reciprocal feedback between biology and mood.",
+      "I dismantled the illusion of a homunculus driver behind the wheel.",
+      "My heart achieved serene detachment amidst natural biological fluctuations."
+    ]
+  }
+}

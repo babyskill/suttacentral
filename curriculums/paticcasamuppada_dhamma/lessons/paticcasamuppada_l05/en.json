@@ -1,0 +1,58 @@
+{
+  "lessonId": "paticcasamuppada_l05",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 5,
+  "stageIndex": 3,
+  "title": "Lesson 5: Severing the Chain of Craving — The Reversal of Dependent Origination",
+  "paliTitle": "Mahātaṇhāsaṅkhaya Sutta (MN 38)",
+  "suttaRef": {
+    "uid": "mn38",
+    "title": "The Greater Discourse on the Destruction of Craving (MN 38)",
+    "excerptPali": "'Aññatra, bhikkhave, paccayā natthi viññāṇassa sambhavo'ti... Yato kho, bhikkhave, bhikkhu channaṃ phassāyatanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ viditvā anupādā vimutto hoti — ayaṃ vuccati, bhikkhave, bhikkhu taṇhākkhayavimutto.",
+    "excerptTranslation": "'Apart from conditions, monks, there is no arising of consciousness'... When a bhikkhu understands as they really are the arising, passing away, gratification, danger, and escape regarding the six bases of contact, he is liberated through non-clinging: this is called a bhikkhu liberated through the destruction of craving."
+  },
+  "pariyatti": {
+    "shortSummary": "If the forward mode explains the genesis of suffering, the reversal mode (*Paṭiloma*) unlocks Nibbāna. When Ignorance is supplanted by Wisdom (*Vijjā*), Craving is eradicated; with craving quenched, clinging ceases; with clinging quenched, becoming ceases; the entire mountain of samsaric agony dissolves.",
+    "coreConcepts": [
+      {
+        "term": "Reversal Mode",
+        "pali": "Paṭiloma Paṭiccasamuppāda",
+        "definition": "The cessation dynamic: cessation of condition yields cessation of effect, extinguishing Dukkha."
+      },
+      {
+        "term": "Destruction of Craving",
+        "pali": "Taṇhākkhaya",
+        "definition": "Total extinguishment of psychic thirst, synonymous with the realization of Nibbāna."
+      },
+      {
+        "term": "Fivefold Perspective",
+        "pali": "Samudaya - Atthaṅgama - Assāda - Ādīnava - Nissaraṇa",
+        "definition": "Arising, passing away, gratification, danger, and escape regarding sensory experiences."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Sāti Heresy: Consciousness as Soul\nMonk Sāti asserted: 'Consciousness migrates unchanged.' The Buddha sternly rebuked: 'Fire burns dependent on timber; remove timber, fire extinguishes. Consciousness arises strictly dependent on conditions!'\n\n### 2. The Absolute Liberation Equation\nIgnorance ceases ➔ Fabrications cease ➔ Craving ceases ➔ Clinging ceases ➔ Birth, aging, death, sorrow, and despair cease forever. This is Nibbāna!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Mistaking cessation (*Nirodha*) for physical suicide.",
+        "correction": "Suicide is driven by intense aversion (*Vibhavataṇhā*), plunging one into wretched realms. Canonical cessation is extinguishing delusion with wisdom."
+      },
+      {
+        "mistake": "Viewing Nibbāna as a physical celestial paradise in the clouds.",
+        "correction": "Nibbāna is the cool, unconditioned state of consciousness wholly purged of greed, hatred, and delusion here and now."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Contemplate Cessation (*Vaya-dhamma*): When anger or craving cools down, spend 30 seconds relishing its absence—taste the peace of the extinguished flame.\n2. Cultivate Dispassion (*Nissaraṇa*): Discern the anxiety inherent in luxury acquisitions.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Fearless relinquishment, inclining heart toward the peace of Nibbāna."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Do you realize that extinguishing a feverish craving yields peace a thousandfold deeper than gratifying it?",
+    "selfAuditChecklist": [
+      "I savored serene relief upon completely relinquishing an addictive craving.",
+      "I dissolved the lingering superstition of an immortal static soul.",
+      "My heart yearns for liberating purity above worldly fame and fleeting gain."
+    ]
+  }
+}

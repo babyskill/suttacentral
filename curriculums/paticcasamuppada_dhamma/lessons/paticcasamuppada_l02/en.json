@@ -1,0 +1,58 @@
+{
+  "lessonId": "paticcasamuppada_l02",
+  "curriculumId": "paticcasamuppada_dhamma",
+  "lessonNumber": 2,
+  "stageIndex": 1,
+  "title": "Lesson 2: Transcending Existence & Non-Existence — The Middle Path",
+  "paliTitle": "Kaccānagotta Sutta (SN 12.15)",
+  "suttaRef": {
+    "uid": "sn12.15",
+    "title": "To Kaccānagotta (SN 12.15 - Nidāna Saṃyutta)",
+    "excerptPali": "Dvayanissito khvāyaṃ, kaccāna, loko yebhuyyena — atthitañceva natthitañca... Lokasamudayaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke natthitā sā na hoti. Lokanirodhaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke atthitā sā na hoti... Ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti.",
+    "excerptTranslation": "This world, Kaccāna, for the most part depends upon a duality: upon 'it exists' and 'it does not exist'... For one who sees the arising of the world as it really is with right wisdom, there is no notion of non-existence in regard to the world. For one who sees the cessation of the world as it really is with right wisdom, there is no notion of existence in regard to the world... Avoiding both these extremes, the Tathāgata teaches the Dhamma by the middle."
+  },
+  "pariyatti": {
+    "shortSummary": "Human thought swings between two chasms: Eternalism (belief in an immortal soul) and Annihilationism (nihilistic belief that death ends all with zero consequences). The Buddha presents the transcendent Middle Way: phenomena are neither static entities nor sheer nothingness, but a dynamic causal continuum.",
+    "coreConcepts": [
+      {
+        "term": "Eternalism",
+        "pali": "Sassatadiṭṭhi",
+        "definition": "Dogma claiming an eternal, unchanging self, soul, or cosmic substance."
+      },
+      {
+        "term": "Annihilationism",
+        "pali": "Ucchedadiṭṭhi",
+        "definition": "Nihilistic dogma claiming bodily death terminates consciousness with zero karmic continuum."
+      },
+      {
+        "term": "Middle Way Causality",
+        "pali": "Majjhena Dhamma",
+        "definition": "Realizing that arising through conditions refutes nihilism, while ceasing through conditions refutes permanence."
+      }
+    ],
+    "expositionMarkdown": "### 1. Dual Traps of Human Civilization\n- Eternalism breeds desperate ego-clinging and superstitious appeasement.\n- Annihilationism breeds hedonistic nihilism ('YOLO', zero ethical accountability), degrading modern life.\n\n### 2. The Simile of Flame and River\nA candle flame at midnight is neither identical to nor wholly different from the flame at dusk. Life is an unbroken causal stream (*Santati*). Insight eradicates mortality dread while igniting fierce ethical integrity!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Assuming Buddhism teaches nihilism: 'Nothing exists, everything is meaningless.'",
+        "correction": "The Buddha condemned nihilism. He taught Nonself (devoid of independent essence), not non-existence of dependent reality."
+      },
+      {
+        "mistake": "Viewing the Middle Way as a lazy mediocre compromise.",
+        "correction": "It is transcendent awakened wisdom surpassing all dualistic conceptual boxes."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. In times of loss: Contemplate cessation—phenomena gather and disperse by conditions; heart remains unshakeable.\n2. In times of success: Contemplate conditional arising—abandon vanity knowing success is a transient composite.",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Serene equilibrium amidst the worldly winds of gain and loss."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did your mind lean into nihilistic angst or cling to permanence today? How steadily did you rest in the Middle Path?",
+    "selfAuditChecklist": [
+      "I rejected both reckless nihilism and rigid dogma.",
+      "I observed the continuous fluid succession of bodily and mental factors.",
+      "My heart rested in serene clarity beyond dualistic existence and non-existence."
+    ]
+  }
+}

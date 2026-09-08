@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "versionCode": 2,
-  "generatedAt": "2026-09-07T15:42:15Z",
+  "version": "1.0.2",
+  "versionCode": 3,
+  "generatedAt": "2026-09-08T02:13:57Z",
   "curriculums": [
     {
       "id": "dasa_kusala_deva",
@@ -74,6 +74,30 @@
       "targetAudienceEn": "Lay practitioners seeking to protect moral integrity, cultivate family harmony, and preserve future human rebirth.",
       "curriculumPath": "assets/data/curriculums/pancasila_human/curriculum.json",
       "sha256": "4b978476bbec466fde902e899645bb7fdbf4ea1d42058750e0447933c6671279"
+    },
+    {
+      "id": "paticcasamuppada_dhamma",
+      "curriculumId": "paticcasamuppada_dhamma",
+      "title": "Duyên Khởi & Nghiệp Báo — Giải Mã Bánh Xe Luân Hồi",
+      "titleEn": "Dependent Origination & Karma — Decoding the Wheel of Samsara",
+      "paliTitle": "Paṭiccasamuppāda & Kammassakatā",
+      "subtitle": "Thấu Suốt 12 Chi Phần Tương Tác, Phá Bỏ Định Mệnh & Làm Chủ Vận Mệnh (SN 12, DN 15, MN 38)",
+      "subtitleEn": "Penetrating the 12 Interconnected Links, Shattering Fatalism & Mastering Destiny",
+      "description": "Đức Phật dạy: 'Ai thấy Duyên Khởi là thấy Chánh Pháp; ai thấy Chánh Pháp là thấy Như Lai' (MN 28). Giáo trình này dẫn dắt hành giả khám phá quy luật vận hành tối thượng của vũ trụ và tâm thức: không có một Đấng Sáng Tạo hay số phận tiền định nào, mọi hiện tượng đều do duyên sinh và do duyên diệt. Qua đó, hành giả làm chủ Nghiệp (Kamma), chặt đứt mắt xích ái thủ và bước ra khỏi ngục tù luân hồi.",
+      "descriptionEn": "The Buddha proclaims: 'One who sees Dependent Origination sees the Dhamma; one who sees the Dhamma sees the Tathāgata' (MN 28). This curriculum guides practitioners through the ultimate cosmic and psychological law: devoid of a creator deity or rigid fate, all phenomena arise and cease conditionally. Through this insight, one masters Karma, severs the chain of craving and clinging, and walks out of the prison of samsara.",
+      "category": "general",
+      "iconEmoji": "☸️",
+      "estimatedDuration": "8 bài / 4 Chặng",
+      "estimatedDurationEn": "8 Lessons / 4 Phases",
+      "totalLessons": 8,
+      "canonicalSource": "Tam Tạng Pāḷi: SN 12 (Tương Ưng Nhân Duyên — SN 12.2, SN 12.15, SN 12.20, SN 12.67), DN 15 (Kinh Đại Duyên), MN 38 (Đại Kinh Đoạn Tận Ái), MN 135 (Tiểu Kinh Nghiệp Phân Biệt), AN 6.63 (Kinh Thấu Suốt)",
+      "canonicalSourceEn": "Pāḷi Canon: SN 12 (Nidāna Saṃyutta — SN 12.2, SN 12.15, SN 12.20, SN 12.67), DN 15 (Mahānidāna Sutta), MN 38 (Mahātaṇhāsaṅkhaya Sutta), MN 135 (Cūḷakammavibhaṅga Sutta), AN 6.63 (Nibbedhika Sutta)",
+      "traditionLineage": "Phật giáo Nguyên thủy Theravāda — Tuệ quán Duyên Khởi (Paccaya-pariggaha-ñāṇa) & Chánh Kiến Nghiệp Báo (Kammassakatā Sammādiṭṭhi)",
+      "traditionLineageEn": "Authentic Theravāda Early Buddhism — Insight into Conditional Relations & Right View of Karmic Ownership",
+      "targetAudience": "Hành giả muốn thấu suốt quy luật nhân quả khoa học của Phật giáo, vượt qua khủng hoảng niềm tin, đoạn trừ tà kiến định mệnh và xây dựng nền tảng giải thoát vững chắc.",
+      "targetAudienceEn": "Seekers desiring deep scientific understanding of Buddhist causality, overcoming fatalism and superstitious anxiety, and establishing unshakable liberating insight.",
+      "curriculumPath": "assets/data/curriculums/paticcasamuppada_dhamma/curriculum.json",
+      "sha256": "9b40d6ca7b29b0f10c498c83673b46d30dfddb12b92e8307d54d3ab9e18cf94f"
     },
     {
       "id": "satipatthana_vipassana",
