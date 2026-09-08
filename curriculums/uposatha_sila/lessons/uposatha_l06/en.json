@@ -1,0 +1,58 @@
+{
+  "lessonId": "uposatha_l06",
+  "curriculumId": "uposatha_sila",
+  "lessonNumber": 6,
+  "stageIndex": 3,
+  "title": "Lesson 6: Merit Outshining the Sixteen Great Realms of the World",
+  "paliTitle": "Bojjhā Sutta (AN 8.45)",
+  "suttaRef": {
+    "uid": "an8.45",
+    "title": "Discourse to Bojjhā on the Fruits of Uposatha (AN 8.45)",
+    "excerptPali": "Yāvatā, Bojjhe, solasannaṁ mahājanapadānaṁ issariyādhipaccaṁ rajjaṁ kāreyya... aṭṭhaṅgasamannāgatassa uposathassa etaṁ kalampi na upeti soḷasiṁ... Taṁ kissa hetu? Kapaṇaṁ, Bojjhe, mānusakaṁ rajjaṁ dibbaṁ sukhaṁ upanidhāya...",
+    "excerptTranslation": "Whoever, Bojjhā, might exercise sovereign dominion over the sixteen great kingdoms... that dominion is not worth a sixteenth part of an observance of the eight-factored Uposatha... For what reason? Poor is human kingship compared to celestial bliss..."
+  },
+  "pariyatti": {
+    "shortSummary": "The Blessed One proclaims the staggering spiritual fruit of the Eight Precepts: the wealth and dominion over the sixteen ancient realms do not equal a sixteenth fraction of the merit of one Uposatha day, unlocking supreme heavenly bliss and liberation.",
+    "coreConcepts": [
+      {
+        "term": "Sixteen Great Realms",
+        "pali": "Soḷasa mahājanapadā",
+        "definition": "The sixteen vast, wealthy kingdoms of ancient India (e.g. Magadha, Kosala, Vajji); representing the summit of mortal power, treasure, and fame."
+      },
+      {
+        "term": "Not worth a sixteenth part",
+        "pali": "Kalaṁ na upeti soḷasiṁ",
+        "definition": "An ancient Pāḷi idiom signifying an immeasurable disparity: all mundane worldly empires gathered together are a mere speck of dust beside pure virtue."
+      },
+      {
+        "term": "Celestial Bliss",
+        "pali": "Dibba sukha",
+        "definition": "The radiant happiness, vast longevity, and luminous embodiment found in the six sensual heavens (Cātumahārājikā to Paranimmitavasavattī) resulting from Uposatha observance."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Simile of the Sixteen Great Realms (Soḷasa Mahājanapadā)\n\nDuring the Buddha's era, the sixteen great kingdoms—such as Magadha, Kosala, and Avanti—epitomized the pinnacle of human ambition: endless gold, mighty armies, and absolute political sovereignty. Monarchs fought bloody wars to rule over them.\n\nYet the Buddha placed them on an uncompromising scale: All their treasures and dominion **cannot equal even a single sixteenth part (1/16) of one day spent observing the eightfold Uposatha**.\n\n### 2. Fragile Worldly Dominion Versus Incorruptible Virtue\n\n- **Human Kingship:** Rife with constant anxiety, betrayal, political plots, and inevitably terminating in the suffering of death and dissolution.\n- **One Day of Uposatha Virtue:** Represents mastery over one's own impulses. By renouncing killing, greed, and sensual craving for 24 hours, one plants seeds of supramundane awakening. Even its mundane byproduct generates rebirth among the luminous devas for eons.\n\n### 3. Precept Relinquishment & Merit Dedication Next Morning\n\nAt sunrise the following morning, the 24-hour cycle reaches fruition:\n1. **Before the Shrine:** Bow respectfully to the Buddha, reciting the formal return from eight precepts to the standard five lifelong precepts.\n2. **Dedication of Merit:** Radiate unconditional loving-kindness, dedicating the clean spiritual merit to parents, ancestors, celestial beings, and all creatures across the universe.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing that keeping Uposatha is merely for securing hedonistic rebirth in heaven.",
+        "correction": "Heavenly bliss is an incidental byproduct. The primary aim of Uposatha is subduing mental defilements and realizing Nibbāna."
+      },
+      {
+        "mistake": "Binge eating and indulging aggressively the next morning to 'compensate' for yesterday's restraint.",
+        "correction": "Discharging the precepts should transition smoothly into mindful practice of the Five Precepts. Revenge indulgence exposes a 'Cowherd mindset'."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "At sunrise the following day: Sit for 15 minutes in quiet contemplation. Recite the precept discharge: 'Having fulfilled the eight precepts for one day and night, I now return to faithfully observing the five precepts.' Beam loving-kindness and dedicate all accumulated merit to all beings.",
+    "recommendedRoutineId": "r_dana_giving",
+    "suggestedVirtue": "Dedicate spiritual merit with an expansive, selfless heart without clinging to personal reward."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Reflecting on the past 24 hours, do you discern a tangible shift in the quality of your mind: do you sense a quiet inner freedom and dignity growing within?",
+    "selfAuditChecklist": [
+      "Did I maintain all eight training rules throughout the 24 hours without breakage?",
+      "Did I dedicate this stainless merit with sincere goodwill to all sentient beings?",
+      "Have I scheduled my next Uposatha day on my monthly calendar?"
+    ]
+  }
+}

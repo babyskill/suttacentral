@@ -1,0 +1,58 @@
+{
+  "lessonId": "uposatha_l04",
+  "curriculumId": "uposatha_sila",
+  "lessonNumber": 4,
+  "stageIndex": 2,
+  "title": "Bài 4: Ba Giới Ly Dục — Ăn Đúng Ngọ, Không Ca Múa & Giường Thấp",
+  "paliTitle": "Vitthata Uposatha Sutta (AN 8.42)",
+  "suttaRef": {
+    "uid": "an8.42",
+    "title": "Kinh Chi Tiết Về Bát Quan Trai (AN 8.42)",
+    "excerptPali": "Yāvajīvaṁ arahanto ekabhattikā rattūparatā viratā vikālabhojanā... naccagītavāditavisūkadassanā mālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā paṭiviratā... uccāsayanamahāsayanaṁ pahāya... nīcaseyyaṁ kappenti...",
+    "excerptTranslation": "Trọn đời các bậc A-la-hán ăn một ngày một bữa, không ăn ban đêm, tránh ăn phi thời... tránh xa sự múa hát, thổi kèn, xem kịch nghệ diễn xuất, thoa dầu thơm, trang điểm phấn son... từ bỏ giường cao rộng sang trọng, nằm trên giường thấp hoặc trải thảm cỏ... Hôm nay, trọn ngày và đêm này, con cũng học theo như vậy..."
+  },
+  "pariyatti": {
+    "shortSummary": "Ba điều giới đặc thù của Bát Quan Trai: Giới thứ 6 (Không ăn phi thời), Giới thứ 7 (Không ca múa, đàn hát, trang điểm), và Giới thứ 8 (Không nằm ngồi giường cao rộng sang trọng) — tam trụ ly dục cắt đứt thói quen hưởng thụ xa xỉ.",
+    "coreConcepts": [
+      {
+        "term": "Ăn phi thời",
+        "pali": "Vikālabhojana",
+        "definition": "Ăn uống ngoài thời gian quy định (từ sau giữa trưa mặt trời đứng bóng cho đến rạng đông ngày hôm sau); giới này giúp thân thể nhẹ nhàng, giảm trừ dục vọng và hôn trầm."
+      },
+      {
+        "term": "Giải trí & Trang điểm phù phiếm",
+        "pali": "Nacca-gīta-vādita... mālā-gandha",
+        "definition": "Các hoạt động ca múa, âm nhạc khuấy động tâm trí, xức dầu thơm phấn son nhằm tô điểm bản ngã xác thịt vốn vô thường và bất tịnh."
+      },
+      {
+        "term": "Giường cao và rộng sang trọng",
+        "pali": "Uccāsayana-mahāsayana",
+        "definition": "Giường nệm êm ấm đắt tiền, có chạm trổ hoa văn gợi dục hoặc làm tăng trưởng tính lười biếng, tự kiêu và đắm say giấc ngủ."
+      }
+    ],
+    "expositionMarkdown": "### 1. Giới Thứ 6: Ăn Đúng Ngọ & Lợi Ích Của Tiết Chế Ẩm Thực (Vikālabhojanā)\n\nTrong xã hội cổ đại cũng như hiện đại, bữa tối thường là bữa tiệc tùng, tích tụ mỡ thừa và khơi dậy các hoạt động hưởng lạc. Khi Đức Phật chế định việc không ăn sau giờ ngọ:\n- **Về thân lý:** Giúp hệ tiêu hóa được nghỉ ngơi, cơ thể thanh thoát, huyết áp ổn định và giảm thiểu nguy cơ bệnh tật.\n- **Về tâm lý:** Bớt đi thời gian nấu nướng, dọn dẹp và thèm muốn món ăn. Thân nhẹ thì tâm dễ an định, không bị hôn trầm trì trệ trong giờ thiền tọa buổi tối.\n\n*Lưu ý:* Sau giờ trưa, hành giả có thể uống nước lọc, nước chanh đường phèn loãng hoặc các loại nước trái cây lọc trong (nước mía, nước dừa tùy truyền thống) để duy trì thể lực nếu cần.\n\n### 2. Giới Thứ 7: Từ Bỏ Trang Điểm & Trò Vui Tạp Kỹ (Nacca-gīta...)\n\nCon người hiện đại dành hàng giờ mỗi ngày để trang điểm, chăm chút vẻ ngoài, lướt video ca nhạc và xem phim giải trí. Giới thứ 7 tước bỏ lớp vỏ bọc giả tạo đó:\n- Để mặt mộc, không xức nước hoa đắt tiền, mặc trang phục giản dị: Nhận diện cơ thể như nó đang là, không tự lừa dối bản thân bằng phấn son mỹ phẩm.\n- Tắt nhạc trữ tình, phim ảnh, sân khấu kịch: Giữ cho đôi tai và tâm trí một không gian tĩnh lặng tuyệt đối, không bị các giai điệu bi lụy hay kích động quấy nhiễu.\n\n### 3. Giới Thứ 8: Giường Thấp Giản Dị (Uccāsayana-mahāsayana)\n\n'Giường cao' là giường vượt quá chiều cao cho phép thời Phật chế (gần 50cm); 'giường rộng sang trọng' là nệm nhung lụa, da thú êm ái của bậc vương giả. Nằm trên chiếu hoặc đệm mỏng sát mặt đất nhắc nhở ta về sự khiêm nhường, tính vô thường của tấm thân và sự sẵn sàng trở về với cát bụi.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng nhịn ăn tối là để 'tự hành xác' đền tội như một số giáo phái cực đoan.",
+        "correction": "Phật giáo cấm khổ hạnh cực đoan. Không ăn phi thời là để dưỡng sinh, nhẹ thân và giải phóng thời gian tu tập, không phải để tự hành hạ thân xác."
+      },
+      {
+        "mistake": "Cho rằng vẫn có thể nghe nhạc 'Phật giáo hòa tấu hiện đại sôi động' trong ngày Bát Quan Trai.",
+        "correction": "Bất kỳ âm nhạc nào mang tính chất kích động cảm xúc, giải trí đều nên tạm dừng. Chỉ nên lắng nghe lời tụng kinh trang nghiêm hoặc giữ sự yên lặng tĩnh tại."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Dùng bữa trưa trước 12:00 trưa. Sau giờ trưa, chỉ dùng nước lọc ấm hoặc trà nhạt. Rửa sạch son phấn, cất trang sức đắt tiền. Buổi tối trải một tấm nệm đơn mỏng hoặc chiếu nằm dưới sàn nhà. Dành trọn buổi tối cho việc đọc kinh và thiền thở.",
+    "recommendedRoutineId": "r_breathing",
+    "suggestedVirtue": "Sống mộc mạc, chân thật, từ bỏ mọi hào nhoáng phù phiếm bên ngoài."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Khi nằm ngủ trên sàn nhà giản dị mà không có nệm êm giường cao, bạn cảm thấy tự do thanh thản hay bực dọc khó chịu?",
+    "selfAuditChecklist": [
+      "Tôi có nghiêm túc dừng ăn thức ăn cứng sau 12 giờ trưa không?",
+      "Tôi có mở nhạc giải trí, xem video hài hước hoặc trang điểm trong ngày không?",
+      "Tôi có khiêm nhường nằm nghỉ trên chỗ nằm thấp giản dị không?"
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "versionCode": 5,
-  "generatedAt": "2026-09-08T05:01:10Z",
+  "version": "1.0.5",
+  "versionCode": 6,
+  "generatedAt": "2026-09-08T06:16:48Z",
   "curriculums": [
     {
       "id": "brahmavihara_samatha",
@@ -186,6 +186,29 @@
       "targetAudience": "• Người học Phật muốn trang bị Chánh tri kiến vững chắc, thoát khỏi mê tín dị đoan.\n• Hành giả muốn tự mình khảo nghiệm, chứng ngộ Chánh Pháp theo tinh thần Kālāma.\n• Người phát nguyện đoạn trừ 3 kiết sử và bước vào dòng Thánh Nhập Lưu bất thối chuyển.",
       "curriculumPath": "assets/data/curriculums/sotapatti_magga/curriculum.json",
       "sha256": "516ec8266ada5c7f7fc10679e899537014a02d242fdda3fb0db97ce62529f13a"
+    },
+    {
+      "id": "uposatha_sila",
+      "curriculumId": "uposatha_sila",
+      "title": "Bát Quan Trai Giới — Một Ngày Sống Như Bậc A-La-Hán",
+      "titleEn": "The Eight Precepts — A Day Lived Like the Arahants",
+      "paliTitle": "Aṭṭhaṅgasamannāgata Uposatha Sīla",
+      "subtitle": "Huấn Luyện Ly Dục & Thanh Tịnh Tâm Thức Dành Cho Người Cư Sĩ (AN 3.70, AN 8.41 - 8.45)",
+      "subtitleEn": "Renunciation & Mental Purification for Householders (AN 3.70, AN 8.41 - 8.45)",
+      "description": "Bát Quan Trai Giới (Aṭṭhaṅgasamannāgata Uposatha) là pháp môn tu tập giới luật biệt truyền do Đức Thế Tôn thiết lập cho hàng cư sĩ tại gia nhằm nếm trải hương vị giải thoát của bậc xuất gia trong suốt 24 giờ (một ngày một đêm). Bằng cách nâng cấp 5 giới căn bản lên 8 giới nghiêm tịnh (tuyệt đối đoạn dâm dục, ăn đúng ngọ, từ bỏ phấn son ca múa, không nằm ngồi giường cao rộng), người cư sĩ noi gương các bậc A-la-hán, thanh lọc tâm thức khỏi năm triền cái, vun bồi phước báu vô lượng vượt qua mọi vương quyền cõi nhân gian.",
+      "descriptionEn": "The Eight Precepts (Aṭṭhaṅgasamannāgata Uposatha) is a profound training system established by the Buddha for householders to experience the fragrance of monastic renunciation for a full twenty-four hours (one day and one night). By elevating the foundational five precepts to eight rigorous observances—practicing absolute celibacy, eating only before noon, abstaining from beautification and entertainment, and sleeping on low bedding—disciples emulate the Arahants, cleanse the mind of the five hindrances, and cultivate boundless celestial merits surpassing all earthly kingship.",
+      "category": "vinaya",
+      "iconEmoji": "🕯️",
+      "estimatedDuration": "6 bài / 3 Chặng",
+      "estimatedDurationEn": "6 Lessons / 3 Stages",
+      "totalLessons": 6,
+      "canonicalSource": "Tam Tạng Pāḷi: Tăng Chi Bộ (Aṅguttara Nikāya) AN 3.70 (Kinh Trai Giới), AN 8.41 (Saṅkhitta Uposatha), AN 8.42 (Vitthata Uposatha), AN 8.43 (Visākhā Sutta), AN 8.45 (Bojjhā Sutta), AN 10.46 (Sakko Sutta)",
+      "canonicalSourceEn": "Pāḷi Canon: Aṅguttara Nikāya AN 3.70 (Uposatha Sutta), AN 8.41 (Saṅkhitta Uposatha), AN 8.42 (Vitthata Uposatha), AN 8.43 (Visākhā Sutta), AN 8.45 (Bojjhā Sutta), AN 10.46 (Sakko Sutta)",
+      "traditionLineage": "Phật giáo Nguyên thủy Theravāda — Giới Luật Cư Sĩ (Vinaya / Uposatha Sīla) kết hợp Sáu Tùy Niệm (Anussati)",
+      "traditionLineageEn": "Theravāda Early Buddhism — Lay Vinaya Discipline (Uposatha Sīla) integrated with the Six Recollections (Anussati)",
+      "targetAudience": "Người cư sĩ tại gia mong muốn bước lên nấc thang ly dục, rèn luyện ý chí kiên định, nếm trải đời sống thanh tịnh của bậc Thánh nhân trong 24 giờ định kỳ mỗi tháng.",
+      "curriculumPath": "assets/data/curriculums/uposatha_sila/curriculum.json",
+      "sha256": "894b4a878408b769a7604b17efb102d3aa14f8f4b0cf007756e153773f05a41b"
     }
   ]
 }

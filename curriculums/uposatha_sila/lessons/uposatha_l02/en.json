@@ -1,0 +1,58 @@
+{
+  "lessonId": "uposatha_l02",
+  "curriculumId": "uposatha_sila",
+  "lessonNumber": 2,
+  "stageIndex": 1,
+  "title": "Lesson 2: Teachings to Lady Visākhā — Living Like the Arahants",
+  "paliTitle": "Visākhā Sutta (AN 8.43)",
+  "suttaRef": {
+    "uid": "an8.43",
+    "title": "Discourse to Visākhā on the Uposatha (AN 8.43)",
+    "excerptPali": "Yāvajīvaṁ arahanto pāṇātipātaṁ pahāya pāṇātipātā paṭiviratā nihitadaṇḍā nihitasatthā lajjī dayāpannā... Ahampajja imañca rattiṁ imañca divasaṁ pāṇātipātaṁ pahāya... Imināpaṅgena arahataṁ anukaromi, uposatho ca me samāpanno bhavissati...",
+    "excerptTranslation": "For all their lives the Arahants abandon the destruction of life and abstain from taking life; with rod and weapon laid aside, conscientious, merciful, dwelling compassionate toward all living beings... Today, for this day and night, I too abandon the destruction of life... By this factor I emulate the Arahants, and my Uposatha will be fulfilled..."
+  },
+  "pariyatti": {
+    "shortSummary": "The Buddha reveals the supreme benchmark of the Eight Precepts: not self-mortification, but a voluntary 24-hour dedication to living with the flawless virtue, compassion, and peace of the liberated Arahants.",
+    "coreConcepts": [
+      {
+        "term": "Emulating the Arahants",
+        "pali": "Arahatam anukaromi",
+        "definition": "The core psychological attitude when receiving the eight training rules: practicing completely for 24 hours just as the perfected masters do for their entire lives."
+      },
+      {
+        "term": "One full day and night",
+        "pali": "Imañca rattiṁ imañca divasaṁ",
+        "definition": "A complete unbroken 24-hour cycle (from dawn of the observance day until next morning's sunrise) dedicated exclusively to spiritual cultivation."
+      },
+      {
+        "term": "Fulfillment of Uposatha",
+        "pali": "Uposatho samāpanno",
+        "definition": "The radiant perfection of moral integrity when body, speech, and mind resonate harmoniously with renunciation and universal goodwill."
+      }
+    ],
+    "expositionMarkdown": "### 1. Dialogue with Lady Visākhā\n\nVisākhā was the foremost female benefactor during the Buddha's dispensation, a beacon of wisdom and generosity. When she arrived to pay respects on the observance day, the Buddha used the occasion to reveal the transformative secret of the Uposatha.\n\nRather than requiring permanent monastic ordination, the Buddha built an accessible bridge: **For twenty-four hours, think, act, and abide with the disposition of an Arahant**.\n\n### 2. The Sacred Refrain Across the Eight Precepts\n\nIn AN 8.43, every single precept concludes with the luminous declaration:\n> *'For all their lives the Arahants abstain from killing, stealing, sexual activity, false speech, intoxicating drinks, untimely food, singing and dancing, and luxurious beds... Today, for this day and night, I emulate the Arahants, and my Uposatha will be fulfilled.'*\n\nConsciously identifying with the noble sangha infuses the practitioner with immense joy and spiritual willpower, dissolving any perception of harsh deprivation.\n\n### 3. Buddhist Psychological Dimension\n\nBy adopting the self-concept: *'Today I live like an enlightened being'*, our ethical consciousness is immediately elevated. Petty annoyances, workplace irritations, and sensory cravings appear trivial and are easily relinquished.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Thinking that ordinary householders lack the spiritual qualification to emulate enlightened Arahants.",
+        "correction": "The Buddha explicitly encouraged lay householders to emulate the Holy Ones for manageable 24-hour stretches to cultivate liberating mental traits."
+      },
+      {
+        "mistake": "Assuming one can observe the eight precepts for half a day and discharge them in the afternoon.",
+        "correction": "The canonical requirement is 'this day and night' (imañca rattiṁ imañca divasaṁ), completing a 24-hour biological and psychological cycle."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "At dawn on the Uposatha day, bathe and dress in modest, dignified attire (preferably clean white clothes). Kneel before the Buddha statue or in a clean alcove, chanting the eight precept vows with deep conviction: 'Today, I live as an Arahant.' Maintain dignified mindfulness.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Cultivate spiritual dignity (Dhammānubhāva) and gentle grace in every bodily gesture."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Throughout today, was there any moment where your thoughts or actions fell short of the noble standard of an Arahant?",
+    "selfAuditChecklist": [
+      "Did I remember my holy vows when faced with daily irritations?",
+      "Did I treat every person with unshakeable gentleness and empathy?",
+      "Did my heart feel genuine joy when reflecting upon the purity of the Arahants?"
+    ]
+  }
+}

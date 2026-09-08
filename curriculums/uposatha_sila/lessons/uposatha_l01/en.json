@@ -1,0 +1,58 @@
+{
+  "lessonId": "uposatha_l01",
+  "curriculumId": "uposatha_sila",
+  "lessonNumber": 1,
+  "stageIndex": 1,
+  "title": "Lesson 1: The Three Types of Uposatha — From Mere Form to Mental Purity",
+  "paliTitle": "Uposatha Sutta (AN 3.70)",
+  "suttaRef": {
+    "uid": "an3.70",
+    "title": "Discourse on the Uposatha (Uposatha Sutta — AN 3.70)",
+    "excerptPali": "Tayo kho'me, Visākhe, uposathā. Katame tayo? Gopālakuposatho, nigaṇṭhuposatho, ariyuposatho... Katham ca, Visākhe, ariyuposatho hoti? Upakkiliṭṭhassa, Visākhe, cittassa upakkilesā pariyodapāpetabbā honti...",
+    "excerptTranslation": "There are, Visākhā, these three kinds of Uposatha. Which three? The Cowherd Uposatha, the Jain ascetic Uposatha, and the Noble Ariya Uposatha... And how, Visākhā, is the Noble Uposatha observed? It is the cleansing of an unpurified mind through proper contemplative means..."
+  },
+  "pariyatti": {
+    "shortSummary": "The Blessed One distinguishes three attitudes in observing the holy day: the cowherd obsessing over food, the Jain ascetic clinging to superficial hypocritical boundaries, and the Noble Disciple purifying the mind's defilements to taste liberation.",
+    "coreConcepts": [
+      {
+        "term": "Cowherd Uposatha",
+        "pali": "Gopālaka Uposatha",
+        "definition": "A materialistic observance: physically fasting past noon while mentally obsessing over what delicacies and beverages to consume upon breaking the fast."
+      },
+      {
+        "term": "Jain Ascetic Uposatha",
+        "pali": "Nigaṇṭha Uposatha",
+        "definition": "A ritualistic and hypocritical observance: restricting compassion to artificial boundaries (e.g. 100 leagues) while harboring stubborn dogmatic prejudices."
+      },
+      {
+        "term": "Noble Ariya Uposatha",
+        "pali": "Ariya Uposatha",
+        "definition": "The authentic cleansing of defilements through the six recollections and by emulating the unshakable virtue and serenity of the liberated Arahants."
+      }
+    ],
+    "expositionMarkdown": "### 1. Historical Context & Spiritual Roots of the Uposatha\n\nIn ancient India, ascetics and lay communities gathered on the new moon, full moon, and quarter moon days to chant, confess shortcomings, and deepen spiritual practice. When asked by his monastics, the Buddha approved and codified the **Uposatha** day for the Buddhist assembly.\n\nCrucially, the Buddha asserted that **the true fruit of an observance day does not reside in calendar dates or physical fasting, but in the psychological transformation of the practitioner**.\n\n### 2. The Three Approaches Defined in AN 3.70\n\n- **The Cowherd Uposatha (Gopālakuposatha):** Just as a cowherd brings cattle back at dusk and dreams of tomorrow's pastures, a person observing this kind of Uposatha spends the evening daydreaming: 'What delicacies will I feast upon tomorrow morning? What juices shall I drink?' The mind remains enslaved by sensory appetite.\n- **The Jain Ascetic Uposatha (Nigaṇṭhuposatha):** A formalistic, superficial observance that enjoins non-violence within a 100-league perimeter toward certain creatures, but ignores compassion outside that circle. Such morality remains ego-bound and selective.\n- **The Noble Ariya Uposatha (Ariyuposatha):** The genuine Buddhist observance. Recognizing that the ordinary mind is stained by the five hindrances (sensual lust, malice, sloth, restlessness, and doubt), the disciple utilizes eight ethical training rules as an instrument to wash the mind clean.\n\n### 3. Contemporary Relevance\n\nIn our digital age of endless sensory stimuli and fast food gratification, the Ariya Uposatha provides the ultimate **'Digital & Sensory Detox'**, allowing the human spirit to rest in timeless, noble tranquility.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing that Uposatha is merely skipping dinner and wearing traditional Buddhist clothes.",
+        "correction": "Fasting and attire are external aids. The essence of Ariya Uposatha is purifying mental corruptions (upakkilesā pariyodapāpetabbā) through mindfulness and wholesome meditation."
+      },
+      {
+        "mistake": "Thinking that experiencing an evening craving invalidates the entire precept.",
+        "correction": "Craving is an old habit reflex. Observing the craving with equanimity without giving in reinforces mental discipline and preserves precept integrity."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "On the evening before Uposatha, tidy your living space and turn off non-essential smartphone alerts. Sit quietly for 15 minutes and reflect: 'Tomorrow is an opportunity to wash my spirit clean, not an endurance test of deprivation.' Prepare modest meals for tomorrow morning and noon.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Cultivate cheerful willingness and serene readiness on the eve of precept reception."
+  },
+  "pativedha": {
+    "reflectionPrompt": "When skipping dinner, is your mind peacefully contemplating the breath, or restlessly counting the hours until dawn breakfast?",
+    "selfAuditChecklist": [
+      "Did I spend the evening daydreaming about tomorrow's breakfast?",
+      "Am I observing this holy day to boast about my ascetic piety to others?",
+      "Can I distinguish between outward ritualism and inward mental purification?"
+    ]
+  }
+}

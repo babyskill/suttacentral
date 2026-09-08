@@ -1,0 +1,58 @@
+{
+  "lessonId": "uposatha_l05",
+  "curriculumId": "uposatha_sila",
+  "lessonNumber": 5,
+  "stageIndex": 3,
+  "title": "Lesson 5: Structuring a 24-Hour Home Uposatha Retreat",
+  "paliTitle": "Sakko Sutta (AN 10.46)",
+  "suttaRef": {
+    "uid": "an10.46",
+    "title": "Sakka's Discourse on Uposatha (AN 10.46)",
+    "excerptPali": "Cātuddasiṁ pañcadasiṁ, yā ca pakkhassa aṭṭhamī; Pāṭihāriyapakkhañca, aṭṭhaṅgasusamāgataṁ; Uposathaṁ upavaseyya, mayā so sadiso naro... The Buddha said: 'Sakka spoke improperly; one who observes such pure virtue is not merely like Sakka, but equals the holy Arahants!'",
+    "excerptTranslation": "On the fourteenth, the fifteenth, and the eighth day of the fortnight; one who observes the eight-factored Uposatha is a person equal to me (Sakka)... The Buddha taught: 'Sakka did not speak accurately; a practitioner endowed with such virtue is far superior to celestial deities, standing equal to the liberated Arahants!'"
+  },
+  "pariyatti": {
+    "shortSummary": "Practical, pedagogical guidance for organizing a dignified and scientifically balanced 24-hour home Uposatha retreat, integrating the Six Recollections (Anussati) revered even by Sakka, the King of the Devas.",
+    "coreConcepts": [
+      {
+        "term": "Home Uposatha Routine",
+        "pali": "Ghara Uposatha Vatta",
+        "definition": "A disciplined 24-hour structure at home balancing seated meditation, scriptural chanting, mindful household chores, and inner stillness."
+      },
+      {
+        "term": "Six Recollections",
+        "pali": "Cha Anussatiyo",
+        "definition": "The six core subjects of recollection for Uposatha: Recollection of the Buddha, Dhamma, Saṅgha, Virtue, Generosity, and Devas."
+      },
+      {
+        "term": "Mind Equal to the Holy Ones",
+        "pali": "Arahatā sadiso",
+        "definition": "The Buddha's solemn declaration that the pure virtue of an earnest lay practitioner surpasses heavenly kingship, aligning directly with arahantship."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Sakko Sutta Insight & the Buddha's Correction\n\nIn AN 10.46, Sakka, King of the Gods, in exuberant praise of virtuous lay disciples, proclaimed: *'Whoever observes the eightfold Uposatha is equal to me'*. However, the Buddha corrected this celestial exaggeration:\n> *'Monks, Sakka is not free from birth, aging, death, sorrow, lamentation, pain, distress, and despair. A noble disciple observing the eight precepts is not merely equal to Sakka; they are sowing seeds of absolute liberation to equal the Arahants!'*\n\nThis illuminates the supramundane value of every single minute spent under the eight precepts.\n\n### 2. Sample 24-Hour Home Retreat Schedule\n\n| Time | Mindful Activity | Purpose |\n| :--- | :--- | :--- |\n| **05:00 - 05:45** | Bathing, clean white attire, 8-precept affirmation & Silent Sitting | Pure beginning, firming noble resolve |\n| **06:30 - 07:15** | Light breakfast, mindful cleaning of shrine and home | Grounded awareness in daily activities |\n| **08:30 - 10:00** | Canonical reading & Recollection of Buddha, Dhamma, Saṅgha | Deepening doctrinal faith and right view |\n| **11:00 - 12:00** | Mindful lunch concluded before solar noon | Moderation in eating, final food intake |\n| **13:30 - 14:30** | Walking meditation indoors or garden | Dispelling torpor, sharpening step awareness |\n| **15:00 - 16:30** | Recollection of Virtue (Sīlānussati) & Generosity (Cāgānussati) | Generating spiritual joy from stainless virtue |\n| **18:30 - 20:00** | Breath meditation (Ānāpānasati) | Light bodily state facilitates deep stillness |\n| **21:00 - 21:45** | Evening self-audit, Recollection of Devas | Inspecting mental conduct, preparing for sleep |\n| **22:00 - 05:00** | Rest on low mat directly on floor | Sleeping with clear mindfulness and alertness |\n\n### 3. Maintaining Momentum in a Home Setting\n\nHome environments contain triggers (refrigerator, television, plush furniture). Communicate your intentions gently with household members beforehand to secure quiet support and respect.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Thinking that Uposatha can only be observed inside a Buddhist monastery.",
+        "correction": "While receiving vows from monastics is auspicious, one can validly take the eight precepts at home before a Buddha altar if monastery travel is impractical."
+      },
+      {
+        "mistake": "Using the free day to binge sleep or endlessly browse online current events.",
+        "correction": "Excessive sleep and web surfing foster sloth and restlessness, defeating the primary purpose of mental purification."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Print out the schedule or set calendar reminders. Prepare Sutta translations beforehand. Inform your family: 'Today I am observing a silent home retreat day; thank you for supporting my quiet space.' Execute the schedule with joyful determination.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Cultivate unwavering self-discipline and sustained mindfulness across all activities."
+  },
+  "pativedha": {
+    "reflectionPrompt": "When practicing at home, were you tempted by habitual impulses (checking the fridge, switching on the TV), and how did your mindfulness handle them?",
+    "selfAuditChecklist": [
+      "Did I follow the schedule diligently rather than drifting lazily?",
+      "Did I allocate time for the Six Recollections throughout the day?",
+      "Was I able to maintain serenity despite being in familiar domestic surroundings?"
+    ]
+  }
+}

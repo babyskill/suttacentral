@@ -1,0 +1,58 @@
+{
+  "lessonId": "uposatha_l04",
+  "curriculumId": "uposatha_sila",
+  "lessonNumber": 4,
+  "stageIndex": 2,
+  "title": "Lesson 4: The Three Precepts of Renunciation — Moderation, Simplicity & Low Bed",
+  "paliTitle": "Vitthata Uposatha Sutta (AN 8.42)",
+  "suttaRef": {
+    "uid": "an8.42",
+    "title": "Detailed Discourse on the Eightfold Uposatha (AN 8.42)",
+    "excerptPali": "Yāvajīvaṁ arahanto ekabhattikā rattūparatā viratā vikālabhojanā... naccagītavāditavisūkadassanā mālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā paṭiviratā... uccāsayanamahāsayanaṁ pahāya... nīcaseyyaṁ kappenti...",
+    "excerptTranslation": "For all their lives the Arahants eat once a day, abstaining from eating at night and from food at improper times... they abstain from dancing, singing, music, and unseemly shows, from wearing garlands, smartening with perfumes, and beautifying with cosmetics... they abandon high and luxurious beds, using a low bed or grass mat... Today, for this day and night, I too emulate them..."
+  },
+  "pariyatti": {
+    "shortSummary": "The three unique renunciation precepts of the Uposatha: Precept 6 (Untimely food restraint), Precept 7 (Abstaining from entertainment, cosmetics, and perfumes), and Precept 8 (Refraining from high and luxurious beds)—dismantling habits of self-indulgence.",
+    "coreConcepts": [
+      {
+        "term": "Untimely Eating",
+        "pali": "Vikālabhojana",
+        "definition": "Consuming solid food outside the prescribed morning window (from solar noon until next day's dawn); fosters physical lightness, reduces lust and drowsiness."
+      },
+      {
+        "term": "Frivolous Entertainment & Adornment",
+        "pali": "Nacca-gīta-vādita... mālā-gandha",
+        "definition": "Music, theatrical performances, perfumes, and cosmetic embellishments that agitate the mind and glorify an impermanent, impure physical form."
+      },
+      {
+        "term": "High & Luxurious Bedding",
+        "pali": "Uccāsayana-mahāsayana",
+        "definition": "Ostentatious, overly soft luxury mattresses and elevated couches that cultivate pride, sluggishness, and attachment to bodily comfort."
+      }
+    ],
+    "expositionMarkdown": "### 1. Precept 6: Moderation in Eating Past Noon (Vikālabhojanā)\n\nIn both ancient and modern societies, evening meals are often occasions for excessive feasting and sensual distraction. By instituting fasting after solar noon, the Buddha provided deep benefits:\n- **Physiological:** Grants the digestive system an extended rest, enhances bodily lightness, stabilizes blood pressure, and reduces biological fatigue.\n- **Psychological:** Eliminates hours spent cooking, serving, and craving flavors. A light body supports an agile mind, preventing sloth and torpor during evening meditation.\n\n*Note:* After noon, the practitioner may drink pure water, light tea, or strained clear juices to sustain physical well-being.\n\n### 2. Precept 7: Renouncing Entertainment & Cosmetics (Nacca-gīta...)\n\nModern people spend countless hours applying cosmetics, obsessing over appearance, and streaming songs and videos. Precept 7 strips away this artificial mask:\n- **Unadorned simplicity:** No makeup, no expensive perfumes, wearing simple garments: facing our physical reality as it is without vanity.\n- **Sensory quietude:** Silencing romantic music and distracting media: creating an oasis of pure silence for the mind to settle.\n\n### 3. Precept 8: Resting on Modest Low Bedding (Uccāsayana-mahāsayana)\n\n'High beds' exceeded the permissible height standard of ancient monastic frames; 'luxurious beds' were plush with silks and furs. Resting on a modest floor mat instills deep humility, reminds us of the fragility of the body, and prepares the mind for unattached peaceful sleep.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Viewing evening fasting as severe ascetic punishment or self-mortification.",
+        "correction": "Buddhism rejects extreme asceticism. Skipping dinner is for health, mental clarity, and spiritual freedom, not self-punishment."
+      },
+      {
+        "mistake": "Thinking that upbeat commercial Buddhist musical tracks are allowed during Uposatha.",
+        "correction": "All emotionally exciting entertainment should be paused. Maintain silence or engage exclusively in meditative canonical chanting."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Conclude lunch before 12:00 noon. For the remainder of the day, drink warm water or herbal tea. Remove makeup and store away jewelry. In the evening, spread a simple mat or thin mattress on the floor. Dedicate the quiet night hours to Dhamma reading and breath meditation.",
+    "recommendedRoutineId": "r_breathing",
+    "suggestedVirtue": "Cultivate raw authenticity and modesty, shedding artificial worldly pretenses."
+  },
+  "pativedha": {
+    "reflectionPrompt": "When resting upon a modest floor mat without luxury bedding, do you feel an unburdened lightness or an irritated yearning for comfort?",
+    "selfAuditChecklist": [
+      "Did I strictly refrain from solid food after solar noon?",
+      "Did I abstain from listening to worldly music, watching shows, or applying cosmetics?",
+      "Did I humbly rest upon a simple low mat on the floor?"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "lessonId": "uposatha_l03",
+  "curriculumId": "uposatha_sila",
+  "lessonNumber": 3,
+  "stageIndex": 2,
+  "title": "Bài 3: Năm Giới Nền Tảng Nâng Cấp — Tuyệt Đối Đoạn Dục",
+  "paliTitle": "Saṅkhitta Uposatha Sutta (AN 8.41)",
+  "suttaRef": {
+    "uid": "an8.41",
+    "title": "Kinh Tóm Tắt Về Bát Quan Trai (AN 8.41)",
+    "excerptPali": "Yāvajīvaṁ arahanto abrahmacariyaṁ pahāya brahmacārī ārācārī viratā methunā gāmadhammā. Ahampajja imañca rattiṁ imañca divasaṁ abrahmacariyaṁ pahāya brahmacārī ārācārī virato methunā gāmadhammā...",
+    "excerptTranslation": "Trọn đời các bậc A-la-hán từ bỏ bất phạm hạnh, sống đời phạm hạnh, sống đời thanh tịnh, tránh xa dâm dục, pháp của thế tục thô thiển. Hôm nay, trọn ngày và đêm này, con cũng từ bỏ bất phạm hạnh, sống đời phạm hạnh, tránh xa dâm dục, pháp của thế tục..."
+  },
+  "pariyatti": {
+    "shortSummary": "Trong ngày Bát Quan Trai, năm giới cơ bản được nâng cấp lên một tầng bậc giải thoát mới: Không chỉ tránh tà dâm mà là đoạn tuyệt mọi hành vi và tâm niệm dâm dục (Abrahmacariyā veramaṇī), sống đời phạm hạnh thanh khiết.",
+    "coreConcepts": [
+      {
+        "term": "Phạm hạnh thanh tịnh",
+        "pali": "Brahmacariya",
+        "definition": "Đời sống thanh cao không cấu uế của chư Phạm Thiên và bậc Thánh: hoàn toàn ly khai mọi hành vi tính dục, ái dục và tư tưởng luyến ái xác thịt."
+      },
+      {
+        "term": "Pháp thế tục thô thiển",
+        "pali": "Gāmadhamma",
+        "definition": "Hành vi giao hợp và kích dục mang tính bản năng của trần gian, trói buộc tâm thức vào luân hồi sinh tử và ái nhiễm."
+      },
+      {
+        "term": "Sống viễn ly",
+        "pali": "Ārācārī",
+        "definition": "Tư thế giữ khoảng cách thanh tịnh, không gần gũi, đùa cợt hay kích thích các duyên dẫn đến dục vọng nơi thân và tâm."
+      }
+    ],
+    "expositionMarkdown": "### 1. Sự Khác Biệt Giữa Ngũ Giới & Bát Quan Trai Giới\n\nĐối với người cư sĩ tu tập Ngũ Giới hằng ngày, điều giới thứ ba là **Kāmesumicchācārā veramaṇī** (Tránh tà dâm — chung thủy một vợ một chồng, tôn trọng luân lý xã hội). Đây là đạo đức bảo vệ gia đình và trật tự nhân gian.\n\nTuy nhiên, khi bước vào ngày Bát Quan Trai Giới, giới này được nâng cấp thành **Abrahmacariyā veramaṇī** (Từ bỏ phi phạm hạnh — tuyệt đối không hành dâm, kể cả với người phối ngẫu hợp pháp). Đây là bước nhảy vọt từ đạo đức nhân gian sang **đạo đức xuất thế gian**.\n\n### 2. Ý Nghĩa Của Việc Tuyệt Đối Đoạn Dục Trong 24 Giờ\n\nNăng lượng ái dục là nguồn năng lượng bám rễ sâu dày nhất trong tâm thức hữu tình (*Taṇhā*). Khi tạm thời đóng lại cánh cửa này trong 24 giờ:\n- **Tâm thức được giải phóng:** Tâm không còn bận tâm đến việc thu hút người khác phái, không bị khuấy động bởi các xung lực sinh lý.\n- **Ý chí được tôi luyện:** Khả năng làm chủ bản năng sinh vật giúp người cư sĩ xây dựng một nội lực kiên cường phi thường.\n- **Chuyển hóa năng lượng:** Năng lượng sinh học thay vì bị tiêu hao vào dục vọng sẽ được chuyển hóa thành định lực (*Samādhi*) và hỷ lạc thanh tịnh (*Nirāmisasukha*).\n\n### 3. Phương Pháp Phòng Hộ Thân Khẩu Ý\n\nĐể giữ trọn giới Phạm Hạnh trong 24 giờ:\n- **Nơi chốn:** Vợ chồng trong ngày Uposatha nên ngủ riêng giường, giữ thái độ kính trọng như bạn đồng tu (*Kalyāṇamitta*).\n- **Cử chỉ & Lời nói:** Tránh cử chỉ âu yếm xác thịt, tránh trêu ghẹo hay bàn luận chuyện luyến ái.\n- **Ý niệm:** Khi tâm khởi lên dục niệm, lập tức dùng pháp quán niệm hơi thở hoặc quán bất tịnh (*Asubha*) để dập tắt ngọn lửa tham ái từ trong trứng nước.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng nếu hai vợ chồng hợp pháp gần gũi nhau thì không phạm giới Bát Quan Trai.",
+        "correction": "Sai lầm nghiêm trọng. Bát Quan Trai yêu cầu đoạn tuyệt dâm dục hoàn toàn (Abrahmacariya), hành vi giao hợp dù với vợ/chồng đều làm đứt giới thể."
+      },
+      {
+        "mistake": "Nghĩ rằng chỉ cần thân không hành dâm, còn tâm trí mơ màng phim ảnh khiêu cảm thì không sao.",
+        "correction": "Nuôi dưỡng dục tưởng làm vẩn đục tâm thức, biến ngày trai giới thành 'Trai giới người chăn bò'. Cần phòng hộ cả sáu căn."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Trong ngày trai giới, hãy xếp đặt chỗ ngủ riêng biệt. Hạn chế sử dụng điện thoại thông minh xem hình ảnh nhạy cảm. Khi tiếp xúc với người khác giới, giữ ánh mắt trang nghiêm, nói năng chừng mực và nuôi dưỡng tâm từ bi thanh tịnh.",
+    "recommendedRoutineId": "r_sense_restraint",
+    "suggestedVirtue": "Nuôi dưỡng đức tính trong sạch tuyệt đối, xem mọi người như cha mẹ, anh chị em đồng tu."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn cảm thấy thế nào khi trải qua 24 giờ mà không bị dục cảm chi phối: Bạn thấy bứt rứt khó chịu hay cảm nhận được sự tự do thanh thản sâu xa?",
+    "selfAuditChecklist": [
+      "Tôi có hoàn toàn giữ gìn thân nghiệp trong sạch, không gần gũi tình dục suốt ngày đêm không?",
+      "Tôi có chủ động tránh các hình ảnh, video kích thích ái dục trên mạng không?",
+      "Khi một dục tưởng khởi lên, tôi có nhận biết và buông xả kịp thời không?"
+    ]
+  }
+}

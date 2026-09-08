@@ -1,0 +1,58 @@
+{
+  "lessonId": "uposatha_l03",
+  "curriculumId": "uposatha_sila",
+  "lessonNumber": 3,
+  "stageIndex": 2,
+  "title": "Lesson 3: Upgrading the Foundational Precepts — Absolute Celibacy",
+  "paliTitle": "Saṅkhitta Uposatha Sutta (AN 8.41)",
+  "suttaRef": {
+    "uid": "an8.41",
+    "title": "Concise Discourse on the Eightfold Uposatha (AN 8.41)",
+    "excerptPali": "Yāvajīvaṁ arahanto abrahmacariyaṁ pahāya brahmacārī ārācārī viratā methunā gāmadhammā. Ahampajja imañca rattiṁ imañca divasaṁ abrahmacariyaṁ pahāya brahmacārī ārācārī virato methunā gāmadhammā...",
+    "excerptTranslation": "For all their lives the Arahants abandon unchastity and live a holy life; they live aloof, abstaining from the sexual act, the common practice of villagers. Today, for this day and night, I too abandon unchastity and live a holy life, abstaining from the sexual act..."
+  },
+  "pariyatti": {
+    "shortSummary": "On the Uposatha, the basic five precepts are elevated to a higher plane of liberation: not merely avoiding sexual misconduct, but practicing complete celibacy (Abrahmacariyā veramaṇī), embodying sublime chastity.",
+    "coreConcepts": [
+      {
+        "term": "Holy Celibacy",
+        "pali": "Brahmacariya",
+        "definition": "The pure divine conduct of the Brahmā gods and noble saints: utter renunciation of sexual activity, lustful craving, and sensual entanglement."
+      },
+      {
+        "term": "Vulgar practice of the village",
+        "pali": "Gāmadhamma",
+        "definition": "Instinctual sexual copulation characteristic of worldly life, binding sentient consciousness to rebirth and passionate clinging."
+      },
+      {
+        "term": "Living aloof",
+        "pali": "Ārācārī",
+        "definition": "Maintaining a dignified distance from sensual stimuli, avoiding flirtation, provocative touch, or situations that kindle passion."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Distinction Between Five Precepts & Eight Precepts\n\nFor daily lay practice under the Five Precepts, the third rule is **Kāmesumicchācārā veramaṇī** (Refraining from sexual misconduct—fidelity to one's spouse, honoring social decency). This protects marital trust and civic order.\n\nHowever, upon entering the Uposatha, this rule is elevated to **Abrahmacariyā veramaṇī** (Refraining from unchastity—complete celibacy, even with one's lawful spouse). This represents a quantum leap from mundane morality to **supramundane liberation**.\n\n### 2. The Spiritual Power of 24-Hour Celibacy\n\nSensual craving (*Taṇhā*) is the most deep-seated drive in living beings. Temporarily laying down this burden for 24 hours produces profound psychological benefits:\n- **Mental Freedom:** The mind is liberated from seeking romantic validation and animalistic stimulation.\n- **Willpower Forging:** Mastering basic biological impulses builds unshakeable inner resilience and self-sovereignty.\n- **Energy Transmutation:** Vital energy, rather than being dissipated in passion, is sublimated into concentration (*Samādhi*) and unworldly joy (*Nirāmisasukha*).\n\n### 3. Practical Safeguards for Body, Speech, and Mind\n\nTo preserve celibacy flawlessly during the 24 hours:\n- **Living arrangement:** Spouses should sleep on separate beds, regarding each other as spiritual companions (*Kalyāṇamitta*).\n- **Speech & Conduct:** Avoid romantic flirtation, intimate touching, or sensual gossip.\n- **Mindfulness:** When sensual thoughts emerge, immediately apply mindfulness of breath or contemplation of body parts (*Asubha*) to extinguish the spark.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Thinking that sexual intercourse between married partners is permissible during Uposatha.",
+        "correction": "This is a serious misunderstanding. Uposatha requires absolute celibacy (Abrahmacariya); sexual intimacy of any kind ruptures the precept."
+      },
+      {
+        "mistake": "Assuming that as long as the physical body is chaste, indulging in sensual videos or fantasies is harmless.",
+        "correction": "Harboring sensual fantasies defiles the heart and degrades the day into a 'Cowherd Uposatha'. Guard all six sense doors."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "During the observance day, arrange separate sleeping spaces. Refrain from browsing social media for provocative media. In interactions with others, maintain dignified composure, speaking with wholesome gentleness and brotherly/sisterly goodwill.",
+    "recommendedRoutineId": "r_sense_restraint",
+    "suggestedVirtue": "Cultivate pristine chastity, viewing all beings as revered spiritual kinsmen."
+  },
+  "pativedha": {
+    "reflectionPrompt": "How does it feel to spend 24 hours untroubled by sexual craving: do you feel restless deprivation, or a profound, spacious lightness of being?",
+    "selfAuditChecklist": [
+      "Did I keep my physical body completely chaste throughout the 24 hours?",
+      "Did I consciously avoid sensual images and alluring digital content?",
+      "When a lustful impulse arose, did I recognize and let it go with clear awareness?"
+    ]
+  }
+}
