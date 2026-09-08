@@ -1,0 +1,58 @@
+{
+  "lessonId": "foundations_l02",
+  "curriculumId": "dhamma_foundations",
+  "lessonNumber": 2,
+  "stageIndex": 1,
+  "title": "Lesson 2: Experiential Verification — Come and See (Ehipassiko)",
+  "paliTitle": "Ehipassiko & Kālāma Sutta (AN 3.65)",
+  "suttaRef": {
+    "uid": "an3.65",
+    "title": "Kālāma Sutta (Numerical Discourses 3.65 — Kesamutti Sutta)",
+    "excerptPali": "Mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena... Yadā tumhe kālāmā attanāva jāneyyātha: ‘Ime dhammā kusalā, ime dhammā anavajjā...’ atha tumhe kālāmā upasampajja vihareyyātha.",
+    "excerptTranslation": "Do not go upon what has been acquired by repeated hearing; nor upon tradition; nor upon rumor; nor upon scripture... When you know for yourselves: ‘These qualities are wholesome; these qualities are blameless; these qualities lead to benefit and happiness’ — then enter upon and abide in them."
+  },
+  "pariyatti": {
+    "shortSummary": "Explore the great charter of free inquiry in Buddhism: The Kālāma Sutta (AN 3.65). The Buddha advises truth-seekers not to accept anything merely upon authority or tradition, but to test teachings directly against reality to see whether they eradicate greed, hatred, and delusion.",
+    "coreConcepts": [
+      {
+        "term": "Come and See",
+        "pali": "Ehipassiko",
+        "definition": "The inviting nature of the Dhamma: Not saying 'Come and believe blindly' (Ehisaddhiko), but 'Come, examine, and see for yourself' in immediate direct experience."
+      },
+      {
+        "term": "Ten Criteria of Healthy Skepticism",
+        "pali": "Dasa Kālāma Dhammā",
+        "definition": "Rigorous critical inquiry: Do not believe merely by hearsay, ancestral tradition, speculative deduction, or out of deference to charismatic teachers."
+      },
+      {
+        "term": "Direct Personal Realization",
+        "pali": "Paccattaṃ Veditabbo",
+        "definition": "Truth is truly transformative only when personally verified and known within one's own mind and body, beyond second-hand intellectual knowledge."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Perplexity of the Kālāmas at Kesaputta\n\nWhen the Buddha visited the township of Kesaputta, the citizens of the Kālāma clan approached him with a deep existential dilemma:\n> *'Venerable Sir, various recluses and priests visit Kesaputta. They extol their own doctrine to the skies while reviling, disparaging, and condemning the doctrines of others. We are filled with doubt and confusion: Which of these revered teachers speaks truth, and which speaks falsely?'*\n\nThis inquiry mirrors the bewilderment of the modern seeker amid a cacophony of competing ideologies, dogmas, and algorithms.\n\n---\n\n### 2. The Buddha's Ten Warnings Against Credulity\n\nRather than demanding unquestioning allegiance, the Buddha offered advice that forever transformed human philosophy:\n\n> *'It is proper for you to doubt, Kālāmas; it is proper for you to be perplexed. Listen closely:\n> 1. **Mā anussavena**: Do not go by repeated oral report or hearsay.\n> 2. **Mā paramparāya**: Do not go by ancestral lineage or venerable custom.\n> 3. **Mā itikirāya**: Do not go by rumors or viral opinions.\n> 4. **Mā piṭakasampadānena**: Do not go by authority of scripture or canonical texts alone.\n> 5. **Mā takkahetu**: Do not go by purely theoretical or speculative logic.\n> 6. **Mā nayahetu**: Do not go by inductive philosophical reasoning.\n> 7. **Mā ākāraparivitakkena**: Do not go by superficial plausibility or common appearances.\n> 8. **Mā diṭṭhinijjhānakkhantiyā**: Do not go by agreement with one's pre-existing biases.\n> 9. **Mā bhabbarūpatāya**: Do not go by the impressive credentials of the speaker.\n> 10. **Mā samaṇo no garūti**: Do not go by the thought: ‘This ascetic is our revered guru.’'*\n\n---\n\n### 3. The True Benchmark: Greed, Hatred, Delusion & Well-Being\n\nThe Buddha established a pragmatic, experiential test:\n- Ask yourself: When **Greed (Lobha)**, **Hatred (Dosa)**, and **Delusion (Moha)** arise in the heart, do they lead to welfare or suffering? The Kālāmas answered: *'To suffering, Venerable Sir'*. Therefore, these states are **unwholesome (akusala)** and must be abandoned.\n- Conversely, when **Non-greed (Alobha)**, **Non-hatred / Loving-Kindness (Adosa)**, and **Non-delusion / Wisdom (Amoha)** prevail, do they lead to peace or distress? They replied: *'To welfare and happiness, Venerable Sir'*. Therefore, these states are **wholesome (kusala)** and should be cultivated.\n\nThis is the spirit of **Ehipassiko (Come and See)**: Buddhism is not a path of closed-eye devotion, but an open-eyed pathway of empirical self-investigation.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Misinterpreting the Kālāma Sutta as permission to reject all wisdom and rely solely on personal subjective whims.",
+        "correction": "The Buddha did not advocate arrogant dismissiveness; he urged disciples not to stop at blind theoretical assent. Put teachings into practice: If they purify the mind from defilements, then embrace them firmly."
+      },
+      {
+        "mistake": "Believing that asking probing questions or harboring doubts is a sinful offense in Buddhism.",
+        "correction": "Honest inquiry is the very foundation of Right View. The Buddha welcomed sincere skepticism and never threatened those who questioned dogma."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Observe one decision or emotional reaction today. Inquire: 'Is this action driven by craving, fear, or anger, or by clear discernment and genuine kindness?' Acknowledge it honestly without denial.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Listen with open humility, neither rushing to condemn nor thoughtlessly following crowd trends"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Are there beliefs or superstitions you hold simply because others do, which on closer inspection only breed anxiety, dependency, and agitation?",
+    "selfAuditChecklist": [
+      "I do not hastily embrace astrology, superstition, or sensational claims without rational inspection.",
+      "I measure authentic Dhamma by the reduction of greed, hatred, delusion and the growth of compassion.",
+      "I remain willing to let go of old biases when they prove harmful to myself or others."
+    ]
+  }
+}

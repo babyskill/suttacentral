@@ -1,0 +1,58 @@
+{
+  "lessonId": "brahmavihara_l05",
+  "curriculumId": "brahmavihara_samatha",
+  "lessonNumber": 5,
+  "stageIndex": 3,
+  "title": "Lesson 5: Quelling the Flame of Envy in the Social Media Age",
+  "paliTitle": "Haliddavasana Sutta (SN 46.54)",
+  "suttaRef": {
+    "uid": "sn46.54",
+    "title": "At Haliddavasana (Haliddavasanasutta — SN 46.54)",
+    "excerptPali": "Kathaṃ bhāvitā ca, bhikkhave, muditā cetovimutti kiṅgatikā hoti kiṃparamā kiṃphalā kiṃpariyosānā? Idha, bhikkhave, bhikkhu muditāsahagataṃ satisambojjhaṅgaṃ bhāveti... upekkhasambojjhaṅgaṃ bhāveti... Muditāya, bhikkhave, cetovimuttiyā viññāṇañcāyatanaparamānti vadāmi.",
+    "excerptTranslation": "And how, monks, is the mind-deliverance of altruistic joy cultivated, what is its destination, its culmination, its fruit, its final goal? Here, monks, a bhikkhu develops the mindfulness awakening factor accompanied by joy... develops the equanimity awakening factor accompanied by joy... The mind-deliverance of joy, I say, has the dimension of infinite consciousness as its culmination."
+  },
+  "pariyatti": {
+    "shortSummary": "Altruistic Joy (*Muditā*) is the pristine capacity to celebrate others' good fortune, talent, and prosperity. In a digital era plagued by toxic comparison and passive aggressive envy (*Issā*), Muditā is the sovereign antidote restoring mental health and expanding consciousness.",
+    "coreConcepts": [
+      {
+        "term": "Altruistic Joy",
+        "pali": "Muditā",
+        "definition": "Pure unadulterated celebration of others' prosperity, directly eradicating Envy (*Issā*)."
+      },
+      {
+        "term": "Envy / Jealousy",
+        "pali": "Issā",
+        "definition": "Toxic unwholesome mental factor tormented by another's superiority, success, or praise."
+      },
+      {
+        "term": "Near Enemy of Joy",
+        "pali": "Pahāsa",
+        "definition": "Superficial worldly frivolity or manic excitement masquerading as serene Muditā."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Envy Epidemic in the Feed Age\nSocial media algorithms function as industrial-scale comparison engines, showcasing curated highlights of colleagues' vacations and wealth. Primitive brains trigger bitter insecurity: 'Why them and not me?' This is the corrosive acid of *Issā* destroying your mental peace.\n\n### 2. The Alchemy of Muditā\nWhen someone flourishes:\n- The envious person multiplies suffering: the rival enjoys joy while the envious person burns in self-inflicted torment!\n- The practitioner of Muditā opens the heart: *'How wondrous! Your joy is my joy!'* You instantly harvest 100% pure spiritual bliss without spending a single dollar!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing Muditā applies only to family and close friends.",
+        "correction": "Rejoicing in one's child is natural attachment; authentic Brahmavihāra Muditā embraces rivals and competitors."
+      },
+      {
+        "mistake": "Rejoicing in others' success kills career ambition.",
+        "correction": "Muditā purges stress and envy, unlocking lucid creativity and attracting harmonious alliances."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Mindful Scrolling Drill: While browsing social feeds, whenever someone shares good news, pause 5 seconds, smile and whisper: 'Sadhu! Wonderful! May your happiness flourish!'.\n2. Send an authentic congratulatory text to someone who achieved success.",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Extinguish envy and genuinely celebrate others' success."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you feel the sweet liberation of genuinely rejoicing in another's breakthrough without a trace of competitive comparison?",
+    "selfAuditChecklist": [
+      "I refrained from toxic comparison while browsing digital feeds.",
+      "I smiled sincerely upon hearing of an acquaintance's good fortune.",
+      "My heart remained entirely untainted by spite or jealousy today."
+    ]
+  }
+}

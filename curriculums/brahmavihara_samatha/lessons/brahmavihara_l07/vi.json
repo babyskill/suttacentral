@@ -1,0 +1,58 @@
+{
+  "lessonId": "brahmavihara_l07",
+  "curriculumId": "brahmavihara_samatha",
+  "lessonNumber": 7,
+  "stageIndex": 4,
+  "title": "Bài 7: Tâm Xả Quân Bình — Đỉnh Cao Của Trí Tuệ Tứ Vô Lượng",
+  "paliTitle": "Metta-sahagata Sutta (AN 4.125)",
+  "suttaRef": {
+    "uid": "an4.125",
+    "title": "Kinh Câu Hữu Với Từ Tâm (Metta-sahagatasutta — AN 4.125)",
+    "excerptPali": "Idha, bhikkhave, ekacco puggalo upekkhāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ... Upekkhāya, bhikkhave, cetovimuttiyā ākiñcaññāyatanaparamānti vadāmi... So tadassādeti, tannikāmeti, tena ca vittiṃ āpajjati; tattha ṭhito tadadhimutto... brahmakāyikānaṃ devānaṃ sahabyataṃ upapajjati.",
+    "excerptTranslation": "Ở đây, này các Tỳ-kheo, có người an trú biến mãn một phương với tâm câu hữu với Xả, cũng vậy phương thứ hai, phương thứ ba, phương thứ tư... Này các Tỳ-kheo, Ta tuyên bố tâm xả giải thoát lấy Vô Sở Hữu Xứ làm cứu cánh... Người ấy nếm trải sự an lạc ấy, an trú nơi ấy... sau khi thân hoại mạng chung được tái sinh vào cõi chư thiên Phạm Chúng!"
+  },
+  "pariyatti": {
+    "shortSummary": "Tâm Xả (Upekkhā) là đỉnh vương miện của Tứ Vô Lượng Tâm. Xả không phải là sự lạnh nhạt thờ ơ (Upekkhā si mê), mà là sự quân bình tráng lệ dựa trên tuệ giác thấu suốt nghiệp báo: 'Mỗi chúng sinh đều là chủ nhân của nghiệp mình'. Tâm Xả giữ cho Từ không rơi vào luyến ái, Bi không rơi vào sầu khổ, và Hỷ không rơi vào trạo cử.",
+    "coreConcepts": [
+      {
+        "term": "Tâm Xả Vô Lượng",
+        "pali": "Upekkhā Brahmavihāra",
+        "definition": "Trạng thái tâm quân bình, nhìn vạn vật bằng con mắt trí tuệ bình đẳng, không thiên vị, không bám chấp."
+      },
+      {
+        "term": "Xả Si Mê / Lãnh Đạm",
+        "pali": "Aññāṇupekkhā",
+        "definition": "Kẻ thù gần của tâm Xả: thái độ vô cảm, dửng dưng 'sống chết mặc bay' do lười biếng và ích kỷ."
+      },
+      {
+        "term": "Tuệ Tri Nghiệp Báo",
+        "pali": "Kammassakatāñāṇa",
+        "definition": "Trí tuệ nền tảng của tâm Xả: thấy rõ mỗi người phải tự gặt hái bài học nghiệp của chính họ."
+      }
+    ],
+    "expositionMarkdown": "### 1. Tại Sao Tâm Xả Lại Cần Thiết Để Bảo Vệ Ba Tâm Trước?\n\n- **Không có Xả, Tâm Từ sẽ biến thành Ái Nhiễm:** Yêu thương một người quá mức mà thiếu Xả sẽ biến thành ghen tuông, kiểm soát, dính mắc và đau khổ khi người đó thay lòng đổi dạ.\n- **Không có Xả, Tâm Bi sẽ biến thành Trầm Cảm:** Nhìn thấy ai đau khổ cũng khóc lóc, đau đớn đến kiệt quệ tinh thần (Compassion Fatigue). Xả giúp ta cứu giúp hết lòng nhưng tâm vẫn vững vàng như bàn thạch.\n- **Không có Xả, Tâm Hỷ sẽ biến thành Phóng Dật:** Hưng phấn, nhảy nhót, mất ngủ vì vui quá mức.\n\n### 2. Tâm Xả Của Người Thầy Thuốc Thiện Xảo\nHãy nhìn một vị bác sĩ phẫu thuật tài ba:\n- Bác sĩ có **Tâm Từ & Bi**: Hết lòng thương bệnh nhân, dốc toàn lực trong phòng mổ để cứu người.\n- Nhưng bác sĩ bắt buộc phải có **Tâm Xả**: Đôi bàn tay cầm dao mổ phải tuyệt đối bình thản, không được run rẩy vì xúc động bi thương. Nếu bệnh nhân đã cạn kiệt thọ mạng không qua khỏi, bác sĩ hiểu luật vô thường, không suy sụp sầu não để còn tiếp tục cứu các bệnh nhân khác!\n**Đó chính là Tâm Xả Vô Lượng của bậc Bồ-tát giữa đời!**",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng Tâm Xả là thấy người gặp nạn mà khoanh tay đứng nhìn bảo 'đó là nghiệp của họ'.",
+        "correction": "Đó là tà kiến ác độc của sự vô cảm. Khi còn có thể giúp, ta xả thân cứu giúp bằng tâm Từ Bi; khi đã tận lực mà quả xấu vẫn trổ thì ta mới an trú tâm Xả để không sinh sầu hận."
+      },
+      {
+        "mistake": "Nhầm lẫn giữa Xả buông bỏ và sự bất lực, bỏ cuộc.",
+        "correction": "Bỏ cuộc là tâm thối chí, chán nản (Dosa); Tâm Xả là sức mạnh định tĩnh sáng suốt tột cùng của bậc trí tuệ."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Khi đối diện với điều bất khả kháng:** Đặt tay lên trán, thở ra dài và khẳng định: 'Tôi đã làm tất cả những gì tốt nhất có thể. Mọi sự thành bại bây giờ thuộc về duyên và nghiệp của họ. Tôi xin buông xả trong bình an'.\n2. Quán chiếu: 'Chúng sinh là chủ nhân của nghiệp, là kẻ thừa tự của nghiệp'.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Sự buông bỏ thanh cao, yêu thương mà không đòi hỏi sở hữu."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn có cảm nhận được sự vững chãi như núi đá trước gió bão khi bạn nhìn vạn sự bằng con mắt Tâm Xả quân bình?",
+    "selfAuditChecklist": [
+      "Tôi đã không để sự cuồng nhiệt hay sầu khổ làm mất đi sự định tĩnh.",
+      "Tôi chấp nhận giới hạn của bản thân khi không thể cứu vãn mọi chuyện.",
+      "Tâm tôi an trú bình thản trước 8 ngọn gió đời: được - mất, khen - chê, vinh - nhục, sướng - khổ."
+    ]
+  }
+}

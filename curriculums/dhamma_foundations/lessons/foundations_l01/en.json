@@ -1,0 +1,58 @@
+{
+  "lessonId": "foundations_l01",
+  "curriculumId": "dhamma_foundations",
+  "lessonNumber": 1,
+  "stageIndex": 1,
+  "title": "Lesson 1: The Buddha — An Awakened Teacher, Not a Bestowing God",
+  "paliTitle": "Gotama Buddha & Satthā Devamanussānaṃ",
+  "suttaRef": {
+    "uid": "mn107",
+    "title": "Gaṇaka Moggallāna Sutta (MN 107) & Mahāparinibbāna Sutta (DN 16)",
+    "excerptPali": "Tumhehi kiccaṃ ātappaṃ, akkhātāro tathāgatā... Attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā.",
+    "excerptTranslation": "You yourselves must strive; the Tathāgatas only show the way... Be islands unto yourselves, refuges unto yourselves, seeking no external refuge. Take the Dhamma as your island, the Dhamma as your refuge."
+  },
+  "pariyatti": {
+    "shortSummary": "Establishes the core insight of Early Theravāda Buddhism: Gotama the Buddha was a historical human being who attained supreme awakening solely through his own wisdom and tireless effort. He is a Guide (Satthā), not an omnipotent deity who dispenses blessings or judges humanity.",
+    "coreConcepts": [
+      {
+        "term": "The Way-Shower",
+        "pali": "Mārga-desaka / Satthā",
+        "definition": "The Buddha acts as an expert guide showing the map across the desert of saṃsāra. The traveler must walk the path with their own feet; no one else can walk it for them."
+      },
+      {
+        "term": "Island Unto Yourself",
+        "pali": "Attadīpa",
+        "definition": "The supreme principle of self-reliance in Theravāda: Each individual must kindle their own lamp of wisdom by observing and training the mind, rather than surrendering their destiny to supernatural agents."
+      },
+      {
+        "term": "Relinquishing Petitionary Prayer",
+        "pali": "Apagatasaddhā / Attasaraṇa",
+        "definition": "Abandoning prayers, rituals, and bargains with celestial beings for worldly gains or absolution of sins; recognizing that kamma ripens according to natural causal law."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Life of Ascetic Gotama: From Human Being to Awakened One\n\nUnlike traditions founded upon divine revelation or a creator god, Siddhartha Gotama was born a **flesh-and-blood human being**. He experienced the full spectrum of human joy and sorrow, confronted the harsh realities of aging, illness, and death, and renounced worldly luxury to search for an end to suffering.\n\nThrough six years of earnest striving and meditative absorption beneath the Bodhi tree, he realized the Threefold Knowledge, saw things as they truly are, and became fully awakened (*Buddha*). This conveys a profound truth: **Awakening and liberation are inherent potentials within every human mind**, not the exclusive privilege of celestial deities.\n\n---\n\n### 2. The Simile of the Path to Rājagaha (MN 107)\n\nIn the **Gaṇaka Moggallāna Sutta (MN 107)**, a wanderer asked the Buddha:\n> *'Venerable Sir, Nibbāna exists, the path leading to Nibbāna exists, and Master Gotama is present as the guide. Why is it that when some disciples are advised by you, they achieve Nibbāna, while others fail to achieve it?'*\n\nThe Blessed One replied with a question about the road to the capital city of Rājagaha:\n- Suppose two travelers ask for directions to Rājagaha. One listens carefully and follows the road diligently; he arrives safely at his destination.\n- The other is given the exact same clear instructions, but turns onto a false track or sits down by the roadside refusing to walk; he becomes lost and never reaches Rājagaha.\n\nThe Buddha concluded:\n> *'What can I do about that, Moggallāna? **The Tathāgatas are merely the ones who point out the way (Akkhātāro tathāgatā)**.'*\n\n---\n\n### 3. The Final Exhortation: Be Your Own Island\n\nPrior to his final passing into Parinibbāna in the Sāla grove of Kusinārā (DN 16), the Buddha spoke his most sacred words to Venerable Ānanda and the assembly:\n> *'Attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā.'*\n> *(Dwell with yourselves as an island, with yourselves as a refuge, with no other refuge. Dwell with the Dhamma as an island, with the Dhamma as a refuge, with no other refuge.)*\n\nHe appointed no human successor, nor did he promise miraculous salvation from afar. His enduring legacy is the **Dhamma** — the timeless, objective compass empowering each of us to liberate our own minds from greed, hatred, and delusion.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Viewing the Buddha as a supernatural god who grants wealth, luck, or status in exchange for altar offerings.",
+        "correction": "The Buddha is an Awakened Teacher completely free from worldly attachments. Offerings express gratitude and cultivate generosity, not a spiritual transaction or barter."
+      },
+      {
+        "mistake": "Believing that past harmful deeds can be erased simply by praying or seeking absolution at a shrine.",
+        "correction": "The law of Kamma operates impartially. No one can forgive or cancel another's kamma. The only genuine transformation is sincere remorse, abandoning wrong action, and cultivating wholesome deeds."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Spend 2 quiet minutes in the morning reflecting: 'Today I rely on no outside superstition or luck. With my own feet and clear awareness, I take 100% ownership of my thoughts, words, and deeds.'",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Take full responsibility without blaming others when encountering an obstacle today"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Are you approaching Buddhism seeking an external refuge for worldly favors, or wishing to learn the mental discipline required for authentic inner freedom?",
+    "selfAuditChecklist": [
+      "I understand that the Buddha is a wise teacher pointing the way, not an almighty god dispensing fate.",
+      "I have abandoned petitionary prayers for worldly gains before the Buddha image.",
+      "I clearly recognize that my peace or distress is determined entirely by my own mental states and choices."
+    ]
+  }
+}

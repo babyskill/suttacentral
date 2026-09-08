@@ -1,0 +1,58 @@
+{
+  "lessonId": "brahmavihara_l05",
+  "curriculumId": "brahmavihara_samatha",
+  "lessonNumber": 5,
+  "stageIndex": 3,
+  "title": "Bài 5: Dập Tắt Ngọn Lửa Đố Kỵ Trong Thời Đại Mạng Xã Hội",
+  "paliTitle": "Haliddavasana Sutta (SN 46.54)",
+  "suttaRef": {
+    "uid": "sn46.54",
+    "title": "Kinh Áo Vải Nhuộm Nghệ (Haliddavasanasutta — SN 46.54)",
+    "excerptPali": "Kathaṃ bhāvitā ca, bhikkhave, muditā cetovimutti kiṅgatikā hoti kiṃparamā kiṃphalā kiṃpariyosānā? Idha, bhikkhave, bhikkhu muditāsahagataṃ satisambojjhaṅgaṃ bhāveti... upekkhasambojjhaṅgaṃ bhāveti... Muditāya, bhikkhave, cetovimuttiyā viññāṇañcāyatanaparamānti vadāmi.",
+    "excerptTranslation": "Và như thế nào, này các Tỳ-kheo, là tâm hỷ giải thoát được tu tập, đưa đến cảnh giới nào, cứu cánh là gì, thành quả là gì, đích đến cuối cùng là gì? Ở đây, này các Tỳ-kheo, vị Tỳ-kheo tu tập Niệm giác chi câu hữu với Hỷ vô lượng... tu tập Xả giác chi câu hữu với Hỷ vô lượng... Này các Tỳ-kheo, Ta tuyên bố tâm hỷ giải thoát lấy Thức Vô Biên Xứ làm cứu cánh cao nhất."
+  },
+  "pariyatti": {
+    "shortSummary": "Tâm Hỷ (Muditā) là năng lực vui mừng chân thành trước hạnh phúc, sắc đẹp, tài năng và thành công của người khác. Trong thời đại kỹ thuật số ngập tràn sự so sánh ngấm ngầm và đố kỵ (Issā), tu tập Tâm Hỷ là liều thuốc giải độc duy nhất giúp bảo vệ sức khỏe tâm thần và mở rộng tâm thức vô biên.",
+    "coreConcepts": [
+      {
+        "term": "Tâm Hỷ",
+        "pali": "Muditā",
+        "definition": "Niềm hoan hỷ thuần khiết trước sự thịnh vượng của người khác, đối trị trực tiếp tâm Tật đố (Issā)."
+      },
+      {
+        "term": "Tật Đố / Ghen Tị",
+        "pali": "Issā",
+        "definition": "Tâm sở bất thiện cảm thấy khó chịu, bực tức khi thấy người khác hơn mình hoặc được khen ngợi."
+      },
+      {
+        "term": "Kẻ Thù Gần Của Tâm Hỷ",
+        "pali": "Pahāsa",
+        "definition": "Sự phấn khích cuồng nhiệt thế tục, cười cợt phù phiếm giả dạng niềm hỷ lạc chân thật."
+      }
+    ],
+    "expositionMarkdown": "### 1. Căn Bệnh Đố Kỵ Trong Kỷ Nguyên Mạng Xã Hội\n\nMạng xã hội (Facebook, Instagram, TikTok) là 'chiếc máy khuếch đại lòng đố kỵ' mạnh nhất trong lịch sử:\n- Ta liên tục nhìn thấy những lát cắt hoàn mỹ nhất của người khác: xe mới, nhà sang, đi du lịch nghỉ dưỡng, thăng chức rực rỡ.\n- Não bộ phàm phu lập tức kích hoạt phản xạ so sánh: *'Tại sao họ sướng thế mà mình khổ thế này?'*. Cảm giác đắng chát, bứt rứt ngấm ngầm khởi lên — đó chính là **chất độc Tật Đố (*Issā*)** đang tàn phá tế bào của bạn!\n\n### 2. Nghệ Thuật Chuyển Đổi Tâm Thức Bằng Muditā\nKhi một người bạn thành công:\n- **Người có tâm ghen ghét:** Tự đày đọa mình vào hỏa ngục: người ta hưởng hạnh phúc còn mình thì chịu đau khổ nhân đôi!\n- **Người có Tâm Hỷ (*Muditā*):** Ngay lập tức mở rộng lòng mình ra: *'Thật tuyệt vời! Hạnh phúc của bạn cũng chính là niềm vui của tôi!'*.\nNhờ vậy, bạn không cần bỏ tiền mua xe sang hay trúng số mà **vẫn được nếm trải 100% niềm hỷ lạc thanh tịnh** từ sự thành công của họ!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng Tâm Hỷ chỉ áp dụng cho người thân yêu trong gia đình.",
+        "correction": "Vui cho con cái hay người thân là tâm hỷ tự nhiên có dính mắc; Tâm Hỷ trong Tứ Vô Lượng Tâm đòi hỏi phải hoan hỷ được cả với người xa lạ và đặc biệt là với đối thủ cạnh tranh của mình."
+      },
+      {
+        "mistake": "Cho rằng bằng lòng và chia vui với người khác sẽ làm mất đi động lực phấn đấu trong sự nghiệp.",
+        "correction": "Hoan hỷ giúp tâm thanh thản, sáng suốt, loại bỏ áp lực đố kỵ; từ đó ta làm việc với hiệu suất cao hơn và tạo dựng được mạng lưới quan hệ vô cùng bền vững."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Bài tập Lướt Mạng Trong Chánh Niệm:** Mở mạng xã hội; khi thấy ai đó chia sẻ tin vui, dừng lại 5 giây, mỉm cười thật tươi và thầm nhủ: 'Sadhu! Lành thay! Chúc mừng bạn, chúc bạn ngày càng thành tựu hơn nữa!'.\n2. Gửi một tin nhắn chúc mừng chân thành đến một người vừa đạt được thành tích tốt.",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Dập tắt tâm đố kỵ và hoan hỷ chúc mừng người khác."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hôm nay, bạn có cảm nhận được sự ngọt ngào và thanh thản khi bạn thật lòng chúc mừng người khác mà không hề có một gợn so sánh hơn thua?",
+    "selfAuditChecklist": [
+      "Tôi đã không so sánh đời mình với những hình ảnh hào nhoáng trên mạng xã hội.",
+      "Tôi chân thành mỉm cười chúc mừng khi nghe tin người quen thành công.",
+      "Tâm tôi hoàn toàn vắng bóng sự hậm hực hay ghen tị trong ngày hôm nay."
+    ]
+  }
+}

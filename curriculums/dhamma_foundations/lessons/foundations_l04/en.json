@@ -1,0 +1,63 @@
+{
+  "lessonId": "foundations_l04",
+  "curriculumId": "dhamma_foundations",
+  "lessonNumber": 4,
+  "stageIndex": 3,
+  "title": "Lesson 4: Four Noble Truths — Life Reality as Mental Medicine",
+  "paliTitle": "Cattāri Ariyasaccāni (SN 56.11)",
+  "suttaRef": {
+    "uid": "sn56.11",
+    "title": "Setting the Wheel of Dhamma in Motion (Connected Discourses 56.11 — Dhammacakkappavattana Sutta)",
+    "excerptPali": "Idaṃ kho pana, bhikkhave, dukkhaṃ ariyasaccaṃ... Idaṃ kho pana, bhikkhave, dukkhasamudayo ariyasaccaṃ: yāyaṃ taṇhā ponobbhavikā... Idaṃ kho pana, bhikkhave, dukkhanirodho ariyasaccaṃ... Idaṃ kho pana, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṃ: ayameva ariyo aṭṭhaṅgiko maggo.",
+    "excerptTranslation": "Now this, monks, is the Noble Truth of Suffering... Now this is the Noble Truth of the Origin of Suffering: it is this craving which leads to renewed existence... Now this is the Noble Truth of the Cessation of Suffering: it is the remainderless fading away and cessation of that same craving... Now this is the Noble Truth of the Way leading to the Cessation of Suffering: it is this Noble Eightfold Path."
+  },
+  "pariyatti": {
+    "shortSummary": "Approach the Four Noble Truths not as bleak philosophical pessimism, but as the Buddha's masterful medical diagnosis of the human condition: Acknowledging the illness of dissatisfaction (Dukkha), Uncovering the infectious pathogen of craving (Samudaya), Confirming the reality of total health (Nirodha), and Prescribing the therapeutic lifestyle of the Eightfold Path (Magga).",
+    "coreConcepts": [
+      {
+        "term": "Universal Dissatisfaction",
+        "pali": "Dukkha Ariyasacca",
+        "definition": "The pervasive instability and impermanence of all conditioned things; clinging to changing phenomena inevitably engenders mental distress."
+      },
+      {
+        "term": "Craving as the Root Cause",
+        "pali": "Samudaya / Taṇhā",
+        "definition": "Selfish thirst (craving for sensual pleasures, craving for eternal existence, or craving for annihilation); demanding that reality conform to subjective expectations."
+      },
+      {
+        "term": "Total Cessation & Freedom",
+        "pali": "Nirodha / Nibbāna",
+        "definition": "The extinguished cooling of the fires of greed, hatred, and delusion; realizing supreme unconditioned peace and liberation in the present life."
+      },
+      {
+        "term": "The Noble Eightfold Course",
+        "pali": "Magga / Ariya Aṭṭhaṅgika Magga",
+        "definition": "The holistic therapeutic regimen consisting of eight factors grouped into Morality, Concentration, and Wisdom."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Supreme Physician (*Bhisakka*)\n\nThroughout the Pāḷi Canon, the Buddha is extolled as the **Supreme Physician of the Mind**. His inaugural discourse in the Deer Park of Isipatana (SN 56.11) mirrors the universal methodology of clinical medicine:\n\n1. **Symptom & Diagnosis (Dukkha - The Truth of Suffering):**\n   - What hurts? Physical agony like birth, aging, sickness, and death; psychological distress like parting from loved ones, association with the disliked, and unfulfilled desires (*Not getting what one wants is suffering*).\n   - In brief: The five aggregates of clinging are intrinsically vulnerable to suffering.\n\n2. **Pathology & Etiology (Samudaya - The Cause of Suffering):**\n   - What caused this condition? It is neither bad luck nor the whim of gods. It is **Craving (Taṇhā)** — relentless thirst for sensory gratification (*Kāma-taṇhā*), becoming (*Bhava-taṇhā*), and aversion seeking destruction (*Vibhava-taṇhā*).\n\n3. **Prognosis of Complete Recovery (Nirodha - The Cessation of Suffering):**\n   - Is complete recovery possible? Yes! When the pathogen of craving is uprooted, the heart tastes boundless peace and unshakeable serenity — **Nibbāna**.\n\n4. **The Therapeutic Prescription (Magga - The Path to Cessation):**\n   - What is the cure? The **Noble Eightfold Path**: Right View, Right Intention, Right Speech, Right Action, Right Livelihood, Right Effort, Right Mindfulness, and Right Concentration.\n\n---\n\n### 2. Three Phases & Twelve Modes (*Tiparivaṭṭa Dvādasākāra*)\n\nFor each of the Four Truths, the Buddha fulfilled three distinct operational tasks:\n- **Direct Cognition (Sacce Ñāṇa):** Recognizing: This is Suffering; this is its Cause; this is its Cessation; this is the Path.\n- **Obligation / Task (Kicce Ñāṇa):** Knowing: Suffering must be **fully understood**; its Cause must be **abandoned**; its Cessation must be **realized**; the Path must be **cultivated**.\n- **Fulfillment / Accomplishment (Kate Ñāṇa):** Realizing: Suffering has been fully understood; its Cause has been abandoned; its Cessation has been realized; the Path has been developed to fruition.\n\nCompleting these twelve modes established his unexcelled Awakening.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing Buddhism is pessimistic because it places suffering at the forefront of its doctrine.",
+        "correction": "A doctor diagnosing an illness is realistic, not pessimistic. The Buddha uncovers suffering only to reveal its cure and the path to Supreme Happiness (Paramaṃ Sukhaṃ)."
+      },
+      {
+        "mistake": "Assuming that overcoming craving means becoming emotionally cold, robotic, or uncaring.",
+        "correction": "The Dhamma dissolves selfish grasping and clingy attachment, not compassion. When selfish demands vanish, unconditional loving-kindness and empathy blossom naturally."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "When irritated today (e.g., in a traffic jam or delayed meeting), pause for 10 seconds and ask: 'Is this distress coming from the external event, or from my internal resistance demanding that traffic move according to my wish?' Soften your shoulders and breathe gently.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Embrace reality as it is with equanimity, replacing irritation with patient understanding"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Do you observe that when you soften demanding expectations on the world, a sense of immediate lightness and relief settles in your chest?",
+    "selfAuditChecklist": [
+      "I view the Four Noble Truths as a practical healing framework, not a gloomy philosophy.",
+      "I notice my subtle cravings and expectations whenever frustration or resentment arises.",
+      "I have confidence that cultivating the Eightfold Path leads to authentic peace."
+    ]
+  }
+}

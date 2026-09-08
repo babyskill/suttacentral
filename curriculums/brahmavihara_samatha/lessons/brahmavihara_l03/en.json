@@ -1,0 +1,58 @@
+{
+  "lessonId": "brahmavihara_l03",
+  "curriculumId": "brahmavihara_samatha",
+  "lessonNumber": 3,
+  "stageIndex": 2,
+  "title": "Lesson 3: The Simile of the Saw — Unshakeable Patience in Adversity",
+  "paliTitle": "Kakacūpama Sutta (MN 21)",
+  "suttaRef": {
+    "uid": "mn21",
+    "title": "The Simile of the Saw (Kakacūpamasutta — MN 21)",
+    "excerptPali": "Ubhatodaṇḍakena cepi, bhikkhave, kakacena corā ocarakā aṅgamamaṅgāni okanteyyuṃ, tatrāpi yo mano paduseyya, na me so tena sāsanakaro... 'Na ceva no cittaṃ vipariṇataṃ bhavissati, na ca pāpikaṃ vācaṃ nicchāressāma, hitānukampī ca viharissāma mettācittā na dosantarā'... Evañhi vo, bhikkhave, sikkhitabbaṃ.",
+    "excerptTranslation": "Monks, even if bandits were to sever you limb by limb with a two-handled saw, someone who gave rise to a mind of hate toward them would not be carrying out my teaching... You should train thus: 'Our minds will not be altered, we will utter no harsh words, we will remain compassionate for their welfare, with a mind of loving-kindness, devoid of inner hatred'... That is how you should train, monks!"
+  },
+  "pariyatti": {
+    "shortSummary": "The Simile of the Saw (MN 21) establishes the highest benchmark of radical patience in moral history. Even under extreme atrocity—being dismembered alive by bandits—a true disciple harbors zero malice, keeping the mind spacious like open space and imperturbable like the earth.",
+    "coreConcepts": [
+      {
+        "term": "Mind Like Earth",
+        "pali": "Pathavīsamo",
+        "definition": "Earth accepts whatever is cast upon it—fragrant petals or feces—without revulsion or delight."
+      },
+      {
+        "term": "Mind Like Space",
+        "pali": "Ākāsasamo",
+        "definition": "Open space has no surface: no weapon can cut space; pristine compassion cannot be stained by malicious words."
+      },
+      {
+        "term": "Five Modes of Speech",
+        "pali": "Pañca Vacanapathā",
+        "definition": "Speech: timely or untimely, true or false, gentle or harsh, beneficial or useless, motivated by love or malice."
+      }
+    ],
+    "expositionMarkdown": "### 1. Historical Setting: The Irascible Monk Moḷiyaphagguna\nMonk Moḷiyaphagguna flew into tantrums whenever criticized. The Buddha summoned him, asking: 'Can a fool with a spade eliminate planet earth by digging and spitting on it? No, because earth is vast and deep.'\n\nWhen people assail you with slander and abuse, if your heart is a shallow puddle, it boils over. If your heart is **Deep as the Earth and Infinite as Space**, their fiery arrows extinguish harmlessly in your ocean of peace!\n\n### 2. Workplace & Domestic Application\nWhen confronted by toxic colleagues or irate family members: Invoke the Saw Simile. Discern that their hostility is a blazing fever tormenting them; see them as tragic victims of their own defilement.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Patience means passive complicity with criminal tyranny.",
+        "correction": "Patience protects your inner heart from hatred. A calm, compassionate mind takes firm, lawful, and decisive actions to stop evil without vengeance."
+      },
+      {
+        "mistake": "Swallowing rage silently while smiling politely outside.",
+        "correction": "Swallowing anger is toxic suppression causing psychosomatic breakdown. The Buddha instructs dissolving anger entirely through vast perspective."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. 'Mind Like Space' Drill: When wounded by harsh words, close eyes and imagine the insult as an arrow shot into the boundless sky—it flies and drops harmlessly into the sand.\n2. Maintain resolute golden silence for the first 5 minutes following an attack.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Invulnerable patience (*Khanti*), unmoved by slander or contempt."
+  },
+  "pativedha": {
+    "reflectionPrompt": "When someone spoke harshly to you today, did you react like boiling water or stand unshakeable like the vast earth?",
+    "selfAuditChecklist": [
+      "I refrained from trading toxic words for toxic words.",
+      "I actively recalled the Saw Simile when irritation flared.",
+      "I felt authentic spiritual strength upon mastering my wrath."
+    ]
+  }
+}

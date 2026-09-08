@@ -1,0 +1,58 @@
+{
+  "lessonId": "foundations_l05",
+  "curriculumId": "dhamma_foundations",
+  "lessonNumber": 5,
+  "stageIndex": 4,
+  "title": "Lesson 5: Threefold Training — Morality, Concentration, Wisdom (Sīla - Samādhi - Paññā)",
+  "paliTitle": "Tisikkhā (Sīla, Samādhi, Paññā)",
+  "suttaRef": {
+    "uid": "dn16",
+    "title": "Great Discourse on the Buddha's Extinction (DN 16) & Numerical Discourses 3.88",
+    "excerptPali": "Iti sīlaṃ, iti samādhi, iti paññā. Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso. Samādhiparibhāvitā paññā mahapphalā hoti mahānisaṃsā. Paññāparibhāvitaṃ cittaṃ sammadeva āsavehi vimuccati.",
+    "excerptTranslation": "Such is virtue, such is concentration, such is wisdom. Concentration fully developed through virtue brings great fruit and benefit. Wisdom fully developed through concentration brings great fruit and benefit. The mind fully developed through wisdom is completely freed from mental defilements."
+  },
+  "pariyatti": {
+    "shortSummary": "Comprehend the three foundational, interconnected pillars of Buddhist training: The Threefold Training (Tisikkhā). Morality (Sīla) purifies conduct to grant an untroubled conscience; Concentration (Samādhi) anchors the mind against emotional turbulence; Wisdom (Paññā) penetrates impermanence and non-self to sever clinging.",
+    "coreConcepts": [
+      {
+        "term": "Higher Virtue Training",
+        "pali": "Adhisīla-sikkhā",
+        "definition": "Ethical restraint causing no harm to life, property, or dignity; generating an unblemished psychological foundation of non-remorse (Avippaṭisāra)."
+      },
+      {
+        "term": "Higher Mind Training",
+        "pali": "Adhicitta-sikkhā / Samādhi",
+        "definition": "The capacity to unify the mind upon a wholesome object (such as the breath); shielding attention from digital scatter and toxic dopamine hits."
+      },
+      {
+        "term": "Higher Wisdom Training",
+        "pali": "Adhipaññā-sikkhā",
+        "definition": "Intuitive insight seeing phenomena as impermanent (Anicca), unsatisfactory (Dukkha), and non-self (Anattā); shattering the illusion of an independent ego."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Three-Legged Hearth of Liberation\n\nThe Noble Eightfold Path is distilled by ancient masters into a coherent, pragmatic curriculum known as the **Threefold Training (Tisikkhā)**. Like a steady three-legged stool, if any leg is missing, the entire seat topples:\n\n1. **Morality (Sīla) — Ethical Group:** Comprises Right Speech, Right Action, Right Livelihood.\n   - Sīla is not a set of suffocating religious prohibitions.\n   - Sīla is **protective psychological armor**. When you do not lie, steal, or exploit, you sleep soundly at night without dread of retribution or the gnawing guilt of conscience. This ethical purity generates **freedom from remorse (*Avippaṭisāra*)** — the indispensable soil in which deep meditation can take root.\n\n2. **Concentration (Samādhi) — Mental Group:** Comprises Right Effort, Right Mindfulness, Right Concentration.\n   - The untrained mind resembles a restless monkey jumping erratically from limb to limb.\n   - Through breath awareness (*Ānāpānasati*), the turbulent winds subside until the mind resembles a mountain lake, serene and glassy. Only when water is calm and clear can one gaze down to see the pebbles and fish at the lake bottom.\n\n3. **Wisdom (Paññā) — Insight Group:** Comprises Right View, Right Intention.\n   - Looking to the bottom of the lake is Wisdom. In the clear light of a collected mind, one witnesses directly: Joy and grief, praise and blame arise and pass away (*Impermanence - Anicca*). No enduring 'I' commands them (*Non-self - Anattā*).\n   - Seeing reality as it is, the heart lets go of grasping, tasting timeless liberation.\n\n---\n\n### 2. An Inseparable Symphony\n\nThroughout his journeys across northern India (DN 16), the Buddha repeated this immortal refrain:\n> *'Concentration nurtured by virtue yields abundant fruit... Wisdom nurtured by concentration yields abundant fruit... The mind nurtured by wisdom is wholly freed from cankers.'*\n\nOne who lives deceitfully will always suffer an agitated, defensive mind, making deep meditation impossible. One who lacks mental calm possesses only dry academic concepts, not liberating insight.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Thinking one can skip ethical discipline and jump straight to advanced meditation retreats.",
+        "correction": "Sīla is the bedrock. Erecting a skyscraper of meditation on a foundation of ethical compromise is building upon quicksand; collapse is inevitable."
+      },
+      {
+        "mistake": "Confusing Buddhist Wisdom with intellectual erudition, academic titles, or bookish cleverness.",
+        "correction": "Intellectual cleverness belongs to conceptual thought; Wisdom (*Paññā*) is the direct, ego-less experiential vision of how things actually arise and cease."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Practice a 'Micro Threefold Training' today:\n1. **Sīla:** Speak truthfully and gently; refrain from backbiting.\n2. **Samādhi:** Spend 3 quiet minutes sitting tall, following each in-breath and out-breath at the nostrils.\n3. **Paññā:** When anger or worry stirs, note calmly: 'This sensation has arisen and will fade; it is not me.'",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Cultivate truthful, harmonious speech and guard inner quietness"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Have you noticed that on days when your actions and speech are completely transparent, your mind settles into stillness far more effortlessly?",
+    "selfAuditChecklist": [
+      "I understand the vital causal sequence linking Virtue, Concentration, and Wisdom.",
+      "I uphold ethical guidelines not out of fear of punishment, but to keep my heart unburdened and clear.",
+      "I dedicate at least a few quiet minutes each day to guard my attention against digital overload."
+    ]
+  }
+}

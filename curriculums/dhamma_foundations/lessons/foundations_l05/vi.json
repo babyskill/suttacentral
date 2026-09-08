@@ -1,0 +1,58 @@
+{
+  "lessonId": "foundations_l05",
+  "curriculumId": "dhamma_foundations",
+  "lessonNumber": 5,
+  "stageIndex": 4,
+  "title": "Bài 5: Tam Học — Giữ Thân Yên, Luyện Tâm Định, Mở Trí Sáng (Giới - Định - Tuệ)",
+  "paliTitle": "Tisikkhā (Sīla, Samādhi, Paññā)",
+  "suttaRef": {
+    "uid": "dn16",
+    "title": "Kinh Đại Bát Niết Bàn (Trường Bộ 16) & Kinh Tăng Chi Bộ 3.88 (Sikkhā Sutta)",
+    "excerptPali": "Iti sīlaṃ, iti samādhi, iti paññā. Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṃso. Samādhiparibhāvitā paññā mahapphalā hoti mahānisaṃsā. Paññāparibhāvitaṃ cittaṃ sammadeva āsavehi vimuccati.",
+    "excerptTranslation": "Đây là Giới, đây là Định, đây là Tuệ. Định được Giới un đúc sẽ đem lại quả lớn, ích lợi lớn. Tuệ được Định un đúc sẽ đem lại quả lớn, ích lợi lớn. Tâm được Tuệ un đúc sẽ hoàn toàn giải thoát khỏi các lậu hoặc."
+  },
+  "pariyatti": {
+    "shortSummary": "Thấu suốt ba trụ cột rèn luyện căn bản và toàn diện của Phật giáo Nguyên thủy: Tam Học (Tisikkhā). Giới (Sīla) thanh lọc lời nói hành vi để tâm không bị hối hận cắn rứt; Định (Samādhi) gom tâm vững chãi lắng dịu sóng gió cảm xúc; Tuệ (Paññā) thấu suốt thực tại vô thường, vô ngã để cắt đứt mọi dính mắc khổ đau.",
+    "coreConcepts": [
+      {
+        "term": "Giới Học",
+        "pali": "Adhisīla-sikkhā",
+        "definition": "Sự kiềm chế, không làm tổn hại đến sự sống, tài sản, nhân phẩm của mình và muôn loài; tạo nên nền tảng tâm lý không hối hận (Avippaṭisāra)."
+      },
+      {
+        "term": "Định Học",
+        "pali": "Adhicitta-sikkhā / Samādhi",
+        "definition": "Khả năng an trú tâm trên một đề mục thiện lành (như hơi thở); không để tâm tán loạn, chạy theo bão thông tin và dopamine độc hại."
+      },
+      {
+        "term": "Tuệ Học",
+        "pali": "Adhipaññā-sikkhā",
+        "definition": "Trí tuệ thấy rõ vạn pháp vô thường (Anicca), bất toại nguyện (Dukkha), vô ngã (Anattā); phá tan ảo tưởng về cái 'Tôi' bất biến."
+      }
+    ],
+    "expositionMarkdown": "### 1. Chiếc Kiềng Ba Chân Của Sự Giải Thoát\n\nCon đường Bát Chánh Đạo gồm 8 chi phần được các bậc cổ đức cô đọng lại thành một hệ thống thực hành khoa học gọi là **Tam Học (Tisikkhā)**. Giống như chiếc kiềng ba chân vững chắc nơi gian bếp, thiếu bất kỳ một chân nào thì nồi cơm cũng không thể đứng vững:\n\n1. **Giới (Sīla) — Nhóm Đạo Đức:** Bao gồm Chánh Ngữ, Chánh Nghiệp, Chánh Mạng.\n   - Giới không phải là những giáo điều cấm đoán hà khắc làm mất tự do.\n   - Giới chính là **bộ giáp phòng hộ an toàn**. Khi bạn không lừa dối, không trộm cắp, không làm hại ai, ban đêm bạn ngủ ngon giấc mà không nơm nớp lo sợ bị trả thù, không bị tòa án lương tâm cắn rứt. Sự trong sạch này sinh ra trạng thái **không hối hận (*Avippaṭisāra*)** — mảnh đất màu mỡ duy nhất để tâm có thể định tĩnh.\n\n2. **Định (Samādhi) — Nhóm Tâm Thức:** Bao gồm Chánh Tinh Tấn, Chánh Niệm, Chánh Định.\n   - Tâm của con người vốn như bầy khỉ chuyền cành, luôn bồn chồn nhảy nhót từ quá khứ đến tương lai.\n   - Nhờ có Định qua việc thực hành niệm hơi thở (*Ānāpānasati*), ngọn gió xao động dần lắng xuống, như mặt hồ phẳng lặng không một gợn sóng. Khi mặt nước phẳng lặng và trong vắt, ta mới có thể nhìn thấu tận đáy hồ.\n\n3. **Tuệ (Paññā) — Nhóm Trí Tuệ:** Bao gồm Chánh Kiến, Chánh Tư Duy.\n   - Nhìn thấu đáy hồ chính là Tuệ. Nhờ tâm định tĩnh soi chiếu, hành giả thấy rõ: Mọi cảm xúc vui buồn, mọi ý niệm khen chê đều sinh ra rồi tự biến hoại (*Vô thường - Anicca*). Không có cái 'Ta' cố định nào làm chủ được chúng (*Vô ngã - Anattā*).\n   - Khi thấy rõ sự thật, tâm buông xả mọi bám chấp và giải thoát ngay trong từng giây phút.\n\n---\n\n### 2. Mối Tương Hỗ Khăng Khít Không Thể Tách Rời\n\nTrong suốt hành trình hoằng hóa từ thành Vương Xá đến rừng Câu-thi-na (DN 16), Đức Phật luôn nhắc đi nhắc lại điệp khúc bất hủ:\n> *'Định được Giới un đúc sẽ đem lại quả lớn... Tuệ được Định un đúc sẽ đem lại quả lớn... Tâm được Tuệ un đúc sẽ hoàn toàn giải thoát khỏi các lậu hoặc.'*\n\nNgười không giữ giới (nói dối, sống giả tạo) thì tâm trí luôn bồn chồn phòng thủ, không bao giờ có thể ngồi thiền định sâu. Người thiếu định tĩnh thì tâm tán loạn, dù đọc bao nhiêu kinh điển cũng chỉ là tri thức suông chứ không sinh ra tuệ giác thực chứng.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng chỉ cần học thiền (Định) là đủ, việc giữ giới đạo đức trong đời thường là cổ hủ không cần thiết.",
+        "correction": "Giới là nền móng của ngôi nhà. Xây nhà lầu cao (Định và Tuệ) trên nền cát lún của sự dối trá và vô đạo đức thì ngôi nhà sớm muộn cũng sụp đổ tan tành."
+      },
+      {
+        "mistake": "Nhầm lẫn Tuệ trong Phật giáo với sự thông minh học rộng, tích lũy bằng cấp chữ nghĩa thế tục.",
+        "correction": "Thông minh thế tục thuộc về kiến thức phân biệt; còn Tuệ (*Paññā*) là cái thấy trực giác vượt lên trên bản ngã, thấy rõ sự biến dịch vô thường của thân tâm để dứt trừ đau khổ."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Thực tập 'Tam Học thu nhỏ' trong ngày hôm nay:\n1. **Giới:** Nói lời trung thực và hòa ái, không nói xấu sau lưng người khác.\n2. **Định:** Dành 3 phút ngồi thẳng lưng, theo dõi trọn vẹn luồng hơi thở tự nhiên đi vào và đi ra nơi cánh mũi.\n3. **Tuệ:** Khi một cơn giận hoặc lo lắng khởi lên, nhận biết: 'Cảm thọ này sinh lên rồi sẽ biến mất, nó không phải là ta.'",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Chân thật trong lời nói và nuôi dưỡng sự tĩnh lặng của tâm ý"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn nhận thấy sau một ngày làm việc thiện và không nói dối, tâm bạn ngồi lại tĩnh lặng dễ dàng hơn nhiều so với một ngày tranh cãi hơn thua?",
+    "selfAuditChecklist": [
+      "Tôi hiểu rõ mối liên kết nhân quả không thể tách rời giữa Giới, Định và Tuệ.",
+      "Tôi nuôi dưỡng đạo đức không phải vì sợ bị trừng phạt mà vì mong muốn tâm trí được an lành không cắn rứt.",
+      "Tôi dành ra ít nhất vài phút tĩnh lặng mỗi ngày để tâm không bị cuốn trôi theo bão thông tin."
+    ]
+  }
+}

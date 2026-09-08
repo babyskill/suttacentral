@@ -1,0 +1,44 @@
+{
+  "lessonId": "{{LESSON_ID}}",
+  "curriculumId": "{{CURRICULUM_ID}}",
+  "lessonNumber": {{LESSON_NUMBER}},
+  "stageIndex": {{STAGE_INDEX}},
+  "title": "Lesson {{LESSON_NUMBER}}: {{TITLE_EN}}",
+  "paliTitle": "{{PALI_TITLE}}",
+  "suttaRef": {
+    "uid": "{{SUTTA_UID}}",
+    "title": "{{SUTTA_TITLE_EN}}",
+    "excerptPali": "{{EXCERPT_PALI}}",
+    "excerptTranslation": "{{EXCERPT_TRANSLATION_EN}}"
+  },
+  "pariyatti": {
+    "shortSummary": "{{SHORT_SUMMARY_EN}}",
+    "coreConcepts": [
+      {
+        "term": "{{CONCEPT_TERM_EN}}",
+        "pali": "{{CONCEPT_PALI}}",
+        "definition": "{{CONCEPT_DEF_EN}}"
+      }
+    ],
+    "expositionMarkdown": "### 1. Canonical Context & Core Teaching\n\nDetailed exposition anchored in canonical discourse...\n\n### 2. Practical Application for Daily Life\n\nDeep analysis enabling practitioners to perceive reality clearly...",
+    "commonMisconceptions": [
+      {
+        "mistake": "{{MISCONCEPTION_MISTAKE_EN}}",
+        "correction": "{{MISCONCEPTION_CORRECTION_EN}}"
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "{{PRACTICE_GUIDE_EN}}",
+    "recommendedRoutineId": "{{ROUTINE_ID}}",
+    "suggestedVirtue": "{{SUGGESTED_VIRTUE_EN}}"
+  },
+  "pativedha": {
+    "reflectionPrompt": "{{REFLECTION_PROMPT_EN}}",
+    "selfAuditChecklist": [
+      "Self-audit criterion 1...",
+      "Self-audit criterion 2...",
+      "Self-audit criterion 3..."
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "lessonId": "brahmavihara_l07",
+  "curriculumId": "brahmavihara_samatha",
+  "lessonNumber": 7,
+  "stageIndex": 4,
+  "title": "Lesson 7: Serene Equanimity — Crown of Boundless Wisdom",
+  "paliTitle": "Metta-sahagata Sutta (AN 4.125)",
+  "suttaRef": {
+    "uid": "an4.125",
+    "title": "Associated with Goodwill (Metta-sahagatasutta — AN 4.125)",
+    "excerptPali": "Idha, bhikkhave, ekacco puggalo upekkhāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ... Upekkhāya, bhikkhave, cetovimuttiyā ākiñcaññāyatanaparamānti vadāmi... So tadassādeti, tannikāmeti, tena ca vittiṃ āpajjati; tattha ṭhito tadadhimutto... brahmakāyikānaṃ devānaṃ sahabyataṃ upapajjati.",
+    "excerptTranslation": "Here, monks, a person dwells pervading one direction with a mind imbued with equanimity, likewise the second, the third, the fourth... The mind-deliverance of equanimity, I say, has the dimension of nothingness as its culmination... He enjoys that, desires that, finds satisfaction in that; established therein... he is reborn in companionship with the Brahmā deities."
+  },
+  "pariyatti": {
+    "shortSummary": "Equanimity (*Upekkhā*) is the crown of the Four Immeasurables. It is not callous indifference, but majestic equilibrium anchored in the wisdom of karma: 'Beings are owners of their deeds.' Equanimity prevents loving-kindness from degenerating into lust, compassion into grief, and joy into restlessness.",
+    "coreConcepts": [
+      {
+        "term": "Boundless Equanimity",
+        "pali": "Upekkhā Brahmavihāra",
+        "definition": "Sublime mental balance viewing all phenomena with equal, non-preferential, untethered wisdom."
+      },
+      {
+        "term": "Ignorant Apathy",
+        "pali": "Aññāṇupekkhā",
+        "definition": "The near enemy of equanimity: cold indifference, callous disregard born of laziness and narcissism."
+      },
+      {
+        "term": "Insight into Karma",
+        "pali": "Kammassakatāñāṇa",
+        "definition": "The structural anchor of equanimity: discerning that all beings must harvest their own karmic lessons."
+      }
+    ],
+    "expositionMarkdown": "### 1. Why Equanimity Shields the Other Three\n- Without Equanimity, Goodwill (*Mettā*) degenerates into obsessive, possessive infatuation.\n- Without Equanimity, Compassion (*Karuṇā*) collapses into paralyzing depression and compassion fatigue.\n- Without Equanimity, Joy (*Muditā*) spirals into agitated euphoria.\n\n### 2. The Master Surgeon Metaphor\nA master surgeon embodies deep compassion, deploying every skill to heal. Yet her scalpel hand remains rock-steady and emotionally detached. If a patient dies due to exhausted biological karma, she bows to natural law without collapsing, moving on to save the next life!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Using 'it's their karma' as a cynical excuse to refuse helping a drowning person.",
+        "correction": "That is monstrous callousness. While rescue is possible, act with total compassion. When limits are reached, rest in equanimity."
+      },
+      {
+        "mistake": "Equating equanimity with helpless resignation.",
+        "correction": "Resignation is depressive defeatism (*Dosa*). Authentic Equanimity is sovereign, unshakable clarity."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. In situations beyond control: Hand to forehead, exhale long, affirm: 'I have done my utmost. The outcome rests with conditions and their karma. I release with peace.'\n2. Inscribe: 'All beings are owners of their karma, heirs to their deeds.'",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Sublime relinquishment, loving without possessive attachment."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you feel rock-solid stability like a mountain in gale winds when viewing life through equanimous wisdom?",
+    "selfAuditChecklist": [
+      "I prevented both mania and despair from overturning inner balance.",
+      "I accepted my human limits when circumstances could not be salvaged.",
+      "My heart stood unmoved amidst the eight worldly winds: gain and loss, praise and blame, fame and disrepute, pleasure and pain."
+    ]
+  }
+}

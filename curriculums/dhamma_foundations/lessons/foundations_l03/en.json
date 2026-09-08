@@ -1,0 +1,58 @@
+{
+  "lessonId": "foundations_l03",
+  "curriculumId": "dhamma_foundations",
+  "lessonNumber": 3,
+  "stageIndex": 2,
+  "title": "Lesson 3: Safe Refuge — Understanding the Three Jewels (Tisaraṇa)",
+  "paliTitle": "Tisaraṇa & Saraṇagamana (Khp 1)",
+  "suttaRef": {
+    "uid": "kp1",
+    "title": "Going for Refuge (Khuddakapāṭha 1) & Dhammapada (Dhp 188-192)",
+    "excerptPali": "Buddhaṃ saraṇaṃ gacchāmi. Dhammaṃ saraṇaṃ gacchāmi. Saṅghaṃ saraṇaṃ gacchāmi... Bahuṃ ve saraṇaṃ yanti, pabbatāni vanāni ca; Ārāmarukkhacetyāni, manussā bhayatajjitā. Netaṃ kho saraṇaṃ khemaṃ, netaṃ saraṇamuttamaṃ.",
+    "excerptTranslation": "To the Buddha I go for refuge. To the Dhamma I go for refuge. To the Saṅgha I go for refuge... Driven by fear, human beings go for refuge to mountains, forests, sacred groves, and shrine trees. But that is no secure refuge, that is no supreme refuge."
+  },
+  "pariyatti": {
+    "shortSummary": "Clarifies the true spiritual essence of Taking Refuge (Tisaraṇa). Going for refuge is neither a ritual pledge to a dogmatic institution nor dependence on an external savior. It is resting in Awakening (Buddha), Cosmic Truth (Dhamma), and Awakened Virtue (Saṅgha) within oneself to overcome fear.",
+    "coreConcepts": [
+      {
+        "term": "The Three Jewels",
+        "pali": "Tiratanā",
+        "definition": "Three peerless spiritual treasures guiding humanity: The Buddha (The Awakened Teacher), The Dhamma (The Universal Truth & Path), The Saṅgha (The Noble Community of Practitioners)."
+      },
+      {
+        "term": "Inner Refuge",
+        "pali": "Saraṇagamana",
+        "definition": "Returning to an unassailable inner sanctuary of clear awareness and ethical restraint, abandoning fear of omens, spirits, and planetary charts."
+      },
+      {
+        "term": "The Secure Sanctuary",
+        "pali": "Khema Saraṇa",
+        "definition": "Only penetrating the Four Noble Truths and cultivating the Eightfold Path provides ultimate invulnerability against the storms of saṃsāra (Dhp 190-192)."
+      }
+    ],
+    "expositionMarkdown": "### 1. Human Dread & Illusory Shelters\n\nIn the **Dhammapada (verses 188–189)**, the Buddha observed human psychology:\n> *'Threatened by fear of illness, loss, catastrophe, and death, people run for refuge to towering mountains, gloomy forests, sacred shrines, or holy trees, begging for celestial protection.'*\n\nYet, the Buddha declared: Mountains crumble, trees decay, and shrines cannot extinguish craving and terror in the heart. Seeking security in inanimate objects or mystical superstition is a transient diversion, **not a secure sanctuary (Netaṃ kho saraṇaṃ khemaṃ)**.\n\n---\n\n### 2. The Core Meaning of the Threefold Refuge (Tisaraṇa)\n\nWhen a practitioner declares: *'I go to the Buddha for refuge, I go to the Dhamma for refuge, I go to the Saṅgha for refuge'*, it is an empowering proclamation of spiritual autonomy:\n\n1. **Buddhaṃ saraṇaṃ gacchāmi (Refuge in the Buddha):**\n   - Nurturing reverence for the Buddha — the Fully Awakened One who overcame greed, hatred, and delusion through human effort.\n   - Awaking the seed of **mindfulness and potential awakening** within one's own heart, guided by his pristine exemplar.\n\n2. **Dhammaṃ saraṇaṃ gacchāmi (Refuge in the Dhamma):**\n   - Resting in the Dhamma — the natural law of Dependent Origination, Impermanence, Suffering, Non-Self, and the Four Noble Truths.\n   - Living in harmony with natural cause and effect; immune to sensational fear-mongering regarding planetary curses or malevolent spirits.\n\n3. **Saṅghaṃ saraṇaṃ gacchāmi (Refuge in the Saṅgha):**\n   - Taking inspiration from the Noble Community — disciples who have embodied wisdom, morality, and inner stillness across generations.\n   - Cultivating harmony, humility, and associating with wise spiritual friends (*kalyāṇamitta*) on the path.\n\n---\n\n### 3. The Supreme Refuge (Dhp 190–192)\n\n> *'He who has gone for refuge to the Buddha, the Dhamma, and the Saṅgha, sees with right wisdom the Four Noble Truths: Suffering, the Origin of Suffering, the Cessation of Suffering, and the Noble Eightfold Path leading to the cessation of suffering — This indeed is the secure refuge, this is the supreme refuge.'*\n\nOne who takes authentic refuge in the Triple Gem stands like a granite mountain in a gale, unshakable by superstition or shifting opinions.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing that taking refuge requires shaving one's head, becoming a monk, or abandoning worldly responsibilities.",
+        "correction": "Refuge is an internal mental orientation. Lay disciples manage careers, provide for families, and contribute to society, illuminated by ethical clarity."
+      },
+      {
+        "mistake": "Thinking that receiving a Buddhist certificate grants automatic lifelong divine protection regardless of personal conduct.",
+        "correction": "A ceremony is merely an external reminder. True refuge exists in daily living: If the mind remains gripped by malice and deceit, a piece of paper cannot shield against the harvest of unwholesome kamma."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Each morning, compose the mind, take 3 mindful breaths, and recite the Three Refuges in Pāḷi with heartfelt reverence:\n• Buddhaṃ saraṇaṃ gacchāmi (To the Buddha I go for refuge)\n• Dhammaṃ saraṇaṃ gacchāmi (To the Dhamma I go for refuge)\n• Saṅghaṃ saraṇaṃ gacchāmi (To the Saṅgha I go for refuge)",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Dedicate a quiet moment of gratitude to the pristine virtues of the Triple Gem"
+  },
+  "pativedha": {
+    "reflectionPrompt": "When confronting uncertainty or dread, do you run toward fortune-telling and superstition, or return to the calm clarity of your own ethical conduct?",
+    "selfAuditChecklist": [
+      "I realize that authentic refuge means anchoring in Wisdom, Truth, and Pure Character.",
+      "I have abandoned seeking magical protection from amulets, horoscopes, or superstitious charms.",
+      "I cherish the purity of my Body, Speech, and Mind as my true, unbreakable armor."
+    ]
+  }
+}

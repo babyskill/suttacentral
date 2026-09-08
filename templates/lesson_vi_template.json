@@ -1,0 +1,44 @@
+{
+  "lessonId": "{{LESSON_ID}}",
+  "curriculumId": "{{CURRICULUM_ID}}",
+  "lessonNumber": {{LESSON_NUMBER}},
+  "stageIndex": {{STAGE_INDEX}},
+  "title": "Bài {{LESSON_NUMBER}}: {{TITLE_VI}}",
+  "paliTitle": "{{PALI_TITLE}}",
+  "suttaRef": {
+    "uid": "{{SUTTA_UID}}",
+    "title": "{{SUTTA_TITLE_VI}}",
+    "excerptPali": "{{EXCERPT_PALI}}",
+    "excerptTranslation": "{{EXCERPT_TRANSLATION_VI}}"
+  },
+  "pariyatti": {
+    "shortSummary": "{{SHORT_SUMMARY_VI}}",
+    "coreConcepts": [
+      {
+        "term": "{{CONCEPT_TERM_VI}}",
+        "pali": "{{CONCEPT_PALI}}",
+        "definition": "{{CONCEPT_DEF_VI}}"
+      }
+    ],
+    "expositionMarkdown": "### 1. Bối Cảnh Lịch Sử & Kinh Văn\n\nNội dung luận giải giáo lý dựa trên kinh điển...\n\n### 2. Ý Nghĩa Ứng Dụng Trong Đời Sống\n\nPhân tích chi tiết giúp hành giả thấu suốt bản chất...",
+    "commonMisconceptions": [
+      {
+        "mistake": "{{MISCONCEPTION_MISTAKE_VI}}",
+        "correction": "{{MISCONCEPTION_CORRECTION_VI}}"
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "{{PRACTICE_GUIDE_VI}}",
+    "recommendedRoutineId": "{{ROUTINE_ID}}",
+    "suggestedVirtue": "{{SUGGESTED_VIRTUE_VI}}"
+  },
+  "pativedha": {
+    "reflectionPrompt": "{{REFLECTION_PROMPT_VI}}",
+    "selfAuditChecklist": [
+      "Tiêu chí tự kiểm 1...",
+      "Tiêu chí tự kiểm 2...",
+      "Tiêu chí tự kiểm 3..."
+    ]
+  }
+}

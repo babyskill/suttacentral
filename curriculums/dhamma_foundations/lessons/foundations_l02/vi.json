@@ -1,0 +1,58 @@
+{
+  "lessonId": "foundations_l02",
+  "curriculumId": "dhamma_foundations",
+  "lessonNumber": 2,
+  "stageIndex": 1,
+  "title": "Bài 2: Tinh Thần Thực Nghiệm — Đến Để Mà Thấy (Ehipassiko)",
+  "paliTitle": "Ehipassiko & Kālāma Sutta (AN 3.65)",
+  "suttaRef": {
+    "uid": "an3.65",
+    "title": "Kinh Kālāma (Tăng Chi Bộ 3.65 — Kesamutti Sutta)",
+    "excerptPali": "Mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena... Yadā tumhe kālāmā attanāva jāneyyātha: ‘Ime dhammā kusalā, ime dhammā anavajjā...’ atha tumhe kālāmā upasampajja vihareyyātha.",
+    "excerptTranslation": "Này các Kālāma, chớ vội tin vì nghe truyền thuyết, chớ vội tin vì theo truyền thống, chớ vội tin vì nghe đồn đãi, chớ vội tin vì có ghi trong kinh điển... Nhưng khi nào các người tự mình biết rõ: ‘Các pháp này là thiện, các pháp này không có lỗi, đưa đến hạnh phúc an vui’, thì hãy thực hành theo."
+  },
+  "pariyatti": {
+    "shortSummary": "Khám phá bản tuyên ngôn tự do tư tưởng vĩ đại của Phật giáo: Kinh Kālāma (AN 3.65). Đức Phật khuyên người tìm kiếm chân lý không vội chấp nhận bất cứ điều gì dựa trên uy quyền hay truyền thống, mà phải tự mình khảo nghiệm xem pháp đó khi thực hành có dập tắt tham-sân-si và đem lại an lạc thực sự hay không.",
+    "coreConcepts": [
+      {
+        "term": "Đến Để Mà Thấy",
+        "pali": "Ehipassiko",
+        "definition": "Đặc tính mời gọi khảo sát của Chánh Pháp: Không bảo 'hãy đến để mà tin mù quáng' (Ehisaddhiko), mà là 'hãy đến để tự mắt thấy, tự tâm trải nghiệm' chân lý trong hiện tại."
+      },
+      {
+        "term": "Mười Tiêu Chuẩn Phản Biện Kālāma",
+        "pali": "Dasa Kālāma Dhammā",
+        "definition": "Thái độ hoài nghi lành mạnh: Không tin vì nghe đồn, không tin vì phong tục cổ xưa, không tin vì suy luận logic hời hợt, không tin vì sự kính trọng giáo chủ danh tiếng."
+      },
+      {
+        "term": "Tự Mình Khảo Nghiệm",
+        "pali": "Paccattaṃ Veditabbo",
+        "definition": "Chân lý chỉ có giá trị khi được đích thân hành giả thể nghiệm và chứng thực trên chính thân tâm của mình, không dừng lại ở kiến thức vay mượn."
+      }
+    ],
+    "expositionMarkdown": "### 1. Nỗi Băn Khoăn Của Bộ Tộc Kālāma Tại Thị Trấn Kesaputta\n\nKhi Đức Phật cùng chư Tăng ghé qua thị trấn Kesaputta, dân chúng bộ tộc Kālāma đã đến đảnh lễ và bày tỏ nỗi hoang mang tột độ:\n> *'Bạch Thế Tôn, có nhiều đạo sĩ và bà-la-môn đi qua thị trấn này. Ai cũng tán thán giáo lý của mình là tối thượng, đồng thời bài xích, khinh miệt và chê bai giáo lý của những người khác. Chúng con không biết ai nói thật, ai nói dối, lòng tràn ngập mối nghi nan.'*\n\nĐây là câu hỏi muôn thuở của nhân loại khi đứng trước một rừng thông tin, tôn giáo và hệ tư tưởng trái chiều.\n\n---\n\n### 2. Mười Tiêu Chuẩn Không Vội Tin Của Đức Phật\n\nThay vì yêu cầu dân chúng Kālāma phải tin ngay vào Ngài, Đức Phật đã đưa ra lời khuyên làm chấn động lịch sử tư tưởng nhân loại:\n\n> *'Này các Kālāma, các người hoài nghi là điều hoàn toàn hợp lý. Hãy lắng nghe kỹ:\n> 1. **Mā anussavena**: Đừng vội tin vì nghe kể lại hay nghe đồn đại.\n> 2. **Mā paramparāya**: Đừng vội tin vì đó là phong tục tập quán truyền thống lâu đời.\n> 3. **Mā itikirāya**: Đừng vội tin vì tin đồn lan truyền rộng rãi trong dư luận.\n> 4. **Mā piṭakasampadānena**: Đừng vội tin chỉ vì điều đó có ghi chép trong sách vở hay kinh điển cổ xưa.\n> 5. **Mā takkahetu**: Đừng vội tin chỉ vì suy đoán logic thuần túy trên lý thuyết.\n> 6. **Mā nayahetu**: Đừng vội tin chỉ vì suy luận có vẻ hợp lý trên mặt triết học.\n> 7. **Mā ākāraparivitakkena**: Đừng vội tin sau khi chỉ mới xét đoán hình thức bề ngoài.\n> 8. **Mā diṭṭhinijjhānakkhantiyā**: Đừng vội tin chỉ vì điều đó phù hợp với định kiến hay quan điểm sẵn có của mình.\n> 9. **Mā bhabbarūpatāya**: Đừng vội tin vì người nói có vẻ ngoài uy nghi, đạo mạo, khả tín.\n> 10. **Mā samaṇo no garūti**: Đừng vội tin chỉ vì nghĩ rằng 'Vị đạo sĩ này là bậc thầy tôn kính của chúng ta.'*\n\n---\n\n### 3. Thước Đo Chân Lý: Tham, Sân, Si & An Lạc Hiện Tiền\n\nĐức Phật dạy thước đo duy nhất để đánh giá một lời dạy hay hành vi:\n- Hãy tự hỏi: Khi tâm khởi sinh **Tham ái (Lobha)**, **Sân hận (Dosa)**, **Si mê (Moha)**, trạng thái đó đem lại an vui hay đau khổ? Dân chúng Kālāma đồng thanh đáp: *'Đem lại đau khổ, bạch Thế Tôn'*. Đó là pháp **bất thiện (akusala)**, cần phải buông bỏ.\n- Ngược lại, khi tâm khởi sinh **Vô tham (Alobha)**, **Vô sân / Từ ái (Adosa)**, **Vô si / Sáng suốt (Amoha)**, trạng thái đó đem lại lợi ích hay tai hại? Dân chúng đáp: *'Đem lại lợi ích và an vui, bạch Thế Tôn'*. Đó là pháp **thiện (kusala)**, hãy thọ trì và phát triển.\n\nĐây chính là tinh thần **Ehipassiko (Đến để mà thấy)**: Đạo Phật không phải tôn giáo bắt người ta nhắm mắt tin theo (Blind Faith), mà là con đường mở mắt để thấy và tự mình chứng nghiệm (Open-Eyed Seeing).",
+    "commonMisconceptions": [
+      {
+        "mistake": "Hiểu lầm Kinh Kālāma nghĩa là 'chối bỏ mọi kinh điển và thầy tổ, chỉ tin vào sở thích cá nhân của mình'.",
+        "correction": "Đức Phật không dạy phủ nhận kinh điển hay thầy hiền trí; Ngài dạy đừng dừng lại ở việc tin mù quáng trên giấy tờ hay lời nói. Phải đem lời dạy ra áp dụng vào thực tế tâm mình: Nếu bớt tham sân si, mang lại an lạc thì đó mới là Chánh Pháp chân thật."
+      },
+      {
+        "mistake": "Nghĩ rằng hoài nghi, thắc mắc là bất kính và sẽ bị tội lỗi trong Phật giáo.",
+        "correction": "Hoài nghi tìm kiếm sự thật (thao thức trí tuệ) là khởi đầu của Chánh Kiến. Đức Phật luôn hoan nghênh những câu hỏi trung thực, không bao giờ trừng phạt hay đe dọa người đặt câu hỏi chất vấn giáo lý."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Quan sát một quyết định hoặc phản ứng của mình hôm nay. Tự hỏi: 'Hành động này xuất phát từ tâm tham lam, sợ hãi, giận dữ hay xuất phát từ sự sáng suốt và thiện chí?' Nhận biết rõ ràng mà không che đậy.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Lắng nghe với tâm khiêm tốn, không vội phản bác cũng không vội a dua theo đám đông"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Có những niềm tin hoặc thói quen nào bạn từng theo đuổi chỉ vì đám đông làm theo, nhưng khi nhìn kỹ lại thì thấy tâm mình thêm bồn chồn, lo âu và bám chấp?",
+    "selfAuditChecklist": [
+      "Tôi không vội tin vào những tin đồn phong thủy, ngày tốt giờ xấu khi chưa có kiểm chứng trí tuệ.",
+      "Tôi hiểu rằng thước đo Chánh Pháp là sự giảm thiểu của Tham - Sân - Si và sự tăng trưởng của Lương Thiện.",
+      "Tôi sẵn sàng từ bỏ những thành kiến cũ khi nhận thấy chúng gây đau khổ cho mình và người khác."
+    ]
+  }
+}

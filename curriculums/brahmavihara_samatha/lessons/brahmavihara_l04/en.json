@@ -1,0 +1,58 @@
+{
+  "lessonId": "brahmavihara_l04",
+  "curriculumId": "brahmavihara_samatha",
+  "lessonNumber": 4,
+  "stageIndex": 2,
+  "title": "Lesson 4: Five Methods for Removing Resentment",
+  "paliTitle": "Aghātapaṭivinaya Sutta (AN 5.161)",
+  "suttaRef": {
+    "uid": "an5.161",
+    "title": "Subduing Resentment (Aghātapaṭivinayasutta — AN 5.161)",
+    "excerptPali": "Pañcime, āvuso, aghātapaṭivinayā yattha bhikkhuno uppanno aghāto sabbaso paṭivinetabbo... Yasmiṃ puggale aghāto jāyetha, tasmiṃ puggale mettā bhāvetabbā... karuṇā bhāvetabbā... upekkhā bhāvetabbā... asatimanisikāro āpajjitabbo... 'kammassako ayamāyasmā'ti kammaṃ tassāyasmato kammaṃ adhiṭṭhātabbaṃ.",
+    "excerptTranslation": "There are these five ways of subduing resentment, friends, by which resentment that has arisen in a bhikkhu can be entirely removed... In whatever person resentment arises: 1. Develop loving-kindness toward that person; 2. Develop compassion; 3. Develop equanimity; 4. Pay no attention and take no note of that person; 5. Or reflect: 'This venerable person is the owner of their deeds, heir to their deeds... whatever action they do, good or bad, they will be its heir.'"
+  },
+  "pariyatti": {
+    "shortSummary": "Ven. Sāriputta—General of the Dhamma—formulates five clinical psychological prescriptions to emancipate the mind from the corrosive poison of resentment. Cherishing resentment is like grasping a red-hot coal to fling at another: the first person burned is yourself.",
+    "coreConcepts": [
+      {
+        "term": "Subduing Resentment",
+        "pali": "Aghātapaṭivinaya",
+        "definition": "Techniques for defusing and completely dissolving bitter animosity toward an aggressor."
+      },
+      {
+        "term": "Non-Attention",
+        "pali": "Asatimanisikāra",
+        "definition": "Cognitive redirection: intentionally turning attention away, starving the grudge of mental fuel."
+      },
+      {
+        "term": "Karmic Ownership Reflection",
+        "pali": "Kammassakatā",
+        "definition": "Recognizing immutable causality: their malice will inevitably harvest suffering for them; revenge is entirely redundant."
+      }
+    ],
+    "expositionMarkdown": "### 1. Ven. Sāriputta's Wetland Metaphors (AN 5.162)\n- A person with harsh speech but good bodily deeds: Like a monk finding a muddy rag, washing the clean patch to sew a robe.\n- A person with crude deeds but gentle speech: Like parting water lilies to drink cool water underneath.\n- A person entirely corrupt in body, speech, and mind: Like a gravely diseased beggar dying in a desert. An awakened mind feels only **Infinite Pity (*Karuṇā*)**, knowing their inevitable doom!\n\n### 2. Five Practical Steps to Defuse Grudges\n1. Radiate Goodwill (*Mettā*).\n2. Cultivate Pity for their tragic blindness (*Karuṇā*).\n3. Maintain unruffled detachment (*Upekkhā*).\n4. Mental Disconnect: Refuse to give them free rent in your head (*Asatimanisikāra*).\n5. Surrender to Cosmic Law: Karmic retribution is absolute; revenge is foolish.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing forgiveness condones toxic misconduct.",
+        "correction": "Forgiveness does not validate abuse. It simply removes the handcuffs binding your peace to the past injury."
+      },
+      {
+        "mistake": "Waiting for an adversary's apology before forgiving.",
+        "correction": "Waiting grants the abuser power over your emotional freedom. Forgiveness is a unilateral declaration of inner independence."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Write the name of the person who hurt you most on a piece of paper.\n2. Recite Sāriputta's five methods and select the most fitting (pitying their delusion or surrendering them to karma).\n3. Shred the paper, exhale deeply, feeling the heavy chains break.",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Generous magnanimity, unchaining oneself from the prison of resentment."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you feel an immense physical weight lift from your chest the moment you renounced the desire for vengeance?",
+    "selfAuditChecklist": [
+      "I ceased replaying bitter past memories of maltreatment.",
+      "I trusted karma to balance the cosmic ledger without my interference.",
+      "My heart abides liberated, spacious, and unhaunted by vengeance."
+    ]
+  }
+}

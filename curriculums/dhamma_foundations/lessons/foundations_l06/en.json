@@ -1,0 +1,58 @@
+{
+  "lessonId": "foundations_l06",
+  "curriculumId": "dhamma_foundations",
+  "lessonNumber": 6,
+  "stageIndex": 4,
+  "title": "Lesson 6: Starting Home Practice — Establishing Your First Mindful Routine",
+  "paliTitle": "Sati-sampajañña & Mettā-bhāvanā",
+  "suttaRef": {
+    "uid": "kp9",
+    "title": "Discourse on Loving-Kindness (Khuddakapāṭha 9 / Sutta Nipāta 1.8) & Satipaṭṭhāna Sutta (MN 10)",
+    "excerptPali": "Mātā yathā niyaṃ puttaṃ, āyusā ekaputtamanurakkhe; Evampi sabbabhūtesu, mānasaṃ bhāvaye aparimāṇaṃ... Gacchanto vā ‘gacchāmī’ti pajānāti, ṭhito vā ‘ṭhitomhī’ti pajānāti.",
+    "excerptTranslation": "Even as a mother protects with her life her child, her only child, so with a boundless heart should one cherish all living beings... When walking, one discerns: ‘I am walking’; when standing, one discerns: ‘I am standing’."
+  },
+  "pariyatti": {
+    "shortSummary": "Translate wisdom into daily action amidst a busy modern schedule: Cultivate home mindfulness routines with zero punitive pressure. Start with 3–5 gentle minutes each day: Resting in the bell, following natural respiration, and radiating boundless loving-kindness (Mettā) to all beings.",
+    "coreConcepts": [
+      {
+        "term": "Mindfulness & Clear Comprehension",
+        "pali": "Sati-Sampajañña",
+        "definition": "The unbroken awareness of whatever occurs in the present moment (bodily movement or mental feeling) with an objective, non-judgmental attitude."
+      },
+      {
+        "term": "Boundless Loving-Kindness",
+        "pali": "Mettā-bhāvanā",
+        "definition": "Unconditional goodwill wishing peace, happiness, and freedom from hostility for all sentient beings; commencing with kindness toward oneself."
+      },
+      {
+        "term": "Habit to Mindful Lifestyle",
+        "pali": "Vāsanā / Habit-to-Lifestyle",
+        "definition": "The core thesis of this app (Constitution Section 0): Starting small but consistently every day, allowing routines to become momentum, and momentum to mature into an awakened lifestyle."
+      }
+    ],
+    "expositionMarkdown": "### 1. Dissolving the Barrier: 'I Am Too Busy to Practice'\n\nNew practitioners frequently hold the misconception that spiritual practice requires withdrawing to an isolated cave, sitting cross-legged for agonizing hours, or memorizing massive canon volumes. Failing to meet these unrealistic expectations, they abandon striving.\n\nThe Buddha taught that authentic practice is the **transformation of mind within daily living**. Mindful sipping of morning tea, patient breathing during red traffic lights, yielding courteously on crowded sidewalks — all are vibrant expressions of living Dhamma. Home practice begins with building a **micro-routine** you can effortlessly sustain across all 365 days of the year.\n\n---\n\n### 2. The Three Steps of a 5-Minute Daily Routine\n\nUsing the built-in tools of this application, you can anchor yourself each morning or evening:\n\n1. **Step 1: The Centering Bell (Mindfulness Bell - 1 minute):**\n   - Tap the Bell tool. As the deep bronze resonance expands, relax your facial muscles and drop your shoulders.\n   - Set aside anxieties over work, notifications, and finances. Arrive fully in the present moment.\n\n2. **Step 2: Resting in Natural Breathing (Ānāpānasati - 2 minutes):**\n   - Sit upright and relaxed. Note the cool air entering the nostrils: *'Breathing in, I know I am breathing in'*. Feel the warm air exiting: *'Breathing out, I know I am breathing out'*.\n   - Do not manipulate the breath; remain a neutral witness to your body's innate rhythm.\n\n3. **Step 3: Radiating Loving-Kindness (Mettā - 2 minutes):**\n   - Silently recite the blessings from the **Karaṇīyamettā Sutta**:\n     * 'May I be peaceful, happy, free from enmity, disease, and distress.'\n     * 'May my parents, family, and benefactors be well, safe, and sheltered.'\n     * 'May even those who have wronged me find healing and inner peace.'\n     * 'May all beings everywhere dwell in boundless harmony and joy.'\n\n---\n\n### 3. The Gentle, Non-Punitive Ethos (*Principle I*)\n\nRemember the foundational principle of this sanctuary: **No streak-loss guilt or gamified pressure**. If an exhausting day interrupts your momentum, smile gently and whisper: *'Today we begin anew'*. Water falling drop by drop steadily fills the mightiest jar.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing meditation means forcing the mind into a blank void with zero thoughts allowed.",
+        "correction": "Thoughts arise naturally. The objective is not suppression, but noticing when attention wanders and gently returning to the anchor of the breath."
+      },
+      {
+        "mistake": "Thinking that radiating loving-kindness toward opponents is weakness or cowardice.",
+        "correction": "Clinging to hatred is like drinking poison expecting the other person to die. Mettā is supreme inner bravery, emancipating your own heart from the cage of resentment."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Begin today: Navigate to the 'Routines' tab in the app, select a brief morning or evening routine (3–5 minutes), and experience your first completed mindful session with joy and ease.",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Dedicate 5 uninterrupted minutes to inner stillness without touching your smartphone"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Looking back over these 6 introductory lessons, how does the authentic Dhamma feel practical, clear, and immediately beneficial for your daily life?",
+    "selfAuditChecklist": [
+      "I am ready to sustain a gentle 3–5 minute routine daily as an act of self-care and awakening.",
+      "I recognize that real Dhamma practice manifests in ethical, mindful engagement with daily life.",
+      "I take the Dhamma and self-reliance as my guiding light."
+    ]
+  }
+}

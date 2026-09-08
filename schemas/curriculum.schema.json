@@ -49,6 +49,7 @@
     "category": {
       "type": "string",
       "enum": [
+        "foundations",
         "sotapatti",
         "sila",
         "deva",

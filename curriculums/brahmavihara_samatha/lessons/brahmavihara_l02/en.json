@@ -1,0 +1,58 @@
+{
+  "lessonId": "brahmavihara_l02",
+  "curriculumId": "brahmavihara_samatha",
+  "lessonNumber": 2,
+  "stageIndex": 1,
+  "title": "Lesson 2: The Eleven Blessings of Loving-Kindness",
+  "paliTitle": "Mettā Sutta (AN 11.16)",
+  "suttaRef": {
+    "uid": "an11.16",
+    "title": "Goodwill (Mettāsutta — AN 11.16)",
+    "excerptPali": "Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya... ekādasānisaṃsā pāṭikaṅkhā. Katame ekādasa? Sukhaṃ supati, sukhaṃ paṭibujjhati, na pāpakaṃ supinaṃ passati, manussānaṃ piyo hoti, amanussānaṃ piyo hoti, devatā rakkhanti, nāssa aggi vā visaṃ vā satthaṃ vā kamati, tuvaṭaṃ cittaṃ samādhiyati, mukhavaṇṇo pasīdati, asammūḷho kālaṃ karoti, uttari appaṭivijjhanto brahmalokūpago hoti.",
+    "excerptTranslation": "Monks, when the mind-deliverance of loving-kindness is cultivated, developed, practiced frequently... eleven benefits are to be expected. What eleven? One sleeps happily, wakes happily, sees no nightmares, is dear to human beings, is dear to non-humans, deities protect one, fire, poison, or weapons do not harm one, mind easily concentrates, facial complexion is radiant, one dies unconfused, and if penetrating no higher, one is reborn in the Brahmā world!"
+  },
+  "pariyatti": {
+    "shortSummary": "AN 11.16 is one of the most comforting discourses. The Buddha guarantees that a heart saturated with mettā generates an invisible biological and spiritual force field, shielding the meditator from insomnia, nightmares, hostile harms, and elevating concentration.",
+    "coreConcepts": [
+      {
+        "term": "Deliverance of Loving-Kindness",
+        "pali": "Mettā Cetovimutti",
+        "definition": "Liberation of consciousness from hatred through sustained mettā absorption."
+      },
+      {
+        "term": "Aura of Protection",
+        "pali": "Arakkhā",
+        "definition": "Sublime peaceful resonance pacifying aggressive beasts, insects, and worldly hostility."
+      },
+      {
+        "term": "Brahmā Realms",
+        "pali": "Brahmaloka",
+        "definition": "Sublime luminous celestial planes attained through mastery of the Four Immeasurables."
+      }
+    ],
+    "expositionMarkdown": "### 1. Modern Psychosomatic Analysis of the 11 Perks\n- Deep restorative sleep & joyful awakening via parasympathetic activation.\n- Complete cessation of cortisol-fueled nightmares.\n- Charismatic magnetic affinity: people, children, and animals instinctively feel safe around you.\n- Accelerated concentration: devoid of anger turbulence, the mental pool settles instantly.\n- Radiant facial glow: facial micro-tensions dissolve, yielding ageless serenity.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Believing mettā grants invulnerability to drink strychnine recklessly.",
+        "correction": "Mettā provides sublime protection within karmic parameters; mature heavy past karma still ripens even for Saints."
+      },
+      {
+        "mistake": "Mumbling mettā phrases mechanically while harboring spite.",
+        "correction": "Linguistic formulas without emotional resonance yield zero fruit. Authentic visceral goodwill in the heart is essential."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Bedtime Ritual: Lying supine, scan body relaxing toes to crown. Affirm: 'May everyone in this neighborhood sleep in tranquility.'\n2. Mirror Routine: Smile at your reflection early morning, transmitting kindness before stepping outdoors.",
+    "recommendedRoutineId": "r_metta_chanting",
+    "suggestedVirtue": "Serene trust in the invulnerable sanctuary of a harmless life."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you notice your sleep quality and facial expressions becoming lighter and more serene as you nurtured mettā?",
+    "selfAuditChecklist": [
+      "I fell asleep enveloped in peaceful, unburdened thoughts.",
+      "I awoke with buoyancy, free from morning irritability.",
+      "People around me felt comfortable, safe, and warmed in my presence."
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "lessonId": "brahmavihara_l03",
+  "curriculumId": "brahmavihara_samatha",
+  "lessonNumber": 3,
+  "stageIndex": 2,
+  "title": "Bài 3: Thí Dụ Cái Cưa — Nhẫn Nhục Trước Mọi Độc Ác",
+  "paliTitle": "Kakacūpama Sutta (MN 21)",
+  "suttaRef": {
+    "uid": "mn21",
+    "title": "Kinh Thí Dụ Cái Cưa (Kakacūpamasutta — MN 21)",
+    "excerptPali": "Ubhatodaṇḍakena cepi, bhikkhave, kakacena corā ocarakā aṅgamamaṅgāni okanteyyuṃ, tatrāpi yo mano paduseyya, na me so tena sāsanakaro... 'Na ceva no cittaṃ vipariṇataṃ bhavissati, na ca pāpikaṃ vācaṃ nicchāressāma, hitānukampī ca viharissāma mettācittā na dosantarā'... Evañhi vo, bhikkhave, sikkhitabbaṃ.",
+    "excerptTranslation": "Này các Tỳ-kheo, dù cho những kẻ cướp hung tợn dùng chiếc cưa có hai tay cầm cưa từng khúc chân khúc tay, ai ở nơi ấy khởi tâm sân hận thì người ấy không phải là người thực hành lời dạy của Ta!... Các con phải tu tập thế này: 'Tâm ta sẽ không biến nhiễm; ta sẽ không thốt ra lời độc ác; ta sẽ an trú với lòng lân mẫn, với tâm từ ái, không có sân hận nội tâm'... Như vậy, này các Tỳ-kheo, các con phải học tập!"
+  },
+  "pariyatti": {
+    "shortSummary": "Kinh Thí Dụ Cái Cưa (MN 21) đặt ra tiêu chuẩn nhẫn nhục cao nhất trong toàn bộ lịch sử tư tưởng nhân loại. Đức Phật dạy rằng ngay cả trong tình huống cùng cực nhất — bị kẻ cướp cưa xẻ chân tay — hành giả chân chính vẫn không được phép khởi tâm sân hận. Tâm phải rộng lớn như Đất, như Hư Không, không vũ khí nào làm hoen ố được.",
+    "coreConcepts": [
+      {
+        "term": "Tâm Như Đất",
+        "pali": "Pathavīsamo",
+        "definition": "Đất nhẫn chịu mọi thứ người ta đổ lên: hoa thơm hay phân dơ nước tiểu, đất đều không tức giận hay vui mừng."
+      },
+      {
+        "term": "Tâm Như Hư Không",
+        "pali": "Ākāsasamo",
+        "definition": "Hư không không có hình sắc, không ai có thể vẽ tranh hay đốt cháy hư không; tâm từ bi không thể bị tổn hại bởi lời độc địa."
+      },
+      {
+        "term": "Năm Cách Nói Của Người Đời",
+        "pali": "Pañca Vacanapathā",
+        "definition": "Lời nói: đúng thời hay phi thời, chân thật hay hư ngụy, nhu hòa hay thô bạo, có ích hay vô ích, với tâm từ hay với tâm sân."
+      }
+    ],
+    "expositionMarkdown": "### 1. Bối Cảnh Lịch Sử: Tỳ-kheo Moḷiyaphagguna Dễ Nổi Nóng\n\nTỳ-kheo Moḷiyaphagguna có tính tình rất dễ bị kích động: hễ ai nói đụng chạm hay phê bình các Tỳ-kheo-ni quen biết là ông nổi giận lôi đình, cãi cọ om sòm. Đức Phật gọi ông lại và thuyết bài pháp chấn động này.\n\nNgài hỏi các Tỳ-kheo:\n> *'Một người cầm cái cuốc và giỏ đi lại, nói: 'Tôi sẽ làm cho quả đất lớn này không còn là đất nữa!' rồi cuốc đất, khạc nhổ lên đất. Liệu người ấy có thể hủy diệt được quả đất này không?'*\n> *'Bạch Thế Tôn, không thể được! Vì quả đất này quá sâu dày, bao la, không thể bị hủy diệt bởi chiếc cuốc bé nhỏ.'*\n\nĐức Phật dạy: Khi người đời buông lời vu khống, chửi bới, xúc phạm bạn bằng 5 cách nói độc ác — nếu tâm bạn nhỏ hẹp như vũng nước đọng thì bạn sẽ sùng sục sôi sục. Nhưng nếu bạn biến tâm mình thành **Bao La Như Quả Đất**, như **Dòng Nước Sông Hằng**, thì mọi ngọn đuốc thù hận của họ ném vào sẽ tự động lụi tàn trong tích tắc!\n\n### 2. Ứng Dụng Trong Nơi Làm Việc & Gia Đình\n- Khi bị sếp mắng mỏ vô lý, đồng nghiệp nói xấu sau lưng: Đừng phản ứng ngay! Hãy tự nhắc: *'Đây là bài học Cái Cưa của Phật'*. Nhìn vào cơn giận của đối phương với lòng thương xót: Họ đang bị ngọn lửa sân thiêu đốt tâm can, họ là nạn nhân đáng thương của chính vô minh của họ!",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng nhẫn nhục theo Kinh Cái Cưa là dung túng cho kẻ gian ác lộng hành.",
+        "correction": "Nhẫn nhục là bảo vệ tâm mình không bị ô nhiễm bởi sân hận; sau khi giữ được tâm bình tĩnh, người có trí tuệ vẫn sử dụng luật pháp, kỷ luật và các biện pháp cương quyết để ngăn chặn điều ác một cách vô tư."
+      },
+      {
+        "mistake": "Cố gắng 'nuốt hận' vào trong lòng để giữ vẻ ngoài lịch thiệp.",
+        "correction": "'Nuốt hận' là đè nén (Suppression), sẽ dẫn đến ung thư và stress. Kinh dạy 'không khởi sân' bằng cách quán chiếu tâm như hư không, nhìn thấy kẻ ác là người đáng thương."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Bài tập 'Tâm Như Hư Không':** Khi bị một lời nói làm tổn thương, nhắm mắt lại tưởng tượng lời nói đó như mũi tên bắn vào bầu trời bao la — mũi tên bay mãi rồi rơi xuống đất, không thể làm rách được hư không.\n2. Giữ im lặng tuyệt đối trong 5 phút đầu tiên sau khi bị công kích.",
+    "recommendedRoutineId": "r_vipassana_sitting",
+    "suggestedVirtue": "Sự kham nhẫn vô hạn (Khanti), bất động trước mọi lời phỉ báng."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Hôm nay, khi ai đó nói những lời khó nghe với bạn, bạn đã phản ứng như vũng nước sôi hay đứng vững chãi như quả địa cầu bao la?",
+    "selfAuditChecklist": [
+      "Tôi không dùng lời ác độc để trả đũa một lời ác độc.",
+      "Tôi đã nhớ đến bài học Kinh Cái Cưa khi cảm xúc bực bội trỗi dậy.",
+      "Tôi cảm nhận được sức mạnh nội tâm đích thực khi làm chủ được cơn giận."
+    ]
+  }
+}

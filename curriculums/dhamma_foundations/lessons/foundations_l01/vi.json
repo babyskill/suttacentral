@@ -1,0 +1,58 @@
+{
+  "lessonId": "foundations_l01",
+  "curriculumId": "dhamma_foundations",
+  "lessonNumber": 1,
+  "stageIndex": 1,
+  "title": "Bài 1: Đức Phật — Bậc Đạo Sư Khai Sáng, Không Phải Thần Linh Ban Phước",
+  "paliTitle": "Gotama Buddha & Satthā Devamanussānaṃ",
+  "suttaRef": {
+    "uid": "mn107",
+    "title": "Kinh Gaṇaka Moggallāna (Trung Bộ 107) & Kinh Đại Bát Niết Bàn (Trường Bộ 16)",
+    "excerptPali": "Tumhehi kiccaṃ ātappaṃ, akkhātāro tathāgatā... Attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā.",
+    "excerptTranslation": "Các ngươi phải tự mình nỗ lực, các đấng Như Lai chỉ là những bậc đạo sư chỉ đường... Hãy tự mình là ngọn đèn cho chính mình, hãy tự mình nương tựa chính mình, không nương tựa một nơi nào khác. Hãy lấy Chánh Pháp làm ngọn đèn, lấy Chánh Pháp làm chỗ nương tựa."
+  },
+  "pariyatti": {
+    "shortSummary": "Xác lập nhận thức cốt tủy của Phật giáo Nguyên thủy: Đức Phật Gotama là một con người lịch sử đã tự thân giác ngộ hoàn toàn nhờ trí tuệ và sự nỗ lực kiên định. Ngài là Bậc Thầy dẫn đường (Satthā), không phải một vị thần quyền ban phước giáng họa hay phán xét tội phúc của nhân loại.",
+    "coreConcepts": [
+      {
+        "term": "Bậc Đạo Sư Chỉ Đường",
+        "pali": "Mārga-desaka / Satthā",
+        "definition": "Đức Phật đóng vai trò như người chỉ bản đồ vượt qua sa mạc sinh tử. Người đi qua sa mạc phải tự dùng đôi chân của mình để bước đi, không ai có thể bước thay."
+      },
+      {
+        "term": "Tự Mình Là Ngọn Đèn",
+        "pali": "Attadīpa",
+        "definition": "Nguyên tắc tự lực thức tỉnh tối cao trong Theravāda: Mỗi cá nhân phải tự thắp sáng trí tuệ của chính mình bằng việc quán sát và làm chủ tâm, không giao phó số phận cho đấng siêu nhiên."
+      },
+      {
+        "term": "Không Cầu Xin Tha Lực",
+        "pali": "Apagatasaddhā / Attasaraṇa",
+        "definition": "Dứt bỏ tâm lý van vái, hối lộ thần linh bằng phẩm vật để cầu tài lộc hay mong được xóa tội; hiểu rằng nghiệp quả do chính mình gieo tạo sẽ tự trổ quả theo quy luật tự nhiên."
+      }
+    ],
+    "expositionMarkdown": "### 1. Cuộc Đời Sa-môn Gotama: Từ Một Con Người Đến Bậc Giác Ngộ\n\nKhác với nhiều tôn giáo dựa trên thần khải hay đấng sáng thế tối cao, Đức Phật Thích Ca Mâu Ni (*Siddhattha Gotama*) sinh ra là một **con người bằng xương bằng thịt** nơi trần thế. Ngài nếm trải đầy đủ mọi hỷ nộ ái ố, chứng kiến thực trạng sinh, lão, bệnh, tử của kiếp nhân sinh, và đã từ bỏ cung vàng điện ngọc để dấn thân tìm kiếm con đường diệt khổ.\n\nSau 6 năm tầm đạo và tự thân thiền định dưới cội Bồ-đề, Ngài đã chứng đắc Tam Minh, thấu suốt bản chất của vạn vật và trở thành bậc Giác Ngộ hoàn toàn (*Buddha*). Điều này mang ý nghĩa vĩ đại: **Giải thoát và giác ngộ là năng lực tiềm tàng của mọi con người**, không phải đặc quyền dành riêng cho thần thánh.\n\n---\n\n### 2. Ẩn Dụ Con Đường Về Thành Vương Xá (Kinh MN 107)\n\nTrong **Kinh Gaṇaka Moggallāna (MN 107)**, một người hỏi Đức Phật:\n> *'Bạch Thế Tôn, có Niết-bàn, có con đường đưa đến Niết-bàn, và có Đức Thế Tôn là người chỉ đường. Nhưng vì sao có đệ tử được Đức Thế Tôn chỉ dạy thì chứng đạt Niết-bàn, trong khi có đệ tử lại không chứng đạt?'*\n\nĐức Thế Tôn mỉm cười và hỏi lại người đó về con đường đi đến thành Vương Xá (Rājagaha):\n- Giả sử có hai người cùng hỏi đường đến thành Vương Xá. Một người nghe chỉ dẫn cặn kẽ rồi cất bước đi theo đúng con đường ấy, người đó sẽ đến đích an toàn.\n- Người thứ hai dù được chỉ dẫn tường tận từng ngã rẽ, nhưng lại rẽ sang hướng khác hoặc ngồi yên một chỗ không chịu đi, người đó sẽ lạc lối và không bao giờ đến được thành Vương Xá.\n\nĐức Phật kết luận:\n> *'Này Moggallāna, ở đây Như Lai có thể làm gì được? **Như Lai chỉ là người chỉ đường (Akkhātāro tathāgatā)**.'*\n\n---\n\n### 3. Di Huấn Tối Hậu: Tự Mình Là Ngọn Đèn Soi Sáng\n\nTrước giờ phút nhập Vô Dư Niết Bàn tại rừng sāla Câu-thi-na (DN 16), Đức Phật đã căn dặn tôn giả Ānanda cùng hàng đệ tử lời di huấn thiêng liêng nhất:\n> *'Attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā.'*\n> *(Hãy tự mình là ngọn đèn cho chính mình, hãy tự mình nương tựa chính mình, không nương tựa một nơi nào khác. Hãy lấy Chánh Pháp làm ngọn đèn, lấy Chánh Pháp làm chỗ nương tựa.)*\n\nNgài không truyền ngôi giáo chủ cho bất kỳ cá nhân nào, cũng không để lại lời hứa ban phước cứu rỗi. Di sản của Ngài chính là **Chánh Pháp (Dhamma)** — chiếc la bàn chuẩn xác để mỗi người tự giải phóng tâm mình khỏi tham ái, sân hận và si mê.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Xem Đức Phật như một vị thần quyền năng có thể ban phát tài lộc, tình duyên, thăng tiến công danh khi dâng cúng lễ vật.",
+        "correction": "Đức Phật là bậc Đạo Sư đã đoạn tận mọi tham ái thế tục. Phẩm vật cúng dường chỉ có ý nghĩa biểu hiện lòng tri ân và rèn luyện tâm buông xả, không phải là sự mua chuộc hay giao dịch tâm linh."
+      },
+      {
+        "mistake": "Nghĩ rằng lỡ làm việc xấu ác thì chỉ cần lên chùa khấn vái, xin tha tội là nghiệp sẽ tự tiêu biến.",
+        "correction": "Luật Nhân Quả vận hành bình đẳng và khách quan. Không ai có quyền năng xóa tội thay cho người khác. Cách duy nhất để chuyển hóa ác nghiệp là thành tâm sám hối, dừng ngay hành vi sai trái và tích cực gieo tạo thiện nghiệp."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Dành 2 phút ngồi yên nơi thanh tịnh vào buổi sáng. Quán chiếu: 'Hôm nay tôi sẽ không trông chờ vào sự may rủi bên ngoài. Bằng đôi chân và sự tỉnh thức của chính mình, tôi chịu trách nhiệm 100% cho mọi lời nói, hành động và suy nghĩ.'",
+    "recommendedRoutineId": "r_morning",
+    "suggestedVirtue": "Nhận trách nhiệm trọn vẹn và không oán trách người khác khi gặp một trở ngại trong ngày"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn đang tìm đến đạo Phật với tâm thế tìm một chỗ dựa cầu xin may mắn, hay thực sự muốn học phương pháp rèn luyện tâm trí để trở nên vững chãi và tự do?",
+    "selfAuditChecklist": [
+      "Tôi hiểu rằng Đức Phật là người thầy chỉ đường, không phải đấng ban phước giáng họa.",
+      "Tôi đã dứt bỏ thói quen khấn vái cầu xin tài lộc trần tục trước bàn thờ Phật.",
+      "Tôi ý thức rõ rằng sự an lạc hay khổ đau của bản thân hoàn toàn do chính tâm ý và hành động của tôi quyết định."
+    ]
+  }
+}

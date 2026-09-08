@@ -1,0 +1,63 @@
+{
+  "lessonId": "foundations_l04",
+  "curriculumId": "dhamma_foundations",
+  "lessonNumber": 4,
+  "stageIndex": 3,
+  "title": "Bài 4: Tứ Thánh Đế — Sự Thật Đời Sống Dưới Góc Nhìn Y Khoa Tâm Thức",
+  "paliTitle": "Cattāri Ariyasaccāni (SN 56.11)",
+  "suttaRef": {
+    "uid": "sn56.11",
+    "title": "Kinh Chuyển Pháp Luân (Tương Ưng Bộ 56.11 — Dhammacakkappavattana Sutta)",
+    "excerptPali": "Idaṃ kho pana, bhikkhave, dukkhaṃ ariyasaccaṃ... Idaṃ kho pana, bhikkhave, dukkhasamudayo ariyasaccaṃ: yāyaṃ taṇhā ponobbhavikā... Idaṃ kho pana, bhikkhave, dukkhanirodho ariyasaccaṃ... Idaṃ kho pana, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṃ: ayameva ariyo aṭṭhaṅgiko maggo.",
+    "excerptTranslation": "Đây là Thánh đế về Khổ... Đây là Thánh đế về Khổ tập: chính là ái dục đưa đến tái sinh... Đây là Thánh đế về Khổ diệt: chính là sự ly tham, đoạn diệt hoàn toàn ái dục... Đây là Thánh đế về Con đường đưa đến Khổ diệt: chính là Bát Chánh Đạo cao quý này."
+  },
+  "pariyatti": {
+    "shortSummary": "Tiếp cận 4 Sự Thật Cao Quý (Tứ Diệu Đế) không phải như một triết thuyết bi quan mà là phác đồ chẩn trị y khoa tâm thức toàn hảo của Đức Phật: Tri nhận căn bệnh bất toại nguyện (Khổ), Truy tìm nguyên nhân gốc rễ nơi tâm ái dục (Tập), Khẳng định trạng thái lành bệnh an lạc (Diệt), và Kê toa lộ trình điều trị Bát Chánh Đạo (Đạo).",
+    "coreConcepts": [
+      {
+        "term": "Bản Chất Bất Toại Nguyện",
+        "pali": "Dukkha Ariyasacca",
+        "definition": "Thực trạng không hoàn hảo, vô thường, biến hoại của vạn vật trên đời; mọi sự bám víu vào những thứ luôn đổi thay đều tất yếu dẫn đến thất vọng, khổ đau."
+      },
+      {
+        "term": "Gốc Rễ Khổ Đau Là Ái Dục",
+        "pali": "Samudaya / Taṇhā",
+        "definition": "Sự khao khát thèm muốn (dục ái, hữu ái, phi hữu ái); tâm dính mắc, đòi hỏi thực tại phải luôn diễn ra theo ý muốn chủ quan của mình."
+      },
+      {
+        "term": "Sự Chấm Dứt Khổ Đau",
+        "pali": "Nirodha / Nibbāna",
+        "definition": "Trạng thái tâm hoàn toàn thanh lương, dập tắt ngọn lửa tham ái, sân hận và si mê; đạt đến sự an lạc tối thượng ngay trong hiện tại."
+      },
+      {
+        "term": "Con Đường Tám Nhánh Chân Chính",
+        "pali": "Magga / Ariya Aṭṭhaṅgika Magga",
+        "definition": "Phác đồ điều trị toàn diện gồm 8 chi phần chân chính chia làm 3 nhóm Giới - Định - Tuệ dẫn đến giải thoát rốt ráo."
+      }
+    ],
+    "expositionMarkdown": "### 1. Phác Đồ Y Khoa Của Đức Phật: Vị Đại Y Vương (*Bhisakka*)\n\nTrong kinh điển, Đức Phật thường được tôn xưng là **Vị Đại Y Vương (Bậc thầy chữa lành tâm bệnh)**. Cách Ngài trình bày bài giảng đầu tiên tại Vườn Lộc Uyển — Kinh Chuyển Pháp Luân (SN 56.11) — hoàn toàn tương ứng với 4 bước chẩn trị khoa học của y học cổ kim:\n\n1. **Bước 1: Chẩn đoán triệu chứng bệnh (Dukkha - Khổ Đế)**\n   - Người bệnh đau ở đâu? Đời sống có những nỗi khổ hiển nhiên: Sinh, già, bệnh, chết; oán ghét phải gặp gỡ, thương yêu phải chia lìa, mong cầu mà không được (*Cầu bất đắc khổ*).\n   - Tóm lại, năm uẩn (thân tâm) còn bị chấp thủ thì đều tiềm ẩn bất toại nguyện.\n\n2. **Bước 2: Tìm nguyên nhân mầm bệnh (Samudaya - Tập Đế)**\n   - Căn bệnh bắt nguồn từ đâu? Không phải do thần linh phạt, cũng không phải ngẫu nhiên. Nguyên nhân là **Ái dục (Taṇhā)** — sự bám víu ích kỷ, thèm khát những khoái lạc cảm giác (*Kāma-taṇhā*), khao khát tồn tại vĩnh cửu (*Bhava-taṇhā*), hoặc chán ghét muốn tiêu diệt những gì mình ghét (*Vibhava-taṇhā*).\n\n3. **Bước 3: Tiên lượng khả năng lành bệnh (Nirodha - Diệt Đế)**\n   - Căn bệnh này có chữa khỏi được không? Hoàn toàn có thể! Khi mầm bệnh ái dục bị nhổ bỏ tận gốc, tâm sẽ đạt đến sự tịch tịnh, an nhiên tuyệt đối — đó là **Niết-bàn (Nibbāna)**.\n\n4. **Bước 4: Kê toa điều trị toàn diện (Magga - Đạo Đế)**\n   - Uống thuốc gì để khỏi bệnh? Đức Phật trao cho nhân loại toa thuốc hoàn hảo: **Bát Chánh Đạo (Ariya Aṭṭhaṅgika Magga)** gồm Chánh kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Chánh tinh tấn, Chánh niệm, và Chánh định.\n\n---\n\n### 2. Ba Chuyển Mười Hai Hành (*Tiparivaṭṭa Dvādasākāra*)\n\nĐức Phật không chỉ hiểu Tứ Diệu Đế trên lý thuyết mà Ngài đã thực hiện trọn vẹn 3 cấp độ đối với từng đế:\n- **Thị chuyển (Nhận biết):** Biết đây là Khổ, đây là Tập, đây là Diệt, đây là Đạo.\n- **Khuyến chuyển (Bổn phận thực thi):** Biết rằng Khổ cần phải **liễu tri** (thấu hiểu trọn vẹn); Tập cần phải **đoạn trừ**; Diệt cần phải **chứng ngộ**; Đạo cần phải **tu tập** (thực hành mỗi ngày).\n- **Chứng chuyển (Thành tựu):** Đã liễu tri Khổ, đã đoạn tận Tập, đã chứng đạt Diệt, đã tu tập viên mãn Đạo.\n\nChính sự hoàn tất trọn vẹn 12 hành này đã đưa Ngài đến quả vị Chánh Đẳng Chánh Giác.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng Phật giáo bi quan, yếm thế vì mở đầu giáo lý bằng chữ 'Khổ'.",
+        "correction": "Một bác sĩ nói với bệnh nhân về căn bệnh không phải là bi quan, mà là sự dũng cảm đối diện sự thật để chữa trị. Đức Phật chỉ ra Khổ nhưng ngay lập tức chỉ ra cách Diệt Khổ và con đường đạt được Hạnh Phúc Tối Thượng (Paramaṃ Sukhaṃ)."
+      },
+      {
+        "mistake": "Nghĩ rằng muốn hết khổ thì phải tiêu diệt mọi cảm xúc, trở thành người vô cảm như khúc gỗ.",
+        "correction": "Phật giáo dạy đoạn trừ 'Ái dục ích kỷ và dính mắc' (Taṇhā), chứ không tiêu diệt lòng Từ bi hỷ xả. Khi buông bỏ được dính mắc cá nhân, tình yêu thương và sự sẻ chia trong tâm lại càng rộng mở và bao la hơn."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "Khi gặp một chuyện trái ý hôm nay (ví dụ: kẹt xe, đồng nghiệp trễ hẹn), dừng lại 10 giây và tự hỏi: 'Cái khổ này đang phát sinh từ việc kẹt xe, hay từ việc tâm mình đang đòi hỏi đường phố phải thông thoáng theo ý mình?' Buông lỏng bờ vai và thở đều.",
+    "recommendedRoutineId": "r_evening",
+    "suggestedVirtue": "Chấp nhận sự việc như nó đang là với tâm bình thản, không cáu gắt chống đối"
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn có thấy rằng khi bạn giảm bớt sự kỳ vọng và đòi hỏi thế giới phải vận hành theo ý mình, tâm bạn lập tức cảm nhận được sự nhẹ nhõm và an yên?",
+    "selfAuditChecklist": [
+      "Tôi nhận thức Tứ Diệu Đế là phương thuốc thực tiễn trị liệu phiền não, không phải triết thuyết u sầu.",
+      "Tôi biết quay lại soi chiếu tâm ái dục và mong cầu của mình mỗi khi cảm thấy bực bội, bất an.",
+      "Tôi tin tưởng rằng Bát Chánh Đạo là con đường thiết thực đưa đến sự an lạc vững bền."
+    ]
+  }
+}

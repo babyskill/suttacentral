@@ -1,0 +1,52 @@
+{
+  "id": "{{CURRICULUM_ID}}",
+  "curriculumId": "{{CURRICULUM_ID}}",
+  "title": "{{TITLE_VI}}",
+  "titleEn": "{{TITLE_EN}}",
+  "paliTitle": "{{PALI_TITLE}}",
+  "subtitle": "{{SUBTITLE_VI}}",
+  "subtitleEn": "{{SUBTITLE_EN}}",
+  "description": "{{DESCRIPTION_VI}}",
+  "descriptionEn": "{{DESCRIPTION_EN}}",
+  "category": "{{CATEGORY}}",
+  "iconEmoji": "📜",
+  "estimatedDuration": "X bài / Y Chặng",
+  "estimatedDurationEn": "X Lessons / Y Phases",
+  "canonicalSource": "Tam Tạng Pāḷi: ...",
+  "canonicalSourceEn": "Pāḷi Canon: ...",
+  "traditionLineage": "Theravāda ...",
+  "traditionLineageEn": "Theravāda ...",
+  "targetAudience": "Đối tượng hành giả...",
+  "targetAudienceEn": "Target audience...",
+  "stages": [
+    {
+      "stageIndex": 1,
+      "title": "Chặng 1: ...",
+      "titleEn": "Phase 1: ...",
+      "paliTitle": "...",
+      "objective": "Mục tiêu tu học chặng 1...",
+      "objectiveEn": "Stage 1 objective...",
+      "lessons": [
+        {
+          "id": "{{LESSON_ID}}",
+          "lessonNumber": 1,
+          "title": "Bài 1: ...",
+          "titleEn": "Lesson 1: ...",
+          "paliTitle": "...",
+          "summary": "Tóm tắt bài học tiếng Việt...",
+          "summaryEn": "Summary of the lesson in English...",
+          "suttaUid": "mn1",
+          "suttaTitle": "Kinh Pháp Môn Căn Bản (MN 1)",
+          "suttaTitleEn": "The Root of All Things (MN 1)",
+          "recommendedRoutineId": "r_morning",
+          "practiceGuide": "Hướng dẫn thực hành ngắn gọn...",
+          "practiceGuideEn": "Concise practice guide...",
+          "reflectionPrompt": "Câu hỏi quán chiếu buổi tối...",
+          "reflectionPromptEn": "Evening reflection prompt...",
+          "suggestedVirtue": "Hạnh lành gợi ý...",
+          "suggestedVirtueEn": "Suggested virtue..."
+        }
+      ]
+    }
+  ]
+}

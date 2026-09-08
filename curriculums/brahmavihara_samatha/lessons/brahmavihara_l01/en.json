@@ -1,0 +1,58 @@
+{
+  "lessonId": "brahmavihara_l01",
+  "curriculumId": "brahmavihara_samatha",
+  "lessonNumber": 1,
+  "stageIndex": 1,
+  "title": "Lesson 1: A Mother's Love — The Immortal Discourse on Loving-Kindness",
+  "paliTitle": "Karanīyamettā Sutta (Snp 1.8)",
+  "suttaRef": {
+    "uid": "snp1.8",
+    "title": "Discourse on Loving-Kindness (Karanīyamettāsutta — Snp 1.8)",
+    "excerptPali": "Mātā yathā niyaṃ puttaṃ āyusā ekaputtamanurakkhe, evampi sabbabhūtesu mānasaṃ bhāvaye aparimāṇaṃ. Mettañca sabbalokasmiṃ mānasaṃ bhāvaye aparimāṇaṃ, uddhaṃ adho ca tiriyañca asambādhaṃ averamasapattaṃ.",
+    "excerptTranslation": "Even as a mother protects with her life her child, her only child, so too for all creatures unfold a boundless heart. With loving-kindness for all the world, cultivate a boundless heart: above, below, and all around, unobstructed, without hatred, without enmity."
+  },
+  "pariyatti": {
+    "shortSummary": "Loving-Kindness (*Mettā*) is the unconditioned wish for all sentient beings to abide in safety, peace, and happiness. The Buddha invokes humanity's supreme archetype—a mother guarding her only child with her life—as the gold standard of meditation practice.",
+    "coreConcepts": [
+      {
+        "term": "Loving-Kindness",
+        "pali": "Mettā",
+        "definition": "Pure unconditioned benevolence seeking the genuine welfare of all, uprooting Ill Will (*Dosa*)."
+      },
+      {
+        "term": "Boundless State",
+        "pali": "Appamaññā",
+        "definition": "Infinite consciousness making no divisive distinctions between friends, strangers, and enemies."
+      },
+      {
+        "term": "Near & Far Enemies",
+        "pali": "Paccatthika",
+        "definition": "The far enemy of Mettā is Hatred; the dangerous near enemy is Selfish Sensual Attachment (*Pema/Rāga*) masquerading as love."
+      }
+    ],
+    "expositionMarkdown": "### 1. Historical Genesis of the Sutta\nFive hundred monks meditated in a Himalayan forest. Tree spirits, terrified of holy presence, conjured ghostly apparitions, putrid odors, and shrieking screams. Terrified, the monks fled back to the Buddha begging for relocation.\n\nThe Buddha replied: 'You need not change forests; you simply forgot your spiritual armor: the practice of Mettā!' When monks returned radiating boundless goodwill, the spirits softened in reverence, guarding the monks as they attained Arahantship!\n\n### 2. The Four Sequential Stages\n1. Self: Forgive and bless yourself.\n2. Benefactors: Parents, teachers, benefactors.\n3. Neutral: Strangers, passersby.\n4. Adversaries: Those who harmed you, dissolving all ego barricades.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Confusing Mettā with romantic infatuation (*Pema*).",
+        "correction": "Romantic love demands reciprocity, control, and attachment; authentic Mettā is unconditioned, expecting zero return."
+      },
+      {
+        "mistake": "Viewing goodwill toward enemies as cowardice.",
+        "correction": "It is supreme spiritual heroism refusing to allow an adversary's poison to contaminate your sovereign peace."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. 10-Minute Morning Routine: Sit comfortably, soften facial muscles, hand on chest. Breathe gently and recite:\n   - 'May I be well, peaceful, and liberated.'\n   - 'May my parents and family be safe and healthy.'\n   - 'May all sentient beings seen and unseen abide in happiness.'\n2. Feel physical warmth radiating outward from your heart center.",
+    "recommendedRoutineId": "r_metta_chanting",
+    "suggestedVirtue": "Live with a welcoming smile and dedicated intention to radiate peace."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you feel gentle warmth blossom in your chest when genuinely blessing someone you once resented?",
+    "selfAuditChecklist": [
+      "I cultivated loving-kindness meditation for at least 10 minutes.",
+      "I harbored no spiteful wishes for harm to befall rivals.",
+      "I felt profound muscular relaxation as mettā softened my body."
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SuttaCentral Detailed Lesson Schema",
+  "description": "Schema definition for detailed 3P (Pariyatti, Patipatti, Pativedha) lesson files (vi.json and en.json).",
+  "type": "object",
+  "required": [
+    "lessonId",
+    "curriculumId",
+    "lessonNumber",
+    "stageIndex",
+    "title",
+    "suttaRef",
+    "pariyatti",
+    "patipatti",
+    "pativedha"
+  ],
+  "properties": {
+    "lessonId": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$",
+      "description": "Unique lesson identifier matching directory name."
+    },
+    "curriculumId": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$",
+      "description": "Identifier of the parent curriculum."
+    },
+    "lessonNumber": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Sequential lesson order within the curriculum."
+    },
+    "stageIndex": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Stage number to which this lesson belongs."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 2,
+      "description": "Lesson title in the respective language."
+    },
+    "paliTitle": {
+      "type": "string",
+      "description": "Pāḷi canonical title with standard diacritics."
+    },
+    "suttaRef": {
+      "type": "object",
+      "required": [
+        "uid",
+        "title"
+      ],
+      "properties": {
+        "uid": {
+          "type": "string",
+          "pattern": "^[a-z0-9\\-]+(\\.[0-9]+(\\-[0-9]+)?)?$",
+          "description": "SuttaCentral UID pointer (e.g. mn41, sn55.1, dn22, an8.54)."
+        },
+        "title": {
+          "type": "string",
+          "description": "Canonical sutta title in current language."
+        },
+        "excerptPali": {
+          "type": "string",
+          "description": "Key excerpt in original Pāḷi."
+        },
+        "excerptTranslation": {
+          "type": "string",
+          "description": "Direct translation of the excerpt."
+        }
+      }
+    },
+    "pariyatti": {
+      "type": "object",
+      "required": [
+        "shortSummary",
+        "coreConcepts",
+        "expositionMarkdown",
+        "commonMisconceptions"
+      ],
+      "properties": {
+        "shortSummary": {
+          "type": "string",
+          "minLength": 10,
+          "description": "Concise summary of theoretical foundation and doctrinal context."
+        },
+        "coreConcepts": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": [
+              "term",
+              "pali",
+              "definition"
+            ],
+            "properties": {
+              "term": {
+                "type": "string"
+              },
+              "pali": {
+                "type": "string"
+              },
+              "definition": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "expositionMarkdown": {
+          "type": "string",
+          "minLength": 20,
+          "description": "In-depth pedagogical teaching content with clear markdown structure."
+        },
+        "commonMisconceptions": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": [
+              "mistake",
+              "correction"
+            ],
+            "properties": {
+              "mistake": {
+                "type": "string"
+              },
+              "correction": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "patipatti": {
+      "type": "object",
+      "required": [
+        "practiceGuide"
+      ],
+      "properties": {
+        "practiceGuide": {
+          "type": "string",
+          "minLength": 10,
+          "description": "Actionable daily behavioral or meditative practice instructions."
+        },
+        "recommendedRoutineId": {
+          "type": "string",
+          "description": "Client habit tracker routine ID (e.g. r_morning, r_evening, r_vipassana_sitting)."
+        },
+        "suggestedVirtue": {
+          "type": "string",
+          "description": "Recommended wholesome deed to cultivate."
+        }
+      }
+    },
+    "pativedha": {
+      "type": "object",
+      "required": [
+        "reflectionPrompt",
+        "selfAuditChecklist"
+      ],
+      "properties": {
+        "reflectionPrompt": {
+          "type": "string",
+          "minLength": 5,
+          "description": "Evening contemplation prompt for self-reflection."
+        },
+        "selfAuditChecklist": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string"
+          },
+          "description": "Checklist for self-evaluation and behavioral audit."
+        }
+      }
+    }
+  }
+}

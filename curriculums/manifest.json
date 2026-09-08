@@ -1,8 +1,31 @@
 {
-  "version": "1.0.2",
-  "versionCode": 3,
-  "generatedAt": "2026-09-08T02:13:57Z",
+  "version": "1.0.4",
+  "versionCode": 5,
+  "generatedAt": "2026-09-08T05:01:10Z",
   "curriculums": [
+    {
+      "id": "brahmavihara_samatha",
+      "curriculumId": "brahmavihara_samatha",
+      "title": "Tứ Vô Lượng Tâm — Nuôi Dưỡng Trái Tim Rộng Mở",
+      "titleEn": "Four Boundless States — Cultivating the Immeasurable Heart",
+      "paliTitle": "Cattāro Brahmavihārā Bhāvanā",
+      "subtitle": "Bốn Trạng Thái Phạm Trú: Từ, Bi, Hỷ, Xả Hóa Giải Sân Hận & Đạt Đến Cõi An Lạc (Khp 9, MN 21, AN 11.16)",
+      "subtitleEn": "Four Divine Abidings: Loving-Kindness, Compassion, Altruistic Joy & Equanimity Overcoming Ill Will",
+      "description": "Tứ Vô Lượng Tâm (Brahmavihāra) hay Bốn Phạm Trú là trạng thái tâm thức cao quý nhất của chư Phạm Thiên và bậc Thánh: Từ (Mettā - mong chúng sinh an vui), Bi (Karuṇā - cứu khổ chúng sinh), Hỷ (Muditā - vui cùng hạnh phúc tha nhân), và Xả (Upekkhā - tâm quân bình thanh tịnh). Giáo trình này giúp hành giả giải tỏa những tổn thương nội tâm, hóa giải thù hận, dập tắt ngọn lửa đố kỵ và xây dựng định lực vững chắc làm nền móng cho tuệ giác giải thoát.",
+      "descriptionEn": "The Four Immeasurables (Brahmavihāra) or Divine Abidings represent the sublime emotional climate of the Brahmā gods and noble disciples: Loving-Kindness (Mettā), Compassion (Karuṇā), Altruistic Joy (Muditā), and Equanimity (Upekkhā). This curriculum empowers practitioners to heal emotional trauma, dissolve hatred and resentment, extinguish toxic envy, and establish profound serenity as the springboard for liberating insight.",
+      "category": "samatha",
+      "iconEmoji": "💖",
+      "estimatedDuration": "8 bài / 4 Chặng",
+      "estimatedDurationEn": "8 Lessons / 4 Phases",
+      "totalLessons": 8,
+      "canonicalSource": "Tam Tạng Pāḷi: Khp 9 / Snp 1.8 (Kinh Từ Bi), AN 11.16 (Kinh 11 Lợi Ích Của Tâm Từ), MN 21 (Kinh Thí Dụ Cái Cưa), AN 5.161 (Kinh Diệt Trừ Hận Thù), SN 46.54 (Kinh Haliddavasana), AN 5.32 (Kinh Cundī), AN 4.125 (Kinh Câu Hữu Với Từ Tâm), DN 13 (Kinh Ba Minh)",
+      "canonicalSourceEn": "Pāḷi Canon: Khp 9 / Snp 1.8 (Karanīyamettā Sutta), AN 11.16 (Mettā Sutta), MN 21 (Kakacūpama Sutta), AN 5.161 (Aghātapaṭivinaya Sutta), SN 46.54 (Haliddavasana Sutta), AN 5.32 (Cundī Sutta), AN 4.125 (Metta-sahagata Sutta), DN 13 (Tevijja Sutta)",
+      "traditionLineage": "Phật giáo Nguyên thủy Theravāda — Thiền Định Chỉ Quán (Samatha Bhāvanā) & Tứ Vô Lượng Tâm kết hợp Bát Chánh Đạo",
+      "traditionLineageEn": "Authentic Theravāda Early Buddhism — Serenity Meditation (Samatha Bhāvanā) & Four Divine Abidings integrated with Noble Eightfold Path",
+      "targetAudience": "Hành giả thường xuyên bị chi phối bởi cơn giận, oán kết, ghen tỵ, căng thẳng; hoặc người thực hành thiền muốn làm mềm dịu tâm thức và phát triển định lực thâm sâu.",
+      "curriculumPath": "assets/data/curriculums/brahmavihara_samatha/curriculum.json",
+      "sha256": "e965c8b4c1ff855fc88026c3c69953e79e765413bdc33a0081b0b1dc69e20bf0"
+    },
     {
       "id": "dasa_kusala_deva",
       "curriculumId": "dasa_kusala_deva",
@@ -23,9 +46,31 @@
       "traditionLineage": "Thứ Đệ Thuyết Pháp (Anupubbikathā) & Tứ Vô Lượng Tâm (Brahmavihāra)",
       "traditionLineageEn": "Gradual Discourse (Anupubbikathā) & Four Divine Abidings (Brahmavihāra)",
       "targetAudience": "Hành giả mong muốn tịnh hóa hoàn toàn 3 nghiệp và tích lũy thiện nghiệp thù thắng cho cõi an lạc.",
-      "targetAudienceEn": "Seekers cultivating ethical purity and meritorious karma for peaceful celestial realms.",
       "curriculumPath": "assets/data/curriculums/dasa_kusala_deva/curriculum.json",
       "sha256": "b549249cab31d0f2295324e155ac3034d471c5ae371a5369e399b1b24a7d261f"
+    },
+    {
+      "id": "dhamma_foundations",
+      "curriculumId": "dhamma_foundations",
+      "title": "Khởi Đầu Chánh Pháp — Nhập Môn Tu Tập Căn Bản",
+      "titleEn": "Dhamma Foundations — Beginner's Path",
+      "paliTitle": "Dhamma Ārambha & Sammādiṭṭhi",
+      "subtitle": "Giải Ảo Mê Tín, Nương Tựa Tam Bảo & Khám Phá Tứ Diệu Đế",
+      "subtitleEn": "Dispelling Superstition, Seeking Refuge & Exploring Four Noble Truths",
+      "description": "Lộ trình nhập môn căn bản, sáng tỏ và thuần tịnh dành cho người mới bước vào Chánh Pháp Nguyên thủy Theravāda. Không mê tín cầu xin, lấy trí tuệ khảo nghiệm làm ngọn đuốc soi đường và thiết lập thời khóa tỉnh thức đầu tiên.",
+      "descriptionEn": "An authentic, clear, and foundational entry roadmap for newcomers to Theravāda Buddhism. Free from superstition and petitionary prayer, walking the path of wisdom and experiential truth.",
+      "category": "foundations",
+      "iconEmoji": "🌱",
+      "estimatedDuration": "6 bài / 4 Chặng",
+      "estimatedDurationEn": "6 Lessons / 4 Phases",
+      "totalLessons": 6,
+      "canonicalSource": "Tam Tạng Pāḷi (Tipiṭaka - Sutta Piṭaka): MN 107 (Gaṇaka Moggallāna), AN 3.65 (Kālāma), Khp 1 (Saraṇagamana), Dhp 188-192, SN 56.11 (Dhammacakkappavattana), DN 16 (Mahāparinibbāna), Khp 9 / Snp 1.8 (Mettā Sutta)",
+      "canonicalSourceEn": "Pāḷi Canon (Tipiṭaka - Sutta Piṭaka): MN 107 (Gaṇaka Moggallāna), AN 3.65 (Kālāma), Khp 1 (Saraṇagamana), Dhp 188-192, SN 56.11 (Dhammacakkappavattana), DN 16 (Mahāparinibbāna), Khp 9 / Snp 1.8 (Mettā Sutta)",
+      "traditionLineage": "Phật giáo Nguyên thủy Theravāda chính thống — Thứ Đệ Thuyết Pháp (Anupubbikathā) & Chánh Tri Kiến (Sammādiṭṭhi)",
+      "traditionLineageEn": "Authentic Theravāda Early Buddhism — Gradual Discourse (Anupubbikathā) & Right View (Sammādiṭṭhi)",
+      "targetAudience": "Người mới tìm hiểu đạo Phật, Phật tử muốn thanh lọc nhận thức khỏi mê tín dị đoan và người bận rộn muốn thiết lập nếp sống tỉnh thức bình an mỗi ngày.",
+      "curriculumPath": "assets/data/curriculums/dhamma_foundations/curriculum.json",
+      "sha256": "40591bf4cb20135559a631fe320ee5d7aaf9c12e5fd67f37b1ff9cd7ed50deab"
     },
     {
       "id": "ghihattha_layman",
@@ -47,7 +92,6 @@
       "traditionLineage": "Cư Sĩ Giới Pháp Theravāda & Đạo Đức Xã Hội Học Phật Giáo",
       "traditionLineageEn": "Theravāda Lay Discipleship & Buddhist Social Ethics",
       "targetAudience": "Người cư sĩ sống giữa đời bận rộn muốn làm chủ công nghệ, làm giàu Chánh mạng và kiến tạo hạnh phúc vững chắc cho gia đình.",
-      "targetAudienceEn": "Lay practitioners navigating modern life, seeking digital mindfulness, righteous prosperity, and harmonious relationships.",
       "curriculumPath": "assets/data/curriculums/ghihattha_layman/curriculum.json",
       "sha256": "6c7af8f1af6a35bc85426fa876a9cfb443dd193bbf2f0ff0063c1c243f3e4497"
     },
@@ -71,7 +115,6 @@
       "traditionLineage": "Phật giáo Nguyên thủy Theravāda chính thống — Giới học (Sīlasikkhā) & Chánh tri kiến Nhân quả",
       "traditionLineageEn": "Authentic Theravāda Early Buddhism — Moral Training (Sīlasikkhā) & Karmic Right View",
       "targetAudience": "Hành giả tại gia muốn giữ gìn nhân cách, bảo vệ sự an lạc của gia đình và tích lũy thiện nghiệp để bảo toàn thân người.",
-      "targetAudienceEn": "Lay practitioners seeking to protect moral integrity, cultivate family harmony, and preserve future human rebirth.",
       "curriculumPath": "assets/data/curriculums/pancasila_human/curriculum.json",
       "sha256": "4b978476bbec466fde902e899645bb7fdbf4ea1d42058750e0447933c6671279"
     },
@@ -95,7 +138,6 @@
       "traditionLineage": "Phật giáo Nguyên thủy Theravāda — Tuệ quán Duyên Khởi (Paccaya-pariggaha-ñāṇa) & Chánh Kiến Nghiệp Báo (Kammassakatā Sammādiṭṭhi)",
       "traditionLineageEn": "Authentic Theravāda Early Buddhism — Insight into Conditional Relations & Right View of Karmic Ownership",
       "targetAudience": "Hành giả muốn thấu suốt quy luật nhân quả khoa học của Phật giáo, vượt qua khủng hoảng niềm tin, đoạn trừ tà kiến định mệnh và xây dựng nền tảng giải thoát vững chắc.",
-      "targetAudienceEn": "Seekers desiring deep scientific understanding of Buddhist causality, overcoming fatalism and superstitious anxiety, and establishing unshakable liberating insight.",
       "curriculumPath": "assets/data/curriculums/paticcasamuppada_dhamma/curriculum.json",
       "sha256": "9b40d6ca7b29b0f10c498c83673b46d30dfddb12b92e8307d54d3ab9e18cf94f"
     },
@@ -119,7 +161,6 @@
       "traditionLineage": "Phật giáo Nguyên thủy Theravāda chính thống — Thiền Tuệ Minh Sát Quán (Vipassanā) bám sát Kinh Đại Niệm Xứ & Nhập Tức Xuất Tức Niệm",
       "traditionLineageEn": "Authentic Theravāda Early Buddhism — Insight Meditation (Satipaṭṭhāna Vipassanā) anchored in Mahāsatipaṭṭhāna Sutta & Ānāpānasati Sutta",
       "targetAudience": "Hành giả mong muốn thiết lập sự chánh niệm tỉnh giác vững chắc trong thân tâm, đoạn trừ tham ưu, làm chủ cảm xúc và tiến bước trên lộ trình giác ngộ giải thoát.",
-      "targetAudienceEn": "Seekers cultivating steadfast mindfulness, overcoming grief and emotional reactivity, mastering the mind, and walking the direct path to liberation.",
       "curriculumPath": "assets/data/curriculums/satipatthana_vipassana/curriculum.json",
       "sha256": "517c91ca663776b94381fe0dff47cceeb12e2f19a3337deac59df5eb5756adaa"
     },
@@ -143,7 +184,6 @@
       "traditionLineage": "Phật giáo Nguyên thủy Theravāda chính thống:\n• Thứ Đệ Thuyết Pháp (Anupubbikathā)\n• Pháp Hành Tứ Niệm Xứ (Satipaṭṭhāna Vipassanā)\n• 37 Phẩm Trợ Đạo (Bodhipakkhiyadhamma)\n• Mục Tiêu Tối Thượng: Đoạn trừ 3 Hạ phần kiết sử (Thân kiến, Hoài nghi, Giới cấm thủ)",
       "traditionLineageEn": "Authentic Theravāda Early Buddhism:\n• Gradual Discourse (Anupubbikathā)\n• Four Foundations of Mindfulness (Satipaṭṭhāna Vipassanā)\n• 37 Aids to Awakening (Bodhipakkhiyadhamma)\n• Supreme Goal: Severing the 3 Lower Fetters (Sakkāya-diṭṭhi, Vicikicchā, Sīlabbata-parāmāsa)",
       "targetAudience": "• Người học Phật muốn trang bị Chánh tri kiến vững chắc, thoát khỏi mê tín dị đoan.\n• Hành giả muốn tự mình khảo nghiệm, chứng ngộ Chánh Pháp theo tinh thần Kālāma.\n• Người phát nguyện đoạn trừ 3 kiết sử và bước vào dòng Thánh Nhập Lưu bất thối chuyển.",
-      "targetAudienceEn": "• Practitioners seeking steadfast Right View and freedom from superstition.\n• Seekers wishing to verify and realize the Dhamma empirically per Kālāma.\n• Aspirants resolving to sever 3 lower fetters and attain irreversible Stream-Entry.",
       "curriculumPath": "assets/data/curriculums/sotapatti_magga/curriculum.json",
       "sha256": "516ec8266ada5c7f7fc10679e899537014a02d242fdda3fb0db97ce62529f13a"
     }

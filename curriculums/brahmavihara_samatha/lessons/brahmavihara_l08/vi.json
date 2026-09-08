@@ -1,0 +1,58 @@
+{
+  "lessonId": "brahmavihara_l08",
+  "curriculumId": "brahmavihara_samatha",
+  "lessonNumber": 8,
+  "stageIndex": 4,
+  "title": "Bài 8: Rải Tâm Khắp Mười Phương — An Trú Cùng Phạm Thiên",
+  "paliTitle": "Tevijja Sutta (DN 13)",
+  "suttaRef": {
+    "uid": "dn13",
+    "title": "Kinh Ba Minh (Tevijjasutta — DN 13)",
+    "excerptPali": "Seyyathāpi, vāseṭṭha, balavā saṅkhadhamo appassēneva catuddisā viññāpeyya; evameva kho, vāseṭṭha, evaṃ bhāvitāya mettāya cetovimuttiyā... yaṃ pamāṇakataṃ kammaṃ, na taṃ tatrāvasissati, na taṃ tatrāvatiṭṭhati. Ayampi kho, vāseṭṭha, brahmānaṃ sahabyatāya maggo.",
+    "excerptTranslation": "Ví như, này Vāseṭṭha, một người thổi tù và có sức mạnh có thể làm cho tiếng tù và vang rền khắp bốn phương không chút khó khăn; cũng vậy, này Vāseṭṭha, do tu tập tâm từ giải thoát như vậy... bất cứ nghiệp nào có hạn lượng đều không thể tồn tại, không thể đọng lại ở nơi ấy. Đây chính là con đường đưa đến sự cộng trú cùng chư Phạm Thiên!"
+  },
+  "pariyatti": {
+    "shortSummary": "Kinh Ba Minh (DN 13) giải đáp câu hỏi lớn của giới Bà-la-môn về con đường kết nối với Đấng Phạm Thiên (Brahmā). Đức Phật chỉ rõ: Phạm Thiên không thích lễ tế trâu bò hay tắm sông Hằng; Phạm Thiên chỉ đồng thanh tương ứng với những ai có bốn đức tính: Không sân hận, Không hận thù, Trong sạch, và Rải Tứ Vô Lượng Tâm khắp mười phương vũ trụ.",
+    "coreConcepts": [
+      {
+        "term": "Người Thổi Tù Và",
+        "pali": "Saṅkhadhama",
+        "definition": "Hình ảnh ẩn dụ về âm vang dõng dạc của tâm từ xua tan mọi chướng ngại u tối trong không gian."
+      },
+      {
+        "term": "Nghiệp Hạn Lượng Bị Xóa Nhòa",
+        "pali": "Pamāṇakataṃ Kammaṃ",
+        "definition": "Năng lượng vô biên của Tứ Vô Lượng Tâm áp đảo và làm lu mờ các nghiệp bất thiện hữu hạn nhỏ hẹp trong quá khứ."
+      },
+      {
+        "term": "Mười Phương Vũ Trụ",
+        "pali": "Dasadisā",
+        "definition": "Đông, Tây, Nam, Bắc, 4 hướng phụ, Phía Trên và Phía Dưới."
+      }
+    ],
+    "expositionMarkdown": "### 1. Nắm Muối Hòa Vào Dòng Sông Hằng (AN 3.99)\n\nĐức Phật đưa ra một ví dụ tuyệt trần về sức mạnh giải trừ nghiệp của tâm vô lượng:\n- Nếu bạn ném một nắm muối vào một **chén nước nhỏ** ➔ Chén nước lập tức trở nên mặn chát, không thể uống được (tâm hạn hẹp, ích kỷ thì nghiệp ác nhỏ cũng làm đau khổ quằn quại).\n- Nhưng nếu bạn ném nắm muối ấy vào **dòng sông Hằng bao la** ➔ Dòng nước sông Hằng vẫn ngọt ngào, mát lành thanh khiết, nắm muối kia hoàn toàn bị hòa tan không để lại dấu vết!\n\nKhi bạn rèn luyện tâm Từ, Bi, Hỷ, Xả biến mãn mười phương, tâm bạn chính là dòng sông Hằng vô tận. Những va chạm nhỏ nhặt, những lời đâm thọc thế gian không thể làm vẩn đục được đại dương an lạc của bạn!\n\n### 2. Nghi Thức Rải Tâm Mười Phương Hàng Ngày\n- **Hướng Đông:** Rải tình thương đến muôn loài ở phương Đông.\n- **Hướng Tây, Nam, Bắc:** Rải tình thương bao bọc ba phương còn lại.\n- **Hướng Trên & Hướng Dưới:** Từ đỉnh trời đến tận đáy địa ngục sâu thẳm, không một chúng sinh nào bị bỏ rơi ngoài vùng phủ sóng của tâm từ bi.\n**Ngay trong giây phút đó, bạn đang sống như một vị Phạm Thiên giáng thế giữa cõi trần!**",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng rải tâm từ mười phương chỉ là tưởng tượng mơ hồ, không có tác dụng thực tế.",
+        "correction": "Khoa học thần kinh hiện đại (nghiên cứu não bộ thiền sinh của ĐH Harvard) chứng minh thiền từ bi kích hoạt mạnh mẽ thùy trán, thay đổi cấu trúc não bộ và tạo ra từ trường sinh học lan tỏa thực thụ."
+      },
+      {
+        "mistake": "Cho rằng đắc Tứ Vô Lượng Tâm là đã giải thoát hoàn toàn khỏi luân hồi.",
+        "correction": "Tứ Vô Lượng Tâm đưa đến cõi Phạm Thiên (vẫn còn trong luân hồi). Để giải thoát rốt ráo, hành giả phải dùng định lực của Tứ Vô Lượng Tâm làm bàn đạp để quán chiếu Tam Tướng (Vô thường, Khổ, Vô ngã) chứng ngộ Niết-bàn."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Tọa thiền rải tâm 10 phương (15-20 phút):**  \n   - Hướng tâm phía trước: 'Nguyện cho muôn loài phía trước an lành'.  \n   - Hướng tâm phía sau, phải, trái, trên, dưới: 'Nguyện cho tất cả đều thoát khỏi oán hận, đau thương'.  \n   - Bao trùm toàn cầu: Cảm nhận trái đất tắm mình trong ánh sáng từ bi của bạn.\n2. Giữ tâm thái Phạm Thiên này trong suốt ngày dài làm việc.",
+    "recommendedRoutineId": "r_metta_chanting",
+    "suggestedVirtue": "Tâm lượng bao la như hư không, dung chứa muôn loài không phân biệt."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Khi rải tâm từ khắp mười phương, bạn có cảm nhận được hàng rào của bản ngã 'tôi và người khác' hoàn toàn tan biến trong đại dương tình thương?",
+    "selfAuditChecklist": [
+      "Tôi đã thực hành thiền rải tâm mười phương trọn vẹn thời khóa.",
+      "Tôi không loại trừ bất kỳ ai, kể cả kẻ nghịch ý, ra khỏi lời chúc an lành.",
+      "Tâm tôi nếm trải sự nhẹ nhõm vô biên, rũ sạch mọi phiền não thế tục."
+    ]
+  }
+}

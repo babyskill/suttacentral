@@ -1,0 +1,58 @@
+{
+  "lessonId": "brahmavihara_l06",
+  "curriculumId": "brahmavihara_samatha",
+  "lessonNumber": 6,
+  "stageIndex": 3,
+  "title": "Lesson 6: Sympathetic Rejoicing — The Golden Bridge to Merit",
+  "paliTitle": "Cundī Sutta (AN 5.32)",
+  "suttaRef": {
+    "uid": "an5.32",
+    "title": "Princess Cundī (Cundīsutta — AN 5.32)",
+    "excerptPali": "Aggato ve pasannānaṃ, aggaṃ dhammaṃ vijānataṃ... Agge datvā ca modanti, aggaṃ puññaṃ pavaḍḍhati... Dānapati dāyako hiteyyuttiko modamāno saddho puññassa bhāgī hoti.",
+    "excerptTranslation": "For those with confident faith in the supreme, discerning the supreme Dhamma... giving to the supreme and rejoicing in the supreme, supreme merit flourishes... The generous donor and the one who joyfully rejoices (*modamāno*), endowed with clear faith, both share in that noble merit!"
+  },
+  "pariyatti": {
+    "shortSummary": "In the Dhamma treasury, Sympathetic Rejoicing (*Pattānumodanā*) is compared to kindling flames: One candle lighting a hundred others diminishes nothing of its own light; the entire room becomes radiant. The practitioner who rejoices in good is a master of infinite spiritual wealth.",
+    "coreConcepts": [
+      {
+        "term": "Rejoicing in Merit",
+        "pali": "Pattānumodanā",
+        "definition": "Wholeheartedly celebrating and partaking in the wholesome virtuous deeds performed by others."
+      },
+      {
+        "term": "Wholesome Karmic Resonance",
+        "pali": "Puññānubhāva",
+        "definition": "Spiritual resonance: vibrating on the frequency of goodness immediately yields equivalent merit."
+      },
+      {
+        "term": "Sadhu! Well Said!",
+        "pali": "Sādhu",
+        "definition": "Sacred exclamation expressing enthusiastic approval and reverence for goodness and the Dhamma."
+      }
+    ],
+    "expositionMarkdown": "### 1. The Perfume Shop Simile\nEnter a fragrant perfume bazaar: Even if penniless, breathing in and appreciating the aroma swathes your garments in sweet scent as you leave.\n\nLikewise, when a philanthropist builds a hospital, a penniless onlooker who rejoices with immaculate joy: 'Sadhu! How noble! This will heal thousands!', harvests spiritual merit on par with the billionaire!\n\n### 2. Three Conditions for Perfect Rejoicing\n- Devoid of competitive pride ('If I had that cash, I would do better').\n- Focused purely on the relief and welfare of beings.\n- Verbalized vocal appreciation: Uttering 'Sādhu' to amplify goodness across society.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Regarding rejoicing as lazy freeloading on others' hard work.",
+        "correction": "Pure Muditā demands exceptional selflessness. For unawakened minds, rejoicing without envy requires sublime mental cultivation."
+      },
+      {
+        "mistake": "Rejoicing in unwholesome deeds (schadenfreude over an enemy's ruin).",
+        "correction": "Malicious rejoicing binds one to identical hellish karma as the perpetrator."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Vocalize 'Sadhu' or write a commendation the moment you hear of a noble deed (animal rescue, humanitarian charity, patient caregiving).\n2. Affirm: 'Their virtue enriches this earth, and I share in its pristine beauty.'",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Generous celebration and amplification of every seed of virtue on earth."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Did you touch the inexhaustible wealth of consciousness when claiming all human goodness as your personal delight?",
+    "selfAuditChecklist": [
+      "I celebrated others' virtuous deeds with unreserved sincerity.",
+      "I verbalized words of praise encouraging a good deed.",
+      "My heart harbored zero competitive rivalry or credit-claiming."
+    ]
+  }
+}

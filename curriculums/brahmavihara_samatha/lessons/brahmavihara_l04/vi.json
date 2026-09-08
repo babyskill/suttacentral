@@ -1,0 +1,58 @@
+{
+  "lessonId": "brahmavihara_l04",
+  "curriculumId": "brahmavihara_samatha",
+  "lessonNumber": 4,
+  "stageIndex": 2,
+  "title": "Bài 4: Năm Phương Pháp Diệt Trừ Hận Thù",
+  "paliTitle": "Aghātapaṭivinaya Sutta (AN 5.161)",
+  "suttaRef": {
+    "uid": "an5.161",
+    "title": "Kinh Diệt Trừ Hận Thù (Aghātapaṭivinayasutta — AN 5.161)",
+    "excerptPali": "Pañcime, āvuso, aghātapaṭivinayā yattha bhikkhuno uppanno aghāto sabbaso paṭivinetabbo... Yasmiṃ puggale aghāto jāyetha, tasmiṃ puggale mettā bhāvetabbā... karuṇā bhāvetabbā... upekkhā bhāvetabbā... asatimanisikāro āpajjitabbo... 'kammassako ayamāyasmā'ti kammaṃ tassāyasmato kammaṃ adhiṭṭhātabbaṃ.",
+    "excerptTranslation": "Có năm phương pháp diệt trừ hận thù này, này chư Hiền, nhờ đó một Tỳ-kheo khi có hiềm hận khởi lên có thể dập tắt hoàn toàn... Với người nào hiềm hận khởi lên: 1. Hãy tu tập tâm từ đối với người ấy; 2. Hãy tu tập tâm bi đối với người ấy; 3. Hãy tu tập tâm xả đối với người ấy; 4. Không chú ý, không nghĩ đến người ấy; 5. Hoặc quán chiếu: 'Vị này là chủ nhân của nghiệp mình, kẻ thừa tự nghiệp mình... dù làm thiện hay ác, vị ấy sẽ thừa tự nghiệp ấy'."
+  },
+  "pariyatti": {
+    "shortSummary": "Tôn giả Xá-lợi-phất (Sāriputta) — bậc Tướng quân Chánh Pháp — đã đúc kết 5 phác đồ trị liệu tâm lý hoàn hảo để giải phóng tâm trí khỏi sự gặm nhấm của lòng hận thù. Giữ hận thù trong lòng như tự cầm than hồng ném người khác, người bị bỏng trước tiên chính là mình.",
+    "coreConcepts": [
+      {
+        "term": "Diệt Trừ Hận Thù",
+        "pali": "Aghātapaṭivinaya",
+        "definition": "Kỹ thuật giải tỏa, tháo ngòi nổ và dập tắt hoàn toàn năng lượng oán giận đối với đối tượng gây hấn."
+      },
+      {
+        "term": "Không Tác Ý Đến",
+        "pali": "Asatimanisikāra",
+        "definition": "Phương pháp cách ly tâm lý: chủ động chuyển hướng chú ý sang đối tượng khác, không cấp nhiên liệu suy nghĩ cho kẻ thù."
+      },
+      {
+        "term": "Quán Chiếu Nghiệp Báo",
+        "pali": "Kammassakatā",
+        "definition": "Hiểu rõ luật nhân quả: hành vi độc ác của họ sẽ tự trừng phạt họ bằng quả báo đau khổ mai sau; không cần ta phải báo thù."
+      }
+    ],
+    "expositionMarkdown": "### 1. Ẩn Dụ Người Đi Qua Đầm Lầy (AN 5.162)\n\nTrong bài kinh kế tiếp (AN 5.162), Tôn giả Sāriputta đưa ra những hình ảnh xúc động về cách nhìn nhận người xấu:\n- **Người có lời nói xấu nhưng có hành vi tốt:** Giống như một tu sĩ đi qua đầm lầy thấy một mảnh giẻ rách dính bùn; vị ấy lấy chân dẫm giữ lại, dùng tay xé phần vải sạch mang đi. Đừng vì lời nói vụng mà phủ nhận lòng tốt của họ!\n- **Người có hành vi xấu nhưng có lời nói nhu hòa:** Giống như hồ nước bị bèo phủ kín; người khát nước lấy tay gạt bèo ra và uống dòng nước mát trong lành bên dưới.\n- **Người thân, khẩu, ý đều xấu xa:** Giống như một kẻ bệnh tật trầm kha, kiệt sức, bò giữa sa mạc không nơi nương tựa. Một người có trí tuệ nhìn thấy kẻ đó sẽ không khởi tâm thù hận, mà chỉ khởi lên **Lòng Thương Xót Tột Cùng (*Karuṇā*)** vì biết chắc chắn kẻ ấy đang lao đầu vào ngọn lửa địa ngục!\n\n### 2. Thao Tác 5 Bước Tự Chữa Lành Oán Kết\n1. Nếu có thể thương được ➔ Rải tâm Từ.\n2. Nếu khó thương ➔ Hãy thương xót sự dại dột đáng thương của họ (Tâm Bi).\n3. Nếu tâm vẫn còn cấn cá ➔ Buông xả, giữ khoảng cách quân bình (Tâm Xả).\n4. Nếu nghĩ đến họ làm ta đau ➔ Kiên quyết không nghĩ, block, xóa bỏ khỏi tâm trí (Không tác ý).\n5. Nếu vẫn còn ấm ức ➔ Trả lại cho Luật Nhân Quả: 'Họ gieo gió ắt gặt bão; việc của ta là bảo vệ sự trong sạch của tâm mình!'.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Cho rằng tha thứ là đồng ý với hành vi sai trái của đối phương.",
+        "correction": "Tha thứ không có nghĩa là chấp nhận hành vi xấu. Tha thứ là tháo chiếc còng số 8 đang trói chặt tâm hồn bạn vào vết thương quá khứ."
+      },
+      {
+        "mistake": "Nghĩ rằng phải đợi đối phương đến xin lỗi thì mình mới tha thứ.",
+        "correction": "Nếu đợi kẻ xấu xin lỗi, bạn đang trao quyền sinh sát tâm trạng của mình vào tay kẻ đó. Tha thứ là quyết định đơn phương vì sự tự do của chính bạn."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. Viết tên người làm bạn tổn thương nhất ra một tờ giấy.\n2. Đọc to 5 phương pháp của Tôn giả Sāriputta và chọn phương pháp phù hợp nhất (thương hại sự si mê của họ hoặc giao họ lại cho quy luật nghiệp báo).\n3. Đốt hoặc xé tờ giấy đó, thả lỏng toàn thân và thở phào nhẹ nhõm.",
+    "recommendedRoutineId": "r_evening_reflection",
+    "suggestedVirtue": "Sự phóng khoáng, độ lượng, cởi trói cho chính mình khỏi ngục tù hận thù."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn có cảm nhận được gánh nặng đè nặng trên ngực rơi xuống khi bạn dứt khoát buông bỏ ý muốn trả thù một người?",
+    "selfAuditChecklist": [
+      "Tôi đã ngừng nhai lại những kỷ niệm cay đắng về người làm tổn thương tôi.",
+      "Tôi hiểu rằng nghiệp báo sẽ vận hành công bằng mà không cần tôi can thiệp.",
+      "Tâm tôi thanh thản, tự do và không còn bị ám ảnh bởi hận thù."
+    ]
+  }
+}

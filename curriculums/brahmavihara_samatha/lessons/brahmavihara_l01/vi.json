@@ -1,0 +1,58 @@
+{
+  "lessonId": "brahmavihara_l01",
+  "curriculumId": "brahmavihara_samatha",
+  "lessonNumber": 1,
+  "stageIndex": 1,
+  "title": "Bài 1: Tình Mẹ Thương Con — Kinh Từ Bi Bất Hủ",
+  "paliTitle": "Karanīyamettā Sutta (Snp 1.8)",
+  "suttaRef": {
+    "uid": "snp1.8",
+    "title": "Kinh Từ Bi (Karanīyamettāsutta — Snp 1.8)",
+    "excerptPali": "Mātā yathā niyaṃ puttaṃ āyusā ekaputtamanurakkhe, evampi sabbabhūtesu mānasaṃ bhāvaye aparimāṇaṃ. Mettañca sabbalokasmiṃ mānasaṃ bhāvaye aparimāṇaṃ, uddhaṃ adho ca tiriyañca asambādhaṃ averamasapattaṃ.",
+    "excerptTranslation": "Như người mẹ bảo vệ đứa con độc nhất của mình bằng cả tính mạng, cũng vậy, đối với tất cả chúng sinh, hãy mở rộng tâm lượng vô biên. Hãy mở rộng tâm từ vô lượng đối với toàn thể thế giới, phía trên, phía dưới và cùng khắp, không chật hẹp, không hận thù, không thù địch."
+  },
+  "pariyatti": {
+    "shortSummary": "Tâm Từ (Mettā) là ước muốn chân thành mong cho tất cả chúng sinh được an lành, hạnh phúc và thoát khỏi hiểm nguy. Đức Phật dùng hình ảnh cao quý nhất của trần gian — tình mẹ thương con độc nhất — để làm thước đo cho tâm từ ái chân thực của người hành thiền.",
+    "coreConcepts": [
+      {
+        "term": "Tâm Từ",
+        "pali": "Mettā",
+        "definition": "Thiện ý chân thành, mong ước muôn loài được an vui, đối trị tận gốc rễ tâm Sân hận (Dosa)."
+      },
+      {
+        "term": "Tâm Vô Lượng",
+        "pali": "Appamaññā",
+        "definition": "Tâm thức rộng lớn không có giới hạn, không phân biệt bạn bè, kẻ thù hay người xa lạ."
+      },
+      {
+        "term": "Kẻ Thù Gần & Kẻ Thù Xa",
+        "pali": "Paccatthika",
+        "definition": "Kẻ thù xa của Tâm Từ là Sân hận (phản kháng rõ ràng); kẻ thù gần nguy hiểm hơn là Tham ái dục cảm (Pema/Rāga) giả dạng tình thương."
+      }
+    ],
+    "expositionMarkdown": "### 1. Nguồn Gốc Lịch Sử Của Kinh Từ Bi\n\nNăm trăm vị Tỳ-kheo vào một khu rừng rậm dưới chân núi Himalaya để an cư kiết hạ. Chư thiên ngụ trên các ngọn cây bị kinh động, bèn thị hiện những hình bóng ma quái ghê rợn, mùi hôi thối và âm thanh ma quái gào thét suốt đêm để xua đuổi chư Tăng. Các vị Tỳ-kheo sợ hãi, xanh xao vàng vọt, liền trở về bạch Phật xin đổi chỗ ở.\n\nĐức Phật bảo: *'Các con không cần đổi chỗ ở, mà chỉ thiếu một thứ vũ khí duy nhất để tự vệ: đó là Kinh Từ Bi (*Mettā*). Hãy mang bài kinh này trở lại khu rừng ấy!'*.\nKhi chư Tăng trở lại và rải tâm từ bao la mỗi ngày, các vị chư thiên cảm nhận được tình thương mát dịu như của mẹ hiền, liền xuống đảnh lễ và bảo hộ chư Tăng tu tập suốt mùa mưa đắc Thánh quả!\n\n### 2. Bốn Bậc Tu Tập Tâm Từ Tuần Tự\n1. **Rải tâm từ cho chính mình:** 'Nguyện cho tôi thoát khỏi khổ đau, oán hận, bệnh tật'. Không thể yêu thương ai nếu chính mình còn ngập tràn tự oán trách.\n2. **Rải cho bậc ân nhân:** Cha mẹ, thầy tổ, người đã giúp đỡ mình.\n3. **Rải cho người trung tính:** Người xa lạ trên đường, người phục vụ bàn.\n4. **Rải cho kẻ thù / người làm tổn thương mình:** Phá tan hàng rào bản ngã để tâm đạt đến sự tự do vô lượng.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nhầm lẫn giữa Tâm Từ (Mettā) và Tình Yêu Nam Nữ (Pema / Rāga).",
+        "correction": "Tình yêu thế tục luôn đòi hỏi phải được đáp lại, có tính sở hữu và bám chấp; Tâm Từ của Phật giáo hoàn toàn vô điều kiện, không vụ lợi và không đòi hỏi đối phương phải đối xử tốt lại với mình."
+      },
+      {
+        "mistake": "Cho rằng rải tâm từ cho kẻ thù là nhu nhược, hèn nhát trước cái ác.",
+        "correction": "Rải tâm từ cho kẻ thù là sự can đảm tối thượng để bẻ gãy mắt xích oán thù, không để chất độc sân hận của đối phương lây nhiễm sang tâm hồn mình."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Thời khóa 10 phút:** Ngồi yên, thả lỏng cơ mặt, đặt tay lên ngực. Hít thở êm dịu và khởi niệm:\n   - 'Nguyện cho tôi được an vui, giải thoát.'\n   - 'Nguyện cho cha mẹ, người thân của tôi được bình an, mạnh khỏe.'\n   - 'Nguyện cho tất cả chúng sinh hữu hình và vô hình đều được hạnh phúc.'\n2. Cảm nhận làn sóng ấm áp lan tỏa từ lồng ngực ra toàn bộ cơ thể.",
+    "recommendedRoutineId": "r_metta_chanting",
+    "suggestedVirtue": "Sống với nụ cười hòa ái và tâm nguyện mang lại bình an cho mọi người xung quanh."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn có cảm nhận được sự dịu dàng và ấm áp tràn ngập trong lồng ngực khi bạn thật lòng chúc phúc cho một người mà trước đây bạn từng ghét bỏ?",
+    "selfAuditChecklist": [
+      "Tôi đã thực hành phát khởi tâm từ ít nhất 10 phút hôm nay.",
+      "Tôi không khởi tâm nguyền rủa hay mong muốn kẻ thù gặp nạn.",
+      "Tôi cảm nhận được sự thư giãn sâu sắc của các cơ bắp khi tâm từ có mặt."
+    ]
+  }
+}

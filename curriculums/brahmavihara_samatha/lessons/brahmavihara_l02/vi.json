@@ -1,0 +1,58 @@
+{
+  "lessonId": "brahmavihara_l02",
+  "curriculumId": "brahmavihara_samatha",
+  "lessonNumber": 2,
+  "stageIndex": 1,
+  "title": "Bài 2: Mười Một Phước Báu Của Tâm Từ",
+  "paliTitle": "Mettā Sutta (AN 11.16)",
+  "suttaRef": {
+    "uid": "an11.16",
+    "title": "Kinh Lợi Ích Của Tâm Từ (Mettāsutta — AN 11.16)",
+    "excerptPali": "Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya... ekādasānisaṃsā pāṭikaṅkhā. Katame ekādasa? Sukhaṃ supati, sukhaṃ paṭibujjhati, na pāpakaṃ supinaṃ passati, manussānaṃ piyo hoti, amanussānaṃ piyo hoti, devatā rakkhanti, nāssa aggi vā visaṃ vā satthaṃ vā kamati, tuvaṭaṃ cittaṃ samādhiyati, mukhavaṇṇo pasīdati, asammūḷho kālaṃ karoti, uttari appaṭivijjhanto brahmalokūpago hoti.",
+    "excerptTranslation": "Này các Tỳ-kheo, do thực hành, do tu tập, do làm cho sung mãn tâm từ giải thoát... mười một phước báu này được chờ đợi. Thế nào là mười một? Ngủ an lạc, thức an lạc, không thấy ác mộng, được loài người yêu mến, được loài phi nhân yêu mến, chư thiên bảo hộ, lửa, thuốc độc hay binh khí không chạm tới thân, tâm nhanh chóng đắc định, diện mạo sáng rỡ tươi tắn, khi lâm chung không mê mờ, và nếu chưa chứng A-la-hán thì sau khi thân hoại mạng chung sẽ tái sinh vào cõi Phạm Thiên!"
+  },
+  "pariyatti": {
+    "shortSummary": "Kinh AN 11.16 là một trong những bản kinh an ủi và khích lệ tâm hồn mạnh mẽ nhất. Đức Phật bảo chứng rằng một trái tim tràn ngập tâm từ ái sẽ tự động tạo ra một 'từ trường bảo hộ sinh học và tâm linh' vô hình, che chở hành giả khỏi lo âu, mất ngủ, hiểm nạn và đưa tâm vào định tĩnh sâu sắc.",
+    "coreConcepts": [
+      {
+        "term": "Tâm Từ Giải Thoát",
+        "pali": "Mettā Cetovimutti",
+        "definition": "Trạng thái tâm giải thoát khỏi sự trói buộc của sân hận và ác ý qua thiền định tâm từ."
+      },
+      {
+        "term": "Từ Trường Bảo Hộ",
+        "pali": "Arakkhā",
+        "definition": "Năng lượng bình an cảm hóa cả các loài thú dữ, côn trùng độc hại và tạo sự an toàn tự nhiên."
+      },
+      {
+        "term": "Cõi Phạm Thiên",
+        "pali": "Brahmaloka",
+        "definition": "Cảnh giới thanh tịnh của chư thiên Sắc giới, nơi hành giả an trú sau khi thành tựu Tứ Vô Lượng Tâm."
+      }
+    ],
+    "expositionMarkdown": "### 1. Phân Tích 11 Phước Báu Dưới Góc Nhìn Y Học & Tâm Lý Học\n\n1. **Ngủ an lạc (*Sukhaṃ supati*):** Nhịp tim hạ xuống, hệ thần kinh đối giao cảm hoạt động, không bị co giật hay nghiến răng do ức chế.\n2. **Thức an lạc (*Sukhaṃ paṭibujjhati*):** Thức dậy sảng khoái, không uể oải, không sợ hãi một ngày mới.\n3. **Không ác mộng (*Na pāpakaṃ supinaṃ*):** Tiềm thức được gột rửa khỏi những hình ảnh ma quái, rơi tự do hay bị rượt đuổi.\n4. **Được người & phi nhân yêu quý:** Người có tâm từ tỏa ra năng lượng dễ chịu, trẻ con và thú nuôi tự động quấn quýt.\n5. **Chư thiên bảo hộ:** Năng lượng thiện lành cộng hưởng với các trường năng lượng cao trong vũ trụ.\n6. **Khí giới, lửa độc không xâm phạm:** Chuyện bà Mạt-lợi hay voi dữ Nalagiri phủ phục trước Phật là minh chứng lịch sử.\n7. **Tâm mau đắc định:** Vì tâm không có sân hận khuấy động, mặt nước tâm trí phẳng lặng như gương.\n8. **Diện mạo tươi tắn, sáng rỡ:** Cơ mặt thả lỏng hoàn toàn, lưu thông máu tốt, tạo nên nét mặt từ ái không loại mỹ phẩm nào sánh bằng!\n9. **Lâm chung không mê mờ:** Phút lâm chung bình thản mỉm cười, không sợ hãi hối hận.\n10. **Tái sinh Phạm thiên:** Nếu chưa đắc giải thoát tối hậu, kiếp sau sinh về cõi trời an vui trường cửu.",
+    "commonMisconceptions": [
+      {
+        "mistake": "Nghĩ rằng rải tâm từ thì sẽ trở thành 'bất tử', đi vào đám cháy hay uống thuốc độc cũng không chết.",
+        "correction": "Đức Phật nói về sự bảo hộ tự nhiên trong điều kiện thông thường của nghiệp; nghiệp cực trọng quá khứ nếu trổ quả thì các bậc A-la-hán vẫn phải đền trả thân mạng."
+      },
+      {
+        "mistake": "Rải tâm từ chỉ như một câu niệm chú hình thức mà không cần chuyển hóa cảm xúc thật bên trong.",
+        "correction": "Nếu miệng niệm từ bi mà trong lòng vẫn nghiến răng căm tức thì hoàn toàn không có phước báu. Mấu chốt là sự rung cảm thật sự nơi con tim."
+      }
+    ]
+  },
+  "patipatti": {
+    "practiceGuide": "1. **Trước giờ ngủ:** Nằm thẳng, buông lỏng từ ngón chân lên đỉnh đầu. Nhủ thầm: 'Chúc cho mọi người sống trong tòa nhà/khu phố này đều được an giấc'.\n2. **Mỗi sáng soi gương:** Mỉm cười với hình ảnh phản chiếu của chính mình và phát khởi năng lượng hòa ái trước khi bước ra đường.",
+    "recommendedRoutineId": "r_metta_chanting",
+    "suggestedVirtue": "Sự an nhiên, tin tưởng vào sự che chở mầu nhiệm của một đời sống hiền thiện."
+  },
+  "pativedha": {
+    "reflectionPrompt": "Bạn có nhận thấy chất lượng giấc ngủ và nét mặt của bạn hôm nay đã trở nên nhẹ nhàng, thư thái hơn khi bạn nuôi dưỡng tâm từ ái?",
+    "selfAuditChecklist": [
+      "Tôi đã chìm vào giấc ngủ với tâm niệm bình an không vướng bận.",
+      "Tôi thức dậy với cảm giác hân hoan, không cáu kỉnh hay uể oải.",
+      "Mọi người xung quanh phản hồi tích cực và cảm thấy thoải mái khi tiếp xúc với tôi."
+    ]
+  }
+}

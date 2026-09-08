@@ -1,0 +1,25 @@
+# SuttaCentral Buddhist Curriculums — Project Identity
+
+project_name: suttacentral
+type: open-data-curriculums
+domain: buddhist-pedagogy-tipitaka
+stack:
+  format: JSON (Draft-07 Schema)
+  tooling: Python 3 (Standard Library Only)
+  distribution: Git-native + jsDelivr CDN
+  database_source: SuttaCentral SQLite (Pāḷi, Vietnamese, English)
+
+mission:
+  vi: "Xây dựng và duy trì hệ thống giáo trình tu học Phật giáo chuẩn mực, căn cứ trên Tam Tạng Pāḷi (Tipiṭaka), phân phối qua CDN miễn phí vĩnh viễn cho các ứng dụng di động và hành giả khắp năm châu."
+  en: "Build and maintain canonical Buddhist practice curriculums anchored in the Pāḷi Tipiṭaka, distributed via permanent free CDN for mobile applications and practitioners worldwide."
+
+pedagogical_model:
+  framework: "3P — Pariyatti (Pháp Học), Patipatti (Pháp Hành), Pativedha (Pháp Thành)"
+  referencing: "Dynamic SuttaCentral UID Pointers (No hardcoded full-text sutta in curriculum JSON)"
+  linguistics: "Bilingual Parity (Vietnamese primary, English complementary, Pāḷi canonical terms)"
+
+guardrails:
+  - "Tuyệt đối không ngụy tác kinh văn hoặc đưa các thuyết mê tín, tà kiến vào giáo trình."
+  - "Tất cả bài học phải có xuất xứ kinh điển rõ ràng trong Nikāya / Khuddaka Nikāya chuẩn mực."
+  - "Bảo đảm tính toàn vẹn song ngữ giữa vi.json và en.json."
+  - "Mọi thay đổi phải vượt qua kiểm tra tính hợp lệ bằng scripts/build_manifest.py và scripts/curriculum_tool.py."

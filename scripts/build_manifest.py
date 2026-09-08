@@ -148,10 +148,16 @@ def collect_curriculums() -> tuple[list[dict], list[dict], list[str]]:
             "traditionLineage": data.get("traditionLineage"),
             "traditionLineageEn": data.get("traditionLineageEn"),
             "targetAudience": data.get("targetAudience"),
-            "targetAudienceEn": data.get("targetAudienceEn"),
             "curriculumPath": f"assets/data/curriculums/{data['id']}/curriculum.json",
             "sha256": file_sha256,
         }
+
+        # Auto-detect local thumbnail image if present
+        for t_ext in ("thumbnail.webp", "thumbnail.png", "thumbnail.jpg", "thumbnail.svg"):
+            if (folder / t_ext).exists():
+                meta["thumbnail"] = t_ext
+                break
+
         # Clean null values if not required
         meta_clean = {k: v for k, v in meta.items() if v is not None}
 
